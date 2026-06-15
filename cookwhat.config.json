@@ -1,0 +1,164 @@
+{
+  "household": {
+    "people": 4,
+    "adults": 2,
+    "kids": 2,
+    "defaultServings": 4,
+    "notes": ""
+  },
+  "schedule": {
+    "daysToPlan": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "mealsPerDay": [
+      "dinner"
+    ],
+    "weekendDays": [
+      "Sat",
+      "Sun"
+    ]
+  },
+  "preferences": {
+    "cuisines": {
+      "love": [
+        "italian",
+        "thai",
+        "mexican",
+        "mediterranean"
+      ],
+      "ok": [
+        "american",
+        "indian",
+        "chinese",
+        "japanese",
+        "french",
+        "korean"
+      ],
+      "avoid": []
+    },
+    "preferredSites": [
+      "seriouseats.com",
+      "cooking.nytimes.com",
+      "bonappetit.com",
+      "americastestkitchen.com",
+      "smittenkitchen.com",
+      "kingarthurbaking.com",
+      "thekitchn.com",
+      "epicurious.com"
+    ],
+    "avoidSites": []
+  },
+  "proteinRules": {
+    "redMeatMaxPerWeek": 1,
+    "poultryMaxPerWeek": 3,
+    "seafoodMinPerWeek": 1,
+    "vegetarianMinPerWeek": 2,
+    "noRepeatProteinTwoDaysInRow": true,
+    "classification": {
+      "red_meat": [
+        "beef",
+        "pork",
+        "lamb",
+        "veal",
+        "goat",
+        "venison",
+        "bison",
+        "sausage",
+        "bacon"
+      ],
+      "poultry": [
+        "chicken",
+        "turkey",
+        "duck"
+      ],
+      "seafood": [
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "shrimp",
+        "scallop",
+        "crab",
+        "lobster",
+        "clam",
+        "mussel",
+        "seafood"
+      ],
+      "vegetarian": [
+        "tofu",
+        "tempeh",
+        "bean",
+        "lentil",
+        "chickpea",
+        "egg",
+        "paneer",
+        "vegetable",
+        "veg",
+        "vegetarian",
+        "vegan",
+        "mushroom"
+      ]
+    }
+  },
+  "ingredients": {
+    "dislikes": [
+      "liver",
+      "organ meat",
+      "raw oyster"
+    ],
+    "allergies": [],
+    "favorites": [],
+    "pantryStaples": [
+      "salt",
+      "black pepper",
+      "olive oil",
+      "vegetable oil",
+      "water",
+      "butter",
+      "all-purpose flour",
+      "sugar",
+      "baking soda",
+      "baking powder",
+      "soy sauce"
+    ]
+  },
+  "constraints": {
+    "maxActiveMinutesWeeknight": 45,
+    "maxActiveMinutesWeekend": 120,
+    "weeknightDifficulty": "easy-to-medium",
+    "leftoversOk": true,
+    "avoidRepeatWithinDays": 21,
+    "useSeasonalProduce": true
+  },
+  "nutrition": {
+    "goals": [
+      "vegetable-forward",
+      "whole-grains-over-refined",
+      "limit-deep-fried",
+      "balanced-macros"
+    ],
+    "notes": ""
+  },
+  "shopping": {
+    "excludePantryStaples": true,
+    "aisleOrder": [
+      "produce",
+      "meat-seafood",
+      "dairy",
+      "bakery",
+      "deli",
+      "pantry",
+      "canned",
+      "spices",
+      "frozen",
+      "beverages",
+      "other"
+    ]
+  }
+}

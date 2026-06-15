@@ -1,0 +1,380 @@
+{
+  "weekOf": "2026-06-08",
+  "createdAt": "2026-06-15T12:59:38.364Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "crispy-pan-seared-salmon-with-asparagus-06c1abbe",
+      "day": "Mon",
+      "slot": "dinner",
+      "title": "Crispy Pan-Seared Salmon with Asparagus",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/crispy-pan-seared-salmon",
+      "cuisine": "american",
+      "protein": "salmon",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "",
+          "note": ""
+        },
+        {
+          "item": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pasta-e-ceci-3c429bb7",
+      "day": "Tue",
+      "slot": "dinner",
+      "title": "Pasta e Ceci",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/pasta-e-ceci",
+      "cuisine": "italian",
+      "protein": "chickpea",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chickpeas",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "ditalini pasta",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "",
+          "note": ""
+        },
+        {
+          "item": "rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomato paste",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "thai-basil-chicken-pad-krapow-gai-073b50bb",
+      "day": "Wed",
+      "slot": "dinner",
+      "title": "Thai Basil Chicken (Pad Krapow Gai)",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/thai-basil-chicken",
+      "cuisine": "thai",
+      "protein": "chicken",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "thai basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "",
+          "note": ""
+        },
+        {
+          "item": "thai chilies",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sheet-pan-chicken-fajitas-459a5126",
+      "day": "Thu",
+      "slot": "dinner",
+      "title": "Sheet-Pan Chicken Fajitas",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/chicken-fajitas",
+      "cuisine": "mexican",
+      "protein": "chicken",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chicken breast",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "bell peppers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 2,
+          "unit": "",
+          "category": "",
+          "note": ""
+        },
+        {
+          "item": "flour tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "black-bean-tacos-1d85b9b9",
+      "day": "Fri",
+      "slot": "dinner",
+      "title": "Black Bean Tacos",
+      "source": "Smitten Kitchen",
+      "sourceUrl": "https://smittenkitchen.com/black-bean-tacos",
+      "cuisine": "mexican",
+      "protein": "black bean",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "black beans",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 12,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "braised-short-ribs-c767a109",
+      "day": "Sat",
+      "slot": "dinner",
+      "title": "Braised Short Ribs",
+      "source": "Bon Appétit",
+      "sourceUrl": "https://www.bonappetit.com/recipe/braised-short-ribs",
+      "cuisine": "french",
+      "protein": "beef",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "beef short ribs",
+          "qty": 4,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red wine",
+          "qty": 1,
+          "unit": "bottle",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "beef stock",
+          "qty": 4,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 2,
+          "unit": "",
+          "category": "",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "margherita-pizza-7e8be0de",
+      "day": "Sun",
+      "slot": "dinner",
+      "title": "Margherita Pizza",
+      "source": "King Arthur Baking",
+      "sourceUrl": "https://www.kingarthurbaking.com/recipes/margherita-pizza",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pizza dough",
+          "qty": 1,
+          "unit": "lb",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "fresh mozzarella",
+          "qty": 8,
+          "unit": "oz",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "canned tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "setAt": "2026-06-15T12:59:49.982Z"
+}

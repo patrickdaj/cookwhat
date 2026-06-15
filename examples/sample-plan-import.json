@@ -1,0 +1,19 @@
+{
+  "servingsDefault": 4,
+  "meals": [
+    {"day":"Mon","title":"Crispy Pan-Seared Salmon with Asparagus","source":"Serious Eats","url":"https://www.seriouseats.com/crispy-pan-seared-salmon","cuisine":"american","protein":"salmon","active":25,"servings":4,
+     "ingredients":[{"item":"salmon fillets","qty":4,"unit":"fillet","category":"meat-seafood"},{"item":"asparagus","qty":1,"unit":"bunch","category":"produce"},{"item":"lemon","qty":1,"unit":"","category":"produce"},{"item":"olive oil","qty":2,"unit":"tbsp"},{"item":"salt","qty":1,"unit":"tsp"}]},
+    {"day":"Tue","title":"Pasta e Ceci","source":"NYT Cooking","url":"https://cooking.nytimes.com/recipes/pasta-e-ceci","cuisine":"italian","protein":"chickpea","active":35,"servings":4,
+     "ingredients":[{"item":"chickpeas","qty":2,"unit":"can","category":"canned"},{"item":"ditalini pasta","qty":8,"unit":"oz","category":"pantry"},{"item":"garlic","qty":3,"unit":"clove"},{"item":"olive oil","qty":3,"unit":"tbsp"},{"item":"rosemary","qty":1,"unit":"sprig","category":"produce"},{"item":"tomato paste","qty":2,"unit":"tbsp","category":"canned"}]},
+    {"day":"Wed","title":"Thai Basil Chicken (Pad Krapow Gai)","source":"Serious Eats","url":"https://www.seriouseats.com/thai-basil-chicken","cuisine":"thai","protein":"chicken","active":20,"servings":4,
+     "ingredients":[{"item":"ground chicken","qty":1,"unit":"lb","category":"meat-seafood"},{"item":"thai basil","qty":1,"unit":"bunch","category":"produce"},{"item":"garlic","qty":4,"unit":"clove"},{"item":"thai chilies","qty":4,"unit":"","category":"produce"},{"item":"fish sauce","qty":2,"unit":"tbsp","category":"pantry"},{"item":"jasmine rice","qty":2,"unit":"cup","category":"pantry"}]},
+    {"day":"Thu","title":"Sheet-Pan Chicken Fajitas","source":"NYT Cooking","url":"https://cooking.nytimes.com/recipes/chicken-fajitas","cuisine":"mexican","protein":"chicken","active":30,"servings":4,
+     "ingredients":[{"item":"chicken breast","qty":1.5,"unit":"lb","category":"meat-seafood"},{"item":"bell peppers","qty":3,"unit":"","category":"produce"},{"item":"onion","qty":2,"unit":""},{"item":"flour tortillas","qty":8,"unit":"","category":"bakery"},{"item":"lime","qty":2,"unit":"","category":"produce"}]},
+    {"day":"Fri","title":"Black Bean Tacos","source":"Smitten Kitchen","url":"https://smittenkitchen.com/black-bean-tacos","cuisine":"mexican","protein":"black bean","active":20,"servings":4,
+     "ingredients":[{"item":"black beans","qty":2,"unit":"can","category":"canned"},{"item":"corn tortillas","qty":12,"unit":"","category":"bakery"},{"item":"avocado","qty":2,"unit":"","category":"produce"},{"item":"lime","qty":2,"unit":"","category":"produce"},{"item":"cilantro","qty":1,"unit":"bunch","category":"produce"}]},
+    {"day":"Sat","title":"Braised Short Ribs","source":"Bon Appétit","url":"https://www.bonappetit.com/recipe/braised-short-ribs","cuisine":"french","protein":"beef","active":40,"total":210,"servings":4,
+     "ingredients":[{"item":"beef short ribs","qty":4,"unit":"lb","category":"meat-seafood"},{"item":"carrots","qty":4,"unit":"","category":"produce"},{"item":"red wine","qty":1,"unit":"bottle","category":"beverages"},{"item":"beef stock","qty":4,"unit":"cup","category":"pantry"},{"item":"onion","qty":2,"unit":""}]},
+    {"day":"Sun","title":"Margherita Pizza","source":"King Arthur Baking","url":"https://www.kingarthurbaking.com/recipes/margherita-pizza","cuisine":"italian","protein":"vegetarian","active":40,"servings":4,
+     "ingredients":[{"item":"pizza dough","qty":1,"unit":"lb","category":"bakery"},{"item":"fresh mozzarella","qty":8,"unit":"oz","category":"dairy"},{"item":"basil","qty":1,"unit":"bunch","category":"produce"},{"item":"canned tomatoes","qty":1,"unit":"can","category":"canned"}]}
+  ]
+}

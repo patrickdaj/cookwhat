@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-05-20",
+    "title": "Thai Basil Chicken (Pad Krapow Gai)",
+    "rating": 5,
+    "redo": true,
+    "cuisine": "thai",
+    "protein": "chicken",
+    "sourceUrl": "https://www.seriouseats.com/thai-basil-chicken",
+    "source": "seriouseats.com",
+    "notes": "Family favorite, fast"
+  },
+  {
+    "date": "2026-05-22",
+    "title": "Pasta e Ceci",
+    "rating": 4,
+    "redo": false,
+    "cuisine": "italian",
+    "protein": "chickpea",
+    "sourceUrl": "",
+    "source": "",
+    "notes": ""
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Braised Short Ribs",
+    "rating": 5,
+    "redo": true,
+    "cuisine": "french",
+    "protein": "beef",
+    "sourceUrl": "",
+    "source": "",
+    "notes": ""
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Some Mediocre Soup",
+    "rating": 2,
+    "redo": false,
+    "cuisine": "",
+    "protein": "",
+    "sourceUrl": "",
+    "source": "",
+    "notes": ""
+  },
+  {
+    "date": "2026-03-15",
+    "title": "Thai Basil Chicken (Pad Krapow Gai)",
+    "rating": 5,
+    "redo": false,
+    "cuisine": "thai",
+    "protein": "chicken",
+    "sourceUrl": "",
+    "source": "",
+    "notes": ""
+  }
+]

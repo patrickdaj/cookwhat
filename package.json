@@ -1,0 +1,18 @@
+{
+  "name": "cookwhat",
+  "version": "1.0.0",
+  "description": "AI-augmented weekly menu builder: balanced meal plans from reputable recipe sites, with rating history for redos and auto-generated shopping lists.",
+  "type": "module",
+  "bin": {
+    "cookwhat": "bin/cookwhat.js"
+  },
+  "scripts": {
+    "start": "node bin/cookwhat.js",
+    "test": "node test/smoke.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "private": true
+}
