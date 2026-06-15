@@ -45,12 +45,14 @@
     },
     "preferredSites": [
       "seriouseats.com",
-      "bonappetit.com",
-      "americastestkitchen.com",
       "smittenkitchen.com",
-      "kingarthurbaking.com",
       "thekitchn.com",
-      "epicurious.com"
+      "epicurious.com",
+      "thewoksoflife.com",
+      "justonecookbook.com",
+      "maangchi.com",
+      "themediterraneandish.com",
+      "isabeleats.com"
     ],
     "avoidSites": []
   },
