@@ -432,7 +432,7 @@ function cmdShopping() {
 
   if (values.notes) {
     // Plain-text output for copy-pasting into iPhone Notes.
-    console.log(renderNotesText(list));
+    console.log(renderNotesText(list, menu));
   } else if (values.print) {
     console.log(md);
   } else {

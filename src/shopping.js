@@ -136,11 +136,21 @@ function titleCase(s) {
 
 // Plain-text format for pasting into iPhone Notes.
 // Each line is a bare item so Notes' "Format → Checklist" converts them in one tap.
-export function renderNotesText(list) {
+export function renderNotesText(list, menu) {
   const lines = [];
   lines.push(`SHOPPING LIST — WEEK OF ${list.weekOf}`);
   if (list.targetServings) lines.push(`(${list.targetServings} servings)`);
   lines.push("");
+
+  if (menu?.meals?.length) {
+    lines.push("THIS WEEK'S MEALS");
+    for (const meal of menu.meals) {
+      lines.push(`${meal.day}: ${meal.title}`);
+      if (meal.sourceUrl) lines.push(`  ${meal.sourceUrl}`);
+    }
+    lines.push("");
+  }
+
   for (const section of list.sections) {
     lines.push(titleCase(section.category).toUpperCase());
     for (const item of section.items) {
