@@ -1,0 +1,478 @@
+{
+  "weekOf": "2026-06-22",
+  "generatedAt": "2026-06-15T13:37:42.250Z",
+  "targetServings": 4,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby spinach",
+          "qty": 5,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cucumber",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl",
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 18,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl",
+            "One-Pan Italian Chicken and Rice",
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
+            "Easy Korean Beef Bowls",
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "scallions",
+          "qty": 3,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl",
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shredded red cabbage",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "tomato",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lean ground beef",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "eggs",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "plain Greek yogurt",
+          "qty": 1,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "cooked white rice (day-old)",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "gochujang",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sriracha",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "fire-roasted diced tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "dried Italian seasoning",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "One-Pan Italian Chicken and Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Salmon Bowl",
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "edamame",
+          "qty": 1,
+          "unit": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "frozen peas and carrots",
+          "qty": 1,
+          "unit": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [],
+  "totalItems": 42
+}

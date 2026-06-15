@@ -1,8 +1,8 @@
 {
   "household": {
-    "people": 4,
+    "people": 2,
     "adults": 2,
-    "kids": 2,
+    "kids": 0,
     "defaultServings": 4,
     "notes": ""
   },
@@ -30,21 +30,21 @@
         "italian",
         "thai",
         "mexican",
-        "mediterranean"
+        "mediterranean",
+        "japanese",
+        "french"
       ],
       "ok": [
         "american",
         "indian",
         "chinese",
-        "japanese",
-        "french",
+        "spanish",
         "korean"
       ],
       "avoid": []
     },
     "preferredSites": [
       "seriouseats.com",
-      "cooking.nytimes.com",
       "bonappetit.com",
       "americastestkitchen.com",
       "smittenkitchen.com",
@@ -58,7 +58,8 @@
     "redMeatMaxPerWeek": 1,
     "poultryMaxPerWeek": 3,
     "seafoodMinPerWeek": 1,
-    "vegetarianMinPerWeek": 2,
+    "vegetarianMinPerWeek": 0,
+    "vegetarianMaxPerWeek": 0,
     "noRepeatProteinTwoDaysInRow": true,
     "classification": {
       "red_meat": [
@@ -69,8 +70,7 @@
         "goat",
         "venison",
         "bison",
-        "sausage",
-        "bacon"
+        "sausage"
       ],
       "poultry": [
         "chicken",
@@ -110,10 +110,15 @@
     "dislikes": [
       "liver",
       "organ meat",
-      "raw oyster"
+      "curry"
     ],
     "allergies": [],
-    "favorites": [],
+    "favorites": [
+      "chicken",
+      "shrimp",
+      "fish",
+      "bacon"
+    ],
     "pantryStaples": [
       "salt",
       "black pepper",
@@ -138,12 +143,11 @@
   },
   "nutrition": {
     "goals": [
-      "vegetable-forward",
-      "whole-grains-over-refined",
-      "limit-deep-fried",
-      "balanced-macros"
+      "good",
+      "chefy"
     ],
-    "notes": ""
+    "notes": "need to keep bean usage low",
+    "dairy": "low"
   },
   "shopping": {
     "excludePantryStaples": true,

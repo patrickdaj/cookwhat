@@ -48,6 +48,7 @@ export const DEFAULT_CONFIG = {
     poultryMaxPerWeek: 3,
     seafoodMinPerWeek: 1,
     vegetarianMinPerWeek: 2,
+    vegetarianMaxPerWeek: null, // null = no cap; set to 0 to exclude entirely
     noRepeatProteinTwoDaysInRow: true,
     // Override how a protein word maps to a category. Defaults below.
     classification: {

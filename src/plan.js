@@ -78,6 +78,8 @@ export function checkPlan(menu, cfg) {
     warnings.push(`Seafood ${counts.seafood}× is below min ${r.seafoodMinPerWeek}/week.`);
   if (counts.vegetarian < r.vegetarianMinPerWeek)
     warnings.push(`Vegetarian ${counts.vegetarian}× is below min ${r.vegetarianMinPerWeek}/week.`);
+  if (r.vegetarianMaxPerWeek != null && counts.vegetarian > r.vegetarianMaxPerWeek)
+    errors.push(`Vegetarian ${counts.vegetarian}× exceeds max ${r.vegetarianMaxPerWeek}/week.`);
   if (counts.unknown > 0)
     info.push(`${counts.unknown} meal(s) have no protein set — can't balance-check them.`);
 
