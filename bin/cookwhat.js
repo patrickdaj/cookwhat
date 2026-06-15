@@ -29,6 +29,7 @@ import { makeMeal, addMeal, checkPlan, hostOf } from "../src/plan.js";
 import {
   buildShoppingList,
   renderShoppingMarkdown,
+  renderNotesText,
   formatQty,
 } from "../src/shopping.js";
 import { queryHistory, suggestRedos } from "../src/history.js";
@@ -259,7 +260,7 @@ function cmdPlan() {
 
 // ---- rate ------------------------------------------------------------------
 
-function cmdRate() {
+async function cmdRate() {
   const { values } = flags({
     title: { type: "string" },
     rating: { type: "string" },
@@ -270,8 +271,75 @@ function cmdRate() {
     url: { type: "string" },
     source: { type: "string" },
     notes: { type: "string" },
+    week: { type: "string" },
   });
-  if (!values.title) die("Usage: cookwhat rate --title \"...\" --rating 1-5 [--redo] [--notes ...]");
+
+  // Interactive mode: no --title supplied → walk through the week's meals.
+  if (!values.title) {
+    const { createInterface } = await import("node:readline/promises");
+    const rl = createInterface({ input: process.stdin, output: process.stdout });
+
+    // Find the week to rate: explicit --week, or most recent set menu.
+    let week;
+    if (values.week) {
+      week = weekOf(values.week);
+    } else {
+      const menus = listMenus();
+      const target = menus.find((m) => m.status === "set") || menus[0];
+      if (!target) die("No menus found. Cook something first!");
+      week = target.weekOf;
+    }
+
+    const menu = loadMenu(week);
+    if (!menu || !menu.meals.length) die(`No meals in menu for week ${week}.`);
+
+    console.log(c.bold(`\nRating meals for week of ${week}\n`) + c.dim("Press Enter to skip a meal.\n"));
+
+    let logged = 0;
+    for (const meal of menu.meals) {
+      console.log(c.bold(`${meal.day}: ${meal.title}`));
+      if (meal.sourceUrl) console.log(c.dim("  " + meal.sourceUrl));
+
+      const rawRating = await rl.question("  Rating 1-5 (Enter to skip): ");
+      if (!rawRating.trim()) {
+        console.log(c.dim("  skipped\n"));
+        continue;
+      }
+      const rating = Number(rawRating.trim());
+      if (isNaN(rating) || rating < 1 || rating > 5) {
+        console.log(c.yellow("  Invalid rating — skipped.\n"));
+        continue;
+      }
+
+      const rawRedo = await rl.question("  Would you make this again? (y/n): ");
+      const redo = rawRedo.trim().toLowerCase() === "y";
+
+      const notes = await rl.question("  Notes (optional): ");
+
+      const entry = {
+        date: todayISO(),
+        title: meal.title,
+        rating,
+        redo,
+        cuisine: meal.cuisine || "",
+        protein: meal.protein || "",
+        sourceUrl: meal.sourceUrl || "",
+        source: meal.source || "",
+        notes: notes.trim(),
+      };
+      addHistoryEntry(entry);
+      console.log(
+        c.green("  Logged ") + c.dim(`${rating}★${redo ? ", redo" : ""}`) + "\n"
+      );
+      logged++;
+    }
+
+    rl.close();
+    console.log(c.green(`Done. ${logged} meal(s) rated.`));
+    return;
+  }
+
+  // Non-interactive: original flag-based path.
   const rating = values.rating != null ? Number(values.rating) : null;
   if (rating != null && (rating < 1 || rating > 5)) die("--rating must be 1-5.");
   const entry = {
@@ -345,6 +413,7 @@ function cmdShopping() {
   const { values, positionals } = flags({
     servings: { type: "string" },
     print: { type: "boolean" },
+    notes: { type: "boolean" },
     week: { type: "string" },
   });
   const week = weekOf(values.week || positionals[0]);
@@ -361,13 +430,16 @@ function cmdShopping() {
   writeJson(`${PATHS.shopping}/${week}.json`, list);
   fs.writeFileSync(`${PATHS.shopping}/${week}.md`, md + "\n");
 
-  if (values.print) {
+  if (values.notes) {
+    // Plain-text output for copy-pasting into iPhone Notes.
+    console.log(renderNotesText(list));
+  } else if (values.print) {
     console.log(md);
   } else {
     printShopping(list);
     console.log(
       c.dim(`\nSaved to data/shopping/${week}.md and ${week}.json  ` +
-        `(use --print to dump markdown)`)
+        `(use --print to dump markdown, --notes for iPhone Notes)`)
     );
   }
 }
@@ -482,13 +554,16 @@ ${c.bold("Planning a week")}  (Claude usually does these for you)
   cookwhat plan remove --week D --day Mon
 
 ${c.bold("History, ratings & redos")}
+  cookwhat rate                       Interactive: rate each meal in the current week
+  cookwhat rate [--week DATE]         Interactive: rate meals for a specific week
   cookwhat rate --title "..." --rating 5 --redo --cuisine thai --protein chicken --url ...
   cookwhat history [--cuisine x] [--protein x] [--min-rating 4] [--search x]
   cookwhat redos [--top 10]           Best-loved meals to cook again
 
 ${c.bold("Shopping")}
-  cookwhat shopping [week] [--servings N] [--print]
-                                      Consolidated list → data/shopping/
+  cookwhat shopping [week] [--servings N] [--print] [--notes]
+    --print   Markdown to stdout
+    --notes   Plain text for iPhone Notes copy-paste
 
 ${c.dim("Dates are any day in the target week; the Monday is used as the key.")}
 ${c.dim("See docs/HOW_TO_USE.md for the full AI-driven workflow.")}`);

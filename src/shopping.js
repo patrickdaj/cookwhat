@@ -133,3 +133,21 @@ export function renderShoppingMarkdown(list) {
 function titleCase(s) {
   return s.replace(/(^|[-\s])\w/g, (m) => m.toUpperCase());
 }
+
+// Plain-text format for pasting into iPhone Notes.
+// Each line is a bare item so Notes' "Format → Checklist" converts them in one tap.
+export function renderNotesText(list) {
+  const lines = [];
+  lines.push(`SHOPPING LIST — WEEK OF ${list.weekOf}`);
+  if (list.targetServings) lines.push(`(${list.targetServings} servings)`);
+  lines.push("");
+  for (const section of list.sections) {
+    lines.push(titleCase(section.category).toUpperCase());
+    for (const item of section.items) {
+      const qty = formatQty(item);
+      lines.push(qty ? `${item.item} — ${qty}` : item.item);
+    }
+    lines.push("");
+  }
+  return lines.join("\n").trimEnd();
+}
