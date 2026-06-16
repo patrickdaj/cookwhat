@@ -1,11 +1,21 @@
 {
-  "weekOf": "2026-06-22",
-  "generatedAt": "2026-06-15T23:15:31.252Z",
-  "targetServings": 4,
+  "weekOf": "2026-06-21",
+  "generatedAt": "2026-06-16T13:36:42.105Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "baby arugula",
           "qty": 2,
@@ -67,6 +77,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "cilantro",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh ginger",
           "qty": 1,
           "unit": "tsp",
@@ -110,10 +130,11 @@
         },
         {
           "item": "garlic",
-          "qty": 26,
+          "qty": 27,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
+            "Huevos Rancheros",
             "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
             "Shrimp Pad Thai",
             "One-Pot Chicken Teriyaki with Vegetables and Rice",
@@ -134,6 +155,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "lemon",
           "qty": 3,
           "unit": "",
@@ -145,12 +176,32 @@
           "hasUnquantified": false
         },
         {
+          "item": "lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "lime",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Shrimp Pad Thai"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
           ],
           "hasUnquantified": false
         },
@@ -172,6 +223,16 @@
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Huevos Rancheros"
           ],
           "hasUnquantified": false
         },
@@ -250,10 +311,11 @@
       "items": [
         {
           "item": "eggs",
-          "qty": 3,
+          "qty": 11,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
+            "Huevos Rancheros",
             "Shrimp Pad Thai"
           ],
           "hasUnquantified": false
@@ -265,6 +327,31 @@
           "category": "dairy",
           "fromMeals": [
             "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "queso fresco",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": true
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Huevos Rancheros"
           ],
           "hasUnquantified": false
         }
@@ -345,6 +432,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "neutral oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "pad thai rice noodles",
           "qty": 8,
           "unit": "oz",
@@ -379,6 +476,16 @@
     {
       "category": "canned",
       "items": [
+        {
+          "item": "black beans",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "crushed tomatoes",
           "qty": 1,
@@ -425,6 +532,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "mixed peppercorns",
           "qty": 2,
           "unit": "tbsp",
@@ -441,6 +558,16 @@
           "category": "spices",
           "fromMeals": [
             "Garlicky Shrimp Linguine"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Huevos Rancheros"
           ],
           "hasUnquantified": false
         },
@@ -494,7 +621,8 @@
     }
   ],
   "excludedStaples": [
+    "kosher salt",
     "brown sugar"
   ],
-  "totalItems": 44
+  "totalItems": 56
 }

@@ -1,6 +1,6 @@
 {
-  "weekOf": "2026-06-15",
-  "generatedAt": "2026-06-15T13:45:57.481Z",
+  "weekOf": "2026-06-14",
+  "generatedAt": "2026-06-16T13:36:42.021Z",
   "targetServings": null,
   "sections": [
     {
@@ -22,7 +22,7 @@
           "unit": "oz",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
@@ -85,7 +85,7 @@
           "fromMeals": [
             "Salmon Bowl",
             "One-Pan Italian Chicken and Rice",
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
             "Easy Korean Beef Bowls",
             "Chicken Souvlaki"
           ],
@@ -128,7 +128,7 @@
           "category": "produce",
           "fromMeals": [
             "Salmon Bowl",
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
             "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
@@ -159,7 +159,7 @@
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
@@ -204,7 +204,7 @@
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
@@ -239,7 +239,7 @@
           "unit": "",
           "category": "dairy",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
@@ -279,7 +279,7 @@
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
@@ -359,7 +359,7 @@
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Shrimp Fried Rice with Sautéed Garlic Spinach",
             "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
@@ -466,7 +466,7 @@
           "unit": "cup",
           "category": "frozen",
           "fromMeals": [
-            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+            "Shrimp Fried Rice with Sautéed Garlic Spinach"
           ],
           "hasUnquantified": false
         }

@@ -12,8 +12,9 @@ export const DEFAULT_CONFIG = {
   },
 
   schedule: {
-    // Which days to plan dinners for. Trim this if you don't cook every night.
-    daysToPlan: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    // Which days to plan dinners for. Weeks start on Sunday. Trim this if you
+    // don't cook every night.
+    daysToPlan: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
     // Meal slots per day. Add "lunch"/"breakfast" if you plan those too.
     mealsPerDay: ["dinner"],
     // Days treated as "weekend" for time/effort budgets below.

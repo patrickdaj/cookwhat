@@ -8,13 +8,13 @@
   },
   "schedule": {
     "daysToPlan": [
+      "Sun",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Sat",
-      "Sun"
+      "Sat"
     ],
     "mealsPerDay": [
       "dinner"

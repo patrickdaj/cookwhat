@@ -37,9 +37,10 @@ test("normalizeItem singularizes and strips noise", () => {
   assert.equal(normalizeItem("CLOVES of garlic"), "clove of garlic");
 });
 
-test("weekOf returns the Monday of the week", () => {
-  assert.equal(weekOf("2026-06-15"), "2026-06-15"); // a Monday
-  assert.equal(weekOf("2026-06-18"), "2026-06-15"); // Thursday -> Mon
+test("weekOf returns the Sunday of the week", () => {
+  assert.equal(weekOf("2026-06-14"), "2026-06-14"); // a Sunday
+  assert.equal(weekOf("2026-06-18"), "2026-06-14"); // Thursday -> Sun
+  assert.equal(weekOf("2026-06-21"), "2026-06-21"); // a Sunday
 });
 
 test("checkPlan flags too much red meat as an error", () => {

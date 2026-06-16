@@ -1,9 +1,135 @@
 {
-  "weekOf": "2026-06-22",
+  "weekOf": "2026-06-21",
   "createdAt": "2026-06-15T22:32:47.495Z",
   "status": "set",
   "servingsDefault": 4,
   "meals": [
+    {
+      "id": "huevos-rancheros-8d99f6d4",
+      "day": "Sun",
+      "slot": "breakfast",
+      "title": "Huevos Rancheros",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1023168-huevos-rancheros",
+      "cuisine": "mexican",
+      "protein": "egg",
+      "tags": [
+        "breakfast",
+        "weekend",
+        "vegetarian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ripe tomatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "white onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "neutral oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "black beans",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "eggs",
+          "qty": 8,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "queso fresco",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Cooking Sun 6-21. Gated NYT recipe — full text added manually."
+    },
     {
       "id": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
       "day": "Mon",

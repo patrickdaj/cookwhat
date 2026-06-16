@@ -1,5 +1,5 @@
 {
-  "weekOf": "2026-06-15",
+  "weekOf": "2026-06-14",
   "createdAt": "2026-06-15T13:21:26.196Z",
   "status": "set",
   "servingsDefault": 4,
@@ -198,7 +198,7 @@
       "id": "shrimp-fried-rice-with-saut-ed-garlic-spinach-34dbdcef",
       "day": "Wed",
       "slot": "dinner",
-      "title": "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+      "title": "Shrimp Fried Rice with Sautéed Garlic Spinach",
       "source": "The Kitchn",
       "sourceUrl": "https://www.thekitchn.com/shrimp-fried-rice-266999",
       "cuisine": "chinese",
@@ -277,7 +277,7 @@
           "note": ""
         }
       ],
-      "notes": "Cook fried rice first, then saut\u00e9 spinach with garlic in the same pan \u2014 wilts in 2 min. Cook rice Tuesday night so it's day-old."
+      "notes": "Cook fried rice first, then sauté spinach with garlic in the same pan — wilts in 2 min. Cook rice Tuesday night so it's day-old."
     },
     {
       "id": "easy-korean-beef-bowls-30e9ec8e",

@@ -63,11 +63,12 @@ function localISO(d) {
   return `${d.getFullYear()}-${m}-${da}`;
 }
 
-// Monday of the week containing `dateStr` (or today), as YYYY-MM-DD.
+// Sunday of the week containing `dateStr` (or today), as YYYY-MM-DD.
+// Weeks start on Sunday.
 export function weekOf(dateStr) {
   const s = dateStr || localISO(new Date());
   const d = new Date(s + "T00:00:00");
-  const day = (d.getDay() + 6) % 7; // 0 = Monday
+  const day = d.getDay(); // 0 = Sunday
   d.setDate(d.getDate() - day);
   return localISO(d);
 }
