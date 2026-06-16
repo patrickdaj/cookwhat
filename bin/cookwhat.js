@@ -77,6 +77,8 @@ async function main() {
     case "shopping":
     case "list": // alias
       return cmdShopping();
+    case "recipe":
+      return cmdRecipe();
     default:
       die(`Unknown command "${cmd}". Run \`cookwhat help\`.`);
   }
@@ -514,6 +516,88 @@ function printShopping(list) {
     console.log(c.dim(`Assumed on hand: ${list.excludedStaples.join(", ")}`));
 }
 
+// ---- recipe ----------------------------------------------------------------
+
+async function cmdRecipe() {
+  const action = sub || "fetch";
+
+  if (action === "fetch") {
+    const { values } = flags({
+      week: { type: "string" },
+      all: { type: "boolean", default: false },
+      force: { type: "boolean", default: false },
+      "no-ai": { type: "boolean", default: false },
+    });
+
+    const { fetchRecipe, analyzeWithAI } = await import("../src/recipe-fetch.js");
+
+    fs.mkdirSync(PATHS.recipes, { recursive: true });
+
+    let menus;
+    if (values.all) {
+      menus = listMenus().map((m) => loadMenu(m.weekOf)).filter(Boolean);
+    } else {
+      const week = weekOf(values.week);
+      const menu = loadMenu(week);
+      if (!menu) die(`No menu for week ${week}.`);
+      menus = [menu];
+    }
+
+    const meals = menus.flatMap((m) => m.meals).filter((m) => m.sourceUrl);
+    if (!meals.length) die("No meals with URLs found.");
+
+    let fetched = 0, skipped = 0, failed = 0;
+
+    for (const meal of meals) {
+      const file = `${PATHS.recipes}/${meal.id}.json`;
+      if (!values.force && fs.existsSync(file)) {
+        console.log(c.dim(`  skip  ${meal.title}`));
+        skipped++;
+        continue;
+      }
+
+      process.stdout.write(`  fetch  ${meal.title}... `);
+
+      try {
+        const recipe = await fetchRecipe(meal.sourceUrl);
+        let ai = null;
+
+        if (!values["no-ai"]) {
+          try {
+            ai = await analyzeWithAI(recipe);
+          } catch (e) {
+            process.stdout.write(c.yellow(`(AI: ${e.message}) `));
+          }
+        }
+
+        writeJson(file, {
+          mealId: meal.id,
+          fetchedAt: new Date().toISOString(),
+          ...recipe,
+          ai,
+        });
+
+        console.log(c.green("✓"));
+        fetched++;
+      } catch (e) {
+        console.log(c.red(`✗  ${e.message}`));
+        failed++;
+      }
+
+      // Polite pause between requests
+      await new Promise((r) => setTimeout(r, 900));
+    }
+
+    console.log(
+      `\n${c.green(fetched + " fetched")}  ${c.dim(skipped + " skipped")}  ` +
+        (failed ? c.red(failed + " failed") : c.dim("0 failed"))
+    );
+    return;
+  }
+
+  die(`Unknown recipe action "${action}". Use: fetch`);
+}
+
 // ---- tiny helpers ----------------------------------------------------------
 
 function getPath(obj, p) {
@@ -559,6 +643,14 @@ ${c.bold("History, ratings & redos")}
   cookwhat rate --title "..." --rating 5 --redo --cuisine thai --protein chicken --url ...
   cookwhat history [--cuisine x] [--protein x] [--min-rating 4] [--search x]
   cookwhat redos [--top 10]           Best-loved meals to cook again
+
+${c.bold("Recipes")}
+  cookwhat recipe fetch [--week DATE] [--all] [--force] [--no-ai]
+    Downloads JSON-LD from each meal's source URL, stores in data/recipes/.
+    AI extracts cliff notes + key tips (needs ANTHROPIC_API_KEY).
+    --all     Fetch all weeks, not just current
+    --force   Re-fetch even if already stored
+    --no-ai   Skip AI analysis
 
 ${c.bold("Shopping")}
   cookwhat shopping [week] [--servings N] [--print] [--notes]

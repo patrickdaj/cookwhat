@@ -1,0 +1,43 @@
+{
+  "mealId": "shrimp-pad-thai-ba8548e6",
+  "fetchedAt": "2026-06-16T04:33:30.760Z",
+  "url": "https://thewoksoflife.com/shrimp-pad-thai/",
+  "name": "Shrimp Pad Thai",
+  "description": "This shrimp pad Thai recipe is filled with shrimp, fresh vegetables, and a flavorful pad Thai sauce made with the fastest, easiest, 5-minute shrimp stock.",
+  "recipeIngredient": [
+    "8 ounces dried pad Thai noodles ((225g))",
+    "8 ounces whole shrimp ((225g, with heads on if you can get them))",
+    "4 tablespoons oil ((divided))",
+    "2/3 cup water ((160 ml))",
+    "3 tablespoons sugar",
+    "2 tablespoons tamarind paste",
+    "3 tablespoons fish sauce",
+    "white pepper ((to taste))",
+    "½ block extra firm tofu ((cut into thin rectangles))",
+    "1  medium shallot ((thinly sliced))",
+    "3 cloves garlic ((sliced))",
+    "2 tablespoons salted preserved Chinese turnip ((washed in warm water and julienned, optional))",
+    "2 cups Chinese garlic chives ((cut in inch long pieces))",
+    "3  medium eggs ((preferably at room temperature))",
+    "2 cups mung bean sprouts ((washed and drained))",
+    "2 tablespoon roasted peanuts ((crushed))",
+    "a handful of cilantro leaves ((optional))"
+  ],
+  "recipeInstructions": [
+    "Soak the pad thai noodles in warm water for about 20 minutes, and drain in a colander. If the noodles are in really long strands, you will want to cut them into 10- to 12-inch lengths, or you will end up with a huge noodle ball when cooking. And nobody wants a huge noodle ball.",
+    "Remove the heads and shells from the shrimp and collect them into a bowl. Wash and devein the shrimp and set aside.",
+    "Heat 1 tablespoon of oil in your wok over high heat until just smoking. Add the shrimp heads and shells. Stir-fry until all of the shells are bright orange, and add 2/3 cup water. When liquid comes to a boil, press the shrimp heads with your metal spatula to bring out the flavor and color. Simmer for another 5 minutes and remove from heat. Strain the shrimp stock (about ½ cup) into a bowl and discard the heads and shells. To the bowl of stock, add sugar, tamarind paste, fish sauce, and white pepper. Mix well and set aside.",
+    "Heat 1 tablespoon of oil in your wok over high heat and sear the shrimp for 1 minute. Remove the shrimp immediately after they've gone opaque and are a little golden at the edges, leaving any excess oil in the wok. Set the shrimp aside.",
+    "Set the wok to medium high heat and add another tablespoon of oil. Spread the firm tofu in the wok in one layer, and sear on both sides until slightly browned (about 1 to 2 minutes). Next, add the shallots, garlic, preserved turnip (if using), and chives. Turn up the heat to high.",
+    "Time to add the noodles! Add the noodles and stir-fry for about 30 seconds, or until all the ingredients are combined. Pour the tamarind-shrimp sauce mixture over the noodles, and stir fry for 30 seconds or so. Push the noodles to one side of the wok to make way for the eggs.",
+    "Add two tablespoons of oil to the clear area of the wok. Crack the three eggs in, using your spatula to lightly beat them in the wok (how's that for an oxymoron?). Fold the eggs gently without completely scrambling them, and when they're about 60% done, fold the noodles over the eggs.",
+    "Lastly, add the bean sprouts. Stir fry everything at high heat until the bean sprouts are just cooked (about 1 to 2 minutes, depending upon how hot your flame can get). Toss in the cooked shrimp, and serve the Shrimp Pad Thai with crushed peanuts and cilantro on top, if using."
+  ],
+  "prepTime": "40 min",
+  "cookTime": "20 min",
+  "totalTime": "60 min",
+  "recipeYield": "4 4 servings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/07/shrimp-pad-thai-11-1.jpg",
+  "author": "Bill",
+  "ai": null
+}

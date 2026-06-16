@@ -26,7 +26,9 @@ function stars(n) {
   return '★'.repeat(n) + '☆'.repeat(5 - n);
 }
 
-function buildMenuPage(menu, ratingsByTitle) {
+// ---- Menu pages ------------------------------------------------------------
+
+function buildMenuPage(menu, ratingsByTitle, recipesByMealId) {
   const out = [];
   out.push(`# Week of ${fmtDate(menu.weekOf)}\n`);
 
@@ -43,16 +45,25 @@ function buildMenuPage(menu, ratingsByTitle) {
 
   // Per-meal detail
   for (const m of menu.meals) {
+    const recipe = recipesByMealId[m.id];
     out.push(`## ${m.day} — ${m.title}\n`);
+
+    // AI cliff notes right up top if available
+    if (recipe?.ai?.cliffNotes) {
+      out.push(`*${recipe.ai.cliffNotes}*\n`);
+    }
 
     const meta = [];
     if (m.sourceUrl) meta.push(`**Source:** [${m.source || m.sourceUrl}](${m.sourceUrl})`);
+    if (recipe) meta.push(`**Recipe:** [Full recipe & instructions →](../recipes/${m.id}.md)`);
     if (m.cuisine) meta.push(`**Cuisine:** ${m.cuisine}`);
     if (m.protein) meta.push(`**Protein:** ${m.protein}`);
 
     const times = [];
-    if (m.activeTimeMin) times.push(`${m.activeTimeMin} min active`);
-    if (m.totalTimeMin) times.push(`${m.totalTimeMin} min total`);
+    if (recipe?.prepTime) times.push(`${recipe.prepTime} prep`);
+    else if (m.activeTimeMin) times.push(`${m.activeTimeMin} min active`);
+    if (recipe?.totalTime) times.push(`${recipe.totalTime} total`);
+    else if (m.totalTimeMin) times.push(`${m.totalTimeMin} min total`);
     if (times.length) meta.push(`**Time:** ${times.join(' · ')}`);
 
     if (m.tags?.length) meta.push(`**Tags:** ${m.tags.join(', ')}`);
@@ -60,6 +71,16 @@ function buildMenuPage(menu, ratingsByTitle) {
 
     if (m.notes) out.push(`> ${m.notes}\n`);
 
+    // Key tips from AI
+    if (recipe?.ai?.keyTips?.length) {
+      out.push('!!! tip "Key Tips"');
+      for (const tip of recipe.ai.keyTips) {
+        out.push(`    - ${tip}`);
+      }
+      out.push('');
+    }
+
+    // Ratings
     const key = (m.title || '').toLowerCase().trim();
     const ratings = ratingsByTitle[key];
     if (ratings?.length) {
@@ -76,6 +97,66 @@ function buildMenuPage(menu, ratingsByTitle) {
 
   return out.join('\n');
 }
+
+// ---- Recipe pages ----------------------------------------------------------
+
+function buildRecipePage(stored, meal) {
+  const out = [];
+  const title = stored.name || meal?.title || 'Recipe';
+  out.push(`# ${title}\n`);
+
+  if (stored.ai?.cliffNotes) {
+    out.push(`*${stored.ai.cliffNotes}*\n`);
+  }
+
+  // Meta bar
+  const meta = [];
+  if (stored.url) meta.push(`[Original recipe →](${stored.url})`);
+  if (meal?.day && meal?.weekOf) meta.push(`Week of ${fmtDate(meal.weekOf)}, ${meal.day}`);
+  if (stored.author) meta.push(`By ${stored.author}`);
+  if (meta.length) out.push(meta.join(' · ') + '\n');
+
+  // Times + yield
+  const times = [];
+  if (stored.prepTime) times.push(`Prep: ${stored.prepTime}`);
+  if (stored.cookTime) times.push(`Cook: ${stored.cookTime}`);
+  if (stored.totalTime) times.push(`Total: ${stored.totalTime}`);
+  if (stored.recipeYield) times.push(`Yield: ${stored.recipeYield}`);
+  if (times.length) out.push(times.join(' · ') + '\n');
+
+  // Key tips admonition
+  if (stored.ai?.keyTips?.length) {
+    out.push('!!! tip "Key Tips"');
+    for (const tip of stored.ai.keyTips) {
+      out.push(`    - ${tip}`);
+    }
+    out.push('');
+  }
+
+  // Ingredients
+  if (stored.recipeIngredient?.length) {
+    out.push('## Ingredients\n');
+    for (const ing of stored.recipeIngredient) {
+      out.push(`- [ ] ${ing}`);
+    }
+    out.push('');
+  }
+
+  // Instructions
+  if (stored.recipeInstructions?.length) {
+    out.push('## Instructions\n');
+    stored.recipeInstructions.forEach((step, i) => {
+      out.push(`${i + 1}. ${step}`);
+    });
+    out.push('');
+  }
+
+  out.push(`---\n*Fetched ${stored.fetchedAt?.slice(0, 10) || ''}*`);
+
+  return out.join('\n');
+}
+
+// ---- History page ----------------------------------------------------------
 
 function buildHistoryPage(history) {
   const out = ['# Ratings & Reviews\n'];
@@ -105,7 +186,9 @@ function buildHistoryPage(history) {
   return out.join('\n');
 }
 
-function buildIndexPage(latestMenu, shoppingWeeks) {
+// ---- Index page ------------------------------------------------------------
+
+function buildIndexPage(latestMenu, shoppingWeeks, recipesByMealId) {
   const label = fmtDate(latestMenu.weekOf);
   const out = ['# cookwhat\n'];
   out.push(`**This week: ${label}**\n`);
@@ -113,7 +196,10 @@ function buildIndexPage(latestMenu, shoppingWeeks) {
   out.push('| Day | Meal | Cuisine |');
   out.push('|-----|------|---------|');
   for (const m of latestMenu.meals) {
-    out.push(`| **${m.day}** | [${m.title}](menus/${latestMenu.weekOf}.md) | ${m.cuisine || '—'} |`);
+    const recipeLink = recipesByMealId[m.id]
+      ? ` [📖](recipes/${m.id}.md)`
+      : '';
+    out.push(`| **${m.day}** | [${m.title}](menus/${latestMenu.weekOf}.md)${recipeLink} | ${m.cuisine || '—'} |`);
   }
   out.push('');
 
@@ -125,6 +211,8 @@ function buildIndexPage(latestMenu, shoppingWeeks) {
 
   return out.join('\n');
 }
+
+// ---- mkdocs.yml ------------------------------------------------------------
 
 function buildMkdocsYml(menus, shoppingWeeks) {
   const menuEntries = menus
@@ -148,6 +236,10 @@ theme:
     - navigation.top
     - search.highlight
 
+# Recipe pages are linked from meal sections, not listed in nav
+not_in_nav: |
+  recipes/*
+
 nav:
   - Home: index.md
   - Menus:
@@ -161,14 +253,26 @@ ${shopEntries}
 `;
 }
 
+// ---- main ------------------------------------------------------------------
+
 function main() {
-  // Load ratings indexed by title
+  // Load ratings
   const histPath = join(DATA, 'history.json');
   const history = existsSync(histPath) ? readJson(histPath) : [];
   const ratingsByTitle = {};
   for (const r of history) {
     const k = (r.title || '').toLowerCase().trim();
     (ratingsByTitle[k] ??= []).push(r);
+  }
+
+  // Load stored recipes indexed by mealId
+  const recipesDir = join(DATA, 'recipes');
+  const recipesByMealId = {};
+  if (existsSync(recipesDir)) {
+    for (const f of readdirSync(recipesDir).filter(f => f.endsWith('.json'))) {
+      const r = readJson(join(recipesDir, f));
+      if (r.mealId) recipesByMealId[r.mealId] = r;
+    }
   }
 
   // Menus sorted latest-first
@@ -178,35 +282,61 @@ function main() {
     .reverse();
   const menus = menuFiles.map(f => readJson(join(DATA, 'menus', f)));
 
-  // Shopping lists (only .md)
+  // Shopping lists
   const shopFiles = readdirSync(join(DATA, 'shopping'))
     .filter(f => f.endsWith('.md'))
     .sort()
     .reverse();
   const shoppingWeeks = shopFiles.map(f => f.replace('.md', ''));
 
-  ensureDir(join(DOCS, 'menus'));
-  ensureDir(join(DOCS, 'shopping'));
-
+  // Build a lookup of mealId → { meal, weekOf } for recipe pages
+  const mealLookup = {};
   for (const menu of menus) {
-    write(join(DOCS, 'menus', `${menu.weekOf}.md`), buildMenuPage(menu, ratingsByTitle));
+    for (const meal of menu.meals) {
+      mealLookup[meal.id] = { ...meal, weekOf: menu.weekOf };
+    }
   }
 
+  ensureDir(join(DOCS, 'menus'));
+  ensureDir(join(DOCS, 'shopping'));
+  ensureDir(join(DOCS, 'recipes'));
+
+  // Menu pages
+  for (const menu of menus) {
+    write(
+      join(DOCS, 'menus', `${menu.weekOf}.md`),
+      buildMenuPage(menu, ratingsByTitle, recipesByMealId)
+    );
+  }
+
+  // Shopping lists
   for (const f of shopFiles) {
     const content = readFileSync(join(DATA, 'shopping', f), 'utf8');
     write(join(DOCS, 'shopping', f), content);
   }
 
-  write(join(DOCS, 'history.md'), buildHistoryPage(history));
-
-  if (menus.length) {
-    write(join(DOCS, 'index.md'), buildIndexPage(menus[0], shoppingWeeks));
+  // Recipe pages
+  let recipeCount = 0;
+  for (const [mealId, stored] of Object.entries(recipesByMealId)) {
+    const meal = mealLookup[mealId];
+    write(join(DOCS, 'recipes', `${mealId}.md`), buildRecipePage(stored, meal));
+    recipeCount++;
   }
 
+  // History
+  write(join(DOCS, 'history.md'), buildHistoryPage(history));
+
+  // Index
+  if (menus.length) {
+    write(join(DOCS, 'index.md'), buildIndexPage(menus[0], shoppingWeeks, recipesByMealId));
+  }
+
+  // mkdocs.yml
   write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, shoppingWeeks));
 
   console.log(
-    `Docs built: ${menus.length} menu(s), ${shoppingWeeks.length} shopping list(s), ${history.length} rating(s)`
+    `Docs built: ${menus.length} menu(s), ${shoppingWeeks.length} shopping list(s), ` +
+    `${recipeCount} recipe(s), ${history.length} rating(s)`
   );
 }
 

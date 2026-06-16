@@ -12,11 +12,12 @@ export const PATHS = {
   data: path.join(ROOT, "data"),
   menus: path.join(ROOT, "data", "menus"),
   shopping: path.join(ROOT, "data", "shopping"),
+  recipes: path.join(ROOT, "data", "recipes"),
   history: path.join(ROOT, "data", "history.json"),
 };
 
 export function ensureDirs() {
-  for (const d of [PATHS.data, PATHS.menus, PATHS.shopping]) {
+  for (const d of [PATHS.data, PATHS.menus, PATHS.shopping, PATHS.recipes]) {
     fs.mkdirSync(d, { recursive: true });
   }
 }
