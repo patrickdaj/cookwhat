@@ -1,0 +1,31 @@
+{
+  "mealId": "roasted-potatoes",
+  "fetchedAt": "2026-06-16",
+  "url": "https://www.thekitchn.com/oven-roasted-potatoes-recipe-23424442",
+  "name": "Crispy Roasted Potatoes",
+  "description": "Extra-crispy oven-roasted potatoes started on a screaming-hot preheated sheet pan.",
+  "recipeIngredient": [
+    "1 1/2 pounds baby or Yukon Gold potatoes, cut into 1 1/2- to 2-inch chunks",
+    "2 tablespoons olive oil",
+    "1 sprig fresh rosemary (or 1 teaspoon dried), leaves chopped",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Place a heavy rimmed baking sheet on a middle rack and preheat the oven to 425°F with the pan inside for at least 20 to 30 minutes.",
+    "Meanwhile, toss the potato chunks with the olive oil, chopped rosemary, salt, and pepper.",
+    "Carefully pour the potatoes onto the hot pan and spread into a single layer. Roast, shaking the pan or stirring once, until well browned and fork-tender, 25 to 30 minutes."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "40 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Kitchn",
+  "ai": {
+    "cliffNotes": "Preheating the sheet pan means the potatoes sear on contact, so they crisp instead of steam.",
+    "keyTips": [
+      "Get the pan ripping hot before the potatoes touch it — that first sizzle is what makes them crispy.",
+      "Cut the potatoes evenly and spread them in a single layer with space between, so they brown rather than steam."
+    ]
+  }
+}

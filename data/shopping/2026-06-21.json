@@ -1,11 +1,21 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-16T14:12:17.637Z",
+  "generatedAt": "2026-06-16T14:24:14.899Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "apples (Honeycrisp or Pink Lady)",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "avocado",
           "qty": 1,
@@ -32,7 +42,7 @@
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Crispy Roasted Potatoes"
           ],
           "hasUnquantified": false
         },
@@ -58,11 +68,11 @@
         },
         {
           "item": "carrots",
-          "qty": 4,
-          "unit": "",
+          "qty": 1,
+          "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Honey-Garlic Roasted Carrots"
           ],
           "hasUnquantified": false
         },
@@ -97,6 +107,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh mint",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "unit": "tbsp",
@@ -118,23 +138,43 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh rosemary",
-          "qty": 3,
+          "item": "fresh parsley",
+          "qty": 1,
           "unit": "sprig",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Roasted Pork Loin with Apples"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 4,
+          "unit": "sprig",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples",
+            "Crispy Roasted Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh sage",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
         },
         {
           "item": "fresh thyme",
-          "qty": 10,
+          "qty": 6,
           "unit": "sprig",
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre",
-            "Roasted Pork Loin with Potatoes and Carrots",
             "Fondant Potatoes"
           ],
           "hasUnquantified": false
@@ -151,8 +191,19 @@
             "One-Pot Chicken Teriyaki with Vegetables and Rice",
             "Garlicky Shrimp Linguine",
             "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
-            "Roasted Pork Loin with Potatoes and Carrots",
-            "Fondant Potatoes"
+            "Roasted Pork Loin with Apples",
+            "Fondant Potatoes",
+            "Honey-Garlic Roasted Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Granny Smith apple",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
         },
@@ -178,12 +229,13 @@
         },
         {
           "item": "lemon",
-          "qty": 3.5,
+          "qty": 4.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Garlicky Shrimp Linguine",
             "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+            "Roasted Pork Loin with Apples",
             "Haricots Verts with Butter and Shallots"
           ],
           "hasUnquantified": false
@@ -257,7 +309,7 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
         },
@@ -278,11 +330,11 @@
       "items": [
         {
           "item": "boneless pork loin roast",
-          "qty": 2.5,
+          "qty": 3.5,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
         },
@@ -415,22 +467,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "Dijon mustard",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "fish sauce",
           "qty": 3,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Shrimp Pad Thai"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey-Garlic Roasted Carrots"
           ],
           "hasUnquantified": false
         },
@@ -451,6 +503,16 @@
           "category": "pantry",
           "fromMeals": [
             "Garlicky Shrimp Linguine"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "maple syrup",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
         },
@@ -660,5 +722,5 @@
     "olive oil",
     "brown sugar"
   ],
-  "totalItems": 59
+  "totalItems": 65
 }

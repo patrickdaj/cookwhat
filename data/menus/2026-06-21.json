@@ -607,7 +607,7 @@
       "id": "roasted-pork-loin-with-potatoes-and-carrots-10a07ff3",
       "day": "Sat",
       "slot": "dinner",
-      "title": "Roasted Pork Loin with Potatoes and Carrots",
+      "title": "Roasted Pork Loin with Apples",
       "source": "The Kitchn",
       "sourceUrl": "https://www.thekitchn.com/juicy-and-tender-roasted-pork-loin-the-easiest-simplest-method-251998",
       "cuisine": "american",
@@ -623,21 +623,21 @@
       "ingredients": [
         {
           "item": "boneless pork loin roast",
-          "qty": 2.5,
+          "qty": 3.5,
           "unit": "lb",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "baby potatoes",
-          "qty": 1.5,
-          "unit": "lb",
+          "item": "apples (Honeycrisp or Pink Lady)",
+          "qty": 2,
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "carrots",
-          "qty": 4,
+          "item": "Granny Smith apple",
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
@@ -651,9 +651,16 @@
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 5,
           "unit": "clove",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "maple syrup",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
           "note": ""
         },
         {
@@ -664,16 +671,44 @@
           "note": ""
         },
         {
-          "item": "fresh thyme",
-          "qty": 4,
+          "item": "fresh sage",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
           "unit": "sprig",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "Dijon mustard",
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
           "qty": 2,
           "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 0.25,
+          "unit": "cup",
           "category": "pantry",
           "note": ""
         }
@@ -800,6 +835,116 @@
           "qty": 0.5,
           "unit": "",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "roasted-potatoes",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Roasted Potatoes",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/oven-roasted-potatoes-recipe-23424442",
+      "cuisine": "american",
+      "protein": "",
+      "tags": [
+        "side"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "roasted-carrots",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Honey-Garlic Roasted Carrots",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/roasted-carrots-262010",
+      "cuisine": "american",
+      "protein": "",
+      "tags": [
+        "side"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "carrots",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
           "note": ""
         },
         {

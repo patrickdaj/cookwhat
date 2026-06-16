@@ -1,0 +1,33 @@
+{
+  "mealId": "roasted-carrots",
+  "fetchedAt": "2026-06-16",
+  "url": "https://www.thekitchn.com/roasted-carrots-262010",
+  "name": "Honey-Garlic Roasted Carrots",
+  "description": "Carrots roasted until tender and caramelized, then tossed in a sticky honey-garlic butter.",
+  "recipeIngredient": [
+    "1 pound carrots, peeled and cut into even pieces",
+    "1 tablespoon olive oil",
+    "1 tablespoon honey",
+    "1 clove garlic, minced",
+    "1 tablespoon unsalted butter",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Heat the oven to 425°F. Toss the carrots with the olive oil, salt, and pepper and spread in a single layer on a rimmed baking sheet.",
+    "Roast 15 minutes, toss, then roast until tender and browned in spots, 15 to 20 minutes more.",
+    "Melt the butter in a small saucepan over medium heat, add the garlic and cook until fragrant, about 30 seconds, then stir in the honey. Toss the roasted carrots in the honey-garlic butter and serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "40 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Kitchn",
+  "ai": {
+    "cliffNotes": "Roast the carrots first to concentrate their sweetness, then glaze with honey-garlic butter off the heat so it stays glossy.",
+    "keyTips": [
+      "Cut the carrots evenly so they roast at the same rate; thicker pieces stay raw in the middle.",
+      "Add the honey to the garlic butter off direct high heat so it glazes rather than burns."
+    ]
+  }
+}
