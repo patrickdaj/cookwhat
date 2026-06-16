@@ -104,6 +104,19 @@ export const c = {
   cyan: wrap(36),
 };
 
+// Load .env from project root without requiring external deps.
+// Only sets keys not already present in process.env.
+export function loadDotenv() {
+  const envFile = path.join(ROOT, ".env");
+  if (!fs.existsSync(envFile)) return;
+  for (const line of fs.readFileSync(envFile, "utf8").split("\n")) {
+    const m = line.match(/^\s*([\w]+)\s*=\s*(.*)\s*$/);
+    if (!m) continue;
+    let val = m[2].trim().replace(/^["']|["']$/g, "");
+    if (!(m[1] in process.env)) process.env[m[1]] = val;
+  }
+}
+
 export function die(msg) {
   console.error(c.red("Error: ") + msg);
   process.exit(1);

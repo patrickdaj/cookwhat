@@ -1,6 +1,6 @@
 {
   "mealId": "garlicky-shrimp-linguine-75611ea8",
-  "fetchedAt": "2026-06-16T04:33:32.836Z",
+  "fetchedAt": "2026-06-16T04:37:42.773Z",
   "url": "https://www.themediterraneandish.com/shrimp-linguine/",
   "name": "Shrimp Linguine",
   "description": "This favorite pasta classic combines plump, garlicky shrimp with silky linguine. It comes together quickly and makes an impression, whether you’re serving it to your family or to dinner guests.",
@@ -32,5 +32,13 @@
   "recipeYield": "6",
   "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/03/Shrimp-Linguine-cropped-2.jpg",
   "author": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "Cook shrimp separately, then finish the pasta directly in the reduced pan sauce so it absorbs flavor while reaching proper al dente texture.",
+    "keyTips": [
+      "Cook pasta to very al dente before adding to sauce—it will finish cooking in the liquid and absorb the broth",
+      "Poach shrimp for only 2 minutes per side to keep them tender; they continue cooking slightly when added back",
+      "Save pasta water before draining and use it to adjust sauce consistency as the noodles finish cooking",
+      "Let the wine and broth reduce before adding pasta so the sauce has concentrated flavor rather than tasting watered-down"
+    ]
+  }
 }

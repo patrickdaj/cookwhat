@@ -1,6 +1,6 @@
 {
   "mealId": "shrimp-fried-rice-with-saut-ed-garlic-spinach-34dbdcef",
-  "fetchedAt": "2026-06-16T04:33:37.889Z",
+  "fetchedAt": "2026-06-16T04:38:07.249Z",
   "url": "https://www.thekitchn.com/shrimp-fried-rice-266999",
   "name": "How To Make Easy Shrimp Fried Rice That&#8217;s Even Better than Takeout",
   "description": "An easy, customizable fried rice with juicy shrimp, veggies, and scrambled eggs.",
@@ -34,5 +34,13 @@
   "recipeYield": "6",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2Farchive%2F76f4da778e055f2624f4bd4998fa024857f4bb1a",
   "author": "Christine Gallary",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Cook each component (shrimp, eggs, rice) separately before combining so everything stays distinct and properly textured rather than mushy.",
+    "keyTips": [
+      "Use chilled cooked rice to prevent clumping and mushiness when stir-frying",
+      "Pat shrimp dry and let them sear undisturbed for 2-3 minutes to develop a golden crust",
+      "Cook eggs separately in a cleared space and fold in at the end so they stay fluffy instead of scrambling into tiny pieces",
+      "Add sesame oil off heat to preserve its aromatic flavor instead of cooking it off"
+    ]
+  }
 }

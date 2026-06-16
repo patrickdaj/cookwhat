@@ -1,6 +1,6 @@
 {
   "mealId": "easy-korean-beef-bowls-30e9ec8e",
-  "fetchedAt": "2026-06-16T04:33:38.889Z",
+  "fetchedAt": "2026-06-16T04:38:10.519Z",
   "url": "https://www.thekitchn.com/korean-beef-bowl-recipe-23772102",
   "name": "Korean Beef Bowls",
   "description": "Inspired by the traditional flavors of bulgogi, this easy ground beef recipe is the perfect 20-minute dinner.",
@@ -35,5 +35,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/tk%2Fphoto%2F2026%2F02-2026%2F2026-02-korean-beef-bowls%2Fkorean-beef-bowls-271",
   "author": "Myo Quinn",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Brown ground beef quickly over high heat, coat with a balanced gochujang-soy sauce, then build bowls with rice and fresh raw vegetables for textural contrast.",
+    "keyTips": [
+      "Break beef into small pieces while cooking to maximize surface area and ensure even browning in 6 minutes",
+      "Mix sauce ingredients before adding to beef so it coats evenly rather than pooling",
+      "Use hot cooked rice and room-temperature vegetables—the temperature contrast is essential to the dish's appeal",
+      "Toast the sesame seeds and use toasted sesame oil for deeper, more complex flavor than raw alternatives"
+    ]
+  }
 }

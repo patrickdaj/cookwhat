@@ -1,6 +1,6 @@
 {
   "mealId": "chicken-souvlaki-cda4c9a2",
-  "fetchedAt": "2026-06-16T04:33:39.981Z",
+  "fetchedAt": "2026-06-16T04:38:14.103Z",
   "url": "https://www.thekitchn.com/chicken-souvlaki-recipe-23481336",
   "name": "Greek Chicken Souvlaki",
   "description": "This platter of grilled chicken skewers, fresh vegetables, and warm pita is simple yet satisfying. ",
@@ -38,5 +38,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2023-02-chicken-souvlaki%2F230104_ATKitchn_chicken-souvlaki_0287",
   "author": "Sheela Prakash",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Marinate chicken in lemon-garlic-oregano mixture, thread onto skewers with tight spacing, then grill hot and fast until charred outside and cooked through.",
+    "keyTips": [
+      "Rinse the sliced red onion under cool water to reduce its sharpness and make it palatable in the final dish",
+      "Leave 1/4-inch space between chicken pieces on skewers so they cook evenly and develop grill marks instead of steaming",
+      "Oil the grill grates right before cooking and flip only once at the 4-5 minute mark to get proper charring without drying out the chicken",
+      "Marinate for at least 30 minutes to let the lemon juice and oregano penetrate the chicken and build flavor"
+    ]
+  }
 }

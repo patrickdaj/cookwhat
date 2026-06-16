@@ -1,6 +1,6 @@
 {
   "mealId": "shrimp-pad-thai-ba8548e6",
-  "fetchedAt": "2026-06-16T04:33:30.760Z",
+  "fetchedAt": "2026-06-16T04:37:35.400Z",
   "url": "https://thewoksoflife.com/shrimp-pad-thai/",
   "name": "Shrimp Pad Thai",
   "description": "This shrimp pad Thai recipe is filled with shrimp, fresh vegetables, and a flavorful pad Thai sauce made with the fastest, easiest, 5-minute shrimp stock.",
@@ -39,5 +39,13 @@
   "recipeYield": "4 4 servings",
   "image": "https://thewoksoflife.com/wp-content/uploads/2015/07/shrimp-pad-thai-11-1.jpg",
   "author": "Bill",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Build a flavorful shrimp stock to season the noodles, then stir-fry each component separately before combining so nothing gets soggy or overcooked.",
+    "keyTips": [
+      "Make shrimp stock by simmering shells and pressing them with a spatula to extract maximum flavor and color into the sauce base",
+      "Sear shrimp just until opaque and golden (about 1 minute), then remove immediately to prevent them from overcooking when added back at the end",
+      "Soak noodles only 20 minutes and cut long strands to 10-12 inches to prevent clumping into a ball during cooking",
+      "Add bean sprouts in the final 1-2 minutes and fold in cooked shrimp just before serving to keep them crisp and tender"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "mealId": "one-pan-italian-chicken-and-rice-34a9a655",
-  "fetchedAt": "2026-06-16T04:33:36.873Z",
+  "fetchedAt": "2026-06-16T04:38:03.893Z",
   "url": "https://www.thekitchn.com/one-pan-italian-chicken-and-rice-recipe-23650537",
   "name": "One-Pan Italian Chicken and Rice",
   "description": "This one-pan dinner has it all: juicy chicken, garlic and herb tomato rice, and a 10-minute prep time.",
@@ -33,5 +33,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F03-2024-one-pan-italian-chicken-rice%2FOne-Pan-Italian-Chicken-and-Rice-9",
   "author": "Kelli Foster",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Crisp the chicken skin first, then braise it on top of toasted rice and broth in the oven so the rice absorbs flavor while the chicken finishes cooking.",
+    "keyTips": [
+      "Pat chicken completely dry before searing so the skin crisps properly rather than steaming",
+      "Toast the rice in the rendered chicken fat for 2 minutes to develop nutty flavor and prevent mushy texture",
+      "Place chicken skin-side up on the rice before baking so the skin stays crispy while the meat cooks through",
+      "Don't stir the rice once you add the liquid—this helps it cook evenly and prevents it from becoming gummy"
+    ]
+  }
 }

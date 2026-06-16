@@ -1,6 +1,6 @@
 {
   "mealId": "salmon-bowl-e70736c4",
-  "fetchedAt": "2026-06-16T04:33:35.882Z",
+  "fetchedAt": "2026-06-16T04:37:54.339Z",
   "url": "https://www.thekitchn.com/salmon-bowl-recipe-23658423",
   "name": "Salmon Bowls",
   "description": "The salmon for these easy customizable bowls cooks in less than 10 minutes.",
@@ -39,5 +39,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2024-04-salmon-bowl%2Fsalmon-bowl-692",
   "author": "Kelli Foster",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Pan-sear salmon chunks until golden, then finish with a sweet-salty glaze while building customizable rice bowls with fresh toppings and a creamy sriracha drizzle.",
+    "keyTips": [
+      "Pat salmon dry before seasoning and cook undisturbed for 2-3 minutes per side to develop golden-brown crust without breaking apart",
+      "Dissolve honey completely in the soy sauce mixture before cooking so it coats evenly and thickens properly rather than clumping",
+      "Don't overcook the salmon after adding the glaze—just 2-3 minutes of occasional spooning keeps it moist and glossy",
+      "Assemble bowls fresh with room-temperature toppings and warm rice to prevent the avocado from becoming mushy"
+    ]
+  }
 }

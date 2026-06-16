@@ -1,6 +1,6 @@
 {
   "mealId": "mediterranean-baked-fish-with-tomatoes-capers-and-couscous-e540733d",
-  "fetchedAt": "2026-06-16T04:33:33.879Z",
+  "fetchedAt": "2026-06-16T04:37:47.071Z",
   "url": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
   "name": "Mediterranean Baked Fish Recipe with Tomatoes and Capers",
   "description": "Easy Mediterranean baked fish recipe with tomatoes and capers. A bright, delicate and flavor-packed baked fish that comes together in just 35 minutes! Make your salads and sides before you make the fish.",
@@ -35,5 +35,13 @@
   "recipeYield": "6 Serves up to 6 people",
   "image": "https://www.themediterraneandish.com/wp-content/uploads/2018/05/Baked-Fish-Recipe-with-Tomatoes-and-Capers-The-Mediterranean-Dish-2-225x225.jpg",
   "author": "Suzy Karadsheh",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Build a flavorful tomato sauce with warm spices and capers, then bake delicate fish on top just long enough to cook through without drying out.",
+    "keyTips": [
+      "Simmer the tomato sauce for 15 minutes before adding fish so flavors meld and the fish cooks evenly in an already-hot sauce",
+      "Pat fish completely dry and season both sides before baking to ensure proper texture and prevent steaming",
+      "Don't oversalt the sauce early—add salt gradually since the capers and lemon juice already contribute saltiness that intensifies during cooking",
+      "Use the 15-18 minute bake time as a guideline only; check that fish flakes easily with a fork to avoid overcooking, which dries it out irreversibly"
+    ]
+  }
 }

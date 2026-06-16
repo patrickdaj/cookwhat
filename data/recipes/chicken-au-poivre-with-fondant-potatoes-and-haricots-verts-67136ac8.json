@@ -1,6 +1,6 @@
 {
   "mealId": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
-  "fetchedAt": "2026-06-16T04:33:29.588Z",
+  "fetchedAt": "2026-06-16T04:37:28.537Z",
   "url": "https://www.thekitchn.com/chicken-au-poivre-recipe-23712295",
   "name": "Chicken au Poivre",
   "description": "You’ll want the creamy peppercorn sauce on everything.",
@@ -35,5 +35,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2025-02-chicken-au-poivre%2Fchicken-au-poivre-561_7c6c1e-crop",
   "author": "Jan Valdez",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Sear chicken thighs to build fond, then finish them in a cream sauce enriched with crushed peppercorns and Cognac for depth.",
+    "keyTips": [
+      "Sear chicken thoroughly on both sides before the sauce — this creates fond and ensures browning before the liquid cooking phase",
+      "Crush peppercorns coarsely by hand rather than grinding them fine; this gives distinct pepper flavor bursts instead of a uniform heat",
+      "Let the Cognac almost fully evaporate after flaming to remove the harsh alcohol bite and concentrate flavor into the sauce",
+      "Simmer the finished dish only 6–8 minutes after returning chicken to the pan — overcooking toughens thighs and breaks down the cream"
+    ]
+  }
 }

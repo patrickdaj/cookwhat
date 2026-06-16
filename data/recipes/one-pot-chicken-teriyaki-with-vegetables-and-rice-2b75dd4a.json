@@ -1,6 +1,6 @@
 {
   "mealId": "one-pot-chicken-teriyaki-with-vegetables-and-rice-2b75dd4a",
-  "fetchedAt": "2026-06-16T04:33:31.757Z",
+  "fetchedAt": "2026-06-16T04:37:39.391Z",
   "url": "https://www.thekitchn.com/one-pot-recipe-easy-chicken-teriyaki-with-vegetables-and-rice-240523",
   "name": "Recipe: Easy One-Pot Chicken Teriyaki with Vegetables and Rice",
   "description": "Chicken? Check. Vegetables? Check. All in one pot? Check check. This teriyaki one-pan meal is kid-friendly and easy — what more do you want? ",
@@ -42,5 +42,13 @@
   "recipeYield": "4",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2Farchive%2Fb032dd06ec322d5716f38ba9c844ee1133bc817f",
   "author": "Tami Weiser",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Build a teriyaki glaze with soy, mirin, sugar, and honey, then thicken it with a cornstarch slurry after cooking the chicken so the sauce coats everything evenly.",
+    "keyTips": [
+      "Cook vegetables separately first and set aside—they finish cooking when rice is added, preventing mushiness",
+      "Brown the chicken properly before deglazing; scrape up browned bits from the pan bottom for deep flavor",
+      "Whisk cornstarch with cold broth before adding to avoid lumps, then stir constantly while bringing to a boil to thicken evenly",
+      "Add cooked rice and vegetables back together in the final 3-5 minutes so rice absorbs sauce without overcooking anything"
+    ]
+  }
 }

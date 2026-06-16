@@ -10,7 +10,10 @@ import {
   die,
   readJson,
   writeJson,
+  loadDotenv,
 } from "../src/util.js";
+
+loadDotenv();
 import {
   DEFAULT_CONFIG,
   loadConfig,

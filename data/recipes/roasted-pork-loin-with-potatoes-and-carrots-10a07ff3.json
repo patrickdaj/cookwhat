@@ -1,6 +1,6 @@
 {
   "mealId": "roasted-pork-loin-with-potatoes-and-carrots-10a07ff3",
-  "fetchedAt": "2026-06-16T04:33:34.877Z",
+  "fetchedAt": "2026-06-16T04:37:50.859Z",
   "url": "https://www.thekitchn.com/juicy-and-tender-roasted-pork-loin-the-easiest-simplest-method-251998",
   "name": "Roasted Pork Loin (Juicy &amp; Tender!)",
   "description": "This extra-tender roast is delicious (and impressive) any night of the week.",
@@ -46,5 +46,13 @@
   "recipeYield": "8",
   "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/tk%2Fphoto%2F2025%2F12-2025%2F2025-12-Roasted-Pork-Loin-Recipe%2FRoasted-Pork-Loin-Recipe-591_8bd481-cropped",
   "author": "Patty Catalano",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Sear the pork thoroughly to develop a golden crust, then roast it on a bed of apples and aromatics that become both flavor infusers and a self-made pan sauce.",
+    "keyTips": [
+      "Create a smooth garlic-salt paste by pressing and scraping repeatedly with the knife blade — this distributes seasoning evenly and helps it adhere to the meat",
+      "Sear all four sides of the pork for 4-6 minutes each until deep golden-brown; don't skip this step as it creates the flavorful crust and ensures easy release from the pan",
+      "Let the pork rest for 20 minutes after roasting before slicing — this allows juices to redistribute, keeping the meat tender and juicy when cut",
+      "Pull the green apple sauce together while the pork roasts so it's ready to serve; the bright, fresh herbs and acid balance the rich, savory meat"
+    ]
+  }
 }
