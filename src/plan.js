@@ -7,6 +7,8 @@ export function makeMeal(input, cfg) {
     id: input.id || `${slug(input.title || "meal")}-${uid()}`,
     day: input.day || "",
     slot: input.slot || "dinner",
+    // "main" drives the day's protein/balance; "side" is an accompanying dish.
+    role: (input.role || "main").toLowerCase(),
     title: input.title || "Untitled",
     source: input.source || "",
     sourceUrl: input.sourceUrl || input.url || "",
@@ -42,19 +44,34 @@ function numOrNull(v) {
 }
 
 export function addMeal(menu, meal) {
-  // Replace any existing meal for the same day+slot.
-  menu.meals = menu.meals.filter(
-    (m) => !(m.day === meal.day && m.slot === meal.slot && meal.day)
-  );
+  // A day can hold several dishes (a main + sides). Replace only the matching
+  // dish: same id, or same day+slot+title (so re-adding a dish updates it).
+  const sameDish = (m) =>
+    m.id === meal.id ||
+    (meal.day &&
+      m.day === meal.day &&
+      m.slot === meal.slot &&
+      (m.title || "").toLowerCase() === (meal.title || "").toLowerCase());
+  menu.meals = menu.meals.filter((m) => !sameDish(m));
   menu.meals.push(meal);
-  menu.meals.sort(byDaySlot);
+  menu.meals.sort(byDayRole);
   return menu;
 }
 
-// Weeks start on Sunday.
+// Weeks start on Sunday; within a day, mains come before sides.
 const DAY_ORDER = { Sun: 1, Mon: 2, Tue: 3, Wed: 4, Thu: 5, Fri: 6, Sat: 7 };
-function byDaySlot(a, b) {
-  return (DAY_ORDER[a.day] || 9) - (DAY_ORDER[b.day] || 9);
+const ROLE_ORDER = { main: 0, side: 1, dessert: 2 };
+function byDayRole(a, b) {
+  const d = (DAY_ORDER[a.day] || 9) - (DAY_ORDER[b.day] || 9);
+  if (d) return d;
+  const r = (ROLE_ORDER[a.role] ?? 1) - (ROLE_ORDER[b.role] ?? 1);
+  if (r) return r;
+  return (a.title || "").localeCompare(b.title || "");
+}
+
+// Is this dish a "main" (counts toward protein balance)?
+export function isMain(m) {
+  return (m.role || "main") !== "side";
 }
 
 // ---- Validation against config rules ---------------------------------------
@@ -64,9 +81,10 @@ export function checkPlan(menu, cfg) {
   const warnings = [];
   const info = [];
 
-  const meals = menu.meals.filter((m) => m.slot === "dinner" || true);
+  const dishes = menu.meals; // every dish (mains + sides)
+  const meals = dishes.filter(isMain); // mains drive the weekly balance
 
-  // Protein balance
+  // Protein balance (mains only — sides don't count)
   const counts = { red_meat: 0, poultry: 0, seafood: 0, vegetarian: 0, other: 0, unknown: 0 };
   for (const m of meals) counts[classifyProtein(m.protein, cfg)]++;
   const r = cfg.proteinRules;
@@ -86,7 +104,7 @@ export function checkPlan(menu, cfg) {
 
   // No same protein two days in a row
   if (r.noRepeatProteinTwoDaysInRow) {
-    const ordered = [...meals].sort(byDaySlot);
+    const ordered = [...meals].sort(byDayRole);
     for (let i = 1; i < ordered.length; i++) {
       const a = classifyProtein(ordered[i - 1].protein, cfg);
       const b = classifyProtein(ordered[i].protein, cfg);
@@ -95,12 +113,12 @@ export function checkPlan(menu, cfg) {
     }
   }
 
-  // Disliked / allergen ingredients
+  // Disliked / allergen ingredients (check every dish, including sides)
   const blocked = [
     ...cfg.ingredients.allergies.map((x) => ({ x, kind: "allergy" })),
     ...cfg.ingredients.dislikes.map((x) => ({ x, kind: "dislike" })),
   ];
-  for (const m of meals) {
+  for (const m of dishes) {
     const haystack = [m.title, ...(m.ingredients || []).map((i) => i.item)]
       .join(" ")
       .toLowerCase();
@@ -114,14 +132,14 @@ export function checkPlan(menu, cfg) {
   }
 
   // Avoided cuisines
-  for (const m of meals) {
+  for (const m of dishes) {
     if (m.cuisine && cfg.preferences.cuisines.avoid.includes(m.cuisine))
       errors.push(`"${m.title}" uses avoided cuisine: ${m.cuisine}.`);
   }
 
-  // Weeknight time budget
+  // Weeknight time budget (per dish)
   const weekend = new Set(cfg.schedule.weekendDays);
-  for (const m of meals) {
+  for (const m of dishes) {
     if (m.activeTimeMin == null) continue;
     const budget = weekend.has(m.day)
       ? cfg.constraints.maxActiveMinutesWeekend
@@ -130,8 +148,8 @@ export function checkPlan(menu, cfg) {
       warnings.push(`"${m.title}" (${m.day}) active time ${m.activeTimeMin}m > budget ${budget}m.`);
   }
 
-  // Source quality
-  for (const m of meals) {
+  // Source quality (every dish should ideally have a real recipe URL)
+  for (const m of dishes) {
     if (!m.sourceUrl) {
       warnings.push(`"${m.title}" has no source URL.`);
       continue;

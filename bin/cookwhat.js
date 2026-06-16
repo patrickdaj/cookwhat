@@ -153,6 +153,7 @@ function cmdPlan() {
       json: { type: "string" },
       day: { type: "string" },
       slot: { type: "string" },
+      role: { type: "string" },
       title: { type: "string" },
       url: { type: "string" },
       source: { type: "string" },
@@ -172,6 +173,7 @@ function cmdPlan() {
       input = {
         day: values.day,
         slot: values.slot,
+        role: values.role,
         title: values.title,
         url: values.url,
         source: values.source || (values.url ? hostOf(values.url) : ""),
@@ -207,14 +209,24 @@ function cmdPlan() {
   }
 
   if (action === "remove" || action === "rm") {
-    const { values } = flags({ week: { type: "string" }, day: { type: "string" } });
+    const { values } = flags({
+      week: { type: "string" },
+      day: { type: "string" },
+      title: { type: "string" },
+    });
     const week = weekOf(values.week);
     const menu = loadMenu(week);
     if (!menu) die(`No menu for week ${week}.`);
     const before = menu.meals.length;
-    menu.meals = menu.meals.filter((m) => m.day !== values.day);
+    const titleLc = (values.title || "").toLowerCase();
+    menu.meals = menu.meals.filter((m) => {
+      if (values.day && m.day !== values.day) return true;
+      if (titleLc && (m.title || "").toLowerCase() !== titleLc) return true;
+      return false; // matched day (and title, if given) → remove
+    });
     saveMenu(menu);
-    console.log(c.green(`Removed ${before - menu.meals.length} meal(s) `) + `on ${values.day}`);
+    const what = values.title ? `"${values.title}"` : "meal(s)";
+    console.log(c.green(`Removed ${before - menu.meals.length} ${what} `) + `on ${values.day || "all days"}`);
     return;
   }
 

@@ -55,6 +55,21 @@ test("checkPlan flags too much red meat as an error", () => {
   assert.ok(res.errors.some((e) => /red meat/i.test(e)), "expected red meat error");
 });
 
+test("side dishes do not count toward protein balance", () => {
+  const menu = {
+    weekOf: "2026-06-14",
+    meals: [
+      makeMeal({ day: "Mon", title: "Roast Chicken", protein: "chicken" }, cfg),
+      // Two beef SIDES would trip the red-meat rule if sides counted as mains.
+      makeMeal({ day: "Mon", title: "Beef-fat potatoes", protein: "beef", role: "side" }, cfg),
+      makeMeal({ day: "Tue", title: "Beef-fat greens", protein: "beef", role: "side" }, cfg),
+    ],
+  };
+  const res = checkPlan(menu, cfg);
+  assert.equal(res.counts.red_meat, 0, "sides should not count as red meat");
+  assert.ok(!res.errors.some((e) => /red meat/i.test(e)), "no red-meat error from sides");
+});
+
 test("checkPlan flags disliked ingredients", () => {
   const menu = {
     weekOf: "2026-06-15",
