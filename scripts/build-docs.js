@@ -310,10 +310,9 @@ function buildMenuPage(menu, shoppingWeeks) {
   }
   out.push('');
 
-  const links = [];
-  if (shoppingWeeks.includes(week)) links.push(`[Shopping list →](${rel}shopping/${week}.md)`);
-  links.push(`[Rate these meals →](${rel}history.md)`);
-  out.push(links.join(' · ') + '\n');
+  if (shoppingWeeks.includes(week)) {
+    out.push(`[Shopping list →](${rel}shopping/${week}.md)\n`);
+  }
 
   return out.join('\n');
 }
