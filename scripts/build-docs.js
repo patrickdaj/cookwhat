@@ -22,6 +22,25 @@ function fmtDate(iso) {
   return `${MONTHS[m - 1]} ${d}, ${y}`;
 }
 
+function localISO(d) {
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const da = String(d.getDate()).padStart(2, '0');
+  return `${d.getFullYear()}-${m}-${da}`;
+}
+
+// Sunday of the week containing `d`. Weeks start on Sunday.
+function sundayOf(d) {
+  const x = new Date(d);
+  x.setDate(x.getDate() - x.getDay());
+  return localISO(x);
+}
+
+function addDays(iso, n) {
+  const d = new Date(iso + 'T00:00:00');
+  d.setDate(d.getDate() + n);
+  return localISO(d);
+}
+
 function stars(n) {
   return '★'.repeat(n) + '☆'.repeat(5 - n);
 }
@@ -248,29 +267,45 @@ function buildHistoryPage(history) {
   return out.join('\n');
 }
 
-// ---- Index page ------------------------------------------------------------
+// ---- Index page (dashboard) ------------------------------------------------
 
-function buildIndexPage(latestMenu, shoppingWeeks, recipesByMealId) {
-  const label = fmtDate(latestMenu.weekOf);
-  const out = ['# cookwhat\n'];
-  out.push(`**This week: ${label}**\n`);
-
+// One dashboard section for a given week (this week / next week).
+function buildWeekSection(label, week, menu, shoppingWeeks, recipesByMealId) {
+  const out = [`## ${label} · ${fmtDate(week)}\n`];
+  if (!menu || !menu.meals.length) {
+    out.push('_Nothing planned yet — ask Claude to build this week\'s menu._\n');
+    out.push(`[Browse menus](menus/index.md){ .md-button }\n`);
+    return out.join('\n');
+  }
   out.push('| Day | Meal | Cuisine |');
   out.push('|-----|------|---------|');
-  for (const m of latestMenu.meals) {
-    const recipeLink = recipesByMealId[m.id]
-      ? ` [📖](recipes/${m.id}.md)`
-      : '';
-    out.push(`| **${m.day}** | [${m.title}](menus/${latestMenu.weekOf}.md)${recipeLink} | ${m.cuisine || '—'} |`);
+  for (const m of menu.meals) {
+    const recipeLink = recipesByMealId[m.id] ? ` [📖](recipes/${m.id}.md)` : '';
+    out.push(`| **${m.day}** | [${m.title}](menus/${week}.md)${recipeLink} | ${m.cuisine || '—'} |`);
   }
   out.push('');
-
-  const links = [`[Full menu →](menus/${latestMenu.weekOf}.md)`];
-  if (shoppingWeeks.includes(latestMenu.weekOf)) {
-    links.push(`[Shopping list →](shopping/${latestMenu.weekOf}.md)`);
+  const buttons = [`[View full menu](menus/${week}.md){ .md-button .md-button--primary }`];
+  if (shoppingWeeks.includes(week)) {
+    buttons.push(`[Shopping list](shopping/${week}.md){ .md-button }`);
   }
-  out.push(links.join(' · ') + '\n');
+  out.push(buttons.join(' ') + '\n');
+  return out.join('\n');
+}
 
+function buildIndexPage(ctx) {
+  const { thisWeek, nextWeek, thisWeekMenu, nextWeekMenu, shoppingWeeks, recipesByMealId } = ctx;
+  const out = ['# cookwhat\n'];
+  out.push('Your weekly meal plans, shopping lists, and recipes — all in one place.\n');
+  out.push(buildWeekSection('This week', thisWeek, thisWeekMenu, shoppingWeeks, recipesByMealId));
+  out.push(buildWeekSection('Next week', nextWeek, nextWeekMenu, shoppingWeeks, recipesByMealId));
+  out.push('---\n');
+  out.push('### Browse\n');
+  out.push(
+    '[All menus](menus/index.md){ .md-button } ' +
+    '[Shopping lists](shopping/index.md){ .md-button } ' +
+    '[Recipes](recipes/index.md){ .md-button } ' +
+    '[Ratings](history.md){ .md-button }\n'
+  );
   return out.join('\n');
 }
 
@@ -333,10 +368,24 @@ function buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle) {
 
 // ---- mkdocs.yml ------------------------------------------------------------
 
-function buildMkdocsYml() {
-  // Each section is a single landing page that lists its entries, so the
-  // sidebar stays clean as weeks accumulate. Detail pages (individual weeks
-  // and recipes) are reached by links and excluded from nav via not_in_nav.
+function buildMkdocsYml(menus, navWeeks) {
+  // navWeeks: [{ label: 'This Week', week: '2026-06-14' }, ...] — quick-access
+  // tabs that jump straight to a week's menu. Browse sections are single
+  // landing pages so the bar stays tidy as weeks accumulate.
+  const navWeekSet = new Set(navWeeks.map(n => n.week));
+  const weekTabs = navWeeks
+    .map(n => `  - ${n.label}: menus/${n.week}.md`)
+    .join('\n');
+
+  // Detail pages are reached via links, not listed in nav. Menu weeks that are
+  // promoted to a quick-access tab must NOT also be listed here (mkdocs --strict
+  // errors on overlap), so list only the remaining menu weeks explicitly.
+  const notInNav = [
+    ...menus.filter(m => !navWeekSet.has(m.weekOf)).map(m => `  menus/${m.weekOf}.md`),
+    '  shopping/2*.md',
+    '  recipes/*-*.md',
+  ].join('\n');
+
   return `site_name: cookwhat
 site_description: AI-augmented weekly menu plans and shopping lists
 theme:
@@ -353,15 +402,24 @@ theme:
     - search.highlight
     - search.suggest
 
-# Detail pages are linked from the landing pages, not listed individually.
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
 not_in_nav: |
-  menus/2*.md
-  shopping/2*.md
-  recipes/*-*.md
+${notInNav}
 
 nav:
   - Home: index.md
-  - Menus: menus/index.md
+${weekTabs ? weekTabs + '\n' : ''}  - Menus: menus/index.md
   - Shopping: shopping/index.md
   - Recipes: recipes/index.md
   - Ratings: history.md
@@ -409,11 +467,29 @@ function main() {
 
   // Build a lookup of mealId → { meal, weekOf } for recipe pages
   const mealLookup = {};
+  const menusByWeek = {};
   for (const menu of menus) {
+    menusByWeek[menu.weekOf] = menu;
     for (const meal of menu.meals) {
       mealLookup[meal.id] = { ...meal, weekOf: menu.weekOf };
     }
   }
+
+  // This week / next week, relative to build time (weeks start Sunday).
+  // COOKWHAT_TODAY=YYYY-MM-DD overrides "today" for previewing other weeks.
+  const today = process.env.COOKWHAT_TODAY
+    ? new Date(process.env.COOKWHAT_TODAY + 'T00:00:00')
+    : new Date();
+  const thisWeek = sundayOf(today);
+  const nextWeek = addDays(thisWeek, 7);
+  const thisWeekMenu = menusByWeek[thisWeek];
+  const nextWeekMenu = menusByWeek[nextWeek];
+
+  // Quick-access tabs only for weeks that actually have a menu (avoids
+  // linking to a page that doesn't exist, which --strict would reject).
+  const navWeeks = [];
+  if (thisWeekMenu) navWeeks.push({ label: 'This Week', week: thisWeek });
+  if (nextWeekMenu) navWeeks.push({ label: 'Next Week', week: nextWeek });
 
   ensureDir(join(DOCS, 'menus'));
   ensureDir(join(DOCS, 'shopping'));
@@ -450,13 +526,13 @@ function main() {
   // History
   write(join(DOCS, 'history.md'), buildHistoryPage(history));
 
-  // Index
-  if (menus.length) {
-    write(join(DOCS, 'index.md'), buildIndexPage(menus[0], shoppingWeeks, recipesByMealId));
-  }
+  // Index (dashboard)
+  write(join(DOCS, 'index.md'), buildIndexPage({
+    thisWeek, nextWeek, thisWeekMenu, nextWeekMenu, shoppingWeeks, recipesByMealId,
+  }));
 
   // mkdocs.yml
-  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml());
+  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, navWeeks));
 
   console.log(
     `Docs built: ${menus.length} menu(s), ${shoppingWeeks.length} shopping list(s), ` +
