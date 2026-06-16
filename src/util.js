@@ -53,15 +53,23 @@ export function uid() {
 }
 
 export function todayISO() {
-  return new Date().toISOString().slice(0, 10);
+  return localISO(new Date());
+}
+
+// Format a Date as YYYY-MM-DD using local time (avoids UTC timezone shift).
+function localISO(d) {
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const da = String(d.getDate()).padStart(2, "0");
+  return `${d.getFullYear()}-${m}-${da}`;
 }
 
 // Monday of the week containing `dateStr` (or today), as YYYY-MM-DD.
 export function weekOf(dateStr) {
-  const d = dateStr ? new Date(dateStr + "T00:00:00") : new Date();
+  const s = dateStr || localISO(new Date());
+  const d = new Date(s + "T00:00:00");
   const day = (d.getDay() + 6) % 7; // 0 = Monday
   d.setDate(d.getDate() - day);
-  return d.toISOString().slice(0, 10);
+  return localISO(d);
 }
 
 export function round(n, dp = 2) {
