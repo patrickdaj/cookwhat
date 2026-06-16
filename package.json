@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "node bin/cookwhat.js",
-    "test": "node test/smoke.test.js"
+    "test": "node test/smoke.test.js",
+    "docs:build": "node scripts/build-docs.js"
   },
   "engines": {
     "node": ">=20"
