@@ -26,6 +26,58 @@ function stars(n) {
   return '★'.repeat(n) + '☆'.repeat(5 - n);
 }
 
+// Decode HTML entities that arrive in JSON-LD recipe names (e.g. &#8217; &amp;).
+function decodeEntities(s) {
+  if (!s) return s;
+  return String(s)
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+// ---- Ratings helpers (shared by menu & recipe pages) -----------------------
+
+function avgRating(ratings) {
+  const rs = ratings.filter(r => typeof r.rating === 'number');
+  if (!rs.length) return null;
+  return rs.reduce((a, b) => a + b.rating, 0) / rs.length;
+}
+
+// One-line summary, e.g. "★★★★☆ 4.0/5 · 2 reviews · would cook again ✓"
+function ratingSummaryLine(ratings) {
+  const avg = avgRating(ratings);
+  const parts = [];
+  if (avg != null) parts.push(`${stars(Math.round(avg))} **${avg.toFixed(1)}/5**`);
+  parts.push(`${ratings.length} review${ratings.length > 1 ? 's' : ''}`);
+  if (ratings.some(r => r.redo)) parts.push('would cook again ✓');
+  return parts.join(' · ');
+}
+
+// Full per-review block, newest first.
+function renderReviews(ratings, heading = '## My Reviews & Ratings') {
+  const out = [heading + '\n'];
+  const sorted = [...ratings].sort((a, b) => b.date.localeCompare(a.date));
+  for (const r of sorted) {
+    const redoFlag = r.redo ? ' · would cook again ✓' : '';
+    out.push(`${stars(r.rating)} **${r.rating}/5** · ${fmtDate(r.date)}${redoFlag}`);
+    if (r.notes) out.push(`\n> *${r.notes}*`);
+    out.push('');
+  }
+  return out.join('\n');
+}
+
+function ratingsFor(ratingsByTitle, ...titles) {
+  for (const t of titles) {
+    const key = (t || '').toLowerCase().trim();
+    if (key && ratingsByTitle[key]?.length) return ratingsByTitle[key];
+  }
+  return null;
+}
+
 // ---- Menu pages ------------------------------------------------------------
 
 function buildMenuPage(menu, ratingsByTitle, recipesByMealId) {
@@ -100,13 +152,18 @@ function buildMenuPage(menu, ratingsByTitle, recipesByMealId) {
 
 // ---- Recipe pages ----------------------------------------------------------
 
-function buildRecipePage(stored, meal) {
+function buildRecipePage(stored, meal, ratings) {
   const out = [];
-  const title = stored.name || meal?.title || 'Recipe';
+  const title = decodeEntities(stored.name || meal?.title || 'Recipe');
   out.push(`# ${title}\n`);
 
   if (stored.ai?.cliffNotes) {
     out.push(`*${stored.ai.cliffNotes}*\n`);
+  }
+
+  // Your rating front and center, so you know if it's a keeper.
+  if (ratings?.length) {
+    out.push(ratingSummaryLine(ratings) + '\n');
   }
 
   // Meta bar
@@ -149,6 +206,11 @@ function buildRecipePage(stored, meal) {
       out.push(`${i + 1}. ${step}`);
     });
     out.push('');
+  }
+
+  // Full reviews & ratings, co-located with the recipe.
+  if (ratings?.length) {
+    out.push(renderReviews(ratings));
   }
 
   out.push(`---\n*Fetched ${stored.fetchedAt?.slice(0, 10) || ''}*`);
@@ -212,17 +274,69 @@ function buildIndexPage(latestMenu, shoppingWeeks, recipesByMealId) {
   return out.join('\n');
 }
 
+// ---- Section landing pages -------------------------------------------------
+
+function buildMenusIndex(menus, shoppingWeeks) {
+  const out = ['# Menus\n'];
+  if (!menus.length) { out.push('No menus yet.\n'); return out.join('\n'); }
+  out.push('| Week | Meals | Shopping |');
+  out.push('|------|-------|----------|');
+  for (const m of menus) {
+    const shop = shoppingWeeks.includes(m.weekOf)
+      ? `[list →](../shopping/${m.weekOf}.md)`
+      : '—';
+    out.push(`| [${fmtDate(m.weekOf)}](${m.weekOf}.md) | ${m.meals.length} | ${shop} |`);
+  }
+  out.push('');
+  return out.join('\n');
+}
+
+function buildShoppingIndex(shoppingWeeks) {
+  const out = ['# Shopping Lists\n'];
+  if (!shoppingWeeks.length) { out.push('No shopping lists yet.\n'); return out.join('\n'); }
+  for (const w of shoppingWeeks) {
+    out.push(`- [Week of ${fmtDate(w)}](${w}.md)`);
+  }
+  out.push('');
+  return out.join('\n');
+}
+
+function buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle) {
+  const out = ['# Recipes\n'];
+  const rows = Object.entries(recipesByMealId).map(([mealId, stored]) => {
+    const meal = mealLookup[mealId] || {};
+    const name = decodeEntities(stored.name || meal.title || 'Recipe');
+    const ratings = ratingsFor(ratingsByTitle, meal.title, stored.name);
+    const avg = ratings ? avgRating(ratings) : null;
+    let host = '';
+    try { host = stored.url ? new URL(stored.url).hostname.replace(/^www\./, '') : ''; } catch {}
+    return {
+      name,
+      mealId,
+      cuisine: meal.cuisine || '—',
+      protein: meal.protein || '—',
+      rating: avg != null ? `${stars(Math.round(avg))} ${avg.toFixed(1)}` : '—',
+      source: stored.url ? `[${host}](${stored.url})` : '—',
+    };
+  }).sort((a, b) => a.name.localeCompare(b.name));
+
+  if (!rows.length) { out.push('No recipes captured yet.\n'); return out.join('\n'); }
+
+  out.push('| Recipe | Cuisine | Protein | My Rating | Source |');
+  out.push('|--------|---------|---------|-----------|--------|');
+  for (const r of rows) {
+    out.push(`| [${r.name}](${r.mealId}.md) | ${r.cuisine} | ${r.protein} | ${r.rating} | ${r.source} |`);
+  }
+  out.push('');
+  return out.join('\n');
+}
+
 // ---- mkdocs.yml ------------------------------------------------------------
 
-function buildMkdocsYml(menus, shoppingWeeks) {
-  const menuEntries = menus
-    .map(m => `    - '${fmtDate(m.weekOf)}': menus/${m.weekOf}.md`)
-    .join('\n');
-
-  const shopEntries = shoppingWeeks
-    .map(w => `    - '${fmtDate(w)}': shopping/${w}.md`)
-    .join('\n');
-
+function buildMkdocsYml() {
+  // Each section is a single landing page that lists its entries, so the
+  // sidebar stays clean as weeks accumulate. Detail pages (individual weeks
+  // and recipes) are reached by links and excluded from nav via not_in_nav.
   return `site_name: cookwhat
 site_description: AI-augmented weekly menu plans and shopping lists
 theme:
@@ -232,22 +346,26 @@ theme:
     primary: green
     accent: orange
   features:
-    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
+    - navigation.instant
     - search.highlight
+    - search.suggest
 
-# Recipe pages are linked from meal sections, not listed in nav
+# Detail pages are linked from the landing pages, not listed individually.
 not_in_nav: |
-  recipes/*
+  menus/2*.md
+  shopping/2*.md
+  recipes/*-*.md
 
 nav:
   - Home: index.md
-  - Menus:
-${menuEntries}
-  - Shopping Lists:
-${shopEntries}
+  - Menus: menus/index.md
+  - Shopping: shopping/index.md
+  - Recipes: recipes/index.md
   - Ratings: history.md
-  - Reference:
+  - Help:
     - How to Use: HOW_TO_USE.md
     - Config: CONFIG.md
 `;
@@ -319,9 +437,15 @@ function main() {
   let recipeCount = 0;
   for (const [mealId, stored] of Object.entries(recipesByMealId)) {
     const meal = mealLookup[mealId];
-    write(join(DOCS, 'recipes', `${mealId}.md`), buildRecipePage(stored, meal));
+    const ratings = ratingsFor(ratingsByTitle, meal?.title, stored.name);
+    write(join(DOCS, 'recipes', `${mealId}.md`), buildRecipePage(stored, meal, ratings));
     recipeCount++;
   }
+
+  // Section landing pages
+  write(join(DOCS, 'menus', 'index.md'), buildMenusIndex(menus, shoppingWeeks));
+  write(join(DOCS, 'shopping', 'index.md'), buildShoppingIndex(shoppingWeeks));
+  write(join(DOCS, 'recipes', 'index.md'), buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle));
 
   // History
   write(join(DOCS, 'history.md'), buildHistoryPage(history));
@@ -332,7 +456,7 @@ function main() {
   }
 
   // mkdocs.yml
-  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, shoppingWeeks));
+  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml());
 
   console.log(
     `Docs built: ${menus.length} menu(s), ${shoppingWeeks.length} shopping list(s), ` +
