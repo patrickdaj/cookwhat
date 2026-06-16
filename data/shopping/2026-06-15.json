@@ -1,68 +1,69 @@
 {
-  "weekOf": "2026-06-22",
-  "generatedAt": "2026-06-15T23:15:31.252Z",
-  "targetServings": 4,
+  "weekOf": "2026-06-15",
+  "generatedAt": "2026-06-15T13:45:57.481Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "baby arugula",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "baby potatoes",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bean sprouts",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Shrimp Pad Thai"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bok choy",
-          "qty": 2,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "carrots",
-          "qty": 4,
+          "item": "avocado",
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Salmon Bowl"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "cherry tomatoes",
-          "qty": 1,
-          "unit": "pint",
+          "item": "baby spinach",
+          "qty": 5,
+          "unit": "oz",
           "category": "produce",
           "fromMeals": [
-            "Garlicky Shrimp Linguine"
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cucumber",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl",
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl"
           ],
           "hasUnquantified": false
         },
@@ -72,127 +73,103 @@
           "unit": "tsp",
           "category": "produce",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 3,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 10,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
         },
         {
           "item": "garlic",
-          "qty": 26,
+          "qty": 18,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
-            "Shrimp Pad Thai",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice",
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
-            "Roasted Pork Loin with Potatoes and Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "haricots verts or thin green beans",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Salmon Bowl",
+            "One-Pan Italian Chicken and Rice",
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Easy Korean Beef Bowls",
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         },
         {
           "item": "lemon",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "lime",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         },
         {
           "item": "scallions",
-          "qty": 2,
+          "qty": 3,
           "unit": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Pad Thai",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Salmon Bowl",
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "shallots",
-          "qty": 3,
+          "item": "shredded red cabbage",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "tomato",
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
         {
           "item": "yellow onion",
-          "qty": 2,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
-            "Roasted Pork Loin with Potatoes and Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         }
@@ -202,44 +179,52 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "boneless pork loin roast",
-          "qty": 2.5,
-          "unit": "lb",
+          "item": "bone-in skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         },
         {
           "item": "boneless skinless chicken thighs",
-          "qty": 3.5,
+          "qty": 2,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         },
         {
           "item": "large shrimp, peeled and deveined",
-          "qty": 2.5,
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Shrimp Pad Thai",
-            "Garlicky Shrimp Linguine"
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "white fish fillets (cod or halibut)",
-          "qty": 2,
+          "item": "lean ground beef",
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon Bowl"
           ],
           "hasUnquantified": false
         }
@@ -254,17 +239,32 @@
           "unit": "",
           "category": "dairy",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "heavy cream",
-          "qty": 0.25,
+          "item": "plain Greek yogurt",
+          "qty": 1,
           "unit": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken Souvlaki"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         }
@@ -274,43 +274,42 @@
       "category": "pantry",
       "items": [
         {
-          "item": "capers",
+          "item": "cooked white rice (day-old)",
           "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "couscous",
-          "qty": 1.5,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "Dijon mustard",
-          "qty": 3,
-          "unit": "tbsp",
+          "item": "gochujang",
+          "qty": 2,
+          "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "fish sauce",
-          "qty": 3,
+          "item": "honey",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         },
@@ -320,57 +319,58 @@
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Salmon Bowl"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "linguine",
-          "qty": 12,
-          "unit": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mirin",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "pad thai rice noodles",
-          "qty": 8,
-          "unit": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Shrimp Pad Thai"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "roasted peanuts",
-          "qty": 0.5,
+          "item": "long-grain white rice",
+          "qty": 1,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "tamarind paste",
+          "item": "rice vinegar",
           "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sriracha",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Bowl"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach",
+            "Easy Korean Beef Bowls"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
         }
@@ -380,12 +380,12 @@
       "category": "canned",
       "items": [
         {
-          "item": "crushed tomatoes",
+          "item": "fire-roasted diced tomatoes",
           "qty": 1,
           "unit": "can",
           "category": "canned",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         },
@@ -395,7 +395,7 @@
           "unit": "cup",
           "category": "canned",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         }
@@ -405,96 +405,74 @@
       "category": "spices",
       "items": [
         {
-          "item": "dried chili flakes",
-          "qty": 1,
+          "item": "dried Italian seasoning",
+          "qty": 2,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         },
         {
           "item": "dried oregano",
           "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mixed peppercorns",
-          "qty": 2,
           "unit": "tbsp",
           "category": "spices",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken Souvlaki"
           ],
           "hasUnquantified": false
         },
         {
           "item": "red pepper flakes",
-          "qty": 0.5,
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Garlicky Shrimp Linguine"
+            "One-Pan Italian Chicken and Rice"
           ],
           "hasUnquantified": false
         },
         {
           "item": "toasted sesame seeds",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "spices",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Salmon Bowl",
+            "Easy Korean Beef Bowls"
           ],
           "hasUnquantified": false
         }
       ]
     },
     {
-      "category": "beverages",
+      "category": "frozen",
       "items": [
         {
-          "item": "cognac or brandy",
-          "qty": 0.25,
+          "item": "edamame",
+          "qty": 1,
           "unit": "cup",
-          "category": "beverages",
+          "category": "frozen",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Salmon Bowl"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "dry white wine",
-          "qty": 0.75,
+          "item": "frozen peas and carrots",
+          "qty": 1,
           "unit": "cup",
-          "category": "beverages",
+          "category": "frozen",
           "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sake or dry sherry",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Shrimp Fried Rice with Saut\u00e9ed Garlic Spinach"
           ],
           "hasUnquantified": false
         }
       ]
     }
   ],
-  "excludedStaples": [
-    "brown sugar"
-  ],
-  "totalItems": 44
+  "excludedStaples": [],
+  "totalItems": 42
 }

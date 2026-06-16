@@ -1,394 +1,22 @@
 {
   "weekOf": "2026-06-22",
-  "createdAt": "2026-06-15T13:21:26.196Z",
+  "createdAt": "2026-06-15T22:32:47.495Z",
   "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "salmon-bowl-e70736c4",
+      "id": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
       "day": "Mon",
       "slot": "dinner",
-      "title": "Salmon Bowl",
+      "title": "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
       "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/salmon-bowl-recipe-23658423",
-      "cuisine": "japanese",
-      "protein": "salmon",
-      "tags": [
-        "weeknight",
-        "quick",
-        "dairy-free",
-        "bowl"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "salmon fillets",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "edamame",
-          "qty": 1,
-          "unit": "cup",
-          "category": "frozen",
-          "note": ""
-        },
-        {
-          "item": "shredded red cabbage",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "avocado",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cucumber",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sriracha",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Complete bowl: seared salmon + rice + fresh veg all in one recipe."
-    },
-    {
-      "id": "one-pan-italian-chicken-and-rice-34a9a655",
-      "day": "Tue",
-      "slot": "dinner",
-      "title": "One-Pan Italian Chicken and Rice",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/one-pan-italian-chicken-and-rice-recipe-23650537",
-      "cuisine": "italian",
+      "sourceUrl": "https://www.thekitchn.com/chicken-au-poivre-recipe-23712295",
+      "cuisine": "french",
       "protein": "chicken",
       "tags": [
         "weeknight",
-        "one-pan",
-        "dairy-free"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in skin-on chicken thighs",
-          "qty": 6,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "fire-roasted diced tomatoes",
-          "qty": 1,
-          "unit": "can",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "long-grain white rice",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dried Italian seasoning",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Dairy-free, whole meal: chicken + rice + tomatoes in one pan."
-    },
-    {
-      "id": "shrimp-fried-rice-with-saut-ed-garlic-spinach-34dbdcef",
-      "day": "Wed",
-      "slot": "dinner",
-      "title": "Shrimp Fried Rice with Sautéed Garlic Spinach",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/shrimp-fried-rice-266999",
-      "cuisine": "chinese",
-      "protein": "shrimp",
-      "tags": [
-        "weeknight",
-        "quick",
-        "dairy-free",
-        "one-pan"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "cooked white rice (day-old)",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "eggs",
-          "qty": 3,
-          "unit": "",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "frozen peas and carrots",
-          "qty": 1,
-          "unit": "cup",
-          "category": "frozen",
-          "note": ""
-        },
-        {
-          "item": "white onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 5,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "baby spinach",
-          "qty": 5,
-          "unit": "oz",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Cook fried rice first, then sauté spinach with garlic in the same pan — wilts in 2 min. Cook rice Tuesday night so it's day-old."
-    },
-    {
-      "id": "easy-korean-beef-bowls-30e9ec8e",
-      "day": "Thu",
-      "slot": "dinner",
-      "title": "Easy Korean Beef Bowls",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/korean-beef-bowl-recipe-23772102",
-      "cuisine": "korean",
-      "protein": "beef",
-      "tags": [
-        "weeknight",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "lean ground beef",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "gochujang",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "white rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "English cucumber",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red cabbage",
-          "qty": 0.25,
-          "unit": "head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Your one red-meat meal this week."
-    },
-    {
-      "id": "chicken-souvlaki-cda4c9a2",
-      "day": "Fri",
-      "slot": "dinner",
-      "title": "Chicken Souvlaki",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/chicken-souvlaki-recipe-23481336",
-      "cuisine": "mediterranean",
-      "protein": "chicken",
-      "tags": [
-        "weeknight",
-        "grill",
-        "summer"
+        "dinner-party",
+        "dairy-low"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -402,10 +30,392 @@
           "note": ""
         },
         {
+          "item": "mixed peppercorns",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cognac or brandy",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "heavy cream",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 6,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "haricots verts or thin green beans",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Fondant potatoes: cut into thick cylinders, brown both sides in oil, then braise in chicken broth with thyme and garlic until meltingly tender. Start potatoes first — they take ~30 min. Blanch beans last 5 min."
+    },
+    {
+      "id": "shrimp-pad-thai-ba8548e6",
+      "day": "Tue",
+      "slot": "dinner",
+      "title": "Shrimp Pad Thai",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/shrimp-pad-thai/",
+      "cuisine": "thai",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "dairy-free"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "pad thai rice noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "eggs",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "bean sprouts",
+          "qty": 2,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "roasted peanuts",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "tamarind paste",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "brown sugar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried chili flakes",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Soak noodles in cold water while you prep everything else. Complete meal — no sides needed."
+    },
+    {
+      "id": "one-pot-chicken-teriyaki-with-vegetables-and-rice-2b75dd4a",
+      "day": "Wed",
+      "slot": "dinner",
+      "title": "One-Pot Chicken Teriyaki with Vegetables and Rice",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/one-pot-recipe-easy-chicken-teriyaki-with-vegetables-and-rice-240523",
+      "cuisine": "japanese",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "dairy-free",
+        "one-pot"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "bok choy",
+          "qty": 2,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sake or dry sherry",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "brown sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Complete one-pot. Add bok choy in the last few minutes so it stays crisp."
+    },
+    {
+      "id": "garlicky-shrimp-linguine-75611ea8",
+      "day": "Thu",
+      "slot": "dinner",
+      "title": "Garlicky Shrimp Linguine",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/shrimp-linguine/",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "dairy-free"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "linguine",
+          "qty": 12,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "unit": "pint",
+          "category": "produce",
+          "note": ""
+        },
+        {
           "item": "lemon",
           "qty": 2,
           "unit": "",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "baby arugula",
+          "qty": 2,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Arugula wilts into the hot pasta — adds a peppery green without a separate side."
+    },
+    {
+      "id": "mediterranean-baked-fish-with-tomatoes-capers-and-couscous-e540733d",
+      "day": "Fri",
+      "slot": "dinner",
+      "title": "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
+      "cuisine": "mediterranean",
+      "protein": "fish",
+      "tags": [
+        "weeknight",
+        "dairy-free"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "white fish fillets (cod or halibut)",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "crushed tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         },
         {
@@ -416,57 +426,127 @@
           "note": ""
         },
         {
-          "item": "honey",
+          "item": "yellow onion",
           "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
           "note": ""
         },
         {
           "item": "dried oregano",
           "qty": 1,
-          "unit": "tbsp",
+          "unit": "tsp",
           "category": "spices",
           "note": ""
         },
         {
-          "item": "pita bread",
-          "qty": 4,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "plain Greek yogurt",
-          "qty": 1,
+          "item": "couscous",
+          "qty": 1.5,
           "unit": "cup",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "cucumber",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "tomato",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
+          "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Marinate while you prep; tzatziki = yogurt + grated cucumber + garlic."
+      "notes": "Couscous just needs boiling water — start it 5 min before the fish comes out. Spoon the tomato-caper sauce over both."
+    },
+    {
+      "id": "roasted-pork-loin-with-potatoes-and-carrots-10a07ff3",
+      "day": "Sat",
+      "slot": "dinner",
+      "title": "Roasted Pork Loin with Potatoes and Carrots",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/juicy-and-tender-roasted-pork-loin-the-easiest-simplest-method-251998",
+      "cuisine": "american",
+      "protein": "pork",
+      "tags": [
+        "weekend",
+        "project",
+        "dairy-free"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless pork loin roast",
+          "qty": 2.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "baby potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 3,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 4,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "20 min active, 55 min in the oven. Roast veg underneath to catch all the drippings."
     }
   ],
-  "setAt": "2026-06-15T13:36:33.092Z"
+  "setAt": "2026-06-15T23:15:31.208Z"
 }
