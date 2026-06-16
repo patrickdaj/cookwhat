@@ -517,7 +517,7 @@
       "id": "mediterranean-baked-fish-with-tomatoes-capers-and-couscous-e540733d",
       "day": "Fri",
       "slot": "dinner",
-      "title": "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+      "title": "Mediterranean Baked Fish with Tomatoes and Capers",
       "source": "The Mediterranean Dish",
       "sourceUrl": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
       "cuisine": "mediterranean",
@@ -591,13 +591,6 @@
           "qty": 1,
           "unit": "tsp",
           "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "couscous",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
           "note": ""
         }
       ],
@@ -945,6 +938,48 @@
           "qty": 1,
           "unit": "tbsp",
           "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "simple-couscous",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Couscous",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/how-to-cook-couscous/",
+      "cuisine": "mediterranean",
+      "protein": "",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         },
         {

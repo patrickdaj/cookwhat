@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-16T14:24:14.899Z",
+  "generatedAt": "2026-06-16T14:28:11.587Z",
   "targetServings": null,
   "sections": [
     {
@@ -133,7 +133,7 @@
           "category": "produce",
           "fromMeals": [
             "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         },
@@ -190,7 +190,7 @@
             "Shrimp Pad Thai",
             "One-Pot Chicken Teriyaki with Vegetables and Rice",
             "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Roasted Pork Loin with Apples",
             "Fondant Potatoes",
             "Honey-Garlic Roasted Carrots"
@@ -234,7 +234,7 @@
           "category": "produce",
           "fromMeals": [
             "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Roasted Pork Loin with Apples",
             "Haricots Verts with Butter and Shallots"
           ],
@@ -308,7 +308,7 @@
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Roasted Pork Loin with Apples"
           ],
           "hasUnquantified": false
@@ -366,7 +366,7 @@
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         }
@@ -442,7 +442,7 @@
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         },
@@ -452,7 +452,7 @@
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Couscous"
           ],
           "hasUnquantified": false
         },
@@ -587,7 +587,7 @@
           "unit": "can",
           "category": "canned",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         },
@@ -623,7 +623,7 @@
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         },
@@ -699,7 +699,7 @@
           "category": "beverages",
           "fromMeals": [
             "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false
         },

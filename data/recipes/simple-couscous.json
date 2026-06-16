@@ -1,0 +1,33 @@
+{
+  "mealId": "simple-couscous",
+  "fetchedAt": "2026-06-16",
+  "url": "https://www.themediterraneandish.com/how-to-cook-couscous/",
+  "name": "Couscous",
+  "description": "Fluffy couscous in about 15 minutes — toasted in olive oil, then steamed off the heat in hot water or broth.",
+  "recipeIngredient": [
+    "1 1/2 cups couscous",
+    "2 tablespoons extra virgin olive oil",
+    "2 1/4 cups water or low-sodium broth",
+    "1/2 teaspoon kosher salt",
+    "Optional: chopped parsley, mint, or a squeeze of lemon"
+  ],
+  "recipeInstructions": [
+    "Set a medium pot over medium heat and add the olive oil. When it shimmers, add the couscous and toast, stirring, until lightly golden and fragrant, 2 to 3 minutes.",
+    "Carefully add the hot water or broth and the salt, give it one quick stir, and immediately turn off the heat.",
+    "Cover and let sit undisturbed for about 10 minutes, until the liquid is fully absorbed.",
+    "Fluff with a fork and stir in fresh herbs or a squeeze of lemon if using."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Mediterranean Dish",
+  "ai": {
+    "cliffNotes": "Toast the couscous in oil for nuttiness, then let it steam off the heat so the grains stay separate and fluffy.",
+    "keyTips": [
+      "Use a 1.5:1 liquid-to-couscous ratio and let it sit covered off the heat — boiling it makes it gummy.",
+      "Swap water for broth and finish with herbs or lemon to make it taste like more than a side."
+    ]
+  }
+}
