@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-16T13:36:42.105Z",
+  "generatedAt": "2026-06-16T14:12:17.637Z",
   "targetServings": null,
   "sections": [
     {
@@ -99,6 +99,16 @@
         {
           "item": "fresh parsley",
           "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken au Poivre"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
           "unit": "bunch",
           "category": "produce",
           "fromMeals": [
@@ -123,34 +133,36 @@
           "unit": "sprig",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Chicken au Poivre",
+            "Roasted Pork Loin with Potatoes and Carrots",
+            "Fondant Potatoes"
           ],
           "hasUnquantified": false
         },
         {
           "item": "garlic",
-          "qty": 27,
+          "qty": 26,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
+            "Chicken au Poivre",
             "Shrimp Pad Thai",
             "One-Pot Chicken Teriyaki with Vegetables and Rice",
             "Garlicky Shrimp Linguine",
             "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
-            "Roasted Pork Loin with Potatoes and Carrots"
+            "Roasted Pork Loin with Potatoes and Carrots",
+            "Fondant Potatoes"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "haricots verts or thin green beans",
+          "item": "haricots verts",
           "qty": 0.75,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Haricots Verts with Butter and Shallots"
           ],
           "hasUnquantified": false
         },
@@ -166,12 +178,13 @@
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 3.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous"
+            "Mediterranean Baked Fish with Tomatoes, Capers and Couscous",
+            "Haricots Verts with Butter and Shallots"
           ],
           "hasUnquantified": false
         },
@@ -218,11 +231,12 @@
         },
         {
           "item": "shallots",
-          "qty": 3,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken au Poivre",
+            "Haricots Verts with Butter and Shallots"
           ],
           "hasUnquantified": false
         },
@@ -253,7 +267,7 @@
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Fondant Potatoes"
           ],
           "hasUnquantified": false
         }
@@ -278,7 +292,7 @@
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
+            "Chicken au Poivre",
             "One-Pot Chicken Teriyaki with Vegetables and Rice"
           ],
           "hasUnquantified": false
@@ -322,11 +336,11 @@
         },
         {
           "item": "heavy cream",
-          "qty": 0.25,
+          "qty": 0.75,
           "unit": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken au Poivre"
           ],
           "hasUnquantified": false
         },
@@ -361,6 +375,16 @@
       "category": "pantry",
       "items": [
         {
+          "item": "canola oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Fondant Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "capers",
           "qty": 3,
           "unit": "tbsp",
@@ -382,11 +406,20 @@
         },
         {
           "item": "Dijon mustard",
-          "qty": 3,
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken au Poivre"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
             "Roasted Pork Loin with Potatoes and Carrots"
           ],
           "hasUnquantified": false
@@ -498,11 +531,12 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 1.5,
+          "qty": 1.25,
           "unit": "cup",
           "category": "canned",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken au Poivre",
+            "Fondant Potatoes"
           ],
           "hasUnquantified": false
         }
@@ -543,11 +577,11 @@
         },
         {
           "item": "mixed peppercorns",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "spices",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken au Poivre"
           ],
           "hasUnquantified": false
         },
@@ -592,7 +626,7 @@
           "unit": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Chicken au Poivre with Fondant Potatoes and Haricots Verts"
+            "Chicken au Poivre"
           ],
           "hasUnquantified": false
         },
@@ -622,7 +656,9 @@
   ],
   "excludedStaples": [
     "kosher salt",
+    "unsalted butter",
+    "olive oil",
     "brown sugar"
   ],
-  "totalItems": 56
+  "totalItems": 59
 }

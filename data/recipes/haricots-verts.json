@@ -1,0 +1,33 @@
+{
+  "mealId": "haricots-verts",
+  "fetchedAt": "2026-06-16",
+  "url": "https://www.thekitchn.com/haricots-verts-recipe-23409107",
+  "name": "Haricots Verts with Butter and Shallots",
+  "description": "Thin French green beans steamed just to crisp-tender, then tossed with butter, shallot, and a squeeze of lemon.",
+  "recipeIngredient": [
+    "1 pound haricots verts, stem ends trimmed",
+    "1 small shallot, finely chopped",
+    "2 tablespoons unsalted butter",
+    "1 1/2 teaspoons olive oil",
+    "1/2 lemon",
+    "Kosher salt"
+  ],
+  "recipeInstructions": [
+    "Steam the haricots verts until crisp-tender and bright green, 2 to 3 minutes.",
+    "Heat the butter and olive oil in a skillet over medium heat. Add the shallot and cook until softened, about 1 minute.",
+    "Add the steamed beans and toss to coat in the butter. Season with kosher salt and a squeeze of lemon, and serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Kitchn",
+  "ai": {
+    "cliffNotes": "Steam the beans just to crisp-tender, then toss in butter with softened shallot and a squeeze of lemon for a bright, classic French side.",
+    "keyTips": [
+      "Pull the beans at 2–3 minutes while still bright and snappy — carryover heat finishes them once tossed in the butter.",
+      "Add the lemon off the heat so it stays fresh and bright."
+    ]
+  }
+}

@@ -134,7 +134,7 @@
       "id": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
       "day": "Mon",
       "slot": "dinner",
-      "title": "Chicken au Poivre with Fondant Potatoes and Haricots Verts",
+      "title": "Chicken au Poivre",
       "source": "The Kitchn",
       "sourceUrl": "https://www.thekitchn.com/chicken-au-poivre-recipe-23712295",
       "cuisine": "french",
@@ -157,21 +157,21 @@
         },
         {
           "item": "mixed peppercorns",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "spices",
           "note": ""
         },
         {
           "item": "shallots",
-          "qty": 3,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 5,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": ""
@@ -185,14 +185,14 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 1.5,
+          "qty": 0.5,
           "unit": "cup",
           "category": "canned",
           "note": ""
         },
         {
           "item": "heavy cream",
-          "qty": 0.25,
+          "qty": 0.75,
           "unit": "cup",
           "category": "dairy",
           "note": ""
@@ -200,29 +200,36 @@
         {
           "item": "Dijon mustard",
           "qty": 1,
-          "unit": "tbsp",
+          "unit": "tsp",
           "category": "pantry",
           "note": ""
         },
         {
           "item": "fresh thyme",
-          "qty": 6,
+          "qty": 3,
           "unit": "sprig",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "tbsp",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "haricots verts or thin green beans",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce",
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         }
       ],
@@ -672,6 +679,138 @@
         }
       ],
       "notes": "20 min active, 55 min in the oven. Roast veg underneath to catch all the drippings."
+    },
+    {
+      "id": "fondant-potatoes",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Fondant Potatoes",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/fondant-potatoes-22971254",
+      "cuisine": "french",
+      "protein": "",
+      "tags": [
+        "side"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 60,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "canola oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 3,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "haricots-verts",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Haricots Verts with Butter and Shallots",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/haricots-verts-recipe-23409107",
+      "cuisine": "french",
+      "protein": "",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "haricots verts",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": ""
     }
   ],
   "setAt": "2026-06-15T23:15:31.208Z"

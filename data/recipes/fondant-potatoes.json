@@ -1,0 +1,36 @@
+{
+  "mealId": "fondant-potatoes",
+  "fetchedAt": "2026-06-16",
+  "url": "https://www.thekitchn.com/fondant-potatoes-22971254",
+  "name": "Fondant Potatoes",
+  "description": "Restaurant-style fondant potatoes: thick rounds seared until deeply golden, then braised in butter and broth until silky inside.",
+  "recipeIngredient": [
+    "4 russet or Yukon Gold potatoes, peeled, ends trimmed, halved crosswise",
+    "2 tablespoons canola oil",
+    "2 tablespoons unsalted butter",
+    "2 cloves garlic, smashed",
+    "3 sprigs fresh thyme",
+    "3/4 cup vegetable or chicken broth",
+    "Kosher salt"
+  ],
+  "recipeInstructions": [
+    "Peel the potatoes, trim the ends, and cut each in half crosswise to make flat rounds. Cover with cold water and let sit 20 minutes to release excess starch, then drain and pat very dry.",
+    "Heat the canola oil in a large oven-safe skillet over medium-high heat until shimmering. Add the potatoes cut-side down in a single layer and sear undisturbed until deeply golden brown, 6 to 7 minutes.",
+    "Flip the potatoes. Add the butter, garlic, and thyme and cook until the butter is foaming and starting to brown, 2 to 3 minutes.",
+    "Pour in the broth, then transfer the skillet to the oven and bake until the potatoes are fork-tender and lightly browned on the sides, 30 to 35 minutes. Season with salt and spoon the pan juices over the top to serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Kitchn",
+  "ai": {
+    "cliffNotes": "Sear thick potato rounds cut-side down for a deep golden crust, then braise them in butter and broth so the insides turn silky and custardy.",
+    "keyTips": [
+      "Soak the cut potatoes 20 minutes and pat them bone-dry — surface starch and water both sabotage the deep sear that defines fondant potatoes.",
+      "Do not move the potatoes while searing; one undisturbed 6–7 minute contact is what builds the crust.",
+      "Use an oven-safe skillet so you go straight from stovetop sear to oven braise in a single pan."
+    ]
+  }
+}
