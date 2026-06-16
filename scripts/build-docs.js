@@ -169,13 +169,13 @@ function recipeLinks(dish, recipesByMealId, rel) {
   const links = [];
   if (recipesByMealId[dish.id]) {
     const p = `${rel}recipes/${dish.id}.md`;
-    links.push(`[Open recipe](${p}){ .md-button .md-button--primary }`);
-    links.push(`[New tab](${p}){ .md-button target="_blank" }`);
+    links.push(`[View recipe](${p})`);
+    links.push(`[↗ new tab](${p}){ target="_blank" }`);
   }
   if (dish.sourceUrl) {
-    links.push(`[Source ↗](${dish.sourceUrl}){ .md-button target="_blank" rel="noopener" }`);
+    links.push(`[source ↗](${dish.sourceUrl}){ target="_blank" rel="noopener" }`);
   }
-  return links.join(' ');
+  return links.join(' · ');
 }
 
 // Aisle order for the per-day "everything you need" list.
@@ -256,22 +256,23 @@ function buildMenuPage(menu, ratingsByTitle, recipesByMealId) {
   const rel = '../';
   const out = [`# Week of ${fmtDate(menu.weekOf)}\n`];
 
-  // Summary table: one row per day (mains + sides listed together)
+  // Summary table (jumps to each day's section below, plus the cook view)
   out.push('| Day | Date | Dishes | Cuisine | |');
   out.push('|-----|------|--------|---------|---|');
   for (const [day, dishes] of dishesByDay(menu)) {
+    const anchor = day.toLowerCase();
     const main = dishes.find(d => !isSide(d)) || dishes[0];
     const names = dishes
       .map(d => (isSide(d) ? `${d.title} _(side)_` : `**${d.title}**`))
       .join('<br>');
-    const cook = `[Cook →](${rel}days/${menu.weekOf}-${day}.md)`;
-    out.push(`| **${day}** | ${fmtDate(dayDate(menu.weekOf, day)).replace(/, \d{4}$/, '')} | ${names} | ${main.cuisine || '—'} | ${cook} |`);
+    const cook = `[cook →](${rel}days/${menu.weekOf}-${day}.md)`;
+    out.push(`| [**${day}**](#${anchor}) | ${fmtDate(dayDate(menu.weekOf, day)).replace(/, \d{4}$/, '')} | ${names} | ${main.cuisine || '—'} | ${cook} |`);
   }
   out.push('');
 
-  // Per-day detail
+  // Per-day detail (explicit anchor ids so the table above links here)
   for (const [day, dishes] of dishesByDay(menu)) {
-    out.push(`## ${DAY_FULL[day] || day} · ${fmtDate(dayDate(menu.weekOf, day))}\n`);
+    out.push(`## ${DAY_FULL[day] || day} · ${fmtDate(dayDate(menu.weekOf, day))} {#${day.toLowerCase()}}\n`);
     out.push(`[Day view: all recipes + ingredients →](${rel}days/${menu.weekOf}-${day}.md)\n`);
     for (const dish of dishes) {
       renderDishDetail(out, dish, recipesByMealId, ratingsByTitle, rel);
@@ -422,12 +423,13 @@ function buildHistoryPage(history) {
 
 // ---- Index page (dashboard) ------------------------------------------------
 
-// One dashboard section for a given week (this week / next week).
-function buildWeekSection(label, week, menu, shoppingWeeks, recipesByMealId) {
+// One dashboard section for a given week. This week and next week use this
+// same builder, so they are always formatted identically.
+function buildWeekSection(label, week, menu, shoppingWeeks) {
   const out = [`## ${label} · ${fmtDate(week)}\n`];
   if (!menu || !menu.meals.length) {
     out.push('_Nothing planned yet — ask Claude to build this week\'s menu._\n');
-    out.push(`[Browse menus](menus/index.md){ .md-button }\n`);
+    out.push('[Browse menus →](menus/index.md)\n');
     return out.join('\n');
   }
   out.push('| Day | Dishes | |');
@@ -436,31 +438,30 @@ function buildWeekSection(label, week, menu, shoppingWeeks, recipesByMealId) {
     const names = dishes
       .map(d => (isSide(d) ? `${d.title} _(side)_` : `**${d.title}**`))
       .join('<br>');
-    out.push(`| **${day}** | ${names} | [Cook →](days/${week}-${day}.md) |`);
+    out.push(`| **${day}** | ${names} | [cook →](days/${week}-${day}.md) |`);
   }
   out.push('');
-  const buttons = [`[View full menu](menus/${week}.md){ .md-button .md-button--primary }`];
+  const links = [`[Full menu →](menus/${week}.md)`];
   if (shoppingWeeks.includes(week)) {
-    buttons.push(`[Shopping list](shopping/${week}.md){ .md-button }`);
+    links.push(`[Shopping list →](shopping/${week}.md)`);
   }
-  out.push(buttons.join(' ') + '\n');
+  out.push(links.join(' · ') + '\n');
   return out.join('\n');
 }
 
 function buildIndexPage(ctx) {
-  const { thisWeek, nextWeek, thisWeekMenu, nextWeekMenu, shoppingWeeks, recipesByMealId } = ctx;
+  const { thisWeek, nextWeek, thisWeekMenu, nextWeekMenu, shoppingWeeks } = ctx;
   const out = ['# cookwhat\n'];
   out.push('Your weekly meal plans, shopping lists, and recipes — all in one place.\n');
-  out.push(buildWeekSection('This week', thisWeek, thisWeekMenu, shoppingWeeks, recipesByMealId));
-  out.push(buildWeekSection('Next week', nextWeek, nextWeekMenu, shoppingWeeks, recipesByMealId));
+  out.push(buildWeekSection('This week', thisWeek, thisWeekMenu, shoppingWeeks));
+  out.push(buildWeekSection('Next week', nextWeek, nextWeekMenu, shoppingWeeks));
   out.push('---\n');
-  out.push('### Browse\n');
-  out.push(
-    '[All menus](menus/index.md){ .md-button } ' +
-    '[Shopping lists](shopping/index.md){ .md-button } ' +
-    '[Recipes](recipes/index.md){ .md-button } ' +
-    '[Ratings](history.md){ .md-button }\n'
-  );
+  out.push('**Browse:** ' + [
+    '[All menus](menus/index.md)',
+    '[Shopping lists](shopping/index.md)',
+    '[Recipes](recipes/index.md)',
+    '[Ratings](history.md)',
+  ].join(' · ') + '\n');
   return out.join('\n');
 }
 
