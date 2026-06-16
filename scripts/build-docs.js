@@ -293,65 +293,27 @@ function fmtIngQty(line) {
 
 // ---- Menu pages ------------------------------------------------------------
 
-function renderDishDetail(out, dish, recipesByMealId, ratingsByTitle, rel) {
-  const recipe = recipesByMealId[dish.id];
-  out.push(`### ${dish.title}${isSide(dish) ? ' _(side)_' : ''}\n`);
-  if (recipe?.ai?.cliffNotes) out.push(`*${recipe.ai.cliffNotes}*\n`);
-
-  const links = recipeLinks(dish, recipesByMealId, rel);
-  if (links) out.push(links + '\n');
-
-  const meta = [];
-  if (dish.cuisine) meta.push(`**Cuisine:** ${dish.cuisine}`);
-  if (dish.protein && !isSide(dish)) meta.push(`**Protein:** ${dish.protein}`);
-  const times = [];
-  if (recipe?.prepTime) times.push(`${recipe.prepTime} prep`);
-  else if (dish.activeTimeMin) times.push(`${dish.activeTimeMin} min active`);
-  if (recipe?.totalTime) times.push(`${recipe.totalTime} total`);
-  else if (dish.totalTimeMin) times.push(`${dish.totalTimeMin} min total`);
-  if (times.length) meta.push(`**Time:** ${times.join(' · ')}`);
-  if (dish.tags?.length) meta.push(`**Tags:** ${dish.tags.join(', ')}`);
-  if (meta.length) out.push(meta.join('  \n') + '\n');
-
-  if (dish.notes) out.push(`> ${dish.notes}\n`);
-
-  if (recipe?.ai?.keyTips?.length) {
-    out.push('!!! tip "Key Tips"');
-    for (const tip of recipe.ai.keyTips) out.push(`    - ${tip}`);
-    out.push('');
-  }
-
-  const ratings = ratingsFor(ratingsByTitle, dish.title, recipe?.name);
-  if (ratings?.length) out.push(ratingSummaryLine(ratings) + '\n');
-}
-
-function buildMenuPage(menu, ratingsByTitle, recipesByMealId) {
+// A single week, styled like the Home dashboard: a clean dishes-by-day table
+// with a "cook →" link per day (the day page holds the recipes + ingredients).
+function buildMenuPage(menu, shoppingWeeks) {
   const rel = '../';
-  const out = [`# Week of ${fmtDate(menu.weekOf)}\n`];
+  const week = menu.weekOf;
+  const out = [`# Week of ${fmtDate(week)}\n`];
 
-  // Summary table (jumps to each day's section below, plus the cook view)
-  out.push('| Day | Date | Dishes | Cuisine | |');
-  out.push('|-----|------|--------|---------|---|');
+  out.push('| Day | Dishes | |');
+  out.push('|-----|--------|---|');
   for (const [day, dishes] of dishesByDay(menu)) {
-    const anchor = day.toLowerCase();
-    const main = dishes.find(d => !isSide(d)) || dishes[0];
     const names = dishes
       .map(d => (isSide(d) ? `${d.title} _(side)_` : `**${d.title}**`))
       .join('<br>');
-    const cook = `[cook →](${rel}days/${menu.weekOf}-${day}.md)`;
-    out.push(`| [**${day}**](#${anchor}) | ${fmtDate(dayDate(menu.weekOf, day)).replace(/, \d{4}$/, '')} | ${names} | ${main.cuisine || '—'} | ${cook} |`);
+    out.push(`| **${day}** | ${names} | [cook →](${rel}days/${week}-${day}.md) |`);
   }
   out.push('');
 
-  // Per-day detail (explicit anchor ids so the table above links here)
-  for (const [day, dishes] of dishesByDay(menu)) {
-    out.push(`## ${DAY_FULL[day] || day} · ${fmtDate(dayDate(menu.weekOf, day))} {#${day.toLowerCase()}}\n`);
-    out.push(`[Day view: all recipes + ingredients →](${rel}days/${menu.weekOf}-${day}.md)\n`);
-    for (const dish of dishes) {
-      renderDishDetail(out, dish, recipesByMealId, ratingsByTitle, rel);
-    }
-    out.push('---\n');
-  }
+  const links = [];
+  if (shoppingWeeks.includes(week)) links.push(`[Shopping list →](${rel}shopping/${week}.md)`);
+  links.push(`[Rate these meals →](${rel}history.md)`);
+  out.push(links.join(' · ') + '\n');
 
   return out.join('\n');
 }
@@ -756,7 +718,7 @@ function main() {
   for (const menu of menus) {
     write(
       join(DOCS, 'menus', `${menu.weekOf}.md`),
-      buildMenuPage(menu, ratingsByTitle, recipesByMealId)
+      buildMenuPage(menu, shoppingWeeks)
     );
     for (const [day, dishes] of dishesByDay(menu)) {
       write(
