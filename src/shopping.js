@@ -94,12 +94,25 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
     items: byCat.get(cat).sort((a, b) => a.item.localeCompare(b.item)),
   }));
 
+  // Guard: meals that contributed no ingredients are incomplete — typically a
+  // cookbook "needs-scan" placeholder (planned by title, not yet scanned). Their
+  // items are missing from the list until captured.
+  const pendingScans = menu.meals
+    .filter((m) => !(m.ingredients || []).length)
+    .map((m) => ({
+      title: m.title,
+      day: m.day || "",
+      source: m.source || "",
+      cookbook: !m.sourceUrl,
+    }));
+
   return {
     weekOf: menu.weekOf,
     generatedAt: new Date().toISOString(),
     targetServings,
     sections,
     excludedStaples: [...new Set(excluded)],
+    pendingScans,
     totalItems: merged.size,
   };
 }
@@ -115,6 +128,13 @@ export function renderShoppingMarkdown(list) {
   lines.push(`# Shopping List — week of ${list.weekOf}`);
   lines.push("");
   if (list.targetServings) lines.push(`_Scaled to ${list.targetServings} servings._\n`);
+  if (list.pendingScans?.length) {
+    lines.push(`> ⚠️ **Incomplete — scan these before shopping** (no ingredients captured yet):`);
+    for (const p of list.pendingScans) {
+      lines.push(`> - ${p.day ? p.day + ": " : ""}${p.title}${p.source ? ` — ${p.source}` : ""}`);
+    }
+    lines.push("");
+  }
   for (const section of list.sections) {
     lines.push(`## ${titleCase(section.category)}`);
     for (const item of section.items) {
@@ -141,6 +161,14 @@ export function renderNotesText(list, menu) {
   lines.push(`SHOPPING LIST — WEEK OF ${list.weekOf}`);
   if (list.targetServings) lines.push(`(${list.targetServings} servings)`);
   lines.push("");
+
+  if (list.pendingScans?.length) {
+    lines.push("⚠️ NEEDS SCAN (items missing until captured):");
+    for (const p of list.pendingScans) {
+      lines.push(`${p.day ? p.day + ": " : ""}${p.title}${p.source ? ` — ${p.source}` : ""}`);
+    }
+    lines.push("");
+  }
 
   if (menu?.meals?.length) {
     lines.push("THIS WEEK'S MEALS");
