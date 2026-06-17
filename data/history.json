@@ -2589,5 +2589,16 @@
     "sourceUrl": "https://cooking.nytimes.com/recipes/1026287-one-pot-roman-chicken-cacciatore-with-potatoes",
     "source": "cooking.nytimes.com",
     "notes": "Cooked ~June 2026 — just ate it, skip repeating for a few weeks."
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Takeout-Style Kung Pao Chicken",
+    "rating": null,
+    "redo": false,
+    "cuisine": "chinese",
+    "protein": "chicken",
+    "sourceUrl": "https://www.seriouseats.com/takeout-style-kung-pao-chicken-diced-chicken-peppers-peanuts-recipe",
+    "source": "seriouseats.com",
+    "notes": "Cooked ~a week ago — skip repeating for now."
   }
 ]

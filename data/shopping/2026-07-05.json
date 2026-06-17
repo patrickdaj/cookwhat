@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-17T17:12:59.535Z",
+  "generatedAt": "2026-06-17T20:39:41.934Z",
   "targetServings": null,
   "sections": [
     {
@@ -17,24 +17,14 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh oregano",
+          "item": "fresh parsley",
           "qty": 2,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Swordfish"
+            "Grilled Trout with Parsley-Caper Sauce"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Swordfish"
-          ],
-          "hasUnquantified": true
         },
         {
           "item": "fresh parsley",
@@ -47,22 +37,32 @@
           "hasUnquantified": false
         },
         {
-          "item": "garlic",
-          "qty": 8,
-          "unit": "clove",
+          "item": "fresh thyme",
+          "qty": 10,
+          "unit": "sprig",
           "category": "produce",
           "fromMeals": [
-            "Grilled Swordfish"
+            "Grilled Trout with Parsley-Caper Sauce"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "lemon (juiced)",
-          "qty": 3,
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Swordfish",
+            "Grilled Trout with Parsley-Caper Sauce",
             "Mediterranean Tomato and Cucumber Salad"
           ],
           "hasUnquantified": false
@@ -93,12 +93,12 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "swordfish steaks",
-          "qty": 4,
-          "unit": "steak",
+          "item": "whole rainbow trout, cleaned",
+          "qty": 2,
+          "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Grilled Swordfish"
+            "Grilled Trout with Parsley-Caper Sauce"
           ],
           "hasUnquantified": false
         }
@@ -113,7 +113,22 @@
           "unit": "loaf",
           "category": "bakery",
           "fromMeals": [
-            "Grilled Swordfish"
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
           ],
           "hasUnquantified": false
         }
@@ -123,34 +138,14 @@
       "category": "spices",
       "items": [
         {
-          "item": "ground coriander",
-          "qty": 1,
+          "item": "fennel seeds",
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Grilled Swordfish"
+            "Grilled Trout with Parsley-Caper Sauce"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.75,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Swordfish"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Swordfish"
-          ],
-          "hasUnquantified": true
         },
         {
           "item": "sumac",
@@ -161,16 +156,6 @@
             "Mediterranean Tomato and Cucumber Salad"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Swordfish"
-          ],
-          "hasUnquantified": false
         }
       ]
     }
@@ -178,5 +163,6 @@
   "excludedStaples": [
     "extra virgin olive oil"
   ],
-  "totalItems": 15
+  "pendingScans": [],
+  "totalItems": 13
 }

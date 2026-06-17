@@ -5,98 +5,77 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "grilled-swordfish-e945816f",
+      "id": "grilled-trout-with-parsley-caper-sauce-9407e34b",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Swordfish",
+      "title": "Grilled Trout with Parsley-Caper Sauce",
       "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/grilled-swordfish-recipe/",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
       "cuisine": "mediterranean",
-      "protein": "swordfish",
+      "protein": "trout",
       "tags": [
         "weekend",
-        "project"
+        "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "swordfish steaks",
-          "qty": 4,
-          "unit": "steak",
+          "item": "whole rainbow trout, cleaned",
+          "qty": 2,
+          "unit": "",
           "category": "meat-seafood",
           "note": ""
         },
         {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 10,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
           "item": "garlic",
-          "qty": 8,
+          "qty": 1,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "fennel seeds",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
           "item": "extra virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
+          "qty": 3,
+          "unit": "tbsp",
           "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemon (juiced)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "ground coriander",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.75,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh oregano",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon (for ladolemono)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
           "note": ""
         },
         {
@@ -107,7 +86,7 @@
           "note": ""
         }
       ],
-      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more. Finish with Greek Ladolemono (Meathead/Goldwyn p.192): shake 1/4 cup EVOO, 2 tbsp lemon juice, 2 tsp chopped fresh oregano, and 1/4 tsp each salt and pepper in a jar; drizzle over the grilled fish. Add grilled bread for the carb to make it a full plate."
+      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg, already on this day) + grilled bread (carb)."
     },
     {
       "id": "mediterranean-tomato-and-cucumber-salad-5a0dbfbc",
@@ -179,5 +158,5 @@
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
     }
   ],
-  "setAt": "2026-06-17T17:08:30.515Z"
+  "setAt": "2026-06-17T20:39:41.833Z"
 }

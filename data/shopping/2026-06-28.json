@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T16:53:38.418Z",
+  "generatedAt": "2026-06-17T20:39:41.900Z",
   "targetServings": null,
   "sections": [
     {
@@ -32,27 +32,7 @@
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Crispy Smashed Potatoes with Za'atar"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "baby spinach",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bell pepper",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
           "hasUnquantified": false
         },
@@ -68,11 +48,12 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.5,
+          "qty": 0.75,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
+            "Grilled Shrimp Tacos with Creamy Slaw",
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         },
@@ -93,16 +74,6 @@
           "category": "produce",
           "fromMeals": [
             "Easy Grilled Corn on the Cob"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh chives or parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Smashed Potatoes with Za'atar"
           ],
           "hasUnquantified": false
         },
@@ -137,6 +108,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh tarragon",
           "qty": 0.5,
           "unit": "tsp",
@@ -148,13 +129,25 @@
         },
         {
           "item": "garlic",
-          "qty": 10,
+          "qty": 15,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Pasta with Zucchini and Shrimp",
             "Thai Basil Chicken (Gai Pad Krapow)",
-            "Grilled Shrimp Tacos with Creamy Slaw"
+            "Grilled Shrimp Tacos with Creamy Slaw",
+            "Maple-Miso Sheet-Pan Salmon with Green Beans",
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         },
@@ -179,22 +172,13 @@
           "hasUnquantified": false
         },
         {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Smashed Potatoes with Za'atar"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "limes",
-          "qty": 2,
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
+            "Grilled Shrimp Tacos with Creamy Slaw",
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         },
@@ -205,16 +189,6 @@
           "category": "produce",
           "fromMeals": [
             "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
           ],
           "hasUnquantified": false
         },
@@ -249,23 +223,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "zucchini",
-          "qty": 4,
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Pasta with Zucchini and Shrimp",
-            "Fridge-Clearing Vegetable Frittata"
+            "Pasta with Zucchini and Shrimp"
           ],
           "hasUnquantified": false
         }
@@ -325,6 +288,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "whole chicken, cut into quarters (3-4 lb)",
           "qty": 1,
           "unit": "",
@@ -350,33 +323,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "eggs",
-          "qty": 9,
+          "item": "egg",
+          "qty": 1,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata",
             "Cornell Chicken"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "grated cheese (Parmesan/cheddar)",
-          "qty": 0.75,
+          "item": "grated Parmesan",
+          "qty": 0.5,
           "unit": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "heavy cream",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
           "hasUnquantified": false
         },
@@ -414,16 +376,6 @@
             "Grilled Shrimp Tacos with Creamy Slaw"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "crusty bread (to toast)",
-          "qty": 4,
-          "unit": "slice",
-          "category": "bakery",
-          "fromMeals": [
-            "Fridge-Clearing Vegetable Frittata"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -457,6 +409,16 @@
           "category": "pantry",
           "fromMeals": [
             "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cooked white rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         },
@@ -501,6 +463,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "maple syrup",
+          "qty": 4,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "mayonnaise",
           "qty": 2,
           "unit": "tbsp",
@@ -541,12 +513,32 @@
           "hasUnquantified": false
         },
         {
+          "item": "rice wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "steamed rice",
           "qty": 3,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
             "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         }
@@ -582,6 +574,16 @@
           "category": "canned",
           "fromMeals": [
             "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white or brown miso",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
         }
@@ -671,5 +673,6 @@
     "extra virgin olive oil",
     "black pepper"
   ],
+  "pendingScans": [],
   "totalItems": 61
 }

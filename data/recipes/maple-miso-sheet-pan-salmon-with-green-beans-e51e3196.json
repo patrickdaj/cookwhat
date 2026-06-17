@@ -1,0 +1,43 @@
+{
+  "mealId": "maple-miso-sheet-pan-salmon-with-green-beans-e51e3196",
+  "fetchedAt": "2026-06-17T20:39:28.075Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans?q=Maple%20",
+  "name": "Maple and Miso Sheet-Pan Salmon with Green Beans",
+  "description": "",
+  "recipeIngredient": [
+    "4 (6-ounce) skin-on salmon fillets, about 1-inch thick",
+    "Kosher salt",
+    "Freshly ground black pepper",
+    "4 teaspoons maple syrup",
+    "1 tablespoon white or brown miso",
+    "1 tablespoon rice wine vinegar",
+    "2 teaspoons soy sauce",
+    "1 garlic clove, grated",
+    "1 pound green beans, trimmed",
+    "2 tablespoons olive oil",
+    "Pinch of red-pepper flakes (optional)",
+    "1/4 teaspoon toasted sesame oil (optional)",
+    "1/4 cup roughly chopped cilantro, both leaves and tender stems",
+    "4 lime wedges, for serving",
+    "Flaky sea salt, for serving (optional)",
+    "Cooked white rice, for serving (optional)"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 400 degrees and line a sheet pan with parchment paper or foil. Season the salmon fillets well with salt and pepper, and place them on a plate or in a large shallow bowl.",
+    "In a small bowl, whisk together the maple syrup, miso, rice wine vinegar, soy sauce and garlic. Pour the mixture on top of the salmon and gently massage the marinade all over the fish. Let marinate while the oven comes to temperature.",
+    "Meanwhile, in a medium bowl, toss together the green beans with the olive oil, red-pepper flakes and sesame oil (if using) and season generously with salt and pepper. Lay the salmon fillets on the sheet pan skin side down and spread the green beans out surrounding the fillets.",
+    "Arrange the salmon skin side down on the sheet pan and bake until the salmon is opaque and the green beans are cooked through, about 12 minutes. Right before serving, scatter with cilantro and a good squeeze of lime. Season with flaky sea salt and serve with rice, if desired."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "20 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2020/05/13/dining/CH-salmon-and-green-beans/CH-salmon-and-green-beans-videoSixteenByNineJumbo1600-v2.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 30 grams | Calories: 534 | Saturated Fat: 6 grams | Unsaturated Fat: 19 grams | Sodium: 829 milligrams | Sugar: 8 grams | Fiber: 4 grams | Carbohydrate: 26 grams | Protein: 39 grams",
+  "ai": null
+}

@@ -1,0 +1,36 @@
+{
+  "mealId": "grilled-trout-with-parsley-caper-sauce-9407e34b",
+  "fetchedAt": "2026-06-17T20:39:28.075Z",
+  "source": "themediterraneandish.com",
+  "url": "https://www.themediterraneandish.com/grilled-trout/",
+  "name": "Grilled Trout with Parsley-Caper Sauce",
+  "description": "Whole rainbow trout stuffed with lemon and thyme, grilled until the skin crisps, finished with a bright parsley-caper sauce.",
+  "recipeIngredient": [
+    "2 whole rainbow trout (10-12 oz each), cleaned",
+    "Kosher salt and black pepper",
+    "1/2 lemon, sliced into rings",
+    "10 sprigs thyme",
+    "1 tbsp extra-virgin olive oil",
+    "FOR THE SAUCE:",
+    "1/2 lemon, zested and juiced",
+    "1 tsp chopped fresh thyme",
+    "1 garlic clove, finely chopped",
+    "2 tbsp chopped parsley",
+    "1/4 tsp fennel seeds, crushed (optional)",
+    "Red pepper flakes (optional)",
+    "1 tbsp capers, chopped",
+    "2 tbsp extra-virgin olive oil"
+  ],
+  "recipeInstructions": [
+    "Pat the trout dry, season inside and out, and stuff the cavities with lemon rings and thyme sprigs. Rub the skin with oil.",
+    "Heat a grill to very hot (~500F). Grill the trout until the skin is crisp and the flesh flakes, ~5 minutes per side.",
+    "Whisk the sauce ingredients together. Spoon over the grilled trout to serve."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "totalTime": "40 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Mediterranean Dish",
+  "ai": null
+}
