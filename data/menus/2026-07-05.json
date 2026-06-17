@@ -77,16 +77,80 @@
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
+        }
+      ],
+      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg) + hummus with warm pita (carb/mezze)."
+    },
+    {
+      "id": "hummus-with-warm-pita-98633ab5",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Hummus with Warm Pita",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/how-to-make-hummus/",
+      "cuisine": "mediterranean",
+      "protein": "chickpea",
+      "tags": [
+        "side",
+        "mezze",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "canned chickpeas",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
         },
         {
-          "item": "crusty bread or pita, grilled",
+          "item": "tahini",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
           "qty": 1,
-          "unit": "loaf",
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "pita bread",
+          "qty": 2,
+          "unit": "pack",
           "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "sumac",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg, already on this day) + grilled bread (carb)."
+      "notes": "Make-ahead mezze: blend chickpeas with tahini, garlic, lemon and ice until silky; drizzle with EVOO + sumac, serve with warm pita to round out the grilled-trout spread."
     },
     {
       "id": "mediterranean-tomato-and-cucumber-salad-5a0dbfbc",
@@ -158,5 +222,5 @@
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
     }
   ],
-  "setAt": "2026-06-17T20:39:41.833Z"
+  "setAt": "2026-06-17T21:38:16.874Z"
 }
