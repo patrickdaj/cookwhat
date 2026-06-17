@@ -113,6 +113,36 @@ Spread recipes across the user's `preferredSites` — don't lean on one site.
   them to paste the recipe text (as with the gated NYT huevos), then save it
   with the real source URL.
 
+## Cookbooks (the user's physical books)
+
+The user owns physical cookbooks, catalogued in `data/cookbooks/*.json` (e.g.
+`meathead.json`, `foodlab.json`). These are **a reference layer for you** — the
+CLI does *not* read them. Each file lists the book's recipes as
+`{title, page, chapter}`, sometimes with `fitsMenu`/`flag` hints, and — once a
+page has been scanned — a `captured` block (`ingredients`, `method`, `makes`)
+and `scanned: true`.
+
+Use them as a **third sourcing pool** alongside redos/history and web search.
+When designing a week, scan the catalogs for recipes that fit the user's config
+(cuisine, `proteinRules`, time, dislikes — the `flag` fields mark
+broccoli/bean-heavy items). Cookbook recipes also **sidestep the site-blocking
+problem** (nothing to fetch), so they're reliable picks.
+
+To put a cookbook recipe on a menu:
+- Save it as a normal meal with `source: "Book Title (Author) — p.NNN"` and
+  **no `url`** (there isn't one).
+- **Ingredients must come from a real scan**, never from the title or memory. If
+  the catalog entry has a `captured` block, use it. If it's title+page only, ask
+  the user to scan that page first — same rule as "real URLs only" for the web.
+- `plan check` will emit a benign `⚠ "…" has no source URL` for cookbook dishes.
+  That's expected and **not** a blocker; don't try to "fix" it with a fake URL.
+- `recipe fetch` skips no-URL meals automatically.
+- After capturing a scanned recipe, store its `captured` data back in the
+  catalog so it's reusable in future weeks.
+- Catalogs are built from a book's table of contents / "Recipes in This Chapter"
+  pages; transcribing titles + page numbers is fine, but a recipe's full
+  ingredient list/method only gets recorded from an actual scan of that page.
+
 ## Hard rules (never violate)
 
 - Anything in `ingredients.allergies` or `ingredients.dislikes` → exclude
@@ -121,7 +151,9 @@ Spread recipes across the user's `preferredSites` — don't lean on one site.
   these; a failing check blocks `plan set`.
 - Use only `preferredSites` unless the user asks otherwise; never use
   `avoidSites`.
-- Real URLs only.
+- Real URLs only — **except** recipes sourced from the user's catalogued
+  cookbooks, which use `source: "Book (Author) — p.NNN"` and no URL (see
+  Cookbooks above). Never fabricate a URL or cookbook ingredient data.
 
 ## Conventions
 
