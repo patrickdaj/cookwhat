@@ -1,0 +1,50 @@
+{
+  "mealId": "shrimp-fajitas-7f0a7d14",
+  "fetchedAt": "2026-06-17T05:24:05.109Z",
+  "url": "https://www.isabeleats.com/shrimp-fajitas/",
+  "name": "Shrimp Fajitas",
+  "description": "Shrimp fajitas are the perfect quick and easy meal! Made from sautéed bell peppers and onions, succulent shrimp, and fajita seasoning.",
+  "recipeIngredient": [
+    "1 ½ pounds large shrimp, (peeled and deveined)",
+    "4 cloves garlic, (minced)",
+    "1 tablespoon chili powder",
+    "1 teaspoon onion powder",
+    "1 teaspoon smoked paprika",
+    "1 teaspoon kosher salt, (plus more to taste)",
+    "½ teaspoon ground cumin",
+    "½ teaspoon freshly ground black pepper",
+    "3 tablespoons olive oil, (divided)",
+    "3  bell peppers, (sliced)",
+    "1 medium onion, (sliced)",
+    "2 tablespoons lime juice ((about 1 lime))",
+    "2 tablespoons chopped cilantro",
+    "flour tortillas",
+    "chopped cilantro",
+    "avocado slices",
+    "sour cream (or Mexican crema)",
+    "fresh lime wedges"
+  ],
+  "recipeInstructions": [
+    "In a large bowl, add the shrimp, garlic, chili powder, onion powder, smoked paprika, salt, cumin, black pepper, and 1 ½ tablespoons of olive oil. Mix together to combine and set aside.",
+    "Heat remaining 1 ½ tablespoons of olive oil in a large skillet over medium-high heat. Add peppers and onions and cook, stirring occasionally, for 13-15 minutes until peppers have softened and onions have started to caramelize.",
+    "Transfer the cooked peppers and onions to a bowl, cover with a plate, and set aside.",
+    "Add the seasoned shrimp and cook, stirring occasionally, for 5 minutes or until the shrimp are pink and no longer translucent.",
+    "Add the cooked peppers and onions back into the skillet, and top with lime juice and chopped cilantro. Mix everything together, taste, and season with more salt if necessary.",
+    "Remove from heat and serve in warm flour tortillas with sour cream, avocado slices, and other desired toppings."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "recipeYield": "6 6 servings",
+  "image": "https://www.isabeleats.com/wp-content/uploads/2023/05/shrimp-fajitas-8.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Bloom the spice mixture with oil and shrimp first, then cook vegetables separately to control their texture before combining everything at the end.",
+    "keyTips": [
+      "Cook peppers and onions for 13-15 minutes without the shrimp so they caramelize properly while shrimp stays tender",
+      "Add lime juice and cilantro after combining everything back together to brighten flavors without cooking them off",
+      "Don't skip the initial marinating step—coating shrimp in seasoned oil for even flavor distribution is critical",
+      "Use medium-high heat for vegetables to develop color and caramelization, not just steam them"
+    ]
+  }
+}

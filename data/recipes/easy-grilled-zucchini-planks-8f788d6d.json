@@ -1,0 +1,40 @@
+{
+  "mealId": "easy-grilled-zucchini-planks-8f788d6d",
+  "fetchedAt": "2026-06-17T05:27:50.843Z",
+  "url": "https://heygrillhey.com/simple-grilled-zucchini/",
+  "name": "Grilled Zucchini",
+  "description": "This Grilled Zucchini is an easy way to cook zucchini.  It only has 4 ingredients, and it grills up nice and crisp with plenty of flavor.",
+  "recipeIngredient": [
+    "3 small zucchini",
+    "2 teaspoons Kosher salt",
+    "1 teaspoons black pepper",
+    "⅓ cup olive oil",
+    "3 Tablespoons balsamic vinegar",
+    "2 teaspoons Italian seasoning",
+    "1 teaspoon black pepper",
+    "1 teaspoon Kosher salt",
+    "2 cloves garlic (minced)"
+  ],
+  "recipeInstructions": [
+    "Preheat. Set your grill on High (450-500 degrees F) for direct grilling.",
+    "Slice zucchini. Rinse zucchini and pat dry. Slice in half, width-wise, and then cut each half into quarters.",
+    "Marinate. Place zucchini in a gallon zip top bag, then add in your marinade ingredients. Toss to evenly coat every piece. Place in the refrigerator and let the zucchini marinate for at least 2-3 hours.",
+    "Grill. Place the zucchini on the grill, flesh side down. Season with additional salt and black pepper, to taste. Grill for 2 minutes per side, or until the flesh is slightly charred and the zucchini is crisp and tender.",
+    "Serve and enjoy. Remove to a platter and serve immediately."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": "190 min",
+  "recipeYield": "4 4 people",
+  "image": "https://heygrillhey.com/wp-content/uploads/2019/08/GZ-Square.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Marinate zucchini strips in oil and vinegar for 2-3 hours, then grill flesh-side down over high heat for quick charring that keeps the interior tender.",
+    "keyTips": [
+      "Pat zucchini completely dry before marinating to help it absorb flavor and char properly on the grill",
+      "Marinate for the full 2-3 hours so the zucchini absorbs the garlic and balsamic flavors throughout",
+      "Grill flesh-side down first to develop char and crust while keeping the interior from overcooking",
+      "Watch timing carefully—2 minutes per side is tight; charred exterior with tender flesh is the target, not mushy zucchini"
+    ]
+  }
+}
