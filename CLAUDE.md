@@ -132,6 +132,29 @@ Spread recipes across the user's `preferredSites` — don't lean on one site.
   them to paste the recipe text (as with the gated NYT huevos), then save it
   with the real source URL.
 
+## Source mix & freshness
+
+Pull from **all four pools** and don't skew to any one: redos/history, the user's
+Paprika recipes, their cookbooks (title placeholders, scanned on demand), and
+fresh web finds. Crucially, **"fresh" does not mean web-only** — most of the
+user's own catalog is *uncooked*, so it's new-to-them:
+
+- **Redos** (in history, rated ≥4) — loved repeats; seed a week with a few.
+- **Cooked & meh** (rated 1–3 in history) — deprioritize; don't re-suggest soon.
+  Also respect `avoidRepeatWithinDays` for anything cooked recently.
+- **Owned but uncooked = the big freshness pool.** Paprika recipes with **no
+  rating** (~40% of the import) and any cookbook recipe not yet cooked are new
+  experiences from the user's own shelves. Leaning here *is* bringing fresh
+  stuff, and it works through the library the user already paid for. (Signal: a
+  Paprika recipe JSON with no `rating`, or a history with no entry for that
+  title, hasn't been cooked.)
+- **New web finds** — genuine discovery beyond the collection; sprinkle 1–2 in
+  most weeks so the rotation keeps growing.
+
+A good week blends these — a redo or two for comfort, several uncooked-owned
+picks (Paprika + book placeholders), and a new web recipe or two. When you
+present the plan, label which pool each pick came from so the balance is visible.
+
 ## Cookbooks (the user's physical books)
 
 The user owns physical cookbooks, catalogued in `data/cookbooks/*.json` (e.g.
