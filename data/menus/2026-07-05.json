@@ -177,7 +177,275 @@
         }
       ],
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
+    },
+    {
+      "id": "one-pot-roman-chicken-cacciatore-with-potatoes-c022f603",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "One-Pot Roman Chicken Cacciatore with Potatoes",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1026287-one-pot-roman-chicken-cacciatore-with-potatoes",
+      "cuisine": "italian",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "redo",
+        "one-pot"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "waxy potatoes (Yukon Gold or fingerling)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "anchovy fillets",
+          "qty": 4,
+          "unit": "",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "rosemary",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mixed salad greens",
+          "qty": 5,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Loved redo (4 stars). Full plate: chicken + potatoes (carb) + a simple lemony green salad (veg)."
+    },
+    {
+      "id": "salmon-in-foil-japanese-foil-steamed-salmon-c2858ecb",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Salmon in Foil (Japanese Foil-Steamed Salmon)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/salmon-foil/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "tags": [
+        "weeknight",
+        "quick",
+        "one-pan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 2,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shimeji (beech) mushrooms",
+          "qty": 1.8,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "ponzu sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed Japanese rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Easy foil-packet steam. Full plate: salmon + mushrooms/carrot/onion (veg) + steamed rice (carb)."
+    },
+    {
+      "id": "perfect-pan-seared-pork-chops-00c43ffc",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Perfect Pan-Seared Pork Chops",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe",
+      "cuisine": "american",
+      "protein": "pork",
+      "tags": [
+        "weeknight",
+        "redo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "bone-in pork rib chops (1.5-inch)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 8,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "baby potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "green beans",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Loved redo (4 stars). Sugar-salt cure for a deep sear; baste with thyme butter. Full plate: pork + roasted baby potatoes (carb) + green beans (veg)."
     }
   ],
-  "setAt": "2026-06-17T16:52:21.787Z"
+  "setAt": "2026-06-17T17:08:30.515Z"
 }

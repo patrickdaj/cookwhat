@@ -1,0 +1,43 @@
+{
+  "mealId": "one-pot-roman-chicken-cacciatore-with-potatoes-c022f603",
+  "fetchedAt": "2026-06-17T17:08:33.714Z",
+  "url": "https://cooking.nytimes.com/recipes/1026287-one-pot-roman-chicken-cacciatore-with-potatoes",
+  "name": "One-Pot Roman Chicken Cacciatore With Potatoes",
+  "description": "In this all-in-one dinner, hard-working potatoes and chicken thighs bathe in a tangy and savory rosemary-perfumed sauce. In place of the tomatoes commonly found in cacciatore dishes, the acidity in this Roman-inspired version comes from white wine and vinegar, along with punchy capers. Starting the chicken in a cold pan helps to crisp the skin and render the fat, which then lends its flavor to the creamy, saucy potatoes beneath.",
+  "recipeIngredient": [
+    "2 pounds bone-in, skin-on chicken thighs ",
+    "Kosher salt ",
+    "3 tablespoons olive oil ",
+    "1 pound waxy potatoes, such as Yukon Gold or fingerling ",
+    "1 tablespoon rosemary leaves (from 1 large sprig) ",
+    "4 anchovy fillets ",
+    "2 garlic cloves ",
+    "2 tablespoons drained capers ",
+    "¾ cup dry white wine ",
+    "3 tablespoons white wine vinegar or red wine vinegar, plus more to taste ",
+    "2 tablespoons chopped parsley "
+  ],
+  "recipeInstructions": [
+    "Heat oven to 425 degrees. Pat chicken thoroughly dry with paper towels and sprinkle all sides with 2 teaspoons salt.",
+    "Coat a large, high-sided skillet or Dutch oven with 1 tablespoon oil. Arrange chicken, skin side down, in a single layer in the cold skillet and place over medium heat. Cook, undisturbed, until the skin is browned and releases easily from the pan, about 15 minutes.",
+    "While the chicken cooks, cut potatoes into 1-inch-thick chunks and place in a large bowl. Chop the rosemary and anchovy, smash and peel the garlic, then add to the bowl. Add the capers, 2 tablespoons oil and ½ teaspoon salt; toss to combine.",
+    "Flip the chicken, then add the potato mixture to the skillet, tucking the pieces around and under the chicken. Pour the wine over the potatoes. Transfer the skillet to the oven and roast, uncovered, until the chicken is cooked through and the potatoes are tender, about 25 minutes.",
+    "Return the skillet to the stove. Transfer the chicken to a plate to rest. Add the vinegar and 2 tablespoons water to the skillet and continue to cook the potatoes over medium heat, stirring occasionally, until coated with a thickened, glossy sauce, about 5 minutes. If the sauce seems too thick or oily, stir in water 1 tablespoon at a time to help emulsify the sauce and achieve desired consistency. Taste and add salt and more vinegar, as needed.",
+    "Return the chicken to the skillet and sprinkle parsley over everything to serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2025/04/24/multimedia/CT-Roman-Chicken-Cacciatore-Potatoes-jqwp/CT-Roman-Chicken-Cacciatore-Potatoes-jqwp-videoSixteenByNineJumbo1600.jpg",
+  "author": "Cybelle Tondu",
+  "ai": {
+    "cliffNotes": "Brown chicken skin-side down first to build flavor, then braise with potatoes and a bright vinegar-caper sauce that emulsifies into a glossy coating.",
+    "keyTips": [
+      "Pat chicken completely dry and don't move it during the initial 15-minute skin browning — this develops the flavorful crust that releases easily",
+      "Toss potatoes with oil and seasonings before adding to the skillet so they cook evenly and absorb flavor throughout",
+      "After roasting, remove chicken and reduce the sauce with vinegar and water over direct heat to emulsify it into a glossy glaze rather than leaving it thin or oily",
+      "Taste and adjust vinegar at the end — it's the backbone of the sauce and needs to be bold enough to cut through the richness"
+    ]
+  }
+}
