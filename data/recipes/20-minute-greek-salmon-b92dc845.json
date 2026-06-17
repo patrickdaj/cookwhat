@@ -1,0 +1,40 @@
+{
+  "mealId": "20-minute-greek-salmon-b92dc845",
+  "fetchedAt": "2026-06-17T05:24:27.626Z",
+  "url": "https://www.themediterraneandish.com/easy-greek-salmon/",
+  "name": "Greek Salmon",
+  "description": "This no-fail salmon recipe delivers on flavor without the fuss. Feel free to swap in whatever tender green herbs you have on hand (like parsley or cilantro). Serve with Greek salad and your favorite grain.",
+  "recipeIngredient": [
+    "Extra virgin olive oil",
+    "1  lemon, (zested and juiced)",
+    "1 to 2  garlic cloves, (minced)",
+    "2 teaspoons Greek oregano",
+    "3 tablespoons chopped fresh dill, (plus more for garnish)",
+    "1 pound center cut salmon fillet",
+    "Kosher salt",
+    "Black pepper",
+    "2  green onions, (trimmed and chopped (both white and green parts))",
+    "1 cup cherry tomatoes"
+  ],
+  "recipeInstructions": [
+    "Get ready. Position a rack in the center of the oven and heat the oven to 400°F.  Lightly oil a baking dish that’s large enough to hold the salmon.",
+    "Make a Greek-style sauce. In a small bowl, whisk together the lemon juice, half of the zest, garlic, oregano, dill, and enough olive oil to generously coat the salmon (about 1/3 cup).",
+    "Prep the salmon. Pat the salmon dry and season with salt and pepper on both sides. Place in the prepared baking dish and scatter on the green onions and cherry tomatoes. Spoon the Greek sauce over everything.",
+    "Roast the salmon. Bake in the heated oven for about 10-minutes, or until the internal temperature reaches 140°. Carryover cooking will bring it up to 145°F. When ready it should flake easily wtih a fork. Sprinkle with the remaining lemon zest and dill and serve."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": "20 min",
+  "recipeYield": "4",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/09/TMD-Greek-Baked-Salmon-Cropped-2.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "A quick-roasted salmon fillet is topped with a bright lemon-herb sauce and vegetables, then baked just until it reaches 140°F internal temperature to stay moist.",
+    "keyTips": [
+      "Pat the salmon dry before seasoning to help it cook evenly and develop better texture",
+      "Don't exceed 140°F internal temperature — carryover cooking will bring it to the ideal 145°F and prevent dryness",
+      "Whisk enough olive oil into the sauce (about 1/3 cup) to generously coat the salmon, which keeps it moist and carries flavor",
+      "Use center-cut salmon fillet of consistent thickness so it cooks evenly in the 10-minute window"
+    ]
+  }
+}

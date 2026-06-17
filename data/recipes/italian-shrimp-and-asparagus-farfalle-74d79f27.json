@@ -1,0 +1,44 @@
+{
+  "mealId": "italian-shrimp-and-asparagus-farfalle-74d79f27",
+  "fetchedAt": "2026-06-17T05:24:13.051Z",
+  "url": "https://www.the-pasta-project.com/italian-shrimp-and-asparagus-farfalle-pasta-recipe/",
+  "name": "Easy Italian shrimp and asparagus pasta recipe.",
+  "description": "This light and easy to make Italian shrimp and asparagus spring pasta recipe can be eaten warm or as a pasta salad. It&#39;s perfect for warm weather lunches, pot lucks, buffets and picnics. Only 5 main ingredients and 45 minutes to make.",
+  "recipeIngredient": [
+    "14 ounces farfalle or bow tie pasta ( I used Pasta Garofalo)",
+    "14 ounces shrimps  (or prawns (fresh or frozen unpeeled))",
+    "14 ounces asparagus ((green))",
+    "8-10  cherry tomatoes (or datterini cut in half)",
+    "1-3  garlic cloves",
+    "3 ounces dry white wine",
+    "3-4 tablespoons olive oil",
+    "salt (for pasta and to taste)",
+    "ground black pepper  (to taste)",
+    "peperoncino flakes  ((optional) as required)",
+    "fresh basil or parsley ((optional))"
+  ],
+  "recipeInstructions": [
+    "Clean the shrimps/ prawns by removing the head and the shell from most of them. Keep 4-8 intact. Rinse them under running water and drain them. Prepare  the asparagus by removing the final part of the stem. This is best done by bending them until they break. The lower half of the stalk can be discarded. Wash and cut the cherry tomatoes in half. Peel the garlic.",
+    "Put a pot of water onto boil for the pasta. Add salt once it starts to boil and bring to the boil again.",
+    "Cut off the asparagus tips from the rest of the stalk and set aside. Then cut the remaining stalks into smaller pieces.",
+    "In a large saucepan or iron skillet, sauté the garlic in the olive oil for a few moments, add the pieces of asparagus stalk and cook them  covered with a lid over a medium heat for about 10 minutes. After this time (the asparagus must be wilted but not too soft), add the washed, dried and halved cherry tomatoes.",
+    "Also add the asparagus tips and continue cooking for another 10 minutes. At this point, add the shrimps /prawns and salt and pepper to taste. Add the white wine, turn up the heat and let the alcohol evaporate. Continue cooking on a medium heat for about 5 minutes . Remove the garlic cloves.",
+    "Cook the farfalle al dente according to the instructions on the packet. Before draining, save a cup of the cooking water.  Drain the pasta and add to the sauce with a little of the saved cooking water. Mix together well. If the pasta seems too dry, add a little more cooking water. Sauté everything together for a minute or two with a drizzle of olive oil.",
+    "Serve immediately sprinkled with chopped parsley/basil or a few peperoncino flakes.&nbsp;"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "25 min",
+  "totalTime": "45 min",
+  "recipeYield": "4",
+  "image": "https://www.the-pasta-project.com/wp-content/uploads/Easy-Italian-shrimp-and-asparagus-pasta-recipe-7.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Build layers of flavor by cooking asparagus and tomatoes slowly first, then add shrimp and pasta water at the end to create a cohesive sauce.",
+    "keyTips": [
+      "Break asparagus by hand rather than cutting to naturally separate tender tips from woody stems, then cook each part for the right duration",
+      "Save pasta cooking water before draining—use it to adjust sauce consistency and help the pasta absorb flavors",
+      "Dry the shrimp thoroughly after rinsing so they sear properly rather than steam, and don't overcook them (about 5 minutes total)",
+      "Remove garlic cloves before serving to avoid overpowering the dish, and add the wine at high heat to properly evaporate the alcohol"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "mealId": "grilled-rib-eye-steak-with-roasted-garlic-resting-butter-7c6048d4",
+  "fetchedAt": "2026-06-17T05:24:41.653Z",
+  "url": "https://heygrillhey.com/rib-eye-steak/",
+  "name": "Grilled Ribeye Steak with Roasted Garlic Resting Butter",
+  "description": "This rib eye steak is perfectly grilled and rested on a gorgeous roasted garlic resting butter for a decadent steak that will knock your socks off. It&#39;s easy, fast, and a breeze to make. Best of all? It has the most amazing flavor that will keep you excited until that very last bite.",
+  "recipeIngredient": [
+    "2  boneless ribeye steaks (1 1/2 inches thick)",
+    "2 Tablespoons Hey Grill Hey Beef Rub (or equal parts salt, pepper, and garlic powder)",
+    "1 head garlic",
+    "1 Tablespoon olive oil",
+    "4 Tablespoons salted butter (softened)",
+    "1 teaspoon cracked black pepper",
+    "1 teaspoon Worcestershire sauce"
+  ],
+  "recipeInstructions": [
+    "Preheat. Turn on or light your preferred grill. Preheat the grill to 450 degrees F for two-zone cooking.",
+    "Season. Remove the steaks from the refrigerator and season on both sides with the steak rub.",
+    "Roast the garlic. Cut ¼ inch off of the top of the head of garlic and remove exterior paper. Drizzle with olive oil and wrap with aluminum foil. Place the garlic head on the hot side of the grill, close the lid, and roast for 25 minutes, turning every 5 minutes.",
+    "Grill the steaks. Place the seasoned steaks on the indirect heat side of the grill, flipping after 15 minutes.",
+    "Make the garlic butter. Remove the roasted garlic from the grill and carefully unwrap. Use a clean towel to squeeze the garlic bulbs into a bowl. Smash the garlic bulbs with the backside of a fork to form a paste. Stir in the butter, pepper, and Worcestershire sauce. Set the resting butter aside.",
+    "Check the temperature on your steaks. You want them to reach 115 degrees F for a rare steak, 125 degrees F for medium-rare, 135 degrees F for medium, 145 degrees for medium-well, and 155 for well done.",
+    "Sear. Once your steaks hit your desired target temperature, move them immediately over to the high, direct heat side of the grill. Sear over high heat, flipping after a nice crust has developed. Cook until your steaks reach your desired internal doneness, following the temperatures in the notes section below.",
+    "Rest then serve. Prepare your serving platter by spreading 1 tablespoon of the roasted garlic resting butter on the platter where each steak will sit. Place the hot steak on top of the resting butter and top each with an additional tablespoon of the roasted garlic butter. Spread the butter around and let it melt across the surface of the steak while it rests for 10 minutes. Serve steaks while warm."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "60 min",
+  "totalTime": "75 min",
+  "recipeYield": "2 2 people",
+  "image": "https://heygrillhey.com/wp-content/uploads/2021/11/Rib-Eye-Steak-Feature.png",
+  "author": "Susie Bulloch",
+  "ai": {
+    "cliffNotes": "Two-zone grilling with an indirect heat phase to cook the steak through, followed by a direct heat sear for crust, then resting on roasted garlic butter to finish.",
+    "keyTips": [
+      "Use indirect heat for the majority of cooking time to reach target temperature without burning the exterior",
+      "Sear only after hitting your target internal temperature to avoid overcooking while developing crust",
+      "Roast garlic by turning every 5 minutes to ensure even softening without burning",
+      "Rest steaks on warm garlic butter on the platter for 10 minutes—the butter melts into the meat as it finishes cooking"
+    ]
+  }
+}

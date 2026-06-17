@@ -1,0 +1,31 @@
+{
+  "mealId": "easy-grilled-corn-on-the-cob-fe9c90be",
+  "fetchedAt": "2026-06-17T05:24:36.842Z",
+  "url": "https://heygrillhey.com/easiest-grilled-corn-ever/",
+  "name": "Easy Grilled Corn",
+  "description": "The secret to Grilled Corn is in the husk. The heat of the grill and moisture in the husk steam cook some perfectly grilled corn on the cob.",
+  "recipeIngredient": [
+    "6 ears fresh corn (still in the husk)",
+    "butter",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    "Preheat. Set your grill to medium heat (375-400 degrees F). Prep the corn by ripping or cutting off the large ball of silk from the top of the corn and any loose or hanging pieces of the husk.",
+    "Grill. Place the corn directly on the grill grate without peeling off the husk. Grill for 30-40 minutes, flipping a few times to ensure the corn is evenly grilled all the way around.",
+    "Serve and enjoy. Remove the corn to a serving platter, and allow the guests to peel their own corn before eating. The husks make a perfect handle so you don&#39;t have to touch the hot corn. Top with butter, salt, and pepper if desired."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "40 min",
+  "totalTime": "45 min",
+  "recipeYield": "6 6 people",
+  "image": "https://heygrillhey.com/wp-content/uploads/2019/08/EGC-Square.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Grill corn in the husk at medium heat for 30-40 minutes with frequent flips to cook evenly and steam the kernels while the husk chars and protects them.",
+    "keyTips": [
+      "Remove the silk tassel and loose husk pieces before grilling to prevent excessive burning and flare-ups",
+      "Flip the corn every 10 minutes to ensure even cooking and charring on all sides",
+      "Let guests peel the husk themselves at the table—it stays hot longer and the husk provides an insulating handle"
+    ]
+  }
+}

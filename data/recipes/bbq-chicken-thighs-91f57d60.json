@@ -1,0 +1,35 @@
+{
+  "mealId": "bbq-chicken-thighs-91f57d60",
+  "fetchedAt": "2026-06-17T05:29:27.400Z",
+  "url": "https://heygrillhey.com/bbq-chicken-thighs/",
+  "name": "BBQ Chicken Thighs",
+  "description": "Nothing compares to some juicy BBQ chicken thighs, and this recipe combines 3 ingredients with simple technique to give you the perfect chicken thigh every time.",
+  "recipeIngredient": [
+    "2 pounds chicken thighs (bone-in, skin-on)",
+    "2 Tablespoons Hey Grill Hey Sweet Rub (recipe linked in notes section)",
+    "½ cup Hey Grill Hey Whiskey Peach BBQ Sauce (or your favorite BBQ Sauce)"
+  ],
+  "recipeInstructions": [
+    "Preheat your grill for two-zone cooking. This means that one side of the grill is hot (burner set to high, or charcoal stacked to one side) and the other side is cool (burners off or no charcoal). You want the overall temperature of the grill to be around 350 degrees F.",
+    "Prepare the chicken thighs. Trim the excess or overhanging fat or skin from each chicken thigh. Season on both sides with the Sweet Rub BBQ Rub. Press the chicken thighs flat with your hands so they are slightly triangular in shape.",
+    "Char the chicken. Place the seasoned chicken thighs directly on the grill grates over the high-temperature side of the grill. Leave the lid open while you cook the thighs for 2-3 minutes per side. The sugars in the rub will darken and caramelize as it cooks. Watch closely and don&#39;t walk away from the grill during this step or you&#39;ll risk burning the exterior.",
+    "Slowly cook the thighs. Move the slightly charred chicken thighs over to the indirect heat side of the grill, skin side up. Close the lid of the grill and allow the chicken to continue cooking until it reaches an internal temperature of 165 degrees F. This typically takes 25-30 minutes but may go slower or faster depending on the thickness of your thighs and the temperature of the grill. Start checking the temperature on your chicken after 15 minutes to prevent overcooking.",
+    "Sauce your BBQ chicken thighs. Open the lid of your grill and baste your chicken thighs with BBQ sauce on both sides, while still on the indirect side of the grill. Close the lid and cook for 5-10 more minutes, or until the internal temperature of the chicken thighs read 175 degrees F and the sauce is shiny and tacky.",
+    "Rest your thighs. Remove your cooked thighs to a serving platter and rest for 5 minutes before serving (do not cover during the rest period. Enjoy!"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "45 min",
+  "totalTime": "55 min",
+  "recipeYield": "6",
+  "image": "https://heygrillhey.com/wp-content/uploads/2025/03/BCT-Square-scaled.jpg",
+  "author": "Susie Bulloch (heygrillhey.com)",
+  "ai": {
+    "cliffNotes": "Two-zone grilling with a high-heat char followed by low-heat indirect cooking ensures crispy skin and fully cooked meat without burning the rub.",
+    "keyTips": [
+      "Set up two-zone cooking before starting — one side hot, one side cool — this is essential for the technique",
+      "Watch the charring step closely (2-3 minutes per side) because the sugar in the rub burns quickly once it starts caramelizing",
+      "Move thighs to indirect heat once charred and check internal temperature after 15 minutes to avoid overcooking",
+      "Sauce at the very end (last 5-10 minutes) so the BBQ glaze becomes shiny and tacky rather than burning onto the exterior"
+    ]
+  }
+}

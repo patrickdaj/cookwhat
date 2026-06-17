@@ -8,116 +8,652 @@
   "note": "Catalog built from the table of contents (titles + page numbers only). To add any of these as a real cookwhat recipe, scan the full recipe page(s) so the actual ingredient list + method can be captured. Now covers Chicken & Turkey (ch.10), Seafood (ch.11), and Sides (ch.12). COMPLETE: full TOC captured through the end of the Sides chapter (book ends with Index, p.367).",
   "source_format": "Source for any meal cataloged from this book: \"Meathead (Goldwyn) — p.NNN\" (no URL).",
   "recipes": [
-    {"title": "Basic Brinerade", "page": 161, "chapter": "Brines, Rubs & Sauces"},
-    {"title": "Brines for Injection", "page": 161, "chapter": "Brines, Rubs & Sauces"},
-    {"title": "Lubing Turkey Breasts", "page": 162, "chapter": "Brines, Rubs & Sauces"},
-
-    {"title": "Dalmatian Rub", "page": 166, "chapter": "Rubs"},
-    {"title": "Big Bad Beef Rub", "page": 166, "chapter": "Rubs", "fitsMenu": "saved for a future brisket/ribs cook (pulled off the ribeye - too bold for a quick steak)", "scanned": true, "makes": "about 1/2 cup", "captured": {"ingredients": ["3 tbsp coarsely ground black pepper", "1 tbsp sugar", "1 tbsp onion powder", "1 tbsp dry mustard", "2 tsp garlic powder", "2 tsp chili powder or ground ancho", "1 tsp ground chipotle or cayenne"], "method": "Mix together in a bowl. No salt in the rub - salt the meat separately."}},
-    {"title": "Mrs. O'Leary's Cow Crust", "page": 167, "chapter": "Rubs"},
-    {"title": "Meathead's Memphis Dust", "page": 167, "chapter": "Rubs", "note": "the signature pork/rib rub"},
-    {"title": "Simon & Garfunkel Rub", "page": 168, "chapter": "Rubs", "fitsMenu": "herb rub for poultry; used by Grilled Asparagus & Cornell Chicken", "scanned": true, "makes": "about 1/4 cup", "captured": {"ingredients": ["2 tbsp crushed dried sage", "1 tbsp crushed dried parsley", "1 tbsp crushed dried rosemary", "1 tbsp crushed dried thyme", "1 tbsp crushed dried oregano", "1 tbsp crushed dried basil", "1 tbsp crushed bay leaf", "1 tbsp freshly ground black pepper", "1 tbsp sugar"], "method": "Pulse everything in a blender or food processor a few seconds until you have a coarse powder. All-purpose rub for pork, turkey, chicken, veggies, eggs, grilled potatoes, asparagus."}},
-    {"title": "Dolly's Lamb Rub", "page": 169, "chapter": "Rubs"},
-    {"title": "Marietta's Fish Rub", "page": 169, "chapter": "Rubs", "fitsMenu": "for the grilled swordfish"},
-    {"title": "Cajun Seasoning", "page": 170, "chapter": "Rubs"},
-    {"title": "Citrus Salt and Pepper", "page": 170, "chapter": "Rubs"},
-    {"title": "Cowboy Java Rub", "page": 171, "chapter": "Rubs"},
-
-    {"title": "KC Classic Barbecue Sauce", "page": 175, "chapter": "Sauces"},
-    {"title": "Columbia Gold (South Carolina Mustard Sauce)", "page": 177, "chapter": "Sauces"},
-    {"title": "East Carolina Mop Sauce", "page": 178, "chapter": "Sauces"},
-    {"title": "Lexington Dip (West Carolina BBQ Sauce)", "page": 179, "chapter": "Sauces"},
-    {"title": "Texas Mop Sauce", "page": 179, "chapter": "Sauces"},
-    {"title": "Alabama White Sauce", "page": 181, "chapter": "Sauces"},
-    {"title": "Hawaiian Huli-Huli Teriyaki Sauce and Marinade", "page": 183, "chapter": "Sauces"},
-    {"title": "Tartar Sauce", "page": 184, "chapter": "Sauces"},
-    {"title": "Chimichurri Sauce", "page": 189, "chapter": "Sauces", "fitsMenu": "great on steak"},
-    {"title": "Pesto", "page": 189, "chapter": "Sauces"},
-    {"title": "Roasted Red Pepper and Garlic Coulis", "page": 190, "chapter": "Sauces"},
-    {"title": "Japanese Happy Mouth Yakitori Sauce", "page": 191, "chapter": "Sauces"},
-    {"title": "Greek Ladolemono for Seafood", "page": 192, "chapter": "Sauces", "fitsMenu": "perfect for the grilled swordfish", "scanned": true, "makes": "1/2 cup (2-4 servings of seafood)", "captured": {"ingredients": ["1/4 cup high-quality extra-virgin olive oil", "2 tbsp fresh lemon juice", "2 tsp finely chopped fresh oregano (or 1 tsp dried)", "1/4 tsp kosher salt", "1/4 tsp coarsely ground black pepper"], "method": "Combine in a lidded jar and shake thoroughly; shake again just before using. Also good with fresh parsley, basil, or fennel."}},
-    {"title": "Grilled Marinara Sauce", "page": 193, "chapter": "Sauces"},
-    {"title": "Bacon and Onion Jam", "page": 194, "chapter": "Sauces", "note": "bacon is a favorite"},
-
-    {"title": "Perfect Pulled Pork", "page": 198, "chapter": "Pork"},
-    {"title": "Really Loaded Potato Canoes", "page": 202, "chapter": "Pork (side)"},
-    {"title": "Pork Ribs: The Holy Grail", "page": 202, "chapter": "Pork", "isRecipe": false, "note": "Section heading / essay opening the ribs chapter, NOT a standalone recipe. The actual rib recipes are Last-Meal Ribs (p.206) and 60-Minute Ribs Dreamland Style (p.207)."},
-    {"title": "Last-Meal Ribs", "page": 206, "chapter": "Pork"},
-    {"title": "60-Minute Ribs Dreamland Style", "page": 207, "chapter": "Pork"},
-    {"title": "Happy Mouth Yakitori Ribs", "page": 210, "chapter": "Pork"},
-    {"title": "Kermit's Second-Favorite Pork Chops", "page": 210, "chapter": "Pork"},
-    {"title": "Pork Tenderloin with Cowboy Java Rub", "page": 212, "chapter": "Pork"},
-    {"title": "Sweet and Sour Pork Tenderloin", "page": 212, "chapter": "Pork"},
-    {"title": "Pesto-Crusted Pork Loin Roast", "page": 215, "chapter": "Pork"},
-    {"title": "Stuffed Pork Loin Roast", "page": 216, "chapter": "Pork"},
-
-    {"title": "Momofuku-Inspired Ramen Bowl", "page": 221, "chapter": "Pork/Beef"},
-    {"title": "Big, Thick Steakhouse Steaks", "page": 244, "chapter": "Beef", "fitsMenu": "the technique for the July 4 ribeye"},
-    {"title": "The Afterburner Method for Skinny Steaks", "page": 247, "chapter": "Beef"},
-    {"title": "Prime Rib", "page": 249, "chapter": "Beef"},
-    {"title": "Santa Maria Tri-Tip (Poor Man's Prime Rib)", "page": 251, "chapter": "Beef"},
-    {"title": "Chateaubriand with Compound Butter", "page": 254, "chapter": "Beef"},
-    {"title": "Beef Butter", "page": 255, "chapter": "Beef (compound butter)", "fitsMenu": "compound butter for the ribeye", "scanned": true, "makes": "4 oz (1 stick)", "captured": {"ingredients": ["8 tbsp (1 stick) salted butter", "1/2 tsp chopped fresh rosemary", "1/2 tsp chopped fresh parsley", "1/2 tsp chopped fresh tarragon"], "method": "Soften the butter, mash in the herbs with a fork, roll in plastic wrap like a Tootsie Roll (~1 inch thick), twist the ends, and chill overnight. Keeps in fridge or freezer. Endlessly variable - add chipotle, mushrooms, port, miso, etc."}},
-    {"title": "Short Ribs, Texas Style", "page": 257, "chapter": "Beef"},
-    {"title": "Short Ribs, Brazilian Steakhouse Style", "page": 257, "chapter": "Beef"},
-    {"title": "Texas Beef Brisket", "page": 260, "chapter": "Beef"},
-    {"title": "Close to Katz's Pastrami", "page": 263, "chapter": "Beef"},
-
-    {"title": "The Great American Steakhouse Steakburger", "page": 270, "chapter": "Burgers"},
-    {"title": "Diner Burgers", "page": 272, "chapter": "Burgers"},
-    {"title": "The Zen of Cheeseburgers", "page": 273, "chapter": "Burgers"},
-    {"title": "A Better Italian Sausage Sandwich", "page": 277, "chapter": "Sausages"},
-    {"title": "Touchdown Tailgate Brat Tub", "page": 279, "chapter": "Sausages"},
-
-    {"title": "Wood-Grilled Rack of Lamb", "page": 284, "chapter": "Lamb"},
-    {"title": "Herbed Lamb Lollipops", "page": 285, "chapter": "Lamb"},
-    {"title": "Marinated Lamb Loin Chops", "page": 286, "chapter": "Lamb"},
-    {"title": "Leg o' Lamb", "page": 287, "chapter": "Lamb"},
-    {"title": "Binghamton Spiedie Sandwiches", "page": 289, "chapter": "Lamb"},
-
-    {"title": "Simon & Garfunkel Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "alt for the Fri grilled chicken"},
-    {"title": "Cornell Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "classic grilled chicken", "scanned": true, "makes": "3-4 servings", "captured": {"ingredients": ["1 large egg", "1/4 cup vegetable oil", "1/4 cup apple cider vinegar", "1 tsp table salt", "1 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp freshly ground black pepper", "1 (3- to 4-pound) chicken, cut into quarters"], "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."}},
-    {"title": "Hawaiian Huli-Huli Teriyaki Chicken", "page": 299, "chapter": "Chicken & Turkey"},
-    {"title": "Sweet Georgia Brown Smoked Yard Bird", "page": 300, "chapter": "Chicken & Turkey"},
-    {"title": "Pulled Chicken", "page": 300, "chapter": "Chicken & Turkey"},
-    {"title": "Big Bob Gibson's Chicken in 'Bama White Sauce", "page": 301, "chapter": "Chicken & Turkey"},
-    {"title": "Piri Piri Chicken", "page": 301, "chapter": "Chicken & Turkey"},
-    {"title": "Blasphemy Buffalo Chicken Wings", "page": 302, "chapter": "Chicken & Turkey"},
-    {"title": "Rotisserie Chicken Provencal", "page": 304, "chapter": "Chicken & Turkey"},
-    {"title": "Marinated Cornish Game Hens", "page": 306, "chapter": "Chicken & Turkey"},
-    {"title": "The Ultimate Smoked Turkey", "page": 307, "chapter": "Chicken & Turkey"},
-    {"title": "Turkey Breast Teriyaki", "page": 314, "chapter": "Chicken & Turkey"},
-    {"title": "Grilled Duck Breasts in Cherry-Port Sauce", "page": 315, "chapter": "Chicken & Turkey"},
-
-    {"title": "Chef Bonner's Fish Fillets with Brioni Broth", "page": 323, "chapter": "Seafood"},
-    {"title": "Smoked Trout, Florida Mullet Style", "page": 325, "chapter": "Seafood"},
-    {"title": "Schmancy Hot-Smoked Salmon", "page": 326, "chapter": "Seafood"},
-    {"title": "Smoked Salmon Mousse Canapes", "page": 329, "chapter": "Seafood"},
-    {"title": "Smoked Salmon Quiche", "page": 330, "chapter": "Seafood"},
-    {"title": "Smoked Halibut Salad", "page": 330, "chapter": "Seafood"},
-    {"title": "Butter-Poached Fillets", "page": 331, "chapter": "Seafood"},
-    {"title": "Baja Fish Tacos", "page": 332, "chapter": "Seafood", "note": "mexican seafood; fits your tastes", "scanned": true, "makes": "2 servings", "flag": "sour cream (dairy)", "captured": {"ingredients": ["1 lb skinless mild white fish (snapper, mahi-mahi, grouper, or tilapia)", "kosher salt", "1 tbsp ancho chile powder", "1 tbsp freshly ground black pepper", "1/2 cup sour cream", "1 tbsp mayonnaise (plus more to coat the fish)", "2 1/2 tsp finely chopped chipotle in adobo", "4 fresh corn tortillas", "1 ripe avocado", "2 limes, quartered", "1/4 small head cabbage, shredded", "pico de gallo or red salsa"], "method": "Season fish with salt, ancho, and pepper. Mix sour cream + mayo + chipotle; chill. Coat fish in a thin layer of mayo and grill on a metal topper over two-zone heat until just cooked. Warm tortillas; toss avocado with lime. Assemble: fish, chipotle crema, cabbage, avocado, pico; serve with lime wedges."}},
-    {"title": "Grilled Calamari Ladolemono", "page": 334, "chapter": "Seafood"},
-    {"title": "Quick-Smoked Clams, Mussels, or Oysters", "page": 338, "chapter": "Seafood"},
-    {"title": "Clambake with Grilled Crostini", "page": 339, "chapter": "Seafood"},
-    {"title": "Grilled Oysters with White Wine Sauce", "page": 340, "chapter": "Seafood"},
-    {"title": "Joe's Fireproof Grilled Shrimp", "page": 343, "chapter": "Seafood", "note": "shrimp is a favorite"},
-    {"title": "Championship Bacon-Wrapped Stuffed Shrimp", "page": 344, "chapter": "Seafood", "note": "shrimp + bacon, both favorites", "scanned": true, "makes": "20 appetizer servings", "flag": "cream cheese (dairy); it's an appetizer, not a dinner main", "captured": {"ingredients": ["20 shell-on large (16/20 count) shrimp, preferably wild Gulf", "kosher salt", "3 jalapenos", "20 bacon slices, preferably pepper-crusted", "1 (8-ounce) package cream cheese", "Thai sweet chili sauce (e.g. Maggi Taste of Asia Mild Sweet Chili)", "finely chopped chives or flat-leaf parsley (optional garnish)"], "method": "Peel/devein shrimp leaving tails on; brine (p.343). Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick. Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish."}},
-    {"title": "Greg's Grilled Lobster", "page": 346, "chapter": "Seafood"},
-
-    {"title": "Simple Grilled Crostini", "page": 350, "chapter": "Sides"},
-    {"title": "Grilled Asparagus", "page": 350, "chapter": "Sides", "fitsMenu": "the green side for the July 4 ribeye", "scanned": true, "makes": "2 servings", "captured": {"ingredients": ["16 fresh asparagus stalks", "1 tbsp extra-virgin olive oil", "1 1/4 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp kosher salt", "4 oz Parmigiano-Reggiano cheese", "1 tbsp balsamic condimento or balsamic reduction"], "method": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons. Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle."}},
-    {"title": "Grilled Cauliflower", "page": 352, "chapter": "Sides"},
-    {"title": "The Ultimate Grilled Corn on the Cob", "page": 353, "chapter": "Sides", "fitsMenu": "cookbook alt for the Fri grilled corn"},
-    {"title": "Chipotle-Lime Corn on the Cob", "page": 354, "chapter": "Sides"},
-    {"title": "Grilled Romaine Salad", "page": 355, "chapter": "Sides"},
-    {"title": "Fire-Roasted Eggplant Baba Ghanoush", "page": 356, "chapter": "Sides"},
-    {"title": "Smoked Potato Salad", "page": 357, "chapter": "Sides", "fitsMenu": "cookbook alt for the July 4 potato salad"},
-    {"title": "Baked Potatoes (Best on the Grill)", "page": 358, "chapter": "Sides"},
-    {"title": "Twice-Baked Potatoes", "page": 359, "chapter": "Sides"},
-    {"title": "Grilled Polenta", "page": 360, "chapter": "Sides"},
-    {"title": "Boston Barbecue Beans", "page": 361, "chapter": "Sides", "flag": "beans — keep low per prefs"},
-    {"title": "Sweet-Sour Slaw", "page": 362, "chapter": "Sides", "note": "vinegar-based, no dairy"},
-    {"title": "Classic Deli Slaw with Sour Cream and Mayo", "page": 364, "chapter": "Sides", "flag": "sour cream + mayo (dairy)"}
+    {
+      "title": "Basic Brinerade",
+      "page": 161,
+      "chapter": "Brines, Rubs & Sauces"
+    },
+    {
+      "title": "Brines for Injection",
+      "page": 161,
+      "chapter": "Brines, Rubs & Sauces"
+    },
+    {
+      "title": "Lubing Turkey Breasts",
+      "page": 162,
+      "chapter": "Brines, Rubs & Sauces"
+    },
+    {
+      "title": "Dalmatian Rub",
+      "page": 166,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "Big Bad Beef Rub",
+      "page": 166,
+      "chapter": "Rubs",
+      "fitsMenu": "saved for a future brisket/ribs cook (pulled off the ribeye - too bold for a quick steak)",
+      "scanned": true,
+      "makes": "about 1/2 cup",
+      "captured": {
+        "ingredients": [
+          "3 tbsp coarsely ground black pepper",
+          "1 tbsp sugar",
+          "1 tbsp onion powder",
+          "1 tbsp dry mustard",
+          "2 tsp garlic powder",
+          "2 tsp chili powder or ground ancho",
+          "1 tsp ground chipotle or cayenne"
+        ],
+        "method": "Mix together in a bowl. No salt in the rub - salt the meat separately."
+      }
+    },
+    {
+      "title": "Mrs. O'Leary's Cow Crust",
+      "page": 167,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "Meathead's Memphis Dust",
+      "page": 167,
+      "chapter": "Rubs",
+      "note": "the signature pork/rib rub"
+    },
+    {
+      "title": "Simon & Garfunkel Rub",
+      "page": 168,
+      "chapter": "Rubs",
+      "fitsMenu": "herb rub for poultry; used by Grilled Asparagus & Cornell Chicken",
+      "scanned": true,
+      "makes": "about 1/4 cup",
+      "captured": {
+        "ingredients": [
+          "2 tbsp crushed dried sage",
+          "1 tbsp crushed dried parsley",
+          "1 tbsp crushed dried rosemary",
+          "1 tbsp crushed dried thyme",
+          "1 tbsp crushed dried oregano",
+          "1 tbsp crushed dried basil",
+          "1 tbsp crushed bay leaf",
+          "1 tbsp freshly ground black pepper",
+          "1 tbsp sugar"
+        ],
+        "method": "Pulse everything in a blender or food processor a few seconds until you have a coarse powder. All-purpose rub for pork, turkey, chicken, veggies, eggs, grilled potatoes, asparagus."
+      }
+    },
+    {
+      "title": "Dolly's Lamb Rub",
+      "page": 169,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "Marietta's Fish Rub",
+      "page": 169,
+      "chapter": "Rubs",
+      "fitsMenu": "for the grilled swordfish"
+    },
+    {
+      "title": "Cajun Seasoning",
+      "page": 170,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "Citrus Salt and Pepper",
+      "page": 170,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "Cowboy Java Rub",
+      "page": 171,
+      "chapter": "Rubs"
+    },
+    {
+      "title": "KC Classic Barbecue Sauce",
+      "page": 175,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Columbia Gold (South Carolina Mustard Sauce)",
+      "page": 177,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "East Carolina Mop Sauce",
+      "page": 178,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Lexington Dip (West Carolina BBQ Sauce)",
+      "page": 179,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Texas Mop Sauce",
+      "page": 179,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Alabama White Sauce",
+      "page": 181,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Hawaiian Huli-Huli Teriyaki Sauce and Marinade",
+      "page": 183,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Tartar Sauce",
+      "page": 184,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Chimichurri Sauce",
+      "page": 189,
+      "chapter": "Sauces",
+      "fitsMenu": "great on steak"
+    },
+    {
+      "title": "Pesto",
+      "page": 189,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Roasted Red Pepper and Garlic Coulis",
+      "page": 190,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Japanese Happy Mouth Yakitori Sauce",
+      "page": 191,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Greek Ladolemono for Seafood",
+      "page": 192,
+      "chapter": "Sauces",
+      "fitsMenu": "perfect for the grilled swordfish",
+      "scanned": true,
+      "makes": "1/2 cup (2-4 servings of seafood)",
+      "captured": {
+        "ingredients": [
+          "1/4 cup high-quality extra-virgin olive oil",
+          "2 tbsp fresh lemon juice",
+          "2 tsp finely chopped fresh oregano (or 1 tsp dried)",
+          "1/4 tsp kosher salt",
+          "1/4 tsp coarsely ground black pepper"
+        ],
+        "method": "Combine in a lidded jar and shake thoroughly; shake again just before using. Also good with fresh parsley, basil, or fennel."
+      }
+    },
+    {
+      "title": "Grilled Marinara Sauce",
+      "page": 193,
+      "chapter": "Sauces"
+    },
+    {
+      "title": "Bacon and Onion Jam",
+      "page": 194,
+      "chapter": "Sauces",
+      "note": "bacon is a favorite"
+    },
+    {
+      "title": "Perfect Pulled Pork",
+      "page": 198,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Really Loaded Potato Canoes",
+      "page": 202,
+      "chapter": "Pork (side)"
+    },
+    {
+      "title": "Pork Ribs: The Holy Grail",
+      "page": 202,
+      "chapter": "Pork",
+      "isRecipe": false,
+      "note": "Section heading / essay opening the ribs chapter, NOT a standalone recipe. The actual rib recipes are Last-Meal Ribs (p.206) and 60-Minute Ribs Dreamland Style (p.207)."
+    },
+    {
+      "title": "Last-Meal Ribs",
+      "page": 206,
+      "chapter": "Pork"
+    },
+    {
+      "title": "60-Minute Ribs Dreamland Style",
+      "page": 207,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Happy Mouth Yakitori Ribs",
+      "page": 210,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Kermit's Second-Favorite Pork Chops",
+      "page": 210,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Pork Tenderloin with Cowboy Java Rub",
+      "page": 212,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Sweet and Sour Pork Tenderloin",
+      "page": 212,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Pesto-Crusted Pork Loin Roast",
+      "page": 215,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Stuffed Pork Loin Roast",
+      "page": 216,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Momofuku-Inspired Ramen Bowl",
+      "page": 221,
+      "chapter": "Pork/Beef"
+    },
+    {
+      "title": "Big, Thick Steakhouse Steaks",
+      "page": 244,
+      "chapter": "Beef",
+      "fitsMenu": "the technique for the July 4 ribeye"
+    },
+    {
+      "title": "The Afterburner Method for Skinny Steaks",
+      "page": 247,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Prime Rib",
+      "page": 249,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Santa Maria Tri-Tip (Poor Man's Prime Rib)",
+      "page": 251,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Chateaubriand with Compound Butter",
+      "page": 254,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Beef Butter",
+      "page": 255,
+      "chapter": "Beef (compound butter)",
+      "fitsMenu": "compound butter for the ribeye",
+      "scanned": true,
+      "makes": "4 oz (1 stick)",
+      "captured": {
+        "ingredients": [
+          "8 tbsp (1 stick) salted butter",
+          "1/2 tsp chopped fresh rosemary",
+          "1/2 tsp chopped fresh parsley",
+          "1/2 tsp chopped fresh tarragon"
+        ],
+        "method": "Soften the butter, mash in the herbs with a fork, roll in plastic wrap like a Tootsie Roll (~1 inch thick), twist the ends, and chill overnight. Keeps in fridge or freezer. Endlessly variable - add chipotle, mushrooms, port, miso, etc."
+      }
+    },
+    {
+      "title": "Short Ribs, Texas Style",
+      "page": 257,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Short Ribs, Brazilian Steakhouse Style",
+      "page": 257,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Texas Beef Brisket",
+      "page": 260,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Close to Katz's Pastrami",
+      "page": 263,
+      "chapter": "Beef"
+    },
+    {
+      "title": "The Great American Steakhouse Steakburger",
+      "page": 270,
+      "chapter": "Burgers"
+    },
+    {
+      "title": "Diner Burgers",
+      "page": 272,
+      "chapter": "Burgers"
+    },
+    {
+      "title": "The Zen of Cheeseburgers",
+      "page": 273,
+      "chapter": "Burgers"
+    },
+    {
+      "title": "A Better Italian Sausage Sandwich",
+      "page": 277,
+      "chapter": "Sausages"
+    },
+    {
+      "title": "Touchdown Tailgate Brat Tub",
+      "page": 279,
+      "chapter": "Sausages"
+    },
+    {
+      "title": "Wood-Grilled Rack of Lamb",
+      "page": 284,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Herbed Lamb Lollipops",
+      "page": 285,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Marinated Lamb Loin Chops",
+      "page": 286,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Leg o' Lamb",
+      "page": 287,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Binghamton Spiedie Sandwiches",
+      "page": 289,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Simon & Garfunkel Chicken",
+      "page": 298,
+      "chapter": "Chicken & Turkey",
+      "fitsMenu": "alt for the Fri grilled chicken"
+    },
+    {
+      "title": "Cornell Chicken",
+      "page": 298,
+      "chapter": "Chicken & Turkey",
+      "fitsMenu": "classic grilled chicken",
+      "scanned": true,
+      "makes": "3-4 servings",
+      "captured": {
+        "ingredients": [
+          "1 large egg",
+          "1/4 cup vegetable oil",
+          "1/4 cup apple cider vinegar",
+          "1 tsp table salt",
+          "1 tsp Simon & Garfunkel Rub (p.168)",
+          "1/4 tsp freshly ground black pepper",
+          "1 (3- to 4-pound) chicken, cut into quarters"
+        ],
+        "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."
+      }
+    },
+    {
+      "title": "Hawaiian Huli-Huli Teriyaki Chicken",
+      "page": 299,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Sweet Georgia Brown Smoked Yard Bird",
+      "page": 300,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Pulled Chicken",
+      "page": 300,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Big Bob Gibson's Chicken in 'Bama White Sauce",
+      "page": 301,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Piri Piri Chicken",
+      "page": 301,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Blasphemy Buffalo Chicken Wings",
+      "page": 302,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Rotisserie Chicken Provencal",
+      "page": 304,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Marinated Cornish Game Hens",
+      "page": 306,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "The Ultimate Smoked Turkey",
+      "page": 307,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Turkey Breast Teriyaki",
+      "page": 314,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Grilled Duck Breasts in Cherry-Port Sauce",
+      "page": 315,
+      "chapter": "Chicken & Turkey"
+    },
+    {
+      "title": "Chef Bonner's Fish Fillets with Brioni Broth",
+      "page": 323,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Smoked Trout, Florida Mullet Style",
+      "page": 325,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Schmancy Hot-Smoked Salmon",
+      "page": 326,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Smoked Salmon Mousse Canapes",
+      "page": 329,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Smoked Salmon Quiche",
+      "page": 330,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Smoked Halibut Salad",
+      "page": 330,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Butter-Poached Fillets",
+      "page": 331,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Baja Fish Tacos",
+      "page": 332,
+      "chapter": "Seafood",
+      "note": "mexican seafood; fits your tastes",
+      "scanned": true,
+      "makes": "2 servings",
+      "flag": "sour cream (dairy)",
+      "captured": {
+        "ingredients": [
+          "1 lb skinless mild white fish (snapper, mahi-mahi, grouper, or tilapia)",
+          "kosher salt",
+          "1 tbsp ancho chile powder",
+          "1 tbsp freshly ground black pepper",
+          "1/2 cup sour cream",
+          "1 tbsp mayonnaise (plus more to coat the fish)",
+          "2 1/2 tsp finely chopped chipotle in adobo",
+          "4 fresh corn tortillas",
+          "1 ripe avocado",
+          "2 limes, quartered",
+          "1/4 small head cabbage, shredded",
+          "pico de gallo or red salsa"
+        ],
+        "method": "Season fish with salt, ancho, and pepper. Mix sour cream + mayo + chipotle; chill. Coat fish in a thin layer of mayo and grill on a metal topper over two-zone heat until just cooked. Warm tortillas; toss avocado with lime. Assemble: fish, chipotle crema, cabbage, avocado, pico; serve with lime wedges."
+      }
+    },
+    {
+      "title": "Grilled Calamari Ladolemono",
+      "page": 334,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Quick-Smoked Clams, Mussels, or Oysters",
+      "page": 338,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Clambake with Grilled Crostini",
+      "page": 339,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Grilled Oysters with White Wine Sauce",
+      "page": 340,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Joe's Fireproof Grilled Shrimp",
+      "page": 343,
+      "chapter": "Seafood",
+      "note": "shrimp is a favorite"
+    },
+    {
+      "title": "Championship Bacon-Wrapped Stuffed Shrimp",
+      "page": 344,
+      "chapter": "Seafood",
+      "note": "shrimp + bacon, both favorites",
+      "scanned": true,
+      "makes": "20 appetizer servings",
+      "flag": "cream cheese (dairy); it's an appetizer, not a dinner main",
+      "captured": {
+        "ingredients": [
+          "20 shell-on large (16/20 count) shrimp, preferably wild Gulf",
+          "kosher salt",
+          "3 jalapenos",
+          "20 bacon slices, preferably pepper-crusted",
+          "1 (8-ounce) package cream cheese",
+          "Thai sweet chili sauce (e.g. Maggi Taste of Asia Mild Sweet Chili)",
+          "finely chopped chives or flat-leaf parsley (optional garnish)"
+        ],
+        "method": "Peel/devein shrimp leaving tails on; brine (p.343). Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick. Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish."
+      }
+    },
+    {
+      "title": "Greg's Grilled Lobster",
+      "page": 346,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Simple Grilled Crostini",
+      "page": 350,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Grilled Asparagus",
+      "page": 350,
+      "chapter": "Sides",
+      "fitsMenu": "the green side for the July 4 ribeye",
+      "scanned": true,
+      "makes": "2 servings",
+      "captured": {
+        "ingredients": [
+          "16 fresh asparagus stalks",
+          "1 tbsp extra-virgin olive oil",
+          "1 1/4 tsp Simon & Garfunkel Rub (p.168)",
+          "1/4 tsp kosher salt",
+          "4 oz Parmigiano-Reggiano cheese",
+          "1 tbsp balsamic condimento or balsamic reduction"
+        ],
+        "method": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons. Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle."
+      }
+    },
+    {
+      "title": "Grilled Cauliflower",
+      "page": 352,
+      "chapter": "Sides"
+    },
+    {
+      "title": "The Ultimate Grilled Corn on the Cob",
+      "page": 353,
+      "chapter": "Sides",
+      "fitsMenu": "cookbook alt for the Fri grilled corn"
+    },
+    {
+      "title": "Chipotle-Lime Corn on the Cob",
+      "page": 354,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Grilled Romaine Salad",
+      "page": 355,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Fire-Roasted Eggplant Baba Ghanoush",
+      "page": 356,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Smoked Potato Salad",
+      "page": 357,
+      "chapter": "Sides",
+      "fitsMenu": "cookbook alt for the July 4 potato salad"
+    },
+    {
+      "title": "Baked Potatoes (Best on the Grill)",
+      "page": 358,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Twice-Baked Potatoes",
+      "page": 359,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Grilled Polenta",
+      "page": 360,
+      "chapter": "Sides"
+    },
+    {
+      "title": "Boston Barbecue Beans",
+      "page": 361,
+      "chapter": "Sides",
+      "flag": "beans — keep low per prefs"
+    },
+    {
+      "title": "Sweet-Sour Slaw",
+      "page": 362,
+      "chapter": "Sides",
+      "note": "vinegar-based, no dairy"
+    },
+    {
+      "title": "Classic Deli Slaw with Sour Cream and Mayo",
+      "page": 364,
+      "chapter": "Sides",
+      "flag": "sour cream + mayo (dairy)"
+    }
   ]
 }

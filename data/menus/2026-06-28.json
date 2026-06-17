@@ -591,82 +591,21 @@
       "notes": "Toast the orzo with the onion until golden before adding rice and liquid."
     },
     {
-      "id": "grilled-spatchcock-chicken-with-dry-rub-d96877c2",
+      "id": "bbq-chicken-thighs-91f57d60",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Spatchcock Chicken with Dry Rub",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/spatchcock-chicken-grill-recipe-23392054",
+      "title": "BBQ Chicken Thighs",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/bbq-chicken-thighs/",
       "cuisine": "american",
       "protein": "chicken",
-      "tags": [
-        "grill",
-        "weekend",
-        "cabin"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "whole chicken (~4 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "brown sugar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "paprika",
-          "qty": 1.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "garlic powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "onion powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "dried ground mustard",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "chili powder",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Dry-brine overnight uncovered on a rack for crisp skin, then grill flat over the flame. Spatchcock at home before you travel."
+      "tags": [],
+      "activeTimeMin": 10,
+      "totalTimeMin": 50,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Indirect heat to 155°F (~30 min), sauce and finish over direct heat to 165°F (~10 min). Pairs with the corn and zucchini already on deck."
     },
     {
       "id": "easy-grilled-corn-on-the-cob-fe9c90be",
@@ -730,9 +669,9 @@
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Easy Grilled Zucchini Planks",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/grilled-zucchini-recipe-23035452",
+      "title": "Grilled Zucchini",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
       "cuisine": "american",
       "protein": "vegetable",
       "tags": [
@@ -835,6 +774,71 @@
       "notes": "Salt the steaks generously (ahead if you can) and add coarse pepper; sear hot with the Hey Grill Hey two-zone method. Make Beef Butter ahead (Meathead/Goldwyn p.255): mash the herbs into a softened stick of butter, roll in plastic like a Tootsie Roll, chill overnight, and top the rested steaks with a coin so it melts over. (Big Bad Beef Rub saved for a future brisket/ribs cook.)"
     },
     {
+      "id": "grilled-smashed-potatoes-22902977",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Smashed Potatoes with Za'atar",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
+      "cuisine": "american",
+      "protein": "potato",
+      "tags": [
+        "grill",
+        "cabin",
+        "side",
+        "festive"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby red or Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "halved, grilled alongside"
+        },
+        {
+          "item": "fresh chives or parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "black pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Par-boil the potatoes until tender, toss with oil/salt/pepper, smash with a glass just until the skins split, then grill until charred and crisp. Grill a lemon half alongside and squeeze over. (Quantities best-effort - site blocks our fetch tools.)"
+    },
+    {
       "id": "grilled-asparagus-cf65d880",
       "day": "Sat",
       "slot": "dinner",
@@ -898,71 +902,6 @@
         }
       ],
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
-    },
-    {
-      "id": "grilled-smashed-potatoes-22902977",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Grilled Smashed Potatoes",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/grilled-smashed-potatoes-22902977",
-      "cuisine": "american",
-      "protein": "potato",
-      "tags": [
-        "grill",
-        "cabin",
-        "side",
-        "festive"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "baby red or Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra virgin olive oil",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "halved, grilled alongside"
-        },
-        {
-          "item": "fresh chives or parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "kosher salt",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "black pepper",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Par-boil the potatoes until tender, toss with oil/salt/pepper, smash with a glass just until the skins split, then grill until charred and crisp. Grill a lemon half alongside and squeeze over. (Quantities best-effort - site blocks our fetch tools.)"
     }
   ],
   "setAt": "2026-06-17T05:05:15.458Z"
