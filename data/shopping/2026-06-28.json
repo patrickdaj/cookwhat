@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T04:50:48.332Z",
+  "generatedAt": "2026-06-17T04:59:45.115Z",
   "targetServings": 4,
   "sections": [
     {
@@ -17,22 +17,22 @@
           "hasUnquantified": false
         },
         {
+          "item": "baby red or Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Smashed Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "bell peppers (assorted), sliced",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Shrimp Fajitas"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "celery",
-          "qty": 2,
-          "unit": "stalks",
-          "category": "produce",
-          "fromMeals": [
-            "All-American Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -63,6 +63,16 @@
           "category": "produce",
           "fromMeals": [
             "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh chives or parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Smashed Potatoes"
           ],
           "hasUnquantified": false
         },
@@ -134,7 +144,7 @@
           "unit": "tsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+            "Grilled Ribeye with Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -144,7 +154,7 @@
           "unit": "tsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+            "Grilled Ribeye with Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -154,7 +164,7 @@
           "unit": "tsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+            "Grilled Ribeye with Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -193,14 +203,25 @@
           "hasUnquantified": false
         },
         {
+          "item": "haricots verts (thin green beans)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Haricot Vert with Shallots"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Crispy Roasted Red Potatoes",
             "20-Minute Greek Salmon",
-            "Greek Lemon Rice"
+            "Greek Lemon Rice",
+            "Grilled Smashed Potatoes"
           ],
           "hasUnquantified": false
         },
@@ -236,16 +257,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "red onion",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "All-American Potato Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "red potatoes",
           "qty": 2,
           "unit": "lb",
@@ -267,11 +278,12 @@
         },
         {
           "item": "shallots",
-          "qty": 2,
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken Provencal with Olives and Cherry Tomatoes"
+            "Chicken Provencal with Olives and Cherry Tomatoes",
+            "Haricot Vert with Shallots"
           ],
           "hasUnquantified": false
         },
@@ -282,16 +294,6 @@
           "category": "produce",
           "fromMeals": [
             "Greek Lemon Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Yukon Gold or waxy potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "All-American Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -356,7 +358,7 @@
           "unit": "steak",
           "category": "meat-seafood",
           "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+            "Grilled Ribeye with Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -385,16 +387,6 @@
     {
       "category": "dairy",
       "items": [
-        {
-          "item": "eggs (hard-boiled)",
-          "qty": 3,
-          "unit": "",
-          "category": "dairy",
-          "fromMeals": [
-            "All-American Potato Salad"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "large eggs",
           "qty": 8,
@@ -486,16 +478,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "mayonnaise",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "All-American Potato Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "mirin",
           "qty": 4,
           "unit": "tbsp",
@@ -524,16 +506,6 @@
             "Oyakodon (Chicken and Egg Bowl)"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "yellow mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "All-American Potato Salad"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -557,16 +529,6 @@
           "category": "canned",
           "fromMeals": [
             "Greek Lemon Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dill pickles",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "All-American Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -607,16 +569,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "chili powder or ground ancho",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "dried ground mustard",
           "qty": 0.67,
           "unit": "tsp",
@@ -638,33 +590,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "dry mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "garlic powder",
-          "qty": 2.67,
+          "qty": 0.67,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub",
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ground chipotle or cayenne",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+            "Grilled Spatchcock Chicken with Dry Rub"
           ],
           "hasUnquantified": false
         },
@@ -697,16 +628,6 @@
           "fromMeals": [
             "Shrimp Fajitas",
             "Grilled Spatchcock Chicken with Dry Rub"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "onion powder",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -762,13 +683,13 @@
   ],
   "excludedStaples": [
     "extra virgin olive oil",
-    "brown sugar",
     "butter",
+    "brown sugar",
     "olive oil",
     "kosher salt",
     "coarsely ground black pepper",
-    "sugar",
-    "salted butter"
+    "salted butter",
+    "black pepper"
   ],
-  "totalItems": 70
+  "totalItems": 62
 }
