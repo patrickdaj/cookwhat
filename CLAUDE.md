@@ -22,7 +22,9 @@ generate a shopping list.
    invent a URL.
 4. **Design a balanced week.** Spread proteins and cuisines; respect time
    budgets (quick on weeknights, project cooking on weekends); lean toward the
-   `nutrition.goals`. Pull ingredient lists from the actual recipes.
+   `nutrition.goals`. Pull ingredient lists from the actual recipes. **Build
+   full dinners** (see "Full meals" below): most days should land a protein, a
+   vegetable, and a carb.
 5. **Save the plan.** Write a plan JSON and import it (preferred for a full
    week), or add meals one at a time. See "Saving a plan" below.
 6. **Validate & self-correct.** `cookwhat plan check <week>`. Fix any ✗ errors
@@ -74,6 +76,23 @@ Field notes:
   omitted, the CLI guesses. Set it when you can for a cleaner list.
 - Quantities should be for the recipe's own `servings`; the CLI scales on
   request. Omit `qty` for "to taste" items.
+
+## Full meals (protein + veggie + carb)
+
+Most dinners should be a **complete plate: a protein, a vegetable, and some kind
+of carb** (rice, potatoes, bread, pasta, grain). This is a design rule for *you*
+— the CLI doesn't validate meal composition, so it won't show up in `plan
+check`; you have to compose it.
+
+- The carb/veggie can live **inside the main** (e.g. a sheet-pan chicken with
+  potatoes already has its carb; a stir-fry already has its veg) — don't bolt on
+  a redundant side. Only add a `side` dish when the main is missing a component.
+- When you do add one, pull from the user's pools first: **Paprika recipes and
+  cookbooks** are full of veg sides and salads, so a "full meal" is also a
+  natural way to keep using the recipe database. Trivial carbs (steamed rice,
+  crusty bread) can just be ingredient lines on the main — see Sides rules below.
+- Breakfasts (e.g. a Sunday Huevos) are exempt; this is about dinners.
+- "Most days," not all — a one-bowl ramen night is fine. Use judgment.
 
 ## Sides & multi-dish days (lessons learned)
 

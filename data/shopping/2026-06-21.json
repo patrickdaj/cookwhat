@@ -1,18 +1,19 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-17T05:05:15.589Z",
+  "generatedAt": "2026-06-17T15:52:57.174Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "apples (Honeycrisp or Pink Lady)",
-          "qty": 2,
-          "unit": "",
+          "item": "arugula",
+          "qty": 12,
+          "unit": "oz",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Pork Chops Milanese with Amatriciana",
+            "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
         },
@@ -27,62 +28,32 @@
           "hasUnquantified": false
         },
         {
-          "item": "baby arugula",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "baby potatoes",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Roasted Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bean sprouts",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Shrimp Pad Thai"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bok choy",
-          "qty": 2,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "carrots",
+          "item": "carrot",
           "qty": 1,
-          "unit": "lb",
+          "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Honey-Garlic Roasted Carrots"
+            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "cherry tomatoes",
-          "qty": 1,
-          "unit": "pint",
+          "item": "celery",
+          "qty": 2,
+          "unit": "stalk",
           "category": "produce",
           "fromMeals": [
-            "Garlicky Shrimp Linguine"
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chives or parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Championship Bacon-Wrapped Stuffed Shrimp"
           ],
           "hasUnquantified": false
         },
@@ -97,22 +68,42 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "tsp",
+          "item": "clementines",
+          "qty": 2,
+          "unit": "",
           "category": "produce",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "fresh mint",
-          "qty": 1,
-          "unit": "sprig",
+          "item": "corn on the cob",
+          "qty": 4,
+          "unit": "ear",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fennel bulb",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -128,43 +119,11 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
+          "qty": 0.25,
+          "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Pork Loin with Apples"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 4,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Pork Loin with Apples",
-            "Crispy Roasted Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh sage",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -181,29 +140,35 @@
         },
         {
           "item": "garlic",
-          "qty": 27,
+          "qty": 10,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
-            "Shrimp Pad Thai",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice",
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes and Capers",
-            "Roasted Pork Loin with Apples",
             "Fondant Potatoes",
-            "Honey-Garlic Roasted Carrots"
+            "Takeout-Style Kung Pao Chicken",
+            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "Granny Smith apple",
+          "item": "green bell pepper",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -219,24 +184,24 @@
         },
         {
           "item": "jalapeño",
-          "qty": 2,
+          "qty": 5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Huevos Rancheros"
+            "Huevos Rancheros",
+            "Championship Bacon-Wrapped Stuffed Shrimp"
           ],
           "hasUnquantified": false
         },
         {
           "item": "lemon",
-          "qty": 4.5,
+          "qty": 2.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes and Capers",
-            "Roasted Pork Loin with Apples",
-            "Haricots Verts with Butter and Shallots"
+            "Haricots Verts with Butter and Shallots",
+            "Pork Chops Milanese with Amatriciana",
+            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
@@ -251,12 +216,53 @@
           "hasUnquantified": false
         },
         {
-          "item": "lime",
+          "item": "navel oranges",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roast Spatchcock Chicken with Citrus & Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "potatoes",
+          "qty": 5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roast Spatchcock Chicken with Citrus & Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.75,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Coleslaw",
+            "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
         },
@@ -271,13 +277,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "bunch",
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Pad Thai",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -293,6 +298,26 @@
           "hasUnquantified": false
         },
         {
+          "item": "shishito peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Tokyo negi (long green onion)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "white onion",
           "qty": 1,
           "unit": "",
@@ -304,12 +329,11 @@
         },
         {
           "item": "yellow onion",
-          "qty": 2,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers",
-            "Roasted Pork Loin with Apples"
+            "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
         },
@@ -329,12 +353,12 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "boneless pork loin roast",
-          "qty": 3.5,
-          "unit": "lb",
+          "item": "bacon (pepper-crusted)",
+          "qty": 20,
+          "unit": "slice",
           "category": "meat-seafood",
           "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Championship Bacon-Wrapped Stuffed Shrimp"
           ],
           "hasUnquantified": false
         },
@@ -345,28 +369,57 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Chicken au Poivre",
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 2.5,
-          "unit": "lb",
+          "item": "large shrimp (16/20), shell-on",
+          "qty": 20,
+          "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Shrimp Pad Thai",
-            "Garlicky Shrimp Linguine"
+            "Championship Bacon-Wrapped Stuffed Shrimp"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "white fish fillets (cod or halibut)",
+          "item": "pork chops, frenched (3/4-inch)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "slab bacon or pancetta",
+          "qty": 4,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken (~5 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Roast Spatchcock Chicken with Citrus & Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellowtail (hamachi/buri) fillets",
           "qty": 2,
-          "unit": "lb",
+          "unit": "fillet",
           "category": "meat-seafood",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
           ],
           "hasUnquantified": false
         }
@@ -376,13 +429,23 @@
       "category": "dairy",
       "items": [
         {
+          "item": "cream cheese",
+          "qty": 8,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Championship Bacon-Wrapped Stuffed Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "eggs",
-          "qty": 19,
+          "qty": 18,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
             "Huevos Rancheros",
-            "Shrimp Pad Thai"
+            "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
         },
@@ -420,12 +483,32 @@
             "Huevos Rancheros"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "crusty Italian bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "pantry",
       "items": [
+        {
+          "item": "apple cider vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "canola oil",
           "qty": 2,
@@ -437,92 +520,93 @@
           "hasUnquantified": false
         },
         {
-          "item": "capers",
-          "qty": 3,
-          "unit": "tbsp",
+          "item": "cornstarch",
+          "qty": 2.5,
+          "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "couscous",
-          "qty": 1.5,
-          "unit": "cup",
+          "item": "Dijon mustard",
+          "qty": 2,
+          "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Couscous"
+            "Chicken au Poivre",
+            "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
         },
         {
           "item": "Dijon mustard",
           "qty": 1,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Chicken au Poivre"
+            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "fish sauce",
-          "qty": 3,
+          "item": "distilled white vinegar",
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fine dried breadcrumbs",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
         },
         {
           "item": "honey",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Honey-Garlic Roasted Carrots"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "linguine",
-          "qty": 12,
-          "unit": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "maple syrup",
           "qty": 0.25,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Pork Loin with Apples"
+            "Roast Spatchcock Chicken with Citrus & Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
         {
           "item": "mirin",
-          "qty": 3,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
           ],
           "hasUnquantified": false
         },
@@ -537,12 +621,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "pad thai rice noodles",
-          "qty": 8,
-          "unit": "oz",
+          "item": "neutral oil",
+          "qty": 1,
+          "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
           ],
           "hasUnquantified": false
         },
@@ -552,17 +636,47 @@
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "tamarind paste",
+          "item": "steamed Japanese short-grain rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "steamed jasmine rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame oil",
           "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 5,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
         }
@@ -582,12 +696,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "crushed tomatoes",
-          "qty": 1,
-          "unit": "can",
+          "item": "canned whole San Marzano tomatoes",
+          "qty": 28,
+          "unit": "oz",
           "category": "canned",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken stock",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -601,6 +725,16 @@
             "Fondant Potatoes"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "Thai sweet chili sauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Championship Bacon-Wrapped Stuffed Shrimp"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -608,22 +742,32 @@
       "category": "spices",
       "items": [
         {
-          "item": "dried chili flakes",
+          "item": "dried oregano",
           "qty": 1,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Pad Thai"
+            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "dried oregano",
+          "item": "dried red chiles (arbol)",
+          "qty": 8,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried thyme",
           "qty": 1,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
@@ -648,12 +792,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "red pepper flakes",
+          "item": "red pepper flakes (peperoncino)",
           "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Garlicky Shrimp Linguine"
+            "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
         },
@@ -664,16 +808,6 @@
           "category": "spices",
           "fromMeals": [
             "Huevos Rancheros"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
           ],
           "hasUnquantified": false
         }
@@ -693,23 +827,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "dry white wine",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Garlicky Shrimp Linguine",
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sake or dry sherry",
+          "item": "sake",
           "qty": 2,
           "unit": "tbsp",
           "category": "beverages",
           "fromMeals": [
-            "One-Pot Chicken Teriyaki with Vegetables and Rice"
+            "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         }
@@ -720,7 +853,12 @@
     "kosher salt",
     "unsalted butter",
     "olive oil",
-    "brown sugar"
+    "soy sauce",
+    "sugar",
+    "all-purpose flour",
+    "dark soy sauce",
+    "butter",
+    "extra virgin olive oil"
   ],
-  "totalItems": 65
+  "totalItems": 79
 }

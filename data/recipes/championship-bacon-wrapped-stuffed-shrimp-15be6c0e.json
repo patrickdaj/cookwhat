@@ -1,0 +1,29 @@
+{
+  "mealId": "championship-bacon-wrapped-stuffed-shrimp-15be6c0e",
+  "fetchedAt": "2026-06-17T15:52:53.365Z",
+  "source": "cookbook",
+  "url": null,
+  "name": "Championship Bacon-Wrapped Stuffed Shrimp",
+  "description": "From Meathead: The Science of Great Barbecue and Grilling (Goldwyn), p.344. Large shrimp stuffed with cream cheese and jalapeno, wrapped in bacon, grilled two-zone, and glazed with Thai sweet chili.",
+  "recipeIngredient": [
+    "20 shell-on large (16/20 count) shrimp, preferably wild Gulf",
+    "kosher salt",
+    "3 jalapenos",
+    "20 bacon slices, preferably pepper-crusted",
+    "1 (8-ounce) package cream cheese",
+    "Thai sweet chili sauce (e.g. Maggi Taste of Asia Mild Sweet Chili)",
+    "finely chopped chives or flat-leaf parsley (optional garnish)"
+  ],
+  "recipeInstructions": [
+    "Peel/devein shrimp leaving tails on; brine (p.343).",
+    "Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick.",
+    "Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "20 shrimp (about 4 servings)",
+  "image": null,
+  "author": "Meathead Goldwyn",
+  "ai": null
+}

@@ -64,7 +64,7 @@
     "poultryMaxPerWeek": 3,
     "seafoodMinPerWeek": 1,
     "vegetarianMinPerWeek": 0,
-    "vegetarianMaxPerWeek": 0,
+    "vegetarianMaxPerWeek": 1,
     "noRepeatProteinTwoDaysInRow": true,
     "classification": {
       "red_meat": [

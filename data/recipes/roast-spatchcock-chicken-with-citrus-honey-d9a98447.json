@@ -1,0 +1,48 @@
+{
+  "mealId": "roast-spatchcock-chicken-with-citrus-honey-d9a98447",
+  "fetchedAt": "2026-06-17T15:51:44.435Z",
+  "url": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey/",
+  "name": "Roast Chicken With Citrus & Honey",
+  "description": "This is a whole-roast chicken turned into a quick and easy sheet pan meal thanks to a simple technique: spatchcocking! The bird lays flat, allowing it to cook faster and more evenly. A flavorful citrus, honey, thyme, and oregano sauce keeps the bird juicy as it roasts. Though this recipe is easy enough for a weeknight, it’s certainly festive enough for a dinner party, perhaps with a crisp green salad on the side.",
+  "recipeIngredient": [
+    "2  clementines",
+    "1  orange",
+    "1  lemon",
+    "2  garlic cloves, (minced)",
+    "1/2 cup extra virgin olive oil",
+    "1/4 cup honey",
+    "1 tablespoon dried oregano",
+    "1 teaspoon dried thyme",
+    "Kosher salt",
+    "Black pepper",
+    "4-5  medium potatoes, (peeled and sliced into wedges)",
+    "Kosher salt",
+    "Black pepper",
+    "1  whole chicken (about 5 pounds)"
+  ],
+  "recipeInstructions": [
+    "Get ready. Preheat your oven to 400°F. Line a baking sheet with parchment paper.",
+    "Make the seasoning. Juice the clementines, orange, and lemon into a large bowl. Keep the juiced citrus skins as we’ll use them later. Add the garlic, oil, honey, oregano, and thyme. Season generously with salt and pepper and whisk to combine well.",
+    "Adjust the seasoning. Taste the marinade—it should be sweet and a little over-seasoned at this stage. Add more salt or pepper if needed. Set aside.",
+    "Prep the potatoes. Scatter the potato wedges across the prepared baking sheet. Season with a big pinch each of salt and black pepper. Set aside.",
+    "Spatchcock the chicken. On a large, sturdy cutting board, lay the chicken breast-side down with its legs towards you. Locate the backbone running straight down the middle. Use kitchen scissors to remove the backbone of the bird. This will help it cook evenly. Start by cutting along each side of the bone down the entire length of the chicken (if you’d like, save the bone for making stock). Flip the bird over and press down hard in the center with the heel and palm of your hand so the bird lays flat. Place the chicken, breast side up and splayed out, on top of the potatoes.",
+    "Dress the chicken and potatoes. Insert your fingers between the skin and the flesh of the bird separating it a bit. Pour some of the citrus mixture under the skin and massage it into the breast and legs of the chicken. Pour the remaining liquid over top, ensuring the chicken is well coated. There will be a lot of liquid. Sprinkle a little more salt and pepper over the chicken. Tuck the juiced citrus skins in around the potatoes.",
+    "Bake the chicken. Bake for 30 minutes, then baste the chicken with the pan juices and allow to cook until chicken is golden and juices have evaporated by half, about 30 minutes more. The internal temperature at the largest part of the thigh should read 165°F.",
+    "Carve and serve. Serve hot, with a spoonful of pan juices over top."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "60 min",
+  "totalTime": "70 min",
+  "recipeYield": "6",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/08/roast-spatchcock-chicken-web-storpy-poster-image.jpeg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Spatchcock the chicken to expose maximum surface area, then roast it flat on a bed of potatoes while basting constantly with a bright citrus-herb oil that reduces down into a glaze.",
+    "keyTips": [
+      "Remove the backbone completely and press the bird flat—this ensures even cooking and maximum browning on the skin",
+      "Season the marinade generously at the get-go; it should taste slightly over-salted before roasting since salt concentrates as liquid reduces",
+      "Separate the skin from the flesh and work the citrus mixture underneath, not just on top—this seasons the meat directly and helps render the fat",
+      "Baste halfway through and watch for the pan juices to reduce by half; this signals when the chicken is done and creates a concentrated pan sauce"
+    ]
+  }
+}
