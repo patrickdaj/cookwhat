@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T05:05:29.310Z",
+  "generatedAt": "2026-06-17T13:29:00.906Z",
   "targetServings": 4,
   "sections": [
     {
@@ -22,7 +22,7 @@
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Grilled Smashed Potatoes"
+            "Crispy Smashed Potatoes with Za'atar"
           ],
           "hasUnquantified": false
         },
@@ -72,7 +72,7 @@
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Smashed Potatoes"
+            "Crispy Smashed Potatoes with Za'atar"
           ],
           "hasUnquantified": false
         },
@@ -221,7 +221,7 @@
             "Crispy Roasted Red Potatoes",
             "20-Minute Greek Salmon",
             "Greek Lemon Rice",
-            "Grilled Smashed Potatoes"
+            "Crispy Smashed Potatoes with Za'atar"
           ],
           "hasUnquantified": false
         },
@@ -303,7 +303,7 @@
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Easy Grilled Zucchini Planks"
+            "Grilled Zucchini"
           ],
           "hasUnquantified": false
         }
@@ -369,16 +369,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "20-Minute Greek Salmon"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "whole chicken (~4 lb)",
-          "qty": 0.67,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub"
           ],
           "hasUnquantified": false
         }
@@ -559,22 +549,11 @@
         },
         {
           "item": "chili powder",
-          "qty": 1.33,
+          "qty": 1,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub",
             "Easy Grilled Corn on the Cob"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dried ground mustard",
-          "qty": 0.67,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub"
           ],
           "hasUnquantified": false
         },
@@ -590,23 +569,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "garlic powder",
+          "item": "ground cumin",
           "qty": 0.67,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1.33,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Shrimp Fajitas",
-            "Grilled Spatchcock Chicken with Dry Rub"
+            "Shrimp Fajitas"
           ],
           "hasUnquantified": false
         },
@@ -622,23 +590,21 @@
         },
         {
           "item": "onion powder",
-          "qty": 1.33,
+          "qty": 0.67,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Fajitas",
-            "Grilled Spatchcock Chicken with Dry Rub"
+            "Shrimp Fajitas"
           ],
           "hasUnquantified": false
         },
         {
           "item": "paprika",
-          "qty": 1.5,
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "20-Minute Greek Salmon",
-            "Grilled Spatchcock Chicken with Dry Rub"
+            "20-Minute Greek Salmon"
           ],
           "hasUnquantified": false
         },
@@ -684,12 +650,11 @@
   "excludedStaples": [
     "extra virgin olive oil",
     "butter",
-    "brown sugar",
     "olive oil",
     "kosher salt",
     "coarsely ground black pepper",
     "salted butter",
     "black pepper"
   ],
-  "totalItems": 62
+  "totalItems": 59
 }
