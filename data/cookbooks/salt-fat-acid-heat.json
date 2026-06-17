@@ -4,10 +4,10 @@
   "author": "Samin Nosrat",
   "owned": true,
   "addedOn": "2026-06-17",
-  "note": "Recipes EXTRACTED FROM THE ALPHABETICAL INDEX (not a recipe TOC), so concept/ingredient/technique entries were filtered out and only dish/preparation names kept. NEAR-COMPLETE: index pages provided cover A through S (pp.445-459). T-Z direct entries (if any beyond p.459) aren't captured, but the vast majority of T-Z dishes were already pulled in via the index's cross-references (Tartar Sauce, Tomato salads, Tuna Confit, Turkey, vinaigrettes, Yogurt Sauce, etc.). Page numbers are best-effort: the index lists multiple references per entry and the recipe's own page was inferred (often a page range) - verify on the page when scanning.",
+  "note": "Recipes EXTRACTED FROM THE ALPHABETICAL INDEX (not a recipe TOC), so concept/ingredient/technique entries were filtered out and only dish/preparation names kept. COMPLETE: full index captured A-Z (pp.445-461). Page numbers are best-effort: the index lists multiple references per entry and the recipe's own page was inferred (often a page range) - verify on the page when scanning.",
   "source_format": "Source for any meal cataloged from this book: \"Salt, Fat, Acid, Heat (Nosrat) - p.NNN\" (no URL).",
   "dislikeFlags": "Curried Chicken Salad flagged (curry). The three broccoli pastas flagged (broccoli). Broccoli Rabe uses rapini (different - check).",
-  "indexCoverage": "A-S (near-complete)",
+  "indexCoverage": "A-Z (complete)",
   "recipes": [
     {"title": "Aaron's Tart Dough", "page": 93, "chapter": "Doughs"},
     {"title": "Adas Polo o Morgh (Chicken with Lentil Rice)", "page": 334, "chapter": "Chicken", "fitsMenu": "chicken (favorite)"},
@@ -227,6 +227,19 @@
     {"title": "Scrambled Eggs", "page": 304, "chapter": "Eggs"},
     {"title": "Shortbread Cookies", "page": 90, "chapter": "Desserts"},
     {"title": "Spatchcocked Thanksgiving Turkey", "page": 347, "chapter": "Poultry"},
-    {"title": "Spiced Cream", "page": 423, "chapter": "Desserts"}
+    {"title": "Spiced Cream", "page": 423, "chapter": "Desserts"},
+
+    {"title": "Spicy-Brined Turkey Breast", "page": 346, "chapter": "Poultry"},
+    {"title": "Sponge Cake", "page": 95, "chapter": "Desserts"},
+    {"title": "Spring Panzanella", "page": 235, "chapter": "Salads & Slaws"},
+    {"title": "Summer Panzanella", "page": 231, "chapter": "Salads & Slaws"},
+    {"title": "Winter Panzanella", "page": 234, "chapter": "Salads & Slaws"},
+    {"title": "Strawberry Compote", "page": 393, "chapter": "Desserts"},
+    {"title": "Tangy Whipped Cream", "page": 425, "chapter": "Desserts"},
+    {"title": "Ten-Minute Eggs", "page": 305, "chapter": "Eggs"},
+    {"title": "Toasted Coconut Cream", "page": 424, "chapter": "Desserts"},
+    {"title": "Tomato Vinaigrette", "page": 229, "chapter": "Sauces & Dressings"},
+    {"title": "Turkish Kofte", "page": 357, "chapter": "Meat"},
+    {"title": "Vanilla Scented Cream", "page": 423, "chapter": "Desserts"}
   ]
 }
