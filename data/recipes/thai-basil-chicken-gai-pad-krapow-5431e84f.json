@@ -1,0 +1,39 @@
+{
+  "mealId": "thai-basil-chicken-gai-pad-krapow-5431e84f",
+  "fetchedAt": "2026-06-17T16:52:28.669Z",
+  "url": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
+  "name": "Thai Basil Chicken (Easy Gai Pad Krapow)",
+  "description": "This Thai basil chicken recipe takes just 3 minutes to prepare and 7 minutes to cook. Served along with steamed rice, it's restaurant food, fast.",
+  "recipeIngredient": [
+    "3 to 4 tablespoons oil",
+    "3  Thai bird chilies or holland chilies",
+    "3  shallots",
+    "5 cloves garlic ((sliced))",
+    "1 pound ground chicken",
+    "2 teaspoons sugar ((or honey))",
+    "2 tablespoons soy sauce",
+    "1 tablespoon fish sauce",
+    "1/3 cup low sodium chicken broth ((or water))",
+    "1  bunch holy or Thai basil leaves"
+  ],
+  "recipeInstructions": [
+    "In a wok over high heat, add the oil, chilies, shallots and garlic, and fry for 1-2 minutes. Add the ground chicken and stir-fry for 2 minutes, breaking up the chicken into small bits.",
+    "Add the sugar, soy sauce, and fish sauce. Stir-fry for another minute and deglaze the pan with the broth. Because your pan is over high heat, the liquid should cook off very quickly.",
+    "Add the basil, and stir-fry until wilted. Serve over rice."
+  ],
+  "prepTime": "3 min",
+  "cookTime": "7 min",
+  "totalTime": "10 min",
+  "recipeYield": "4 4 servings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/06/thai-basil-chicken-8.jpg",
+  "author": "Sarah",
+  "ai": {
+    "cliffNotes": "Fry aromatics and chilies first to infuse the oil, then cook ground chicken quickly over high heat while building flavor with umami-rich sauces and finishing with fresh basil for brightness.",
+    "keyTips": [
+      "Break up the ground chicken into small pieces as it cooks so it seasons evenly and develops better texture",
+      "Keep heat high throughout so the broth deglazes and evaporates quickly, concentrating flavors rather than stewing the dish",
+      "Add basil at the very end and stir only until just wilted to preserve its fresh, aromatic quality",
+      "Slice the garlic and chilies rather than mincing so they stay partially intact and won't burn during the initial frying"
+    ]
+  }
+}

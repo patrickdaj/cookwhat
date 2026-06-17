@@ -1,0 +1,182 @@
+{
+  "weekOf": "2026-07-05",
+  "generatedAt": "2026-06-17T16:53:38.454Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "English cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon (juiced)",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Swordfish",
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "tomatoes (vine-ripe or Roma)",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "swordfish steaks",
+          "qty": 4,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty bread or pita, grilled",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "sumac",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Swordfish"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "extra virgin olive oil"
+  ],
+  "totalItems": 15
+}

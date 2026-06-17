@@ -1,0 +1,675 @@
+{
+  "weekOf": "2026-06-28",
+  "generatedAt": "2026-06-17T16:53:38.418Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "asparagus stalks",
+          "qty": 16,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby bok choy",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby red or Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Za'atar"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby spinach",
+          "qty": 2,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "corn",
+          "qty": 2,
+          "unit": "ear",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "corn on the cob",
+          "qty": 4,
+          "unit": "ear",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh chives or parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Za'atar"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "handful",
+          "category": "produce",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh tarragon",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 10,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp",
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 4,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Za'atar"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai or holy basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "zucchini",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp",
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ribeye steaks",
+          "qty": 4,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Ribeye with Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shrimp or prawns",
+          "qty": 14,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken, cut into quarters (3-4 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Cornell Chicken"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "cotija cheese",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "eggs",
+          "qty": 9,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata",
+            "Cornell Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "grated cheese (Parmesan/cheddar)",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "heavy cream",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Parmigiano-Reggiano",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sour cream",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "crusty bread (to toast)",
+          "qty": 4,
+          "unit": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Fridge-Clearing Vegetable Frittata"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "apple cider vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cornell Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "apple cider vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "balsamic condimento or reduction",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Coleslaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mezze maniche pasta (or tubes)",
+          "qty": 14,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "steamed rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white miso",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Miso Chicken"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "ancho chili powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "peperoncino (red pepper flakes)",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Cornell Chicken",
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Pasta with Zucchini and Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "tequila",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Grilled Shrimp Tacos with Creamy Slaw"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "soy sauce",
+    "sugar",
+    "unsalted butter",
+    "vegetable oil",
+    "butter",
+    "kosher salt",
+    "coarsely ground black pepper",
+    "salted butter",
+    "extra virgin olive oil",
+    "black pepper"
+  ],
+  "totalItems": 61
+}
