@@ -147,20 +147,35 @@ When designing a week, scan the catalogs for recipes that fit the user's config
 broccoli/bean-heavy items). Cookbook recipes also **sidestep the site-blocking
 problem** (nothing to fetch), so they're reliable picks.
 
-To put a cookbook recipe on a menu:
-- Save it as a normal meal with `source: "Book Title (Author) — p.NNN"` and
-  **no `url`** (there isn't one).
-- **Ingredients must come from a real scan**, never from the title or memory. If
-  the catalog entry has a `captured` block, use it. If it's title+page only, ask
-  the user to scan that page first — same rule as "real URLs only" for the web.
-- `plan check` will emit a benign `⚠ "…" has no source URL` for cookbook dishes.
-  That's expected and **not** a blocker; don't try to "fix" it with a fake URL.
-- `recipe fetch` skips no-URL meals automatically.
-- After capturing a scanned recipe, store its `captured` data back in the
-  catalog so it's reusable in future weeks.
-- Catalogs are built from a book's table of contents / "Recipes in This Chapter"
-  pages; transcribing titles + page numbers is fine, but a recipe's full
-  ingredient list/method only gets recorded from an actual scan of that page.
+To put a cookbook recipe on a menu — **plan by title now, scan on demand later.**
+Scanning every book up front is a ton of work, so don't. Two stages:
+
+1. **Placeholder now (no scan).** Add it as a normal meal with
+   `source: "Book Title (Author) — p.NNN"` and **no `url`**. Set
+   `cuisine`/`protein`/`role`/`active` from the title + catalog entry — these are
+   categorization (so the balance + time checks still work), not fabricated
+   ingredients. Leave `ingredients: []` and add the tag **`"needs-scan"`**. If the
+   catalog already has a `captured` block, use it and skip the placeholder.
+2. **Scan on demand, before that week's shopping/cooking.** Ask the user to scan
+   the specific page(s), capture the real `ingredients`/`method` into the meal,
+   **and** store the `captured` block back in the catalog (reusable forever). Then
+   re-run `cookwhat shopping` so the list is complete.
+
+Rules for the workflow:
+- **Never fabricate ingredients** from a title or memory — a placeholder carries
+  *no* ingredients until scanned. (Cuisine/protein from the title is fine;
+  inventing an ingredient list is not.)
+- A `needs-scan` placeholder contributes **nothing to the shopping list.** When
+  you generate shopping for a week, first check for `needs-scan` meals and tell
+  the user exactly which book pages to scan — those items are missing until then.
+- Find what's pending: grep menus for cookbook meals (no `sourceUrl`) whose
+  `ingredients` is empty, or that carry the `needs-scan` tag.
+- `plan check` emits a benign `⚠ "…" has no source URL` for cookbook dishes —
+  expected, **not** a blocker; don't "fix" it with a fake URL. `recipe fetch`
+  skips no-URL meals automatically.
+- Catalogs come from a book's table of contents; transcribing titles + page
+  numbers is fine, but a recipe's ingredient list/method is only recorded from an
+  actual scan of that page.
 
 ## Hard rules (never violate)
 
