@@ -1,0 +1,541 @@
+{
+  "weekOf": "2026-06-28",
+  "createdAt": "2026-06-17T04:08:44.179Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "shrimp-fajitas-7f0a7d14",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Shrimp Fajitas",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/shrimp-fajitas/",
+      "cuisine": "mexican",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "bell peppers (assorted), sliced",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion, sliced",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "corn or flour tortillas",
+          "qty": 12,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "Cook peppers and onions first until caramelized (~13 min), then add shrimp for just ~5 min so they stay tender."
+    },
+    {
+      "id": "oyakodon-chicken-and-egg-bowl-dc7a389e",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Oyakodon (Chicken and Egg Bowl)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/oyakodon/",
+      "cuisine": "japanese",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 10,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "large eggs",
+          "qty": 4,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "onion, thinly sliced",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions (or mitsuba)",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dashi",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "cooked Japanese short-grain rice",
+          "qty": 2,
+          "unit": "serving",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Pour the beaten egg in two stages and cover briefly; pull it off the heat while still slightly runny so it stays silky. Recipe yields 2 — scale x2 for leftovers."
+    },
+    {
+      "id": "italian-shrimp-and-asparagus-farfalle-74d79f27",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Italian Shrimp and Asparagus Farfalle",
+      "source": "The Pasta Project",
+      "sourceUrl": "https://www.the-pasta-project.com/italian-shrimp-and-asparagus-farfalle-pasta-recipe/",
+      "cuisine": "italian",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "farfalle pasta",
+          "qty": 400,
+          "unit": "g",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "large shrimp, peeled",
+          "qty": 400,
+          "unit": "g",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh green asparagus",
+          "qty": 400,
+          "unit": "g",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cherry or datterini tomatoes",
+          "qty": 250,
+          "unit": "g",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Sauté asparagus and tomatoes first, add shrimp only at the end, and finish with a splash of pasta water to bind."
+    },
+    {
+      "id": "chicken-provencal-with-olives-and-cherry-tomatoes-8546a768",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Provencal with Olives and Cherry Tomatoes",
+      "source": "Pardon Your French",
+      "sourceUrl": "https://www.pardonyourfrench.com/chicken-provencal-with-olives-and-cherry-tomatoes/",
+      "cuisine": "french",
+      "protein": "chicken",
+      "tags": [
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "unit": "pint",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "pitted olives (Nicoise or Kalamata)",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "herbes de Provence",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Brown the thighs skin-side down first to render the fat, then braise in the wine-tomato-olive sauce."
+    },
+    {
+      "id": "20-minute-greek-salmon-b92dc845",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "20-Minute Greek Salmon",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/easy-greek-salmon/",
+      "cuisine": "mediterranean",
+      "protein": "salmon",
+      "tags": [
+        "weeknight",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon (juice + zest)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Whisk the lemon-garlic-herb dressing, coat the salmon, and roast hot for flaky fish in ~12 min."
+    },
+    {
+      "id": "grilled-spatchcock-chicken-with-dry-rub-d96877c2",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Spatchcock Chicken with Dry Rub",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/spatchcock-chicken-grill-recipe-23392054",
+      "cuisine": "american",
+      "protein": "chicken",
+      "tags": [
+        "grill",
+        "weekend",
+        "cabin"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "whole chicken (~4 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "brown sugar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "garlic powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried ground mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Dry-brine overnight uncovered on a rack for crisp skin, then grill flat over the flame. Spatchcock at home before you travel."
+    },
+    {
+      "id": "grilled-rib-eye-steak-with-roasted-garlic-resting-butter-7c6048d4",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Rib Eye Steak with Roasted Garlic Resting Butter",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/rib-eye-steak/",
+      "cuisine": "american",
+      "protein": "beef",
+      "tags": [
+        "grill",
+        "weekend",
+        "cabin",
+        "festive"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ribeye steaks",
+          "qty": 4,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "beef rub (or coarse salt + pepper + garlic powder)",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Roast the garlic ahead, mash into softened butter; rest the grilled steaks on the compound butter so it melts over the top."
+    }
+  ]
+}

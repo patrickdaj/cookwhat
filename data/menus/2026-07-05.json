@@ -1,0 +1,93 @@
+{
+  "weekOf": "2026-07-05",
+  "createdAt": "2026-06-17T04:09:07.756Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "grilled-swordfish-537ed905",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Swordfish",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-swordfish-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "swordfish",
+      "tags": [
+        "grill",
+        "weekend",
+        "cabin"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "swordfish steaks",
+          "qty": 4,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon (juiced)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more."
+    }
+  ]
+}
