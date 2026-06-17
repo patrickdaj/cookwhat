@@ -1,11 +1,51 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-17T21:38:16.908Z",
+  "generatedAt": "2026-06-17T21:53:34.293Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "coleslaw blend (cabbage + carrot)",
+          "qty": 1,
+          "unit": "bag",
+          "category": "produce",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "English cucumbers",
           "qty": 2,
@@ -13,6 +53,36 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
         },
@@ -37,6 +107,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh thyme",
           "qty": 10,
           "unit": "sprig",
@@ -48,24 +128,99 @@
         },
         {
           "item": "garlic",
-          "qty": 3,
+          "qty": 11,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Grilled Trout with Parsley-Caper Sauce",
-            "Hummus with Warm Pita"
+            "Hummus with Warm Pita",
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Hoisin-Peanut Shrimp and Slaw",
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green onions",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
           ],
           "hasUnquantified": false
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Trout with Parsley-Caper Sauce",
             "Hummus with Warm Pita",
-            "Mediterranean Tomato and Cucumber Salad"
+            "Mediterranean Tomato and Cucumber Salad",
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "limes",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw",
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mixed herbs (cilantro/mint/basil)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
           ],
           "hasUnquantified": false
         },
@@ -80,6 +235,37 @@
           "hasUnquantified": false
         },
         {
+          "item": "scallions",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shredded cabbage (red + green)",
+          "qty": 3.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw",
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sweet potato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "tomatoes (vine-ripe or Roma)",
           "qty": 3,
           "unit": "",
@@ -88,12 +274,82 @@
             "Mediterranean Tomato and Cucumber Salad"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2.5,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "meat-seafood",
       "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 3.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "boneless skin-on chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mahi mahi (or white fish) fillets",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "whole rainbow trout, cleaned",
           "qty": 2,
@@ -107,8 +363,33 @@
       ]
     },
     {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "milk",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
       "category": "bakery",
       "items": [
+        {
+          "item": "corn or flour tortillas",
+          "qty": 16,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "pita bread",
           "qty": 2,
@@ -124,6 +405,87 @@
     {
       "category": "pantry",
       "items": [
+        {
+          "item": "fried onions or shallots",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "hoisin sauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "neutral oil (for frying)",
+          "qty": 4,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "potato starch",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Hoisin-Peanut Shrimp and Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice syrup or honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "steamed rice",
+          "qty": 6,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "tahini",
           "qty": 0.33,
@@ -175,6 +537,26 @@
           "hasUnquantified": false
         },
         {
+          "item": "gochugaru (Korean red pepper flakes)",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Hey Grill Hey Fiesta Rub",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "sumac",
           "qty": 2,
           "unit": "tsp",
@@ -186,11 +568,60 @@
           "hasUnquantified": false
         }
       ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sake",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "other",
+      "items": [
+        {
+          "item": "Korean rice cakes (tteok)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "other",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
     }
   ],
   "excludedStaples": [
-    "extra virgin olive oil"
+    "extra virgin olive oil",
+    "chunky peanut butter",
+    "soy sauce"
   ],
-  "pendingScans": [],
-  "totalItems": 15
+  "pendingScans": [
+    {
+      "title": "My Mother's Meatballs",
+      "day": "Wed",
+      "source": "My Italian Kitchen (Menafe) — p.156",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 55
 }
