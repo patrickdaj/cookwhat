@@ -41,7 +41,7 @@
 
     {"title": "Perfect Pulled Pork", "page": 198, "chapter": "Pork"},
     {"title": "Really Loaded Potato Canoes", "page": 202, "chapter": "Pork (side)"},
-    {"title": "Pork Ribs: The Holy Grail", "page": 202, "chapter": "Pork"},
+    {"title": "Pork Ribs: The Holy Grail", "page": 202, "chapter": "Pork", "scanned": "partial", "needsRescan": "ingredient list + method (p.204+) - the scan caught only the headnote; the facing page was Really Loaded Potato Canoes"},
     {"title": "Last-Meal Ribs", "page": 206, "chapter": "Pork"},
     {"title": "60-Minute Ribs Dreamland Style", "page": 207, "chapter": "Pork"},
     {"title": "Happy Mouth Yakitori Ribs", "page": 210, "chapter": "Pork"},
@@ -76,7 +76,7 @@
     {"title": "Binghamton Spiedie Sandwiches", "page": 289, "chapter": "Lamb"},
 
     {"title": "Simon & Garfunkel Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "alt for the Fri grilled chicken"},
-    {"title": "Cornell Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "classic grilled chicken"},
+    {"title": "Cornell Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "classic grilled chicken", "scanned": true, "makes": "3-4 servings", "needsRescan": "Simon & Garfunkel Rub p.168 (cross-referenced, not yet scanned)", "captured": {"ingredients": ["1 large egg", "1/4 cup vegetable oil", "1/4 cup apple cider vinegar", "1 tsp table salt", "1 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp freshly ground black pepper", "1 (3- to 4-pound) chicken, cut into quarters"], "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."}},
     {"title": "Hawaiian Huli-Huli Teriyaki Chicken", "page": 299, "chapter": "Chicken & Turkey"},
     {"title": "Sweet Georgia Brown Smoked Yard Bird", "page": 300, "chapter": "Chicken & Turkey"},
     {"title": "Pulled Chicken", "page": 300, "chapter": "Chicken & Turkey"},
@@ -96,13 +96,13 @@
     {"title": "Smoked Salmon Quiche", "page": 330, "chapter": "Seafood"},
     {"title": "Smoked Halibut Salad", "page": 330, "chapter": "Seafood"},
     {"title": "Butter-Poached Fillets", "page": 331, "chapter": "Seafood"},
-    {"title": "Baja Fish Tacos", "page": 332, "chapter": "Seafood", "note": "mexican seafood; fits your tastes"},
+    {"title": "Baja Fish Tacos", "page": 332, "chapter": "Seafood", "note": "mexican seafood; fits your tastes", "scanned": true, "makes": "2 servings", "flag": "sour cream (dairy)", "captured": {"ingredients": ["1 lb skinless mild white fish (snapper, mahi-mahi, grouper, or tilapia)", "kosher salt", "1 tbsp ancho chile powder", "1 tbsp freshly ground black pepper", "1/2 cup sour cream", "1 tbsp mayonnaise (plus more to coat the fish)", "2 1/2 tsp finely chopped chipotle in adobo", "4 fresh corn tortillas", "1 ripe avocado", "2 limes, quartered", "1/4 small head cabbage, shredded", "pico de gallo or red salsa"], "method": "Season fish with salt, ancho, and pepper. Mix sour cream + mayo + chipotle; chill. Coat fish in a thin layer of mayo and grill on a metal topper over two-zone heat until just cooked. Warm tortillas; toss avocado with lime. Assemble: fish, chipotle crema, cabbage, avocado, pico; serve with lime wedges."}},
     {"title": "Grilled Calamari Ladolemono", "page": 334, "chapter": "Seafood"},
     {"title": "Quick-Smoked Clams, Mussels, or Oysters", "page": 338, "chapter": "Seafood"},
     {"title": "Clambake with Grilled Crostini", "page": 339, "chapter": "Seafood"},
     {"title": "Grilled Oysters with White Wine Sauce", "page": 340, "chapter": "Seafood"},
     {"title": "Joe's Fireproof Grilled Shrimp", "page": 343, "chapter": "Seafood", "note": "shrimp is a favorite"},
-    {"title": "Championship Bacon-Wrapped Stuffed Shrimp", "page": 344, "chapter": "Seafood", "note": "shrimp + bacon, both favorites"},
+    {"title": "Championship Bacon-Wrapped Stuffed Shrimp", "page": 344, "chapter": "Seafood", "note": "shrimp + bacon, both favorites", "scanned": true, "makes": "20 appetizer servings", "flag": "cream cheese (dairy); it's an appetizer, not a dinner main", "captured": {"ingredients": ["20 shell-on large (16/20 count) shrimp, preferably wild Gulf", "kosher salt", "3 jalapenos", "20 bacon slices, preferably pepper-crusted", "1 (8-ounce) package cream cheese", "Thai sweet chili sauce (e.g. Maggi Taste of Asia Mild Sweet Chili)", "finely chopped chives or flat-leaf parsley (optional garnish)"], "method": "Peel/devein shrimp leaving tails on; brine (p.343). Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick. Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish."}},
     {"title": "Greg's Grilled Lobster", "page": 346, "chapter": "Seafood"},
 
     {"title": "Simple Grilled Crostini", "page": 350, "chapter": "Sides"},
