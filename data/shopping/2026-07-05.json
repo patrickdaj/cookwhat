@@ -1,41 +1,11 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-17T17:08:48.782Z",
+  "generatedAt": "2026-06-17T17:12:59.535Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "baby potatoes",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Perfect Pan-Seared Pork Chops"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "chives",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "English cucumbers",
           "qty": 2,
@@ -77,76 +47,23 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 8,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Perfect Pan-Seared Pork Chops"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "garlic",
-          "qty": 10,
+          "qty": 8,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
-            "Grilled Swordfish",
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green beans",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Perfect Pan-Seared Pork Chops"
+            "Grilled Swordfish"
           ],
           "hasUnquantified": false
         },
         {
           "item": "lemon (juiced)",
-          "qty": 5,
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Swordfish",
-            "Mediterranean Tomato and Cucumber Salad",
-            "One-Pot Roman Chicken Cacciatore with Potatoes",
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mixed salad greens",
-          "qty": 5,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+            "Mediterranean Tomato and Cucumber Salad"
           ],
           "hasUnquantified": false
         },
@@ -161,46 +78,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "rosemary",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shallot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Perfect Pan-Seared Pork Chops"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shiitake mushrooms",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shimeji (beech) mushrooms",
-          "qty": 1.8,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "tomatoes (vine-ripe or Roma)",
           "qty": 3,
           "unit": "",
@@ -209,52 +86,12 @@
             "Mediterranean Tomato and Cucumber Salad"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "waxy potatoes (Yukon Gold or fingerling)",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "meat-seafood",
       "items": [
-        {
-          "item": "bone-in pork rib chops (1.5-inch)",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Perfect Pan-Seared Pork Chops"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "skin-on salmon fillets",
-          "qty": 2,
-          "unit": "fillet",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "swordfish steaks",
           "qty": 4,
@@ -277,66 +114,6 @@
           "category": "bakery",
           "fromMeals": [
             "Grilled Swordfish"
-          ],
-          "hasUnquantified": false
-        }
-      ]
-    },
-    {
-      "category": "pantry",
-      "items": [
-        {
-          "item": "ponzu sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "steamed Japanese rice",
-          "qty": 2,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "white wine vinegar",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        }
-      ]
-    },
-    {
-      "category": "canned",
-      "items": [
-        {
-          "item": "anchovy fillets",
-          "qty": 4,
-          "unit": "",
-          "category": "canned",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "capers",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
           ],
           "hasUnquantified": false
         }
@@ -396,37 +173,10 @@
           "hasUnquantified": false
         }
       ]
-    },
-    {
-      "category": "beverages",
-      "items": [
-        {
-          "item": "dry white wine",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "One-Pot Roman Chicken Cacciatore with Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sake",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false
-        }
-      ]
     }
   ],
   "excludedStaples": [
-    "extra virgin olive oil",
-    "unsalted butter",
-    "sugar"
+    "extra virgin olive oil"
   ],
-  "totalItems": 38
+  "totalItems": 15
 }
