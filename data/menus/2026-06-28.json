@@ -332,6 +332,69 @@
       "notes": "Brown the thighs skin-side down first to render the fat, then braise in the wine-tomato-olive sauce."
     },
     {
+      "id": "crispy-roasted-red-potatoes-6eb965b8",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Roasted Red Potatoes",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/crispy-roasted-red-potatoes/",
+      "cuisine": "mediterranean",
+      "protein": "potato",
+      "tags": [
+        "weeknight",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "red potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Roast at 425F and don't crowd the pan so they crisp instead of steam."
+    },
+    {
       "id": "20-minute-greek-salmon-b92dc845",
       "day": "Thu",
       "slot": "dinner",
@@ -393,6 +456,90 @@
         }
       ],
       "notes": "Whisk the lemon-garlic-herb dressing, coat the salmon, and roast hot for flaky fish in ~12 min."
+    },
+    {
+      "id": "greek-lemon-rice-7a860d03",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Greek Lemon Rice",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/greek-lemon-rice-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "rice",
+      "tags": [
+        "weeknight",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "long-grain white rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "orzo pasta",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 2.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Toast the orzo with the onion until golden before adding rice and liquid."
     },
     {
       "id": "grilled-spatchcock-chicken-with-dry-rub-d96877c2",
@@ -473,6 +620,100 @@
       "notes": "Dry-brine overnight uncovered on a rack for crisp skin, then grill flat over the flame. Spatchcock at home before you travel."
     },
     {
+      "id": "easy-grilled-corn-on-the-cob-fe9c90be",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Easy Grilled Corn on the Cob",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/easiest-grilled-corn-ever/",
+      "cuisine": "american",
+      "protein": "corn",
+      "tags": [
+        "grill",
+        "cabin",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "corn on the cob",
+          "qty": 4,
+          "unit": "ears",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Grill in the husk ~30-40 min, then pull husks back and char over direct flame; finish with chili-lime butter."
+    },
+    {
+      "id": "easy-grilled-zucchini-planks-8f788d6d",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Easy Grilled Zucchini Planks",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/grilled-zucchini-recipe-23035452",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "grill",
+        "cabin",
+        "quick",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "zucchini (small)",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Cut lengthwise into thick planks; grill covered ~3-4 min per side without disturbing until grill marks form."
+    },
+    {
       "id": "grilled-rib-eye-steak-with-roasted-garlic-resting-butter-7c6048d4",
       "day": "Sat",
       "slot": "dinner",
@@ -536,6 +777,78 @@
         }
       ],
       "notes": "Roast the garlic ahead, mash into softened butter; rest the grilled steaks on the compound butter so it melts over the top."
+    },
+    {
+      "id": "all-american-potato-salad-d02b98d9",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "All-American Potato Salad",
+      "source": "Smitten Kitchen",
+      "sourceUrl": "https://smittenkitchen.com/2007/07/rosanne-cash-all-american-potato-salad/",
+      "cuisine": "american",
+      "protein": "potato",
+      "tags": [
+        "picnic",
+        "cabin",
+        "make-ahead",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Yukon Gold or waxy potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "eggs (hard-boiled)",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "yellow mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "celery",
+          "qty": 2,
+          "unit": "stalks",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dill pickles",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Boil potatoes whole in salted water, then cut and dress while warm so they absorb flavor; chill before serving."
     }
   ]
 }

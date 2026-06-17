@@ -88,6 +88,78 @@
         }
       ],
       "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more."
+    },
+    {
+      "id": "mediterranean-tomato-and-cucumber-salad-f723b5af",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Mediterranean Tomato and Cucumber Salad",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-cucumber-salad-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "cabin",
+        "quick",
+        "no-cook",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "English cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomatoes (vine-ripe or Roma)",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sumac",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
     }
   ]
 }
