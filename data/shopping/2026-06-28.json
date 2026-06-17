@@ -1,15 +1,15 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T04:39:41.271Z",
+  "generatedAt": "2026-06-17T04:50:48.332Z",
   "targetServings": 4,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "asparagus (large spears)",
-          "qty": 2,
-          "unit": "lb",
+          "item": "asparagus stalks",
+          "qty": 32,
+          "unit": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Asparagus"
@@ -406,14 +406,14 @@
           "hasUnquantified": false
         },
         {
-          "item": "Parmigiano-Reggiano (optional)",
-          "qty": null,
-          "unit": "",
+          "item": "Parmigiano-Reggiano",
+          "qty": 8,
+          "unit": "oz",
           "category": "dairy",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": true
+          "hasUnquantified": false
         }
       ]
     },
@@ -436,14 +436,14 @@
       "category": "pantry",
       "items": [
         {
-          "item": "balsamic reduction",
-          "qty": null,
-          "unit": "",
+          "item": "balsamic condimento or reduction",
+          "qty": 2,
+          "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": true
+          "hasUnquantified": false
         },
         {
           "item": "cooked Japanese short-grain rice",
@@ -722,8 +722,8 @@
           "hasUnquantified": false
         },
         {
-          "item": "Simon and Garfunkel Rub (Meathead p.168)",
-          "qty": 2,
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 2.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [

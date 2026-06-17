@@ -917,45 +917,52 @@
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "asparagus (large spears)",
-          "qty": 2,
-          "unit": "lb",
+          "item": "asparagus stalks",
+          "qty": 16,
+          "unit": "",
           "category": "produce",
-          "note": ""
+          "note": "large spears"
         },
         {
           "item": "extra virgin olive oil",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "Simon and Garfunkel Rub (Meathead p.168)",
-          "qty": 2,
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 1.25,
           "unit": "tsp",
           "category": "spices",
-          "note": "sub-recipe not yet scanned"
+          "note": "herb rub - recipe captured in cookbook catalog"
         },
         {
-          "item": "Parmigiano-Reggiano (optional)",
-          "qty": null,
-          "unit": "",
+          "item": "kosher salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "Parmigiano-Reggiano",
+          "qty": 4,
+          "unit": "oz",
           "category": "dairy",
-          "note": "shaved; optional - skip to keep dairy low"
+          "note": "shaved into wide ribbons; reduce to keep dairy lower if you like"
         },
         {
-          "item": "balsamic reduction",
-          "qty": null,
-          "unit": "",
+          "item": "balsamic condimento or reduction",
+          "qty": 1,
+          "unit": "tbsp",
           "category": "pantry",
           "note": "drizzle to serve"
         }
       ],
-      "notes": "Quantities ESTIMATED - the scanned p.350 ingredient column was cropped. Snap the woody ends, coat with oil + Simon and Garfunkel Rub, grill two-zone ~325F indirect; finish with shaved Parm and a balsamic drizzle."
+      "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ]
 }

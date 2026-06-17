@@ -16,7 +16,7 @@
     {"title": "Big Bad Beef Rub", "page": 166, "chapter": "Rubs", "fitsMenu": "great on the July 4 ribeye", "scanned": true, "makes": "about 1/2 cup", "captured": {"ingredients": ["3 tbsp coarsely ground black pepper", "1 tbsp sugar", "1 tbsp onion powder", "1 tbsp dry mustard", "2 tsp garlic powder", "2 tsp chili powder or ground ancho", "1 tsp ground chipotle or cayenne"], "method": "Mix together in a bowl. No salt in the rub - salt the meat separately."}},
     {"title": "Mrs. O'Leary's Cow Crust", "page": 167, "chapter": "Rubs"},
     {"title": "Meathead's Memphis Dust", "page": 167, "chapter": "Rubs", "note": "the signature pork/rib rub"},
-    {"title": "Simon & Garfunkel Rub", "page": 168, "chapter": "Rubs", "fitsMenu": "herb rub for poultry"},
+    {"title": "Simon & Garfunkel Rub", "page": 168, "chapter": "Rubs", "fitsMenu": "herb rub for poultry; used by Grilled Asparagus & Cornell Chicken", "scanned": true, "makes": "about 1/4 cup", "captured": {"ingredients": ["2 tbsp crushed dried sage", "1 tbsp crushed dried parsley", "1 tbsp crushed dried rosemary", "1 tbsp crushed dried thyme", "1 tbsp crushed dried oregano", "1 tbsp crushed dried basil", "1 tbsp crushed bay leaf", "1 tbsp freshly ground black pepper", "1 tbsp sugar"], "method": "Pulse everything in a blender or food processor a few seconds until you have a coarse powder. All-purpose rub for pork, turkey, chicken, veggies, eggs, grilled potatoes, asparagus."}},
     {"title": "Dolly's Lamb Rub", "page": 169, "chapter": "Rubs"},
     {"title": "Marietta's Fish Rub", "page": 169, "chapter": "Rubs", "fitsMenu": "for the grilled swordfish"},
     {"title": "Cajun Seasoning", "page": 170, "chapter": "Rubs"},
@@ -41,7 +41,7 @@
 
     {"title": "Perfect Pulled Pork", "page": 198, "chapter": "Pork"},
     {"title": "Really Loaded Potato Canoes", "page": 202, "chapter": "Pork (side)"},
-    {"title": "Pork Ribs: The Holy Grail", "page": 202, "chapter": "Pork", "scanned": "partial", "needsRescan": "ingredient list + method (p.204+) - the scan caught only the headnote; the facing page was Really Loaded Potato Canoes"},
+    {"title": "Pork Ribs: The Holy Grail", "page": 202, "chapter": "Pork", "isRecipe": false, "note": "Section heading / essay opening the ribs chapter, NOT a standalone recipe. The actual rib recipes are Last-Meal Ribs (p.206) and 60-Minute Ribs Dreamland Style (p.207)."},
     {"title": "Last-Meal Ribs", "page": 206, "chapter": "Pork"},
     {"title": "60-Minute Ribs Dreamland Style", "page": 207, "chapter": "Pork"},
     {"title": "Happy Mouth Yakitori Ribs", "page": 210, "chapter": "Pork"},
@@ -76,7 +76,7 @@
     {"title": "Binghamton Spiedie Sandwiches", "page": 289, "chapter": "Lamb"},
 
     {"title": "Simon & Garfunkel Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "alt for the Fri grilled chicken"},
-    {"title": "Cornell Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "classic grilled chicken", "scanned": true, "makes": "3-4 servings", "needsRescan": "Simon & Garfunkel Rub p.168 (cross-referenced, not yet scanned)", "captured": {"ingredients": ["1 large egg", "1/4 cup vegetable oil", "1/4 cup apple cider vinegar", "1 tsp table salt", "1 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp freshly ground black pepper", "1 (3- to 4-pound) chicken, cut into quarters"], "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."}},
+    {"title": "Cornell Chicken", "page": 298, "chapter": "Chicken & Turkey", "fitsMenu": "classic grilled chicken", "scanned": true, "makes": "3-4 servings", "captured": {"ingredients": ["1 large egg", "1/4 cup vegetable oil", "1/4 cup apple cider vinegar", "1 tsp table salt", "1 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp freshly ground black pepper", "1 (3- to 4-pound) chicken, cut into quarters"], "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."}},
     {"title": "Hawaiian Huli-Huli Teriyaki Chicken", "page": 299, "chapter": "Chicken & Turkey"},
     {"title": "Sweet Georgia Brown Smoked Yard Bird", "page": 300, "chapter": "Chicken & Turkey"},
     {"title": "Pulled Chicken", "page": 300, "chapter": "Chicken & Turkey"},
@@ -106,7 +106,7 @@
     {"title": "Greg's Grilled Lobster", "page": 346, "chapter": "Seafood"},
 
     {"title": "Simple Grilled Crostini", "page": 350, "chapter": "Sides"},
-    {"title": "Grilled Asparagus", "page": 350, "chapter": "Sides", "fitsMenu": "the green side for the July 4 ribeye", "scanned": "partial", "captured": {"note": "Ingredient quantities were cropped off the left margin in the scan, and the recipe cross-references the Simon & Garfunkel Rub (p.168, not yet scanned). Readable ingredients: asparagus stalks, extra-virgin olive oil, Simon & Garfunkel Rub, kosher salt, shaved Parmigiano-Reggiano, balsamic condimento/reduction.", "method": "Snap the woody ends, coat with oil + rub + salt, grill two-zone (~325F indirect), finish with shaved Parm ribbons and a balsamic drizzle.", "needsRescan": "p.350 ingredient column + Simon & Garfunkel Rub p.168"}},
+    {"title": "Grilled Asparagus", "page": 350, "chapter": "Sides", "fitsMenu": "the green side for the July 4 ribeye", "scanned": true, "makes": "2 servings", "captured": {"ingredients": ["16 fresh asparagus stalks", "1 tbsp extra-virgin olive oil", "1 1/4 tsp Simon & Garfunkel Rub (p.168)", "1/4 tsp kosher salt", "4 oz Parmigiano-Reggiano cheese", "1 tbsp balsamic condimento or balsamic reduction"], "method": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons. Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle."}},
     {"title": "Grilled Cauliflower", "page": 352, "chapter": "Sides"},
     {"title": "The Ultimate Grilled Corn on the Cob", "page": 353, "chapter": "Sides", "fitsMenu": "cookbook alt for the Fri grilled corn"},
     {"title": "Chipotle-Lime Corn on the Cob", "page": 354, "chapter": "Sides"},
