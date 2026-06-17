@@ -1,0 +1,29 @@
+{
+  "mealId": "creamy-maple-salad-dressing-033dbedf",
+  "fetchedAt": "2026-06-17T15:05:08.301Z",
+  "source": "paprika",
+  "url": "https://deliciousonadime.com/creamy-maple-salad-dressing/",
+  "name": "Creamy Maple Salad Dressing",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup mayonnaise",
+    "4 tsp maple syrup",
+    "pinch salt"
+  ],
+  "recipeInstructions": [
+    "Stir or whisk together mayo and maple syrup. Add pinch of salt.",
+    "Eat immediately or refrigerate for up to three days.",
+    "Enjoy! 🙂"
+  ],
+  "prepTime": "2 min",
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "8",
+  "image": "https://deliciousonadime.com/wp-content/uploads/2019/07/BEST-salad-dressing-creamy-maple-1.jpg",
+  "author": "deliciousonadime.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Calories: 105kcal | Carbohydrates: 2g | Protein: 1g | Fat: 10g | Saturated Fat: 2g | Cholesterol: 6mg | Sodium: 89mg | Potassium: 8mg | Sugar: 2g | Vitamin A: 9IU | Calcium: 4mg | Iron: 1mg",
+  "ai": null
+}

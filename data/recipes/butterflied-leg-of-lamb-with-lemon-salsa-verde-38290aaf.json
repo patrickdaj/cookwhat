@@ -1,0 +1,45 @@
+{
+  "mealId": "butterflied-leg-of-lamb-with-lemon-salsa-verde-38290aaf",
+  "fetchedAt": "2026-06-17T15:05:08.290Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1018469-butterflied-leg-of-lamb-with-lemon-salsa-verde?q=Butterflied",
+  "name": "Butterflied Leg of Lamb with Lemon Salsa Verde",
+  "description": "",
+  "recipeIngredient": [
+    "1 boneless butterflied leg of lamb, 5 to 6 pounds, well trimmed",
+    "2 1/2 teaspoons coarse kosher salt, more as needed",
+    "1 1/2 teaspoons black pepper",
+    "7 garlic cloves, grated on a Microplane or minced",
+    "1/4 cup chopped fresh thyme leaves",
+    "1/4 cup chopped fresh oregano or marjoram leaves",
+    "2 teaspoons ground cumin",
+    "1 teaspoon Turkish chile such as Marash or Urfa (or use crushed red pepper flakes)",
+    "Finely grated zest of 2 lemons",
+    "2 1/2 tablespoons fresh lemon juice, more as needed",
+    "5 tablespoons extra-virgin olive oil",
+    "3 to 4 tablespoons minced preserved lemon, to taste",
+    "3/4 cup chopped parsley",
+    "1/2 cup chopped cilantro",
+    "1/2 cup chopped mint",
+    "2 scallions, white and green parts, thinly sliced"
+  ],
+  "recipeInstructions": [
+    "Pat lamb dry with paper towels and place on a rimmed baking sheet. Season all over with salt and pepper.",
+    "Set aside 1 teaspoon of the garlic. In a bowl, combine remaining garlic with thyme, oregano or marjoram, cumin, chile, lemon zest and 2 tablespoons lemon juice. Drizzle in about 1 tablespoon oil, just enough to create a sandy paste. Rub mixture all over lamb. Cover with plastic wrap and let marinate for at least 1 hour or, even better, overnight in the refrigerator.",
+    "Prepare the salsa verde: In a small bowl, combine a pinch of salt, the remaining teaspoon garlic, remaining 1/2 tablespoon lemon juice, 3 tablespoons preserved lemon, parsley, cilantro, mint and scallion and stir well. Drizzle in remaining oil. Season with more preserved lemon, lemon juice, salt and pepper to taste. Let the mixture sit for at least 30 minutes before serving to allow the flavors to meld and mellow.",
+    "Heat oven to 450 degrees. Roast lamb without turning for 22 to 35 minutes, until a thermometer inserted into the thickest part reads 120 degrees for rare and 130 for medium. Let rest for 10 minutes before slicing and serving with the salsa verde."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr 45 min",
+  "recipeYield": "12 servings",
+  "image": "https://static01.nyt.com/images/2016/12/09/dining/clark-leg-of-lamb-still/clark-leg-of-lamb-still-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 29 grams | Calories: 407 | Saturated Fat: 11 grams | Unsaturated Fat: 16 grams | Sodium: 491 milligrams | Sugar: 1 gram | Fiber: 2 grams | Carbohydrate: 5 grams | Protein: 31 grams",
+  "ai": null
+}

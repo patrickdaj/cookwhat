@@ -1,0 +1,30 @@
+{
+  "mealId": "dinner-tonight-saut-ed-broccolini-9ab35cb6",
+  "fetchedAt": "2026-06-17T15:05:08.304Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe",
+  "name": "Dinner Tonight: Sautéed Broccolini",
+  "description": "",
+  "recipeIngredient": [
+    "1 bunch broccolini, ends removed",
+    "2 clove garlic, minced",
+    "1 teaspoon red pepper flakes",
+    "2 tablespoons canola oil",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    "Bring a large pot of salted water to a boil. Toss in the broccolini and cook until bright green. About 5 minutes. Drain in a colander when done.",
+    "Heat the oil in a medium hot pan. When ready, toss in the garlic and red pepper flakes. Cook for one minute and then add the broccolini to the pan. Cook for about 2 minutes, season with salt and pepper, and then serve up."
+  ],
+  "prepTime": null,
+  "cookTime": "30 min",
+  "totalTime": null,
+  "recipeYield": "2 servings",
+  "image": null,
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 141 Calories 14g Fat 4g Carbs 1g Protein | Nutrition Facts | Servings: 2 | Amount per serving | Calories 141 | % Daily Value* | Total Fat 14g 18% | Saturated Fat 1g 5% | Cholesterol 0mg 0% | Sodium 160mg 7% | Total Carbohydrate 4g 1% | Dietary Fiber 2g 6% | Total Sugars 1g | Protein 1g | Vitamin C 23mg 114% | Calcium 33mg 3% | Iron 0mg 2% | Potassium 147mg 3% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

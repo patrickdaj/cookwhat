@@ -1,0 +1,40 @@
+{
+  "mealId": "garlicky-chicken-thighs-with-scallion-and-lime-f2cfa58a",
+  "fetchedAt": "2026-06-17T15:05:08.310Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1018911-garlicky-chicken-thighs-with-scallion-and-lime?q=Garlicky",
+  "name": "Garlicky Chicken Thighs with Scallion and Lime",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/2 pounds bone-in, skin-on chicken thighs",
+    "Kosher salt and freshly ground pepper",
+    "1 tablespoon canola oil",
+    "1 bunch scallions",
+    "1 head garlic, unpeeled and halved crosswise",
+    "2 cloves garlic, peeled and finely grated",
+    "2 tablespoons fresh lime juice, plus 1 lime",
+    "1 tablespoon low-sodium soy sauce"
+  ],
+  "recipeInstructions": [
+    "Season chicken with salt and pepper on both sides.",
+    "Heat oil in a large Dutch oven or large, high-sided skillet over medium heat.",
+    "Add chicken, skin-side down and cook, undisturbed, until chicken is crisped and the fat has begun to render, 8 to 10 minutes. Using tongs, carefully flip chicken skin-side up. Cook until golden brown, 4 to 6 minutes.",
+    "Meanwhile, thinly slice two scallions; set aside.",
+    "Add both halves of the head of garlic, cut side down, and remaining whole scallions to the pot and season with salt and pepper, tossing to coat in the chicken fat. Cook until scallions are lightly blistered and browned, about 3 minutes. Add grated garlic and stir a minute or two, but do not brown.",
+    "Add lime juice, soy sauce and 1 cup of water. Bring to a simmer and partly cover. Cook until chicken is completely tender and nearly falling apart on the underside and liquid is reduced by three-quarters, 15 to 20 minutes. Discard the halved head of garlic.",
+    "Scatter sliced scallion over chicken and using a Microplane or zester, zest lime over. Cut lime into quarters and serve alongside."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "35 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2018/10/24/dining/ar-chicken-scallions-lime/ar-chicken-scallions-lime-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 32 grams | Calories: 448 | Saturated Fat: 8 grams | Unsaturated Fat: 21 grams | Sodium: 569 milligrams | Sugar: 1 gram | Fiber: 2 grams | Carbohydrate: 10 grams | Protein: 30 grams",
+  "ai": null
+}

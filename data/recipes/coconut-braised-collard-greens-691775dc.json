@@ -1,0 +1,34 @@
+{
+  "mealId": "coconut-braised-collard-greens-691775dc",
+  "fetchedAt": "2026-06-17T15:05:08.298Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1020087-coconut-braised-collard-greens",
+  "name": "Coconut-Braised Collard Greens",
+  "description": "",
+  "recipeIngredient": [
+    "1 large bunch collard greens (1 1/2 to 2 pounds)",
+    "1 tablespoon unsalted butter",
+    "1 tablespoon coconut oil",
+    "1 bunch (6 to 8) scallions, white and pale green parts only, thinly sliced",
+    "1 1/2 cups unsweetened coconut milk",
+    "1 tablespoon soy sauce",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Cut off and discard any dry or wilted bits from the collard greens and wash the remaining collards in cold water. Transfer to a colander to drain, then coarsely chop the stems and leaves into 2- to 3-inch pieces.",
+    "In a large wok or skillet, heat butter and oil over medium-high until rippling. Add scallions and cook, stirring, until softened, about 1 minute. Add collards and cook, stirring, just until wilted, about 1 minute.",
+    "Add coconut milk and soy sauce and bring to a simmer. Simmer, uncovered, stirring frequently, until collards are cooked to your taste, about 7 minutes for bright and crisp greens or 10 minutes for darker, softer greens.",
+    "Season to taste with salt and pepper and serve immediately."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "20 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2019/03/19/dining/19puertorex-greens/merlin_151977432_dc691732-7c11-42a7-9651-15f6c3ba8d74-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 26 grams | Calories: 300 | Saturated Fat: 21 grams | Unsaturated Fat: 3 grams | Sodium: 752 milligrams | Sugar: 2 grams | Fiber: 9 grams | Carbohydrate: 16 grams | Protein: 9 grams",
+  "ai": null
+}

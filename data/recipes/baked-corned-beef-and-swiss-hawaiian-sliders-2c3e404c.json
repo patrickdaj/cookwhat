@@ -1,0 +1,42 @@
+{
+  "mealId": "baked-corned-beef-and-swiss-hawaiian-sliders-2c3e404c",
+  "fetchedAt": "2026-06-17T15:05:08.286Z",
+  "source": "paprika",
+  "url": "https://www.chocolateslopes.com/baked-corned-beef-and-swiss-hawaiian-sliders/",
+  "name": "Baked Corned Beef and Swiss Hawaiian Sliders",
+  "description": "",
+  "recipeIngredient": [
+    "12 Hawaiian Mini Rolls",
+    "1 pound lean corned beef, sliced",
+    "8 slices Swiss cheese",
+    "1 cup sauerkraut",
+    "1 tablespoon olive oil",
+    "poppy seeds",
+    "Thousand Island Dressing",
+    "1/4 cup ketchup",
+    "1/4 cup light mayonnaise",
+    "1 tablespoon lemon juice",
+    "1 teaspoon garlic powder",
+    "1 teaspoon onion powder"
+  ],
+  "recipeInstructions": [
+    "Preheat oven to 350°F.",
+    "Cover a rimmed baking pan with aluminum foil and spray with non-stick cooking spray (or use a silcone mat).",
+    "Leaving the rolls together, slice them in half.",
+    "Place the bottom of the rolls onto the baking pan followed by the corned beef, sauerkraut, Thousand Island, Swiss cheese followed by the top of the Hawaiian rolls.",
+    "Brush on olive oil and sprinkle with poppy seeds.",
+    "Loosely place aluminum foil (the underside sprayed with non-stick cooking spray) over top of the rolls.",
+    "Bake for 20 minutes.*"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": null,
+  "recipeYield": "4",
+  "image": "https://i0.wp.com/www.chocolateslopes.com/wp-content/uploads/2222/08/corned.beef_.swiss_.reuben.slider.jpg?w=3000&ssl=1",
+  "author": "chocolateslopes.com",
+  "categories": [],
+  "rating": 5,
+  "notes": "*I sometimes have issues with the bottoms of the sliders getting too brown so I now place the pan on the oven rack toward the top half of my oven. Or you can decrease the cooking time by 5 minutes.",
+  "nutrition": null,
+  "ai": null
+}

@@ -1,0 +1,37 @@
+{
+  "mealId": "homemade-corned-beef-a506fd4a",
+  "fetchedAt": "2026-06-17T15:05:08.314Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1018642-homemade-corned-beef?q=Corned%20beef",
+  "name": "Homemade Corned Beef",
+  "description": "",
+  "recipeIngredient": [
+    "2 cups coarse kosher salt",
+    "1/2 cup sugar",
+    "5 garlic cloves, smashed",
+    "5 tablespoons pickling spices",
+    "1 tablespoon plus 1 teaspoon pink curing salt (sodium nitrite)",
+    "1 4- to 5-pound beef brisket",
+    "2 bottles of good beer",
+    "2 bottles of good ginger beer"
+  ],
+  "recipeInstructions": [
+    "Brine the brisket: In a medium pot set over high heat, combine about a gallon of water, the salt, the sugar, the garlic, 3 tablespoons pickling spices and the pink curing salt. Stir mixture as it heats until sugar and salt are dissolved, about 1 minute. Transfer liquid to a container large enough for the brine and the brisket, then refrigerate until liquid is cool.",
+    "Place brisket in the cooled liquid and weigh the meat down with a plate so it is submerged. Cover container and place in the refrigerator for 5 days, or up to 7 days, turning every day or so.",
+    "To cook brisket, remove it from the brine and rinse under cool water. Place in a pot just large enough to hold it and cover with one of the beers and one of the ginger beers. If you need more liquid to cover the meat, add enough of the other beer, and the other ginger beer, to do so. Add remaining 2 tablespoons pickling spices. Bring to a boil over high heat, then turn heat to low so liquid is barely simmering. Cover and let cook until you can easily insert a fork into the meat, about 3 hours, adding water along the way if needed to cover the brisket.",
+    "Keep warm until serving, or let cool in the liquid and reheat when ready to eat, up to three or four days. Slice thinly and serve on sandwiches, in Irish tacos (see recipe) or with carrots and cabbage simmered until tender in the cooking liquid."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "8 to 12 servings",
+  "image": "https://static01.nyt.com/images/2017/03/08/dining/08CORNEDBEEF2/08CORNEDBEEF2-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 5,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

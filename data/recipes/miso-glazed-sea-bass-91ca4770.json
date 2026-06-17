@@ -1,0 +1,40 @@
+{
+  "mealId": "miso-glazed-sea-bass-91ca4770",
+  "fetchedAt": "2026-06-17T15:05:08.324Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1015737-miso-glazed-sea-bass",
+  "name": "Miso-Glazed Sea Bass",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/2 pounds sea bass, mackerel or cod, skin off, and cut into a dozen 2-ounce slices",
+    "1 tablespoon white miso",
+    "1 tablespoon red miso",
+    "1 tablespoon sake",
+    "1 tablespoon mirin",
+    "2 teaspoons soy sauce",
+    "2 teaspoons grated ginger",
+    "1 tablespoon sugar",
+    "2 egg yolks",
+    "Salt",
+    "1 pound tender mustard greens or spinach, stemmed and washed",
+    "1 teaspoon toasted sesame oil",
+    "Pickled ginger, for garnish"
+  ],
+  "recipeInstructions": [
+    "Lay fish slices in a shallow glass or earthenware baking dish. Put white and red miso, sake, mirin, soy sauce, ginger and sugar in a small bowl and stir well.",
+    "Dot half the miso mixture evenly over fish, then rub with fingers to lightly coat slices. Leave to marinate 10 to 15 minutes. Heat oven to 400 degrees.",
+    "Beat egg yolks into remaining miso mixture. With a spoon, smear tops of fish slices with this egg-enriched mixture. Bake on top shelf of oven for 6 to 8 minutes, until fish is firm, then place pan under broiler to glaze. Broil 1 to 2 minutes until topping begins to brown. With a spatula, transfer fish to serving platter.",
+    "Meanwhile, bring 4 cups well-salted water to a boil in a wide stainless steel skillet. Add mustard greens and cook until wilted, about 1 minute. Drain in colander, rinse briefly with cold water, then press out excess water with wooden spoon. Transfer to serving dish. Drizzle with sesame oil and garnish with thin slices of pickled ginger."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "30 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2013/11/27/dining/27KITCH_SPAN/27KITCH_SPAN-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 7 grams | Calories: 273 | Saturated Fat: 2 grams | Unsaturated Fat: 4 grams | Sodium: 745 milligrams | Sugar: 5 grams | Fiber: 4 grams | Carbohydrate: 13 grams | Protein: 37 grams",
+  "ai": null
+}

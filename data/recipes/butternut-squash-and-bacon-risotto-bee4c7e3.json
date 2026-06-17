@@ -1,0 +1,36 @@
+{
+  "mealId": "butternut-squash-and-bacon-risotto-bee4c7e3",
+  "fetchedAt": "2026-06-17T15:05:08.290Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017919-butternut-squash-and-bacon-risotto?algo=identity&amp;fellback=true&amp;imp_id=534683072777104&amp;req_id=5759930068333352&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking#notes_section",
+  "name": "Butternut Squash and Bacon Risotto",
+  "description": "",
+  "recipeIngredient": [
+    "1 large butternut squash, about 3 pounds, peeled, cored and diced in 1/2-inch pieces",
+    "Salt",
+    "6 ounces thick-sliced smoked bacon",
+    "1 cup finely chopped onion",
+    "1 teaspoon ground sage",
+    "1 1/2 cups arborio rice",
+    "1/2 cup dry white wine",
+    "Ground black pepper",
+    "1 tablespoon fresh sage leaves, slivered"
+  ],
+  "recipeInstructions": [
+    "Place squash in a saucepan with 4 cups salted water. Bring to a boil and simmer until tender, about 10 minutes. Drain, reserving the cooking liquid. Set aside half the diced squash. Place the rest, with 2 cups of the cooking liquid, in a blender or food processor and process until smooth. Return this thin squash purée and the rest of the cooking liquid to the saucepan in which the squash was cooked. You should have about 5 cups.",
+    "Fry half the bacon. Set aside. Chop the rest. Place chopped bacon in a 3-quart sauté pan over medium-low heat. Cook, stirring, until bacon barely starts to color. Add the onion, continue cooking until onion is translucent. Stir in half the ground sage, then the rice. Cook, stirring on medium heat, a few minutes until the grains of rice start to look chalky. Stir in the wine and cook until most has evaporated.",
+    "Bring the saucepan of squash liquid to a simmer and start to add it to the rice, about half a cup at a time, stirring and adding more as it is absorbed. After about 15 minutes, the rice should almost be al dente. Before adding the final portion of liquid, fold in the reserved diced squash, the remaining ground sage and salt and pepper to taste.",
+    "Divide risotto among 4 to 6 plates, crumble the reserved fried bacon and top each portion with some bacon and slivered sage."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr",
+  "recipeYield": "4 to 6 servings",
+  "image": "https://static01.nyt.com/images/2016/01/13/dining/06PARING/06PARING-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 11 grams | Calories: 410 | Saturated Fat: 4 grams | Unsaturated Fat: 6 grams | Sodium: 823 milligrams | Sugar: 6 grams | Fiber: 7 grams | Carbohydrate: 66 grams | Protein: 10 grams",
+  "ai": null
+}

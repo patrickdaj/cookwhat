@@ -1,0 +1,36 @@
+{
+  "mealId": "fish-piccata-13cf1225",
+  "fetchedAt": "2026-06-17T15:05:08.308Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/fish-piccata-5212223",
+  "name": "Fish Piccata",
+  "description": "",
+  "recipeIngredient": [
+    "All-purpose flour, for dredging (about 1/2 cup)",
+    "4 (6-ounce; 170 g) thin boneless, skinless white-fleshed fish fillets, about 1/2- to 3/4-inch thick, such as flounder, scrod, haddock, or branzino",
+    "1/4 tsp salt and freshly ground black pepper",
+    "60 ml vegetable oil",
+    "80 ml white wine",
+    "1 1/2 tablespoons (1/2 ounce; 15 g) drained capers in vinegar",
+    "4 tablespoons (60 g) unsalted butter, cut into tablespoon-size pieces, plus 1 tablespoon (15 g) unsalted butter mashed into a paste with 1/4 teaspoon all-purpose flour",
+    "1 tablespoon (15 ml) fresh lemon juice from 1 whole lemon",
+    "1 1/2 tablespoons (1/4 ounce; 8 g) minced flat-leaf parsley leaves and tender stems"
+  ],
+  "recipeInstructions": [
+    "In a wide, shallow bowl, spread flour in an even layer. Line a rimmed baking sheet with parchment paper. Season fish fillets all over with salt and pepper. Working with one piece of fish at a time, dredge fillets in flour, shaking off excess. Transfer to prepared baking sheet.",
+    "In a large nonstick skillet, heat oil over medium-high heat until shimmering. Working in batches if necessary, add fish, presentation side down, and cook until well browned on on first side, 3 to 4 minutes (it's okay if the fillets are mostly cooked through at this point). Using two spatulas, if necessary, carefully flip each fillet and continue cooking until just cooked through and flesh is opaque throughout, 30 seconds to 1 minute. Carefully transfer fish, well-browned side up, to a serving platter and keep warm.",
+    "Wipe out skillet, then return to medium-high heat, add wine, and bring to a boil. Cook until alcohol smell has mostly cooked off and wine is reduced by about half, about 2 minutes. Add capers, the 4 tablespoons plain unsalted butter, and butter-flour mixture and cook, whisking constantly, until butter has melted.",
+    "Lower heat to medium and continue to simmer while whisking until a creamy, emulsified sauce has formed; when ready, it should coat the back of a spoon and a finger dragged through it should leave a trail. If the sauce over-reduces and breaks at any point, whisk in cold water 1 tablespoon at a time to bring it back together. Whisk in lemon juice and parsley. Season with salt, then pour sauce over fish fillets and serve right away."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/9isMDurUrg11sxVwawTEn_SynNo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20211201-fish-piccata-vicky-wasik-17-205e3c62dd94410f9fae9418417b4459.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 405 Calories 31g Fat 7g Carbs 20g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 405 | % Daily Value* | Total Fat 31g 40% | Saturated Fat 12g 59% | Cholesterol 109mg 36% | Sodium 615mg 27% | Total Carbohydrate 7g 3% | Dietary Fiber 0g 1% | Total Sugars 0g | Protein 20g | Vitamin C 3mg 13% | Calcium 43mg 3% | Iron 1mg 5% | Potassium 291mg 6% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

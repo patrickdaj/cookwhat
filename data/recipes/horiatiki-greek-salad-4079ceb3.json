@@ -1,0 +1,35 @@
+{
+  "mealId": "horiatiki-greek-salad-4079ceb3",
+  "fetchedAt": "2026-06-17T15:05:08.316Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe",
+  "name": "Horiatiki (Greek Salad)",
+  "description": "",
+  "recipeIngredient": [
+    "2 ounces (55 g) red onion (1/4 medium 8-ounce onion), thinly sliced pole to pole",
+    "1/4 cup (60 ml) red wine vinegar",
+    "12 ounces (340 g) mixed ripe tomatoes, cut into slices and chunks (about 2 heaping cups when cut up)",
+    "12 ounces cucumber (340 g; about 2 small cucumbers), peeled (or partially peeled or unpeeled, if you want some of the bitter skin); quartered lengthwise; and thinly sliced crosswise",
+    "1/4 cup pitted Kalamata or other briny black olives (about 1 1/2 ounces; 40 g), see note",
+    "1/2 cup (120 ml) extra-virgin olive oil, plus more for drizzling",
+    "Kosher or sea salt",
+    "2 big pinches dried Greek or Mediterranean oregano, divided",
+    "4 ounces (115 g) feta cheese, preferably cut into slabs"
+  ],
+  "recipeInstructions": [
+    "In a small bowl, combine onion with vinegar and let soak while you prepare the other ingredients, about 15 minutes. Drain onions, reserving vinegar.",
+    "In a salad bowl or large mixing bowl, combine tomatoes, cucumber, olives, onion, olive oil, and about 2 tablespoons (30ml) of the vinegar left over from quick-pickling onion. Season with salt and one large pinch of oregano, toss gently to combine, then adjust to taste with more salt and vinegar, if desired.",
+    "Lay slabs of feta on top, sprinkle with remaining pinch of oregano, and drizzle with olive oil. Serve, soaking up juices with bread."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/4LHC4RoYZZOqPm0v8zbzYtXV7hs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__08__20170814-greek-salad-vicky-wasik-8-84d7b60421bc47df8f5292ca3ffddd6f.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 377 Calories 36g Fat 10g Carbs 6g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 377 | % Daily Value* | Total Fat 36g 46% | Saturated Fat 8g 42% | Cholesterol 26mg 9% | Sodium 571mg 25% | Total Carbohydrate 10g 3% | Dietary Fiber 2g 7% | Total Sugars 5g | Protein 6g | Vitamin C 15mg 74% | Calcium 177mg 14% | Iron 1mg 7% | Potassium 375mg 8% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

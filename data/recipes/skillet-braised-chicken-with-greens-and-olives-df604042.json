@@ -1,0 +1,43 @@
+{
+  "mealId": "skillet-braised-chicken-with-greens-and-olives-df604042",
+  "fetchedAt": "2026-06-17T15:05:08.346Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1025981-skillet-braised-chicken-with-greens-and-olives?q=Skillet%20braised",
+  "name": "Skillet-Braised Chicken with Greens and Olives",
+  "description": "",
+  "recipeIngredient": [
+    "2¼ to 2½ pounds bone-in chicken thighs and drumsticks",
+    "Fine sea salt or table salt and freshly ground black pepper",
+    "1/4 teaspoon hot smoked paprika, plus more for serving (or use red-pepper flakes)",
+    "3 tablespoons extra-virgin olive oil, more for serving",
+    "1 cup sliced shallots, about 2 to 3 (or use red onion)",
+    "3 garlic cloves, thinly sliced",
+    "1 to 2 bunches sturdy greens, such as escarole, Swiss chard or kale, coarsely chopped (1 pound; about 10 to 12 cups)",
+    "1 cup coarsely chopped cilantro or parsley",
+    "1¼ cups chicken stock, plus more as needed",
+    "1/2 cup pitted coarsely chopped Castelvetrano olives",
+    "1 lemon, halved",
+    "Flaky salt, for serving (optional)"
+  ],
+  "recipeInstructions": [
+    "Season chicken all over with ½ teaspoon salt, several grinds of black pepper and the paprika.",
+    "In a large, heavy-bottomed skillet, heat oil over medium-high. Add shallots and a pinch of salt, and cook until pale golden brown all over, 5 to 7 minutes.",
+    "Add chicken to the skillet and let sear until it browns lightly on both sides and the onions turn a shade or two darker, 8 to 10 minutes. Transfer chicken to a plate, leaving the shallots in the pan.",
+    "Add garlic to the pan and cook until fragrant, 1 minute more. Add chopped greens, cilantro and another ¼ teaspoon salt to the pan, and stir, tossing to coat in the residual chicken fat. It may seem like a lot of greens, but they will cook down. Cook until they have just started to wilt, about 2 minutes.",
+    "Add the chicken and any juices on the plate to the skillet with the greens. Pour in enough of the chicken stock to come halfway up the chicken. Bring liquid to a gentle simmer. Partly cover and allow the chicken to finish cooking through, 25 to 35 minutes. Add more stock as needed to keep the greens tender and moist.",
+    "Stir in olives and cook uncovered until they are warmed through, about 1 minute more. Squeeze one lemon half over everything, then taste greens, and add more salt or lemon juice if needed. Serve topped with flaky salt, a drizzle of extra-virgin olive oil and more smoked paprika."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "1 hr",
+  "totalTime": "1 hr 15 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/09/18/multimedia/MC-Skillet-Chicken-Greens-Olivesrex-jwmq/MC-Skillet-Chicken-Greens-Olivesrex-jwmq-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 38 grams | Calories: 607 | Saturated Fat: 9 grams | Unsaturated Fat: 26 grams | Sodium: 1116 milligrams | Sugar: 3 grams | Fiber: 3 grams | Carbohydrate: 13 grams | Protein: 52 grams",
+  "ai": null
+}

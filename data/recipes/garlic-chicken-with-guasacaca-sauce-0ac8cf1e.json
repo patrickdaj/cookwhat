@@ -1,0 +1,38 @@
+{
+  "mealId": "garlic-chicken-with-guasacaca-sauce-0ac8cf1e",
+  "fetchedAt": "2026-06-17T15:05:08.310Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1022128-garlic-chicken-with-guasacaca-sauce?q=Guasacaca",
+  "name": "Garlic Chicken with Guasacaca Sauce",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup olive oil",
+    "3 large garlic cloves, peeled",
+    "1 1/2 pounds carrots, scrubbed, trimmed and cut into 2-inch lengths (1/2-inch wide)",
+    "Kosher salt and black pepper",
+    "2 1/2 to 3 pounds bone-in, skin-on chicken thighs, drumsticks, breasts or a combination, patted dry",
+    "1 avocado, pitted and chopped",
+    "1 jalapeño, stemmed and chopped",
+    "2 tablespoons rice vinegar",
+    "Zest and juice of 1 lime",
+    "1 cup chopped parsley leaves with tender stems",
+    "1 cup chopped cilantro leaves with tender stems"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 425 degrees. In a medium bowl, combine 1/4 cup oil and grate in 2 garlic cloves using a zester. Add the carrots and toss to coat. Lightly season with salt and black pepper and transfer to a sheet pan, reserving the garlic oil in the bowl. Add the chicken to the bowl and coat with the remaining garlic oil. Arrange in a single layer on the sheet pan skin-side up between the carrots.",
+    "Roast until carrots are tender, and chicken is cooked through with crispy skin that’s browned in spots, 35 to 40 minutes.",
+    "While the chicken cooks, in a food processor or blender or using a mortar and pestle, combine the avocado, jalapeño, vinegar, lime zest and juice, remaining garlic clove, half the chopped parsley and cilantro, 1/2 teaspoon salt and 1/4 teaspoon black pepper. Purée or pound into a coarse mixture. With the machine running or while mixing with a pestle in a mortar, slowly drizzle in the remaining 1/4 cup olive oil and 1 tablespoon room temperature water. Purée or stir until the sauce is smooth and creamy. Taste and adjust the seasoning with additional salt if necessary. The sauce can be made a few hours in advance and refrigerated in an airtight container.",
+    "Scatter the remaining 1/2 cup each parsley and cilantro over the chicken and carrots. Transfer to individual plates along with any pan juices. Spoon a few tablespoons of the guasacaca sauce on the side for dipping. Serve warm with additional sauce on the side."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2021/05/02/dining/yk-guasacaca-chicken/merlin_186703200_7f0ab6ca-5dc3-4fa4-82f3-1e1e42559ea4-videoSixteenByNineJumbo1600.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 64 grams | Calories: 915 | Saturated Fat: 13 grams | Unsaturated Fat: 46 grams | Sodium: 1422 milligrams | Sugar: 9 grams | Fiber: 10 grams | Carbohydrate: 26 grams | Protein: 60 grams",
+  "ai": null
+}

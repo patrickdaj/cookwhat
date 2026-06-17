@@ -1,0 +1,36 @@
+{
+  "mealId": "mashed-sweet-potatoes-5abd03a1",
+  "fetchedAt": "2026-06-17T15:05:08.323Z",
+  "source": "paprika",
+  "url": "https://www.loveandlemons.com/mashed-sweet-potatoes/",
+  "name": "Mashed Sweet Potatoes",
+  "description": "",
+  "recipeIngredient": [
+    "3 pounds sweet potatoes, about 5 large or 6 medium, peeled and cut into 1-inch cubes",
+    "4 tablespoons unsalted butter, cut into pats, plus more for serving",
+    "½ cup milk, warmed",
+    "¼ cup maple syrup",
+    "1 teaspoon sea salt, plus more for cooking the potatoes",
+    "Freshly ground black pepper",
+    "Fresh thyme leaves, optional, for garnish"
+  ],
+  "recipeInstructions": [
+    "Place the sweet potatoes in a large pot and cover with cold water by 1 inch. Stir 1 tablespoon salt into the water.",
+    "Bring to a boil over high heat, then reduce the heat to maintain a gentle boil. Cook for 10 to 15 minutes, or until the potatoes are easily pierced with a fork.",
+    "Drain the potatoes and return to the pot. Add the butter, milk, maple syrup, salt, and several grinds of pepper. Use a potato masher to mash until smooth and well combined.",
+    "Season to taste and serve topped with more butter and fresh thyme leaves, if desired."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "Serves 6",
+  "image": "https://cdn.loveandlemons.com/wp-content/uploads/2024/11/mashed-sweet-potatoes-1-1160x1519.jpg",
+  "author": "loveandlemons.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 4,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

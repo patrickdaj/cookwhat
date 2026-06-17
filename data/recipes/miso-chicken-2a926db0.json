@@ -1,0 +1,31 @@
+{
+  "mealId": "miso-chicken-2a926db0",
+  "fetchedAt": "2026-06-17T15:05:08.324Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken?q=Miso%20",
+  "name": "Miso Chicken",
+  "description": "",
+  "recipeIngredient": [
+    "4 tablespoons unsalted butter, softened",
+    "1/2 cup white miso",
+    "2 tablespoons honey",
+    "1 tablespoon rice vinegar (do not use seasoned rice vinegar)",
+    "Black pepper, to taste",
+    "8 skin-on, bone-in chicken thighs, approximately 2 1/2 to 3 pounds"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 425 degrees. Combine butter, miso, honey, rice vinegar and black pepper in a large bowl and mix with a spatula or spoon until it is well combined.",
+    "Add chicken to the bowl and massage the miso-butter mixture all over it. Place the chicken in a single layer in a roasting pan and slide it into the oven. Roast for 30 to 40 minutes, turning the chicken pieces over once or twice, until the skin is golden brown and crisp, and the internal temperature of the meat is 160 to 165 degrees."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 78 grams | Calories: 1059 | Saturated Fat: 25 grams | Unsaturated Fat: 45 grams | Sodium: 1597 milligrams | Sugar: 11 grams | Fiber: 2 grams | Carbohydrate: 19 grams | Protein: 68 grams",
+  "ai": null
+}

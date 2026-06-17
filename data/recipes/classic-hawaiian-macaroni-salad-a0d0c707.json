@@ -1,0 +1,39 @@
+{
+  "mealId": "classic-hawaiian-macaroni-salad-a0d0c707",
+  "fetchedAt": "2026-06-17T15:05:08.297Z",
+  "source": "paprika",
+  "url": "https://www.hungryhuy.com/hawaiian-macaroni-salad/",
+  "name": "Classic Hawaiian Macaroni Salad",
+  "description": "",
+  "recipeIngredient": [
+    "DRESSING",
+    "140 g (⅔ c) Best Foods mayonnaise or Hellman's",
+    "¼ fl oz (½ tbsp) apple cider vinegar",
+    "7 g (1 ½ tsp) white granulated sugar",
+    "40 g (3 tbsp) yellow onion (⅛ medium sized) minced",
+    "21 g (¼ c) carrot (½ medium sized) cut into thin strips",
+    "MACARONI",
+    "64 fl oz (8 c) filtered water for boiling",
+    "6 g (2 tsp) salt for seasoning",
+    "115 g (1 ¼ c) dried large macaroni"
+  ],
+  "recipeInstructions": [
+    "Make the dressing: In a medium bowl, mix all dressing ingredients using a spoon or spatula to incorporate all the ingredients evenly, then set aside.",
+    "In a pot, add the water and salt and bring to a boil on high heat.",
+    "When it hits a boil, add the macaroni and lower the heat a bit to maintain a strong boil, but not so its spraying everywhere. Cook for 8-9 minutes. Test the pasta every 30 seconds around the 7 minute mark to make sure it doesn't overcook. When the pasta is soft, but not mushy, drain the water and don't rinse the pasta.",
+    "After a minute or so of resting the pasta to cool off, add it directly to the dressing.",
+    "Stir until the pasta is completely coated.",
+    "Taste test and reseason with salt if you like. Serve immediately or chill to serve cold."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "4",
+  "image": "https://cdn.shortpixel.ai/spai2/w_1152+q_glossy+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/hawaiian-macaronie-salad.jpg",
+  "author": "hungryhuy.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Saturated Fat | Trans Fat | Monounsaturated Fat | Cholesterol | Sodium | Carbohydrates | Vitamin A",
+  "ai": null
+}

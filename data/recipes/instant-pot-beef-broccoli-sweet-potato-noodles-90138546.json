@@ -1,0 +1,44 @@
+{
+  "mealId": "instant-pot-beef-broccoli-sweet-potato-noodles-90138546",
+  "fetchedAt": "2026-06-17T15:05:08.317Z",
+  "source": "paprika",
+  "url": "https://thetoastedpinenut.com/instant-pot-beef-broccoli-sweet-potato-noodles/",
+  "name": "Instant Pot Beef Broccoli + Sweet Potato Noodles",
+  "description": "",
+  "recipeIngredient": [
+    "1 tablespoon refined coconut oil",
+    "3–4 medium sweet potatoes, peeled and spiralized",
+    "1 lb. flank steak, thinly sliced",
+    "1 head broccoli, chopped",
+    "1/4 cup coconut aminos or soy sauce",
+    "3 teaspoon honey",
+    "1 teaspoon white or rice wine vinegar",
+    "2 teaspoon arrowroot powder",
+    "1/4 teaspoon black pepper",
+    "Optional – sesame seeds & chopped green onion for serving"
+  ],
+  "recipeInstructions": [
+    "Begin by spiralizing the sweet potatoes.",
+    "Once spiralized, turn the Instant Pot to “Sauté” for 10 minutes. Add the coconut oil to the pot.",
+    "Sauté the sweet potato noodles for 10 minutes, tossing frequently to soften them. Once cooked, remove them from the Instant Pot and set aside until serving time.",
+    "While the sweet potato noodles cook, slice the steak, going against the grain, and chop up the broccoli into bite sized pieces.",
+    "Whisk together the coconut aminos/soy sauce, honey, arrowroot powder, vinegar and black pepper.",
+    "Place the steak at the bottom of the Instant Pot and add the broccoli on top of it. Pour over the sauce.",
+    "Secure the lid on the Instant Pot and turn the knob to “Sealing”.",
+    "Select “Pressure Cook” or “Manual” and set the time for 8 minutes. Let the Instant Pot complete the cycle and allow it to naturally release for 5 minutes before carefully preforming a manual release.",
+    "Serve the beef and broccoli over the sweet potato noodles and top with green onion and sesame seeds, if desired."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "23 min",
+  "totalTime": null,
+  "recipeYield": "Servings: 4",
+  "image": "https://thetoastedpinenut.com/wp-content/uploads/2018/12/IMG_2666-1-600x1017.jpg",
+  "author": "thetoastedpinenut.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

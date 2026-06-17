@@ -1,0 +1,36 @@
+{
+  "mealId": "sausage-tortellini-soup-b8702fac",
+  "fetchedAt": "2026-06-17T15:05:08.340Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1024144-sausage-tortellini-soup?q=Sausage%20toe",
+  "name": "Sausage Tortellini Soup",
+  "description": "",
+  "recipeIngredient": [
+    "3 tablespoons extra-virgin olive oil",
+    "12 to 16 ounces fully cooked chicken sausage, any flavor, cut into ½-inch pieces",
+    "1 large fennel, bulb coarsely chopped, stalks thinly sliced, fronds finely chopped",
+    "4 garlic cloves, chopped",
+    "Salt and pepper",
+    "1 1/2 quarts (6 cups) chicken broth",
+    "About 10 ounces fresh or frozen cheese, spinach or mushroom tortellini",
+    "2 cups chopped vegetables (such as snap or snow peas, green beans, asparagus, kale, spinach or escarole), or frozen peas",
+    "Grated Parmesan, for serving"
+  ],
+  "recipeInstructions": [
+    "Heat the oil in a large pot or Dutch oven over medium-high. Add the sausage and cook, stirring once or twice, until browned and crisp all over, 6 to 8 minutes. Add the chopped fennel bulb and garlic, season with salt and pepper, and cook, scraping up the browned bits as you go, until softened, 5 to 7 minutes.",
+    "Add the chicken broth and bring to a boil, then reduce heat and simmer until the broth is flavorful, 5 to 7 minutes. Scrape the browned bits from the bottom of the pot. Taste and season with salt and pepper.",
+    "Add the tortellini and cook according to package directions. In the last three minutes of the tortellini cooking, add the chopped vegetables and up to ½ cup sliced fennel stalks. (For some tortellini, that might mean adding the vegetables with the pasta.)",
+    "Remove from heat and stir in up to ¼ cup chopped fennel fronds. Serve in bowls topped with Parmesan and more black pepper."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2023/04/25/multimedia/-as-sausage-tortellini-soup-kwpq/-as-sausage-tortellini-soup-kwpq-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 34 grams | Calories: 554 | Saturated Fat: 8 grams | Unsaturated Fat: 23 grams | Sodium: 1767 milligrams | Sugar: 14 grams | Fiber: 5 grams | Carbohydrate: 31 grams | Protein: 30 grams",
+  "ai": null
+}

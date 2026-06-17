@@ -1,0 +1,40 @@
+{
+  "mealId": "bacon-and-gruy-re-green-bean-casserole-defa1334",
+  "fetchedAt": "2026-06-17T15:05:08.285Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1016946-bacon-and-gruyere-green-bean-casserole",
+  "name": "Bacon and Gruyère Green Bean Casserole",
+  "description": "",
+  "recipeIngredient": [
+    "2 tablespoons unsalted butter",
+    "2 pounds green beans, trimmed and broken in half",
+    "Salt, to taste",
+    "6 slices bacon",
+    "2 shallots, finely chopped (about 1/2 cup)",
+    "1/2 pound mushrooms, sliced",
+    "1 cup crème fraîche",
+    "1/3 cup heavy cream",
+    "6 ounces Gruyère, shredded (1 1/2 cups)",
+    "2 teaspoons chopped fresh marjoram or 1 teaspoon fresh thyme leaves (optional)",
+    "1/2 cup bread crumbs (or crumbled Ritz crackers)"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 375 degrees. Use 1 tablespoon butter to grease a 2- to 2 1/2-quart baking dish or gratin.",
+    "Bring a large pot of water to a boil, salt generously and add green beans. Boil for 5 minutes and transfer to a bowl of cold water. Drain on a kitchen towel.",
+    "Heat a large, heavy skillet over medium heat and add bacon. Cook until crispy, about 10 to 12 minutes. Remove to paper towels and let cool.",
+    "Discard all but 2 tablespoons of bacon grease in pan and return to heat. Add shallots and cook, stirring, until they begin to soften, 2 to 3 minutes. Add mushrooms and turn heat up slightly. Cook, stirring and scraping the bottom of pan, until mushrooms begin to sweat. Add salt to taste and cook until tender, about 5 minutes. Remove from heat.",
+    "In a large bowl whisk together crème fraîche and cream. Stir in Gruyère. Add green beans, mushrooms and shallots, and marjoram or thyme. Crumble in bacon. Add salt and pepper to taste and stir everything together until beans are well coated. Transfer to baking dish.",
+    "Melt remaining butter and toss with bread crumbs. Sprinkle evenly over top of casserole. Bake 30 minutes, until bread crumbs are golden brown and casserole is bubbling. Remove from heat, let sit until bubbles subside, and serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr 15 min",
+  "recipeYield": "6 to 8 servings",
+  "image": "https://static01.nyt.com/images/2014/11/19/dining/19OKLAHOMA/19OKLAHOMA-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 27 grams | Calories: 358 | Saturated Fat: 14 grams | Unsaturated Fat: 11 grams | Sodium: 563 milligrams | Sugar: 7 grams | Fiber: 4 grams | Carbohydrate: 17 grams | Protein: 14 grams",
+  "ai": null
+}

@@ -1,0 +1,41 @@
+{
+  "mealId": "the-best-clam-chowder-83534545",
+  "fetchedAt": "2026-06-17T15:05:08.352Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder?q=Best%20clam",
+  "name": "The Best Clam Chowder",
+  "description": "",
+  "recipeIngredient": [
+    "24 medium-size quahog clams, usually rated ‘‘top neck’’ or ‘‘cherrystone,’’ rinsed",
+    "1 tablespoon unsalted butter",
+    "1/4 pound slab bacon or salt pork, diced",
+    "2 leeks, tops removed, halved and cleaned, then sliced into half moons",
+    "3 large Yukon Gold potatoes, cubed",
+    "1/2 cup dry white wine",
+    "3 sprigs thyme",
+    "1 bay leaf",
+    "2 cups cream",
+    "Freshly ground black pepper to taste",
+    "1/4 cup chopped parsley."
+  ],
+  "recipeInstructions": [
+    "Put the clams in a large, heavy Dutch oven, add about 4 cups water, then set over medium-high heat. Cover, and cook until clams have opened, approximately 10 to 15 minutes. (Clams that fail to open after 15 to 20 minutes should be discarded.) Strain clam broth through a sieve lined with cheesecloth or doubled-up paper towels, and set aside. Remove clams from shells, and set aside as well.",
+    "Rinse out the pot, and return it to the stove. Add butter, and turn heat to medium-low. Add bacon or salt pork, and cook, stirring occasionally, until the fat has rendered and the pork has started to brown, approximately 5 to 7 minutes. Use a slotted spoon to remove pork from fat, and set aside.",
+    "Add the leeks to the fat, and cook, stirring frequently, until they are soft but not brown, about 10 minutes. Stir in potatoes and wine, and continue cooking until wine has evaporated and the potatoes have just started to soften, approximately 5 minutes. Add enough clam broth to just cover the potatoes, approximately 3 cups, reserving the rest for another use. Add the thyme and the bay leaf.",
+    "Partly cover the pot, and simmer gently until potatoes are tender, approximately 10 to 15 minutes.",
+    "Meanwhile, chop the clams into bits about the size of the bacon dice.",
+    "When potatoes are tender, add cream and stir in chopped clams and reserved bacon. Add black pepper to taste. Let come to a simmer, and remove from heat. (Do not let chowder come to a full boil.) Fish out the thyme and the bay leaf, and discard.",
+    "The chowder should be allowed to sit for a while to cure. Reheat it to a bare simmer before serving, then garnish with chopped parsley. Serve with oyster crackers."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr",
+  "recipeYield": "8 to 10 servings",
+  "image": "https://static01.nyt.com/images/2017/08/03/dining/COOKING-BEST-CLAM-CHOWDER2/COOKING-BEST-CLAM-CHOWDER2-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 1 gram | Fat: 28 grams | Calories: 396 | Saturated Fat: 15 grams | Unsaturated Fat: 11 grams | Sodium: 538 milligrams | Sugar: 3 grams | Fiber: 3 grams | Carbohydrate: 26 grams | Protein: 10 grams",
+  "ai": null
+}

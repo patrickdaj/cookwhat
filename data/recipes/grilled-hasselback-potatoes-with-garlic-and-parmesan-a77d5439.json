@@ -1,0 +1,33 @@
+{
+  "mealId": "grilled-hasselback-potatoes-with-garlic-and-parmesan-a77d5439",
+  "fetchedAt": "2026-06-17T15:05:08.312Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/grilling-hasselback-potatoes-with-garlic-and-parmesan-recipe",
+  "name": "Grilled Hasselback Potatoes with Garlic and Parmesan",
+  "description": "",
+  "recipeIngredient": [
+    "4 medium russet potatoes, scrubbed",
+    "4 large cloves garlic, thinly sliced",
+    "4 ounces parmesan cheese, 2 ounces thinly sliced, 2 ounces grated",
+    "2 tablespoons olive oil",
+    "Kosher salt",
+    "Freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Cut off a thin slice of each potato lengthwise to create a even base for potato to rest on. Slice off ends of each potato. Rest potato between two chopsticks or wooden spoons to act as a stop for the knife and carefully cut vertical slits in each potato about every 1/8-inch.",
+    "Rinse potato under running water, fanning out to rinse inside of cut slits. Place potatoes on a plate and microwave at high for 5 minutes. Flip potatoes over and microwave again for an additional 5 minutes.",
+    "Tuck slices of garlic and parmesan in slits in the potatoes, it does not have to be in every slit. Brush potatoes with olive oil and season with salt and pepper to taste. Sprinkle tops with grated parmesan.",
+    "Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil the grilling grate. Place potatoes on cool side of grill, cover, and cook until soft in the center and crisp around the edges, about 30-40 minutes. Remove from grill, let cool for 5 minutes, then serve immediately while still warm."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "65 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/CubwT4MdzXDky8Mmq41WjxyMAw4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__11__20111129-181517-hasselback-potatoes-2ca5e3a0c0dc47e2a5da815628ea8e9b.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 352 Calories 15g Fat 42g Carbs 13g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 352 | % Daily Value* | Total Fat 15g 19% | Saturated Fat 5g 27% | Cholesterol 24mg 8% | Sodium 851mg 37% | Total Carbohydrate 42g 15% | Dietary Fiber 4g 15% | Total Sugars 2g | Protein 13g | Vitamin C 15mg 76% | Calcium 280mg 22% | Iron 2mg 12% | Potassium 1019mg 22% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

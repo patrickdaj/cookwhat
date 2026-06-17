@@ -1,0 +1,48 @@
+{
+  "mealId": "braised-chicken-thighs-with-sweet-potatoes-and-dates-a6770ebf",
+  "fetchedAt": "2026-06-17T15:05:08.289Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1024884-braised-chicken-thighs-with-sweet-potatoes-and-dates",
+  "name": "Braised Chicken Thighs with Sweet Potatoes and Dates",
+  "description": "",
+  "recipeIngredient": [
+    "2 1/2 pounds boneless, skinless chicken thighs (see Tip)",
+    "2 teaspoons kosher salt (such as Diamond Crystal), more as needed",
+    "1 1/2 teaspoons ground coriander",
+    "1/2 teaspoon ground cumin",
+    "1/2 teaspoon freshly ground black pepper",
+    "1 1/4 pounds sweet potato, peeled and cut into ½-inch chunks",
+    "1 pound carrots, peeled and cut into ¼-inch thick coins",
+    "1 cup dates or prunes, diced (or substitute other dried fruit)",
+    "1 teaspoon finely grated lemon zest",
+    "1 teaspoon grated or minced fresh ginger (optional)",
+    "1 (2-inch-long) cinnamon stick",
+    "1 large pinch ground cayenne or red-pepper flakes",
+    "2 tablespoons extra-virgin olive oil, more as needed",
+    "1 large leek, trimmed, halved lengthwise and sliced into half-moons",
+    "1/2 cup freshly squeezed orange juice",
+    "3/4 cup chopped fresh cilantro or dill"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 350 degrees. In a large bowl, combine chicken thighs, 1 teaspoon salt, coriander, cumin and pepper, tossing well. Set aside to marinate while you prepare the other ingredients.",
+    "In another large bowl, add the sweet potato, carrot, dates or prunes, lemon zest, grated ginger if you like, cinnamon stick, cayenne and remaining 1 teaspoon salt. Stir to combine.",
+    "In a 5- to 7-quart Dutch oven, heat oil over medium-high. Add as many pieces of chicken as comfortably fit in the bottom of the pan without crowding and brown on both sides, about 5 minutes. Transfer chicken pieces to a plate as they brown. Repeat with remaining chicken, adding more oil as needed.",
+    "Deglaze with some lemon juice before proceeding.",
+    "Add leeks, a pinch of salt and more olive oil to the pan if it looks dry. Sauté leeks until golden and tender, 5 to 7 minutes.",
+    "Place half of the chicken in 1 layer on top of the leeks. Top with half of the sweet potato mixture, spreading it out evenly over the chicken. Repeat layering with the remaining chicken and sweet potato mixture. Pour orange juice into the pan.",
+    "Cover pot and transfer to the oven. Braise, covered, until the chicken and vegetables are tender, for about 55 to 70 minutes, stirring the mixture after 30 minutes. Sprinkle with herbs and serve."
+  ],
+  "prepTime": "20 min",
+  "cookTime": "1 hr 20 min",
+  "totalTime": "1 hr 30 min",
+  "recipeYield": "6 to 8 servings",
+  "image": "https://static01.nyt.com/images/2023/11/29/multimedia/29APPErex-tsimmes-gjck/29APPErex-tsimmes-gjck-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": "Because of the long braising time needed to cook the root vegetables, it can be tricky to use chicken breasts because they’re liable to overcook.",
+  "nutrition": "Trans Fat: 0 grams | Fat: 10 grams | Calories: 382 | Saturated Fat: 2 grams | Unsaturated Fat: 6 grams | Sodium: 688 milligrams | Sugar: 26 grams | Fiber: 6 grams | Carbohydrate: 45 grams | Protein: 31 grams",
+  "ai": null
+}

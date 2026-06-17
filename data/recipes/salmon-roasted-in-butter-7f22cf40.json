@@ -1,0 +1,33 @@
+{
+  "mealId": "salmon-roasted-in-butter-7f22cf40",
+  "fetchedAt": "2026-06-17T15:05:08.339Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/5703-salmon-roasted-in-butter?q=Salmon%20",
+  "name": "Salmon Roasted in Butter",
+  "description": "",
+  "recipeIngredient": [
+    "4 tablespoons (1/2 stick) butter",
+    "4 tablespoons minced chervil, parsley or dill",
+    "1 salmon fillet, 1 1/2 to 2 pounds",
+    "Salt and freshly ground black pepper to taste",
+    "Lemon wedges"
+  ],
+  "recipeInstructions": [
+    "Preheat the oven to 475 degrees. Place the butter and half the herb in a roasting pan just large enough to fit the salmon and place it in the oven. Heat about 5 minutes, until the butter melts and the herb begins to sizzle.",
+    "Add the salmon to the pan, skin side up. Roast 4 minutes. Remove from the oven, then peel the skin off. (If the skin does not lift right off, cook 2 minutes longer.) Sprinkle with salt and pepper and turn the fillet over. Sprinkle with salt and pepper again.",
+    "Roast 3 to 5 minutes more, depending on the thickness of the fillet and the degree of doneness you prefer. Cut into serving portions, spoon a little of the butter over each and garnish with the remaining herb. Serve with lemon wedges."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "4 to 6 servings",
+  "image": "https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-square640-v2.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 25 grams | Calories: 345 | Saturated Fat: 9 grams | Unsaturated Fat: 13 grams | Sodium: 339 milligrams | Sugar: 0 grams | Fiber: 0 grams | Carbohydrate: 1 gram | Protein: 27 grams",
+  "ai": null
+}

@@ -1,0 +1,33 @@
+{
+  "mealId": "chipotle-honey-vinaigrette-378fd56f",
+  "fetchedAt": "2026-06-17T15:05:08.296Z",
+  "source": "paprika",
+  "url": "https://www.onceuponachef.com/recipes/copycat-recipe-chipotle-mexican-grills-chipotle-honey-vinaigrette.html#tabrecipe",
+  "name": "Chipotle Honey Vinaigrette",
+  "description": "",
+  "recipeIngredient": [
+    "6 tablespoons red wine vinegar",
+    "3 tablespoons honey",
+    "¾ cup vegetable oil",
+    "½ teaspoon dried oregano",
+    "⅛ teaspoon ground cumin",
+    "1½ teaspoons salt",
+    "½ teaspoon ground black pepper",
+    "2 chipotle peppers in adobo sauce",
+    "2 small garlic cloves, roughly chopped"
+  ],
+  "recipeInstructions": [
+    "Combine all of the ingredients in a blender or mini food processor and process until smooth. Taste and adjust seasoning if necessary. Serve immediately or store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTime": null,
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "Servings: 1¼ cups",
+  "image": "https://www.onceuponachef.com/images/2014/03/Chipotle-Vinaigrette.jpg",
+  "author": "onceuponachef.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Calories: | Fat: 17 g | Saturated fat: 1 g | Carbohydrates: 6 g | Sugar: 6 g | Fiber: 0g | Protein: 0g | Sodium: 172 mg | Cholesterol: 4 mg",
+  "ai": null
+}

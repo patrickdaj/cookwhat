@@ -1,0 +1,39 @@
+{
+  "mealId": "angry-chicken-b7e366a8",
+  "fetchedAt": "2026-06-17T15:05:08.281Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1026159-chicken-allarrabbiata",
+  "name": "Angry Chicken",
+  "description": "",
+  "recipeIngredient": [
+    "2 pounds bone-in, skin-on chicken thighs ( 4 to 6 thighs)",
+    "Salt and black pepper",
+    "2 tablespoons olive oil",
+    "1 medium shallot minced",
+    "6 garlic cloves, minced",
+    "1/2 teaspoon crushed red pepper",
+    "1/4 cup chopped jarred Calabrian chiles or hot cherry peppers",
+    "1 tablespoon tomato paste",
+    "1 (28-ounce) can crushed or diced tomatoes",
+    "Polenta, for serving",
+    "Fresh parsley, for serving"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 400 degrees.",
+    "On a plate, pat chicken thighs with a paper towel until the skin is dry, then sprinkle generously with salt and pepper all over. Set an oven-proof skillet or pan over medium heat and add olive oil. When oil is hot, add chicken thighs skin-side down and cook, untouched, for 9 minutes. When the skin is crisped and releases from the pan, return thighs to the same plate and set aside. (The chicken will not be cooked through at this point.)",
+    "Add shallot, garlic, crushed red pepper, chopped chiles and a pinch of salt to the pan. Cook until the shallot is softened and the garlic is fragrant, about 2 minutes. Add tomato paste, stirring until the paste darkens, about 2 minutes. Add the tomatoes, their juices and a big pinch each of salt and pepper and bring to a gentle simmer. Cook, scraping the bottom of the pan to loosen any browned bits, for about 5 minutes.",
+    "Remove the pan from the heat. Tuck the chicken thighs into the pan, skin-side up, ensuring they are covered in tomato sauce. Bake in the oven until the chicken is cooked through, about 20 minutes.",
+    "Taste the sauce and adjust seasoning and spice level as necessary. Serve warm, over polenta, and garnish with fresh parsley."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "40 min",
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/10/30/multimedia/DP-Chicken-alla-Arrabiata-Angry-Chicken-cwjz/DP-Chicken-alla-Arrabiata-Angry-Chicken-cwjz-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 48 grams | Calories: 695 | Saturated Fat: 12 grams | Unsaturated Fat: 31 grams | Sodium: 1154 milligrams | Sugar: 7 grams | Fiber: 6 grams | Carbohydrate: 23 grams | Protein: 43 grams",
+  "ai": null
+}

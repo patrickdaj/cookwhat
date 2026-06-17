@@ -1,0 +1,36 @@
+{
+  "mealId": "green-bean-and-corn-almondine-f173cde5",
+  "fetchedAt": "2026-06-17T15:05:08.311Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1022657-green-bean-and-corn-almondine",
+  "name": "Green Bean and Corn Almondine",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup sliced almonds (2 ounces)",
+    "2 tablespoons extra-virgin olive oil",
+    "2 garlic cloves, minced",
+    "1 1/2 pounds green beans, trimmed",
+    "5 thyme sprigs",
+    "Salt and black pepper",
+    "3 tablespoons unsalted butter",
+    "2 cups fresh corn kernels (from 2 to 3 ears), or use thawed from frozen"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 350 degrees. Spread almonds on a baking sheet and bake until golden, 6 to 7 minutes.",
+    "Meanwhile, in a large (12-inch) deep skillet with a lid, heat oil over medium. Add garlic and stir until fragrant, 30 seconds. Add green beans and thyme, season with salt and pepper, and toss to evenly coat in the oil. Add 1/2 cup of water, cover and steam until beans are softened, about 5 minutes. Stir in butter and corn, and cook, stirring occasionally, until corn and green beans are tender and glazed in the sauce, 4 to 5 minutes. Discard the thyme sprigs, and season with salt and pepper.",
+    "Transfer beans and corn to a large platter and spoon over any remaining sauce. Garnish with the toasted almonds and more black pepper."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "6 to 8 servings",
+  "image": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-almondine/14sidesgiving-almondine--square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 12 grams | Calories: 179 | Saturated Fat: 4 grams | Unsaturated Fat: 8 grams | Sodium: 324 milligrams | Sugar: 4 grams | Fiber: 4 grams | Carbohydrate: 18 grams | Protein: 5 grams",
+  "ai": null
+}

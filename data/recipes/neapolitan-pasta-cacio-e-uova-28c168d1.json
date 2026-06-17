@@ -1,0 +1,38 @@
+{
+  "mealId": "neapolitan-pasta-cacio-e-uova-28c168d1",
+  "fetchedAt": "2026-06-17T15:05:08.326Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/pasta-cacio-e-uovo-vegetarian-carbonara",
+  "name": "Neapolitan Pasta Cacio E Uova",
+  "description": "",
+  "recipeIngredient": [
+    "2 large eggs (110 g), plus 1 large egg yolk (15 g)",
+    "2 ounces (60 g) finely grated Pecorino Romano",
+    "2 ounces (60 g) finely grated Parmigiano-Reggiano",
+    "1/4 teaspoon freshly ground black pepper",
+    "2 tablespoons (30 g) unsalted butter, extra-virgin olive oil, or lard (see note)",
+    "2 medium garlic cloves (10 g), lightly crushed",
+    "Kosher salt",
+    "12 ounces (340 g) dried small tubular pasta such as tubetti, mezze maniche, maccheroncini, or mezzi rigatoni (see note)",
+    "1 loosely packed cup (1/2 ounce; 15 g) fresh parsley leaves and tender stems, finely chopped (optional)"
+  ],
+  "recipeInstructions": [
+    "In a large heatproof mixing bowl, whisk together whole eggs and yolk, Pecorino Romano, Parmigiano-Reggiano, and black pepper. Set aside.",
+    "In a large skillet, melt butter over medium heat. Add garlic and cook, stirring and turning cloves occasionally, until garlic begins to soften and turn pale golden, about 3 minutes. Turn off heat.",
+    "Meanwhile, in a pot of salted boiling water, cook pasta until al dente. Right before pasta finishes cooking, remove garlic cloves from skillet and discard. Using a spider skimmer, transfer pasta to skillet; be sure not to drain boiling pasta cooking water, and reduce heat to a simmer.",
+    "Stir and toss pasta rapidly in skillet to evenly coat with butter, then transfer to bowl with egg and cheese mixture, using a rubber spatula to scrape all of the butter into the bowl. Add 3/4 cup (180ml) of reserved pasta cooking water to bowl, and stir to thoroughly combine.",
+    "Set bowl over pot of simmering pasta cooking water (making sure bottom of bowl does not touch water) and cook, stirring and scraping down sides of bowl constantly with a rubber spatula, until sauce thickens to a creamy, silky consistency and leaves trails as you stir, about 1 minute, adding more pasta cooking water in 1 tablespoon (15ml) increments as needed to adjust consistency of the sauce.",
+    "Remove bowl from heat, add parsley (if using), and stir to combine. Season with salt to taste. Divide between warmed serving bowls, and serve."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "30 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/eHXhw4PEae5ZQHgcUXMNUykYckw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__03__20210309-Cas-e-Ova-pasta-sasha-marx-11-0d2b7d5cbe1146f893553541f191b7d4.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 548 Calories 19g Fat 67g Carbs 25g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 548 | % Daily Value* | Total Fat 19g 25% | Saturated Fat 10g 50% | Cholesterol 184mg 61% | Sodium 702mg 31% | Total Carbohydrate 67g 24% | Dietary Fiber 3g 10% | Total Sugars 3g | Protein 25g | Vitamin C 1mg 4% | Calcium 333mg 26% | Iron 4mg 21% | Potassium 295mg 6% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

@@ -1,0 +1,35 @@
+{
+  "mealId": "simple-korean-cucumber-salad-08138604",
+  "fetchedAt": "2026-06-17T15:05:08.345Z",
+  "source": "paprika",
+  "url": "https://kimchimari.com/korean-cucumber-salad/",
+  "name": "Simple Korean Cucumber Salad",
+  "description": "",
+  "recipeIngredient": [
+    "1 cucumber (Japanese, English, Persian, Pickling are all good) – about 1 1/2 cup sliced for 1 cucumber",
+    "1 Tbsp soy sauce (Jin Ganjang)",
+    "2 Tbsp rice vinegar",
+    "1 Tbsp sugar",
+    "1/2 tsp Korean red chili powder",
+    "1/4 tsp sesame seeds",
+    "2 green onions , chopped"
+  ],
+  "recipeInstructions": [
+    "Slice cucumbers into thin slices. Around 1/8 inch (3 mm).",
+    "Mix soy sauce, vinegar and sugar in a bowl. Pour soy vinegar into the bowl with cucumbers.",
+    "Then, add 1/2 tsp chili powder and sesame seeds. Mix and taste. Add more chili powder if you want. Doing it in this order allows you to taste and control the amount of chili powder based on how spicy you want it.",
+    "Add chopped green onions and mix again.",
+    "YOU ARE DONE!! Serve immediately for the most fresh and crunchy cucumber flavor. You can also let it sit for 10-15 minutes for the cucumbers to absorb the dressing before serving."
+  ],
+  "prepTime": "4",
+  "cookTime": "5 min",
+  "totalTime": null,
+  "recipeYield": "Servings: 2",
+  "image": "https://kimchimari.com/wp-content/uploads/2016/05/Korean-cucumber-salad-tall_c-300x453.jpg",
+  "author": "kimchimari.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Calories: 60 kcal | Sodium: 468 mg | Fiber: 1 g | Carbohydrate: 12 g | Sugar: 9 g | Serving Size: 1 serving | Protein: 1 g",
+  "ai": null
+}

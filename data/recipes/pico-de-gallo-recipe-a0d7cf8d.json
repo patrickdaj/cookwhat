@@ -1,0 +1,31 @@
+{
+  "mealId": "pico-de-gallo-recipe-a0d7cf8d",
+  "fetchedAt": "2026-06-17T15:05:08.331Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/12599-pico-de-gallo",
+  "name": "Pico De Gallo Recipe",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 red onion, peeled and chopped into small dice",
+    "1/2 bunch cilantro, leaves and stems, chopped roughly",
+    "3 scallions, white and green parts, sliced thinly",
+    "5 medium tomatoes, cored and chopped into small dice",
+    "1 heaping tablespoon Chinese chili bean sauce (toban djan) or Korean chili bean paste (gochujang)",
+    "1 tablespoon kosher salt",
+    "Juice of 1 lime"
+  ],
+  "recipeInstructions": [
+    "In a large, nonreactive bowl, add all the ingredients and stir to combine. Adjust seasoning to taste. Serve with carne asada and grilled tortillas. Serve remainder with tortilla chips."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "5 min",
+  "recipeYield": null,
+  "image": "https://static01.nyt.com/images/2012/07/15/magazine/15Eat1/15Eat1-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 1 gram | Calories: 104 | Saturated Fat: 0 grams | Unsaturated Fat: 1 gram | Sodium: 957 milligrams | Sugar: 11 grams | Fiber: 6 grams | Carbohydrate: 22 grams | Protein: 5 grams",
+  "ai": null
+}

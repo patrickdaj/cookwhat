@@ -1,0 +1,42 @@
+{
+  "mealId": "cobb-salad-e90208f0",
+  "fetchedAt": "2026-06-17T15:05:08.298Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/classic-cobb-salad-recipe-11724176",
+  "name": "Cobb Salad",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup (120 ml) red wine vinegar",
+    "1 small shallot (1 ounce; 28 g), roughly chopped (about 1/4 cup)",
+    "2 tablespoons (30 ml) Dijon mustard",
+    "2 tablespoons (30 ml) honey",
+    "1 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume",
+    "1/2 teaspoon freshly ground black pepper",
+    "2/3 cup (165 ml) extra-virgin olive oil",
+    "For the Salad:",
+    "4 small heads romaine lettuce (6 ounce; 170 g each), chopped (about 10 cups)",
+    "3 cups (1/2-inch cubed)poached chicken breasts, (about two 12 ounce; 340 g each)",
+    "6 ounces cherry tomatoes (1 cup; 170 g), halved",
+    "8 slices cooked bacon, roughly chopped (about 1 cup chopped)",
+    "1 large avocado (7 1/2 ounces; 213 g), chopped",
+    "3 hard-boiled eggs, quartered lengthwise into wedges",
+    "4 ounces (113 g) blue cheese, crumbled (1 cup crumbled)"
+  ],
+  "recipeInstructions": [
+    "In a blender, process red wine vinegar, shallot, Dijon, honey, salt, and pepper on high until smooth, about 20 seconds. With machine running, slowly add oil in a steady stream until emulsified, about 1 minute. Pour vinaigrette into a bowl; set aside.",
+    "In a large bowl, toss lettuce with 1/2 cup of prepared vinaigrette, and season to taste with salt and pepper. Transfer to a serving bowl or platter.",
+    "In now-empty large bowl, toss chicken with 2 tablespoons vinaigrette until evenly coated.",
+    "Arrange dressed chicken over dressed lettuce. In now-empty bowl, toss cherry tomatoes and 2 tablespoons vinaigrette, and decoratively arrange over lettuce. Top salad with bacon, avocado, eggs, and blue cheese. Serve with remaining 1/2 cup vinaigrette for drizzling over top."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": null,
+  "recipeYield": "4 to 6",
+  "image": "https://www.seriouseats.com/thmb/bk_x8fwH8XVQrNPQqOc5oalrFLs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250423-SEA-CobbSalad-VictorProtasio-Beauty1-28-f4b76171d94f4ab99cbcd013f07b7c71.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 677 Calories 51g Fat 24g Carbs 33g Protein | Nutrition Facts | Servings: 4 to 6 | Amount per serving | Calories 677 | % Daily Value* | Total Fat 51g 66% | Saturated Fat 12g 61% | Cholesterol 171mg 57% | Sodium 918mg 40% | Total Carbohydrate 24g 9% | Dietary Fiber 7g 25% | Total Sugars 15g | Protein 33g | Vitamin C 14mg 72% | Calcium 187mg 14% | Iron 3mg 15% | Potassium 934mg 20% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

@@ -1,0 +1,39 @@
+{
+  "mealId": "chicken-cacciatore-with-red-peppers-tomato-and-onion-f8b2eb0a",
+  "fetchedAt": "2026-06-17T15:05:08.292Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe",
+  "name": "Chicken Cacciatore with Red Peppers, Tomato, and Onion",
+  "description": "",
+  "recipeIngredient": [
+    "3 to 4 pounds (1.4 to 1.8 kg) bone-in, skin-on chicken legs, thighs and drumsticks split",
+    "Kosher salt and freshly ground black pepper",
+    "3 tablespoons (45 ml) extra-virgin olive oil",
+    "1 medium (8-ounce; 225 g) yellow onion, thinly sliced",
+    "1 large (8-ounce; 225 g) red bell pepper, stemmed, seeded, and thinly sliced",
+    "5 medium cloves garlic, thinly sliced",
+    "3/4 cup (175 ml) dry white wine",
+    "1 (28-ounce; 795 g) can peeled whole tomatoes, drained and crushed by hand, plus 1/2 cup (120 ml) reserved juices from can",
+    "2 sprigs fresh rosemary, sage, or thyme",
+    "1 bay leaf",
+    "Minced flat-leaf parsley, for garnish (optional)"
+  ],
+  "recipeInstructions": [
+    "Preheat oven to 350°F (180°C). Season chicken all over with salt and pepper.",
+    "In a Dutch oven or large straight-sided sauté pan, heat oil over medium-high heat until shimmering. Working in batches, add chicken and cook, turning occasionally, until browned all over, about 6 minutes per side. Transfer chicken to a platter as it finishes cooking and set aside.",
+    "Add onion, bell pepper, and garlic and cook, stirring and scraping up any browned bits, until softened, about 8 minutes.",
+    "Add wine and bring to a simmer. Add tomatoes and reserved juices, along with herb sprigs and bay leaf. Return to a simmer. Season with salt and pepper. Nestle chicken and any accumulated juices into liquid and vegetables.",
+    "Transfer to oven and cook, uncovered, until chicken is fully cooked through and tender and sauce is slightly reduced and thickened, about 30 minutes. Discard herb sprigs and bay leaf. Serve right away, garnishing with minced parsley if desired."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "70 min",
+  "totalTime": null,
+  "recipeYield": "4 to 6 servings",
+  "image": "https://www.seriouseats.com/thmb/P2v_mWHTofYnMyo-QGaozNDsyxE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-cacciatore-red-peppers-recipe-hero-01_1-84bab1cbc3b84849960b4d3d61d017b5.JPG",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 634 Calories 31g Fat 11g Carbs 65g Protein | Nutrition Facts | Servings: 4 to 6 | Amount per serving | Calories 634 | % Daily Value* | Total Fat 31g 40% | Saturated Fat 7g 37% | Cholesterol 336mg 112% | Sodium 730mg 32% | Total Carbohydrate 11g 4% | Dietary Fiber 3g 12% | Total Sugars 6g | Protein 65g | Vitamin C 85mg 423% | Calcium 91mg 7% | Iron 4mg 23% | Potassium 1075mg 23% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

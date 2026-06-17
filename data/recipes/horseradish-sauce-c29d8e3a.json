@@ -1,0 +1,31 @@
+{
+  "mealId": "horseradish-sauce-c29d8e3a",
+  "fetchedAt": "2026-06-17T15:05:08.316Z",
+  "source": "paprika",
+  "url": "https://natashaskitchen.com/horseradish-sauce-recipe/",
+  "name": "Horseradish Sauce",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup sour cream",
+    "2 Tbsp prepared horseradish, drained",
+    "2 Tbsp mayo",
+    "1 tsp apple cider vinegar",
+    "1/4 tsp salt",
+    "1/8 tsp black pepper",
+    "1 Tbsp chives, finely chopped"
+  ],
+  "recipeInstructions": [
+    "In a small mixing bowl, stir all of the ingredients together. Serve right away or cover and refrigerate for about 2 weeks."
+  ],
+  "prepTime": "2 min",
+  "cookTime": "2 min",
+  "totalTime": null,
+  "recipeYield": "Servings: 12 people",
+  "image": "https://natashaskitchen.com/wp-content/uploads/2019/02/Horseradish-Sauce-4.jpg",
+  "author": "natashaskitchen.com",
+  "categories": [],
+  "rating": null,
+  "notes": "If you enjoy a stronger horseradish sauce, add more prepared horseradish to taste.",
+  "nutrition": "35kcal calories 3g fat | Calories: 35",
+  "ai": null
+}
