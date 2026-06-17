@@ -32,14 +32,15 @@
         "mexican",
         "mediterranean",
         "japanese",
-        "french"
+        "french",
+        "chinese",
+        "korean"
       ],
       "ok": [
         "american",
         "indian",
-        "chinese",
         "spanish",
-        "korean"
+        "vietnamese"
       ],
       "avoid": []
     },
