@@ -5,7 +5,7 @@
   "foreword": "J. Kenji Lopez-Alt",
   "owned": true,
   "addedOn": "2026-06-17",
-  "note": "Catalog built from the table of contents (titles + page numbers only). To add any of these as a real cookwhat recipe, scan the full recipe page(s) so the actual ingredient list + method can be captured. Now covers Chicken & Turkey (ch.10), Seafood (ch.11), and Sides (ch.12). One final TOC photo was too blurry to read (re-scan pending) — it may contain additional chapters or the index.",
+  "note": "Catalog built from the table of contents (titles + page numbers only). To add any of these as a real cookwhat recipe, scan the full recipe page(s) so the actual ingredient list + method can be captured. Now covers Chicken & Turkey (ch.10), Seafood (ch.11), and Sides (ch.12). COMPLETE: full TOC captured through the end of the Sides chapter (book ends with Index, p.367).",
   "source_format": "Source for any meal cataloged from this book: \"Meathead (Goldwyn) — p.NNN\" (no URL).",
   "recipes": [
     {"title": "Basic Brinerade", "page": 161, "chapter": "Brines, Rubs & Sauces"},
@@ -114,6 +114,10 @@
     {"title": "Fire-Roasted Eggplant Baba Ghanoush", "page": 356, "chapter": "Sides"},
     {"title": "Smoked Potato Salad", "page": 357, "chapter": "Sides", "fitsMenu": "cookbook alt for the July 4 potato salad"},
     {"title": "Baked Potatoes (Best on the Grill)", "page": 358, "chapter": "Sides"},
-    {"title": "Twice-Baked Potatoes", "page": 359, "chapter": "Sides"}
+    {"title": "Twice-Baked Potatoes", "page": 359, "chapter": "Sides"},
+    {"title": "Grilled Polenta", "page": 360, "chapter": "Sides"},
+    {"title": "Boston Barbecue Beans", "page": 361, "chapter": "Sides", "flag": "beans — keep low per prefs"},
+    {"title": "Sweet-Sour Slaw", "page": 362, "chapter": "Sides", "note": "vinegar-based, no dairy"},
+    {"title": "Classic Deli Slaw with Sour Cream and Mayo", "page": 364, "chapter": "Sides", "flag": "sour cream + mayo (dairy)"}
   ]
 }
