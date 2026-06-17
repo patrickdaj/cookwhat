@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-07-05",
   "createdAt": "2026-06-17T04:09:07.756Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -175,5 +175,6 @@
       ],
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
     }
-  ]
+  ],
+  "setAt": "2026-06-17T05:05:15.519Z"
 }

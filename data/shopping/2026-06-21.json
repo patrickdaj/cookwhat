@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-17T05:02:51.476Z",
+  "generatedAt": "2026-06-17T05:05:15.589Z",
   "targetServings": null,
   "sections": [
     {
@@ -88,7 +88,7 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.4,
+          "qty": 0.5,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
@@ -242,7 +242,7 @@
         },
         {
           "item": "lemon juice",
-          "qty": 3,
+          "qty": 4,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
@@ -262,7 +262,7 @@
         },
         {
           "item": "ripe tomatoes",
-          "qty": 3,
+          "qty": 4,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
@@ -294,7 +294,7 @@
         },
         {
           "item": "white onion",
-          "qty": 0.75,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -377,7 +377,7 @@
       "items": [
         {
           "item": "eggs",
-          "qty": 15,
+          "qty": 19,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
@@ -413,7 +413,7 @@
       "items": [
         {
           "item": "corn tortillas",
-          "qty": 12,
+          "qty": 16,
           "unit": "",
           "category": "bakery",
           "fromMeals": [
@@ -528,7 +528,7 @@
         },
         {
           "item": "neutral oil",
-          "qty": 0.38,
+          "qty": 0.5,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
@@ -573,7 +573,7 @@
       "items": [
         {
           "item": "black beans",
-          "qty": 3,
+          "qty": 4,
           "unit": "can",
           "category": "canned",
           "fromMeals": [
@@ -629,7 +629,7 @@
         },
         {
           "item": "ground cumin",
-          "qty": 1,
+          "qty": 1.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -659,7 +659,7 @@
         },
         {
           "item": "smoked paprika",
-          "qty": 0.4,
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [

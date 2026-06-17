@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-06-28",
   "createdAt": "2026-06-17T04:08:44.179Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -964,5 +964,6 @@
       ],
       "notes": "Par-boil the potatoes until tender, toss with oil/salt/pepper, smash with a glass just until the skins split, then grill until charred and crisp. Grill a lemon half alongside and squeeze over. (Quantities best-effort - site blocks our fetch tools.)"
     }
-  ]
+  ],
+  "setAt": "2026-06-17T05:05:15.458Z"
 }

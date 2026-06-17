@@ -20,25 +20,25 @@
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
-      "servings": 6,
+      "servings": 8,
       "ingredients": [
         {
           "item": "ripe tomatoes",
-          "qty": 3,
+          "qty": 4,
           "unit": "lb",
           "category": "produce",
           "note": ""
         },
         {
           "item": "white onion",
-          "qty": 0.75,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
           "item": "lemon juice",
-          "qty": 3,
+          "qty": 4,
           "unit": "tbsp",
           "category": "produce",
           "note": ""
@@ -52,7 +52,7 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.4,
+          "qty": 0.5,
           "unit": "cup",
           "category": "produce",
           "note": ""
@@ -73,49 +73,49 @@
         },
         {
           "item": "kosher salt",
-          "qty": 1,
-          "unit": "tbsp",
+          "qty": 4,
+          "unit": "tsp",
           "category": "spices",
           "note": ""
         },
         {
           "item": "neutral oil",
-          "qty": 0.38,
+          "qty": 0.5,
           "unit": "cup",
           "category": "pantry",
           "note": ""
         },
         {
           "item": "black beans",
-          "qty": 3,
+          "qty": 4,
           "unit": "can",
           "category": "canned",
           "note": ""
         },
         {
           "item": "ground cumin",
-          "qty": 1,
+          "qty": 1.5,
           "unit": "tsp",
           "category": "spices",
           "note": ""
         },
         {
           "item": "smoked paprika",
-          "qty": 0.4,
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "note": ""
         },
         {
           "item": "eggs",
-          "qty": 12,
+          "qty": 16,
           "unit": "",
           "category": "dairy",
           "note": ""
         },
         {
           "item": "corn tortillas",
-          "qty": 12,
+          "qty": 16,
           "unit": "",
           "category": "bakery",
           "note": ""
@@ -128,7 +128,7 @@
           "note": ""
         }
       ],
-      "notes": "Cooking Sun 6-21. Gated NYT recipe — full text added manually. Scaled to serve 6 (guests)."
+      "notes": "Cooking Sun 6-21. Gated NYT recipe — full text added manually. Scaled to serve 8 (guests + extra)."
     },
     {
       "id": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
