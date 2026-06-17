@@ -1,0 +1,31 @@
+{
+  "mealId": "deep-fried-sous-vide-turkey-porchetta-turchetta-985a4ec6",
+  "fetchedAt": "2026-06-17T15:05:08.303Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/sous-vide-deep-fried-turkey-porchetta-recipe",
+  "name": "Deep-Fried Sous Vide Turkey Porchetta (Turchetta)",
+  "description": "",
+  "recipeIngredient": [
+    "1 recipe turkey porchetta, prepared through the end of step 7, skipping wrapping and refrigerating step at end of step 5",
+    "1 1/2 quarts (1.4L) peanut or canola oil for deep-frying, or 2 tablespoons (30ml) canola oil for pan-frying",
+    "Kosher salt"
+  ],
+  "recipeInstructions": [
+    "After forming and tying turkey porchetta (as described in step 5 of our turkey porchetta recipe), transfer to a sous vide–style vacuum-sealer bag. Seal tightly and let rest for at least 6 hours and up to 2 days.",
+    "Preheat sous vide water bath to 140°F (60°C). Add turkey and cook for 4 to 5 hours. Remove and run under cool running water, or transfer to an ice bath to chill for 5 minutes. Remove from bag and add any congealed juices to gravy. Rinse turkey porchetta thoroughly and carefully pat dry with paper towels. Trim ends for a more cylindrical shape, if desired.",
+    "To Finish by Deep-Frying: Heat 1 1/2 quarts (1.4L) peanut oil to 400°F (204°C) in a large wok or Dutch oven. Do not fill cooking vessel more than one-third of the way, in order to allow for bubbling and displacement when you add turkey. Carefully slide turkey into oil using spatulas and tongs (it will not be fully submerged). Immediately cover and cook, shaking pan occasionally, until sputtering dies a bit, about 2 minutes. Adjust flame to maintain a consistent 350°F (177°C) temperature. Using a large metal ladle, continuously spoon hot oil over exposed portions of roast until bottom half is cooked and crisp, about 5 minutes. Carefully flip and cook on second side, basting the whole time. Proceed to step 5.",
+    "To Finish by Pan-Roasting: While wearing an apron (the turkey can splatter), heat 2 tablespoons (30ml) canola oil in a large stainless steel or cast iron skillet over high heat until gently smoking. Add turkey and cook, turning occasionally, until well browned on all sides, about 10 minutes total.",
+    "Remove turchetta to a large paper towel–lined plate and blot all over. Season with salt. Let rest 5 minutes. Carve and serve with gravy on the side."
+  ],
+  "prepTime": null,
+  "cookTime": "11 hr 30 min",
+  "totalTime": null,
+  "recipeYield": "5 to 6 servings",
+  "image": "https://www.seriouseats.com/thmb/9H_WdBkbwviG1T6ge9UngPFc9OE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2013__11__20131024-turkey-porchetta-recipe-thanksgiving-69-1d74b28b20614fb9a1da3f4605428efc.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "(per serving) | 644 Calories 41g Fat 0g Carbs 65g Protein | Nutrition Facts | Servings: 5 to 6 | Amount per serving | Calories 644 | % Daily Value* | Total Fat 41g 53% | Saturated Fat 7g 33% | Cholesterol 247mg 82% | Sodium 338mg 15% | Total Carbohydrate 0g 0% | Dietary Fiber 0g 0% | Total Sugars 0g | Protein 65g | Vitamin C 0mg 0% | Calcium 32mg 2% | Iron 2mg 14% | Potassium 542mg 12% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

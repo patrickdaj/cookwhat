@@ -1,0 +1,38 @@
+{
+  "mealId": "one-pan-fish-with-bacon-and-sweet-corn-2b918ddc",
+  "fetchedAt": "2026-06-17T15:05:08.327Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1022436-one-pan-fish-with-bacon-and-sweet-corn?q=Bacon%20and%20sweet%20",
+  "name": "One-Pan Fish with Bacon and Sweet Corn",
+  "description": "",
+  "recipeIngredient": [
+    "4 (6-ounce) fish fillets, such as tilapia, snapper, trout or striped bass, skin on or off",
+    "Kosher salt",
+    "1/2 cup chopped flat-leaf parsley leaves and tender stems",
+    "1/2 teaspoon red-pepper flakes",
+    "2 garlic cloves, finely grated",
+    "1 tablespoon chopped thyme leaves (from 5 to 6 sprigs)",
+    "1 lemon",
+    "4 tablespoons extra-virgin olive oil",
+    "4 bacon slices, chopped",
+    "2 small shallots, finely chopped",
+    "2 cups fresh corn kernels (from 2 ears of corn)"
+  ],
+  "recipeInstructions": [
+    "Lightly season both sides of the fish fillets with salt. In a large bowl, combine 1/4 cup parsley with the red-pepper flakes, garlic and thyme. Zest the lemon into the bowl and stir in 2 tablespoons olive oil. Transfer the fish to the bowl and turn to coat. Cover and marinate at room temperature for 15 minutes. (The fish can be covered tightly and refrigerated for up to 12 hours.) Cut the zested lemon into 8 wedges and set aside.",
+    "Heat a large skillet over medium. Add the bacon and cook, stirring frequently, until crispy, about 6 minutes. Using a slotted spoon, transfer to a plate lined with a paper towel.",
+    "Increase the heat to medium-high. Add the remaining 2 tablespoons olive oil to the bacon drippings in the skillet. Lay the marinated fish fillets in an even layer (skin-side down if your fillets are skin-on) and cover fish with any leftover marinade from the bowl. Cook until the fish is firm, opaque and flakes easily when poked with a fork, 2 to 3 minutes per side. Transfer the fish to a serving platter; keep the skillet on the stove.",
+    "Lower the heat to medium, and add the shallots and reserved bacon. Cook, stirring, until the shallots soften, about 2 minutes. Add the corn, stir and cook until just tender, about 2 minutes. Season with salt and squeeze in the juice from 3 lemon wedges. Add the remaining 1/4 cup chopped parsley, stir and spoon over the fish. Serve with the remaining lemon wedges for squeezing."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "35 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2022/04/21/autossell/skillet_fish_thumb/skillet_fish_thumb-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 29 grams | Calories: 504 | Saturated Fat: 7 grams | Unsaturated Fat: 21 grams | Sodium: 776 milligrams | Sugar: 5 grams | Fiber: 3 grams | Carbohydrate: 25 grams | Protein: 38 grams",
+  "ai": null
+}

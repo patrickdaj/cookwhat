@@ -1,0 +1,39 @@
+{
+  "mealId": "pistachio-baklava-b3d41482",
+  "fetchedAt": "2026-06-17T15:05:08.331Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017925-pistachio-baklava",
+  "name": "Pistachio Baklava",
+  "description": "",
+  "recipeIngredient": [
+    "2 1/4 cups/300 grams shelled pistachio nuts",
+    "4 sticks/2 cups/454 grams unsalted butter",
+    "1 pound phyllo dough, defrosted overnight in the refrigerator",
+    "3 cups/600 grams sugar",
+    "Juice of 1/2 lemon, more to taste"
+  ],
+  "recipeInstructions": [
+    "In a food processor, pulse the pistachios until coarsely ground (or you can chop them by hand until very finely chopped). Don’t overprocess the nuts. You want to maintain some texture.",
+    "Clarify the butter by melting it over low heat, then letting it cook until the foam rises to the top and the milk solids fall to the bottom of the pan. This will take about 5 to 15 minutes depending upon how high your heat is, but don’t rush it or the butter could burn.",
+    "Skim foam off the top of the melted butter. Line a fine-mesh sieve with a piece of cheesecloth, place it over a bowl and pour the melted butter through.",
+    "Heat oven to 400 degrees and brush the inside of a 9-by-13-inch baking pan with a little of the clarified butter.",
+    "Prepare the phyllo dough by trimming the stack of it with scissors to fit the bottom of your baking dish. Packages of phyllo come in different sizes; some won't need any trimming, some may need an inch or two cut off a side, and some may need to be cut in half crosswise. Cover phyllo layers with a lightly damp kitchen towel, and keep covered.",
+    "Place 1 piece of phyllo on the bottom of the baking pan; brush lightly with clarified butter. Layer phyllo sheets on top, brushing each sheet with butter as you go, until half the phyllo is used.",
+    "Spread pistachios on phyllo in an even layer, then layer with remaining phyllo, brushing each sheet with butter as you go (rewarm butter if necessary).",
+    "Cut the pastry into 36 pieces, using clean up-and-down strokes and rotating the pan if necessary. Make sure to cut all the way through to bottom of pan. Pour any remaining butter evenly over pan.",
+    "Bake baklava until the top is golden brown, and the lower phyllo layers beneath the pistachios are thoroughly baked through. To test this, use a knife to lift up a corner of one of the pastry rectangles from the center of the pan so you can peek at the bottom layers. Start checking after 40 minutes, but it could take an hour or even 1 hour 10 minutes. If the top starts to get too brown before the pastry is cooked through, lay a piece of foil over the top.",
+    "Meanwhile, prepare sugar syrup: In a medium pot, combine sugar with 1 2/3 cups/400 milliliters water. Bring to a boil, then let simmer for 10 minutes, until slightly thickened. Stir in lemon juice.",
+    "When the baklava is baked through, reheat the syrup until it comes to a simmer. Remove pan from oven and place in the sink or on a rimmed baking sheet to catch any drips of syrup. Slowly pour hot sugar syrup over the pastry; it will bubble up and some may overflow. When the syrup stops bubbling, move pan to wire rack to cool completely. Serve at room temperature."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "2 hr 30 min",
+  "recipeYield": "36 pieces",
+  "image": "https://static01.nyt.com/images/2016/01/20/dining/20APPEJP4/20APPEJP4-square640-v2.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 1 gram | Fat: 20 grams | Calories: 332 | Saturated Fat: 10 grams | Unsaturated Fat: 9 grams | Sodium: 87 milligrams | Sugar: 24 grams | Fiber: 2 grams | Carbohydrate: 36 grams | Protein: 4 grams",
+  "ai": null
+}

@@ -1,227 +1,45 @@
 {
   "weekOf": "2026-06-28",
-  "createdAt": "2026-06-17T04:08:44.179Z",
+  "createdAt": "2026-06-17T16:51:49.399Z",
   "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "shrimp-fajitas-7f0a7d14",
+      "id": "pasta-with-zucchini-and-shrimp-607a4084",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Shrimp Fajitas",
-      "source": "Isabel Eats",
-      "sourceUrl": "https://www.isabeleats.com/shrimp-fajitas/",
-      "cuisine": "mexican",
-      "protein": "shrimp",
-      "tags": [
-        "weeknight",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "bell peppers (assorted), sliced",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "onion, sliced",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic, minced",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "chili powder",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "smoked paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "onion powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "corn or flour tortillas",
-          "qty": 12,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
-        }
-      ],
-      "notes": "Cook peppers and onions first until caramelized (~13 min), then add shrimp for just ~5 min so they stay tender."
-    },
-    {
-      "id": "oyakodon-chicken-and-egg-bowl-dc7a389e",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Oyakodon (Chicken and Egg Bowl)",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/oyakodon/",
-      "cuisine": "japanese",
-      "protein": "chicken",
-      "tags": [
-        "weeknight",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 10,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "large eggs",
-          "qty": 4,
-          "unit": "",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "onion, thinly sliced",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions (or mitsuba)",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dashi",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "mirin",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sake",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "cooked Japanese short-grain rice",
-          "qty": 2,
-          "unit": "serving",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Pour the beaten egg in two stages and cover briefly; pull it off the heat while still slightly runny so it stays silky. Recipe yields 2 — scale x2 for leftovers."
-    },
-    {
-      "id": "italian-shrimp-and-asparagus-farfalle-74d79f27",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Italian Shrimp and Asparagus Farfalle",
+      "title": "Pasta with Zucchini and Shrimp",
       "source": "The Pasta Project",
-      "sourceUrl": "https://www.the-pasta-project.com/italian-shrimp-and-asparagus-farfalle-pasta-recipe/",
+      "sourceUrl": "https://www.the-pasta-project.com/pasta-zucchini-prawns-italian-recipe/",
       "cuisine": "italian",
       "protein": "shrimp",
       "tags": [
-        "weeknight"
+        "weekend"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "farfalle pasta",
-          "qty": 400,
-          "unit": "g",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "large shrimp, peeled",
-          "qty": 400,
-          "unit": "g",
+          "item": "shrimp or prawns",
+          "qty": 14,
+          "unit": "oz",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "fresh green asparagus",
-          "qty": 400,
-          "unit": "g",
+          "item": "zucchini",
+          "qty": 3,
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "cherry or datterini tomatoes",
-          "qty": 250,
-          "unit": "g",
-          "category": "produce",
+          "item": "mezze maniche pasta (or tubes)",
+          "qty": 14,
+          "unit": "oz",
+          "category": "pantry",
           "note": ""
         },
         {
@@ -229,6 +47,13 @@
           "qty": 2,
           "unit": "clove",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
           "note": ""
         },
         {
@@ -240,23 +65,232 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
+          "qty": 1,
+          "unit": "handful",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "peperoncino (red pepper flakes)",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
           "note": ""
         }
       ],
-      "notes": "Sauté asparagus and tomatoes first, add shrimp only at the end, and finish with a splash of pasta water to bind."
+      "notes": "Thinly slice the zucchini and soften in garlicky oil; toss with the shrimp and pasta. Complete plate: shrimp + zucchini + pasta."
     },
     {
-      "id": "chicken-provencal-with-olives-and-cherry-tomatoes-8546a768",
+      "id": "thai-basil-chicken-gai-pad-krapow-5431e84f",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thai Basil Chicken (Gai Pad Krapow)",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
+      "cuisine": "thai",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Thai or holy basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "10-minute high-heat stir-fry. Serve over jasmine rice (carb); the basil/chili/shallot is the veg. A fried egg on top is traditional."
+    },
+    {
+      "id": "grilled-shrimp-tacos-with-creamy-slaw-559e525e",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Shrimp Tacos with Creamy Slaw",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/grilled-shrimp-tacos-with-creamy-slaw/",
+      "cuisine": "mexican",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "green cabbage",
+          "qty": 4,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "corn",
+          "qty": 2,
+          "unit": "ear",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "cotija cheese",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "sour cream",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "tequila",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "ancho chili powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Quick-marinate and grill the shrimp; pile into tortillas (carb) with creamy cabbage slaw (veg) and grilled corn."
+    },
+    {
+      "id": "miso-chicken-4a535807",
       "day": "Wed",
       "slot": "dinner",
       "role": "main",
-      "title": "Chicken Provencal with Olives and Cherry Tomatoes",
-      "source": "Pardon Your French",
-      "sourceUrl": "https://www.pardonyourfrench.com/chicken-provencal-with-olives-and-cherry-tomatoes/",
-      "cuisine": "french",
+      "title": "Miso Chicken",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+      "cuisine": "japanese",
       "protein": "chicken",
       "tags": [
         "weeknight"
@@ -267,275 +301,101 @@
       "ingredients": [
         {
           "item": "bone-in, skin-on chicken thighs",
-          "qty": 6,
+          "qty": 8,
           "unit": "",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "cherry tomatoes",
-          "qty": 1,
-          "unit": "pint",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "pitted olives (Nicoise or Kalamata)",
+          "item": "white miso",
           "qty": 0.5,
           "unit": "cup",
           "category": "canned",
           "note": ""
         },
         {
-          "item": "shallots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
+          "item": "unsalted butter",
           "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "chicken broth",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "herbes de Provence",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Brown the thighs skin-side down first to render the fat, then braise in the wine-tomato-olive sauce."
-    },
-    {
-      "id": "crispy-roasted-red-potatoes-6eb965b8",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Crispy Roasted Red Potatoes",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/crispy-roasted-red-potatoes/",
-      "cuisine": "mediterranean",
-      "protein": "potato",
-      "tags": [
-        "weeknight",
-        "side"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "red potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra virgin olive oil",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Roast at 425F and don't crowd the pan so they crisp instead of steam."
-    },
-    {
-      "id": "haricot-vert-with-shallots-12457a63",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Haricot Vert with Shallots",
-      "source": "Smitten Kitchen",
-      "sourceUrl": "https://smittenkitchen.com/2008/05/haricot-vert-with-shallots/",
-      "cuisine": "french",
-      "protein": "vegetable",
-      "tags": [
-        "weeknight",
-        "side"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "haricots verts (thin green beans)",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "butter",
-          "qty": 2,
           "unit": "tbsp",
           "category": "dairy",
-          "note": "modest - keeps dairy lowish"
+          "note": ""
         },
         {
-          "item": "extra virgin olive oil",
-          "qty": 1.5,
-          "unit": "tsp",
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "baby bok choy",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "steamed rice",
+          "qty": 3,
+          "unit": "cup",
           "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Steam or blanch the beans crisp-tender (2-3 min), then toss in the butter-softened shallots; season. Quantities best-effort - site blocks our fetch tools."
+      "notes": "Broil the miso-butter-glazed thighs until lacquered. Carb: steamed rice. Veg: quick-seared baby bok choy."
     },
     {
-      "id": "20-minute-greek-salmon-b92dc845",
+      "id": "fridge-clearing-vegetable-frittata-615a1b64",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "20-Minute Greek Salmon",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/easy-greek-salmon/",
-      "cuisine": "mediterranean",
-      "protein": "salmon",
+      "title": "Fridge-Clearing Vegetable Frittata",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/recipe-the-fridge-clearing-omelet-you-can-make-once-a-week-244666",
+      "cuisine": "american",
+      "protein": "egg",
       "tags": [
         "weeknight",
-        "quick"
+        "quick",
+        "easy"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "salmon fillets",
-          "qty": 4,
-          "unit": "fillet",
-          "category": "meat-seafood",
+          "item": "eggs",
+          "qty": 8,
+          "unit": "",
+          "category": "dairy",
           "note": ""
         },
         {
-          "item": "lemon (juice + zest)",
+          "item": "heavy cream",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "grated cheese (Parmesan/cheddar)",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "bell pepper",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh dill",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "paprika",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Whisk the lemon-garlic-herb dressing, coat the salmon, and roast hot for flaky fish in ~12 min."
-    },
-    {
-      "id": "greek-lemon-rice-7a860d03",
-      "day": "Thu",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Greek Lemon Rice",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/greek-lemon-rice-recipe/",
-      "cuisine": "mediterranean",
-      "protein": "rice",
-      "tags": [
-        "weeknight",
-        "side"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "long-grain white rice",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "orzo pasta",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
           "note": ""
         },
         {
@@ -546,69 +406,157 @@
           "note": ""
         },
         {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra virgin olive oil",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "chicken or vegetable broth",
-          "qty": 2.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "lemon",
+          "item": "zucchini",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "fresh dill",
+          "item": "baby spinach",
           "qty": 2,
-          "unit": "tbsp",
+          "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "fresh parsley",
+          "item": "scallions",
           "qty": 2,
-          "unit": "tbsp",
+          "unit": "",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "crusty bread (to toast)",
+          "qty": 4,
+          "unit": "slice",
+          "category": "bakery",
           "note": ""
         }
       ],
-      "notes": "Toast the orzo with the onion until golden before adding rice and liquid."
+      "notes": "Packing-day easy: clear out whatever produce is in the fridge. The Kitchn ratio = 6 eggs : 1/4 cup cream : ~2 cups veg. Sauté veg, add eggs, bake at 400F until just set. Serve with toast (carb)."
     },
     {
-      "id": "bbq-chicken-thighs-91f57d60",
+      "id": "cornell-chicken-2d98ccdf",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "BBQ Chicken Thighs",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/bbq-chicken-thighs/",
+      "title": "Cornell Chicken",
+      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.298",
+      "sourceUrl": "",
       "cuisine": "american",
       "protein": "chicken",
-      "tags": [],
-      "activeTimeMin": 10,
-      "totalTimeMin": 50,
+      "tags": [
+        "weeknight",
+        "grill"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Indirect heat to 155°F (~30 min), sauce and finish over direct heat to 165°F (~10 min). Pairs with the corn and zucchini already on deck."
+      "ingredients": [
+        {
+          "item": "whole chicken, cut into quarters (3-4 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "egg",
+          "qty": 1,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "apple cider vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Classic upstate-NY grilled chicken. Whisk egg, oil, vinegar, salt, S&G rub, pepper into a marinade; marinate 3-24 hrs (start the night before). Grill indirect ~325F until breasts 160F / thighs 165F. Mountains BBQ night."
     },
     {
-      "id": "easy-grilled-corn-on-the-cob-fe9c90be",
+      "id": "classic-coleslaw-6368dd31",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Classic Coleslaw",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/creamy-cole-slaw",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green cabbage",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "apple cider vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Salt-and-drain the cabbage for a crisp slaw. Veg for the BBQ plate."
+    },
+    {
+      "id": "easy-grilled-corn-on-the-cob-fb288d6f",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
@@ -618,9 +566,8 @@
       "cuisine": "american",
       "protein": "corn",
       "tags": [
-        "grill",
-        "cabin",
-        "side"
+        "side",
+        "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -629,80 +576,22 @@
         {
           "item": "corn on the cob",
           "qty": 4,
-          "unit": "ears",
+          "unit": "ear",
           "category": "produce",
           "note": ""
         },
         {
           "item": "butter",
-          "qty": 4,
+          "qty": 3,
           "unit": "tbsp",
           "category": "dairy",
           "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "chili powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
         }
       ],
-      "notes": "Grill in the husk ~30-40 min, then pull husks back and char over direct flame; finish with chili-lime butter."
+      "notes": "Straight on the grill with the chicken. Carb for the BBQ plate."
     },
     {
-      "id": "easy-grilled-zucchini-planks-8f788d6d",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Grilled Zucchini",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
-      "cuisine": "american",
-      "protein": "vegetable",
-      "tags": [
-        "grill",
-        "cabin",
-        "quick",
-        "side"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "zucchini (small)",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "olive oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Cut lengthwise into thick planks; grill covered ~3-4 min per side without disturbing until grill marks form."
-    },
-    {
-      "id": "grilled-rib-eye-steak-with-roasted-garlic-resting-butter-7c6048d4",
+      "id": "grilled-ribeye-with-beef-butter-e578dc34",
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
@@ -712,10 +601,8 @@
       "cuisine": "american",
       "protein": "beef",
       "tags": [
-        "grill",
         "weekend",
-        "cabin",
-        "festive"
+        "project"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -733,7 +620,7 @@
           "qty": null,
           "unit": "",
           "category": "spices",
-          "note": "season generously, ideally ahead"
+          "note": ""
         },
         {
           "item": "coarsely ground black pepper",
@@ -747,34 +634,34 @@
           "qty": 8,
           "unit": "tbsp",
           "category": "dairy",
-          "note": "Beef Butter (Meathead p.255) - 1 stick"
+          "note": ""
         },
         {
           "item": "fresh rosemary",
           "qty": 0.5,
           "unit": "tsp",
           "category": "produce",
-          "note": "Beef Butter"
+          "note": ""
         },
         {
           "item": "fresh parsley",
           "qty": 0.5,
           "unit": "tsp",
           "category": "produce",
-          "note": "Beef Butter"
+          "note": ""
         },
         {
           "item": "fresh tarragon",
           "qty": 0.5,
           "unit": "tsp",
           "category": "produce",
-          "note": "Beef Butter"
+          "note": ""
         }
       ],
       "notes": "Salt the steaks generously (ahead if you can) and add coarse pepper; sear hot with the Hey Grill Hey two-zone method. Make Beef Butter ahead (Meathead/Goldwyn p.255): mash the herbs into a softened stick of butter, roll in plastic like a Tootsie Roll, chill overnight, and top the rested steaks with a coin so it melts over. (Big Bad Beef Rub saved for a future brisket/ribs cook.)"
     },
     {
-      "id": "grilled-smashed-potatoes-22902977",
+      "id": "crispy-smashed-potatoes-with-za-atar-a8babf5d",
       "day": "Sat",
       "slot": "dinner",
       "role": "side",
@@ -784,10 +671,7 @@
       "cuisine": "american",
       "protein": "potato",
       "tags": [
-        "grill",
-        "cabin",
-        "side",
-        "festive"
+        "side"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -812,7 +696,7 @@
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "halved, grilled alongside"
+          "note": ""
         },
         {
           "item": "fresh chives or parsley",
@@ -839,7 +723,7 @@
       "notes": "Par-boil the potatoes until tender, toss with oil/salt/pepper, smash with a glass just until the skins split, then grill until charred and crisp. Grill a lemon half alongside and squeeze over. (Quantities best-effort - site blocks our fetch tools.)"
     },
     {
-      "id": "grilled-asparagus-cf65d880",
+      "id": "grilled-asparagus-ba04ecae",
       "day": "Sat",
       "slot": "dinner",
       "role": "side",
@@ -849,10 +733,7 @@
       "cuisine": "american",
       "protein": "vegetable",
       "tags": [
-        "grill",
-        "cabin",
-        "side",
-        "festive"
+        "side"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -863,7 +744,7 @@
           "qty": 16,
           "unit": "",
           "category": "produce",
-          "note": "large spears"
+          "note": ""
         },
         {
           "item": "extra virgin olive oil",
@@ -877,7 +758,7 @@
           "qty": 1.25,
           "unit": "tsp",
           "category": "spices",
-          "note": "herb rub - recipe captured in cookbook catalog"
+          "note": ""
         },
         {
           "item": "kosher salt",
@@ -891,18 +772,18 @@
           "qty": 4,
           "unit": "oz",
           "category": "dairy",
-          "note": "shaved into wide ribbons; reduce to keep dairy lower if you like"
+          "note": ""
         },
         {
           "item": "balsamic condimento or reduction",
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
-          "note": "drizzle to serve"
+          "note": ""
         }
       ],
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-17T05:05:15.458Z"
+  "setAt": "2026-06-17T16:52:21.757Z"
 }

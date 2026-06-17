@@ -1,0 +1,40 @@
+{
+  "mealId": "classic-baked-macaroni-and-cheese-casserole-94f47b2b",
+  "fetchedAt": "2026-06-17T15:05:08.297Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe",
+  "name": "Classic Baked Macaroni and Cheese Casserole",
+  "description": "",
+  "recipeIngredient": [
+    "1 pound (450 g) elbow macaroni",
+    "8 tablespoons unsalted butter (4 ounces; 113 g), divided",
+    "3 tablespoons all-purpose flour (3/4 ounce; 24 g)",
+    "3 cups (710 ml) whole milk",
+    "1 1/2 pounds grated sharp cheddar cheese (680 g; 6 cups), see notes",
+    "1 teaspoon (5 ml) hot sauce, such as Frank's RedHot",
+    "1 teaspoon Diamond Crystal kosher salt; for table salt, use half as much by volume",
+    "1/2 teaspoon mustard powder",
+    "1/4 teaspoon garlic powder",
+    "8 ounces grated Gruyère cheese (225 g; 2 cups), see notes",
+    "1 cup panko bread crumbs (2 1/2 ounces; 72 g)"
+  ],
+  "recipeInstructions": [
+    "Preheat oven to 350°F (175°C). In a medium pot of salted boiling water, cook elbow macaroni until just shy of al dente, about 2 minutes less than cooking time indicated on package. Drain, then transfer pasta to a large mixing bowl and toss with 2 tablespoons (30g) butter until butter is melted and pasta is evenly coated. Set aside.",
+    "In a large saucepan, melt 3 tablespoons (40g) butter over medium-high heat (do not allow it to brown). Add flour and whisk to form a paste. Continue to cook, stirring, until raw flour scent is gone, about 1 minute. Whisking constantly, add milk in a thin, steady stream, whisking constantly and thoroughly and getting into all corners of the pan to maintain a homogeneous texture. Sauce will initially become very thick, then get very thin once all the milk is added.",
+    "Heat, stirring, until sauce comes to a simmer and begins to thicken slightly. Reduce heat to medium-low and, working in increments, whisk in cheddar cheese until a smooth, emulsified cheese sauce forms; do not let sauce come to a boil once cheese is added. Whisk in hot sauce, salt, mustard powder, and garlic powder.",
+    "Scrape cheese sauce into pasta and mix until evenly coated. Let cool slightly, then add grated Gruyère and mix well. Scrape pasta into a greased 9- by 13-inch baking dish and smooth surface into an even layer.",
+    "Add panko to a small mixing bowl. Melt remaining 3 tablespoons (45g) butter, then add to panko and mix until evenly coated. Season with salt. Scatter panko all over surface of mac and cheese in an even layer. Bake on top rack of oven until browned and bubbling, about 35 to 40 minutes (ovens can vary; check often to prevent top from burning).",
+    "Let mac and cheese rest 15 minutes, then serve. Leftover mac and cheese can be refrigerated for up to 5 days; it reheats surprisingly well in the microwave or oven."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "70 min",
+  "totalTime": null,
+  "recipeYield": "8 servings",
+  "image": "https://www.seriouseats.com/thmb/0XL-Pu8e_FZfd3SvIVuhxRq-n0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__11__20161028-baked-macaroni-cheese-sodium-citrate-vicky-wasik-20-3c17c4f84ad240998a417ed35aa61a08.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

@@ -529,6 +529,17 @@ function printShopping(list) {
   }
   if (list.excludedStaples.length)
     console.log(c.dim(`Assumed on hand: ${list.excludedStaples.join(", ")}`));
+  if (list.pendingScans?.length) {
+    console.log(
+      "\n" + c.yellow(`⚠ ${list.pendingScans.length} dish(es) need a scan — items missing until captured:`)
+    );
+    for (const p of list.pendingScans) {
+      console.log(
+        "  " + c.yellow("• ") + `${p.day ? p.day + ": " : ""}${p.title}` +
+          (p.source ? c.dim(`  — ${p.source}`) : "")
+      );
+    }
+  }
 }
 
 // ---- recipe ----------------------------------------------------------------

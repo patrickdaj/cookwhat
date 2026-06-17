@@ -1,0 +1,39 @@
+{
+  "mealId": "egg-potato-pancetta-breakfast-tacos-6b9c1fd3",
+  "fetchedAt": "2026-06-17T15:05:08.306Z",
+  "source": "paprika",
+  "url": "https://mountainmamacooks.com/egg-potato-pancetta-breakfast-tacos/",
+  "name": "Egg, Potato & Pancetta Breakfast Tacos",
+  "description": "",
+  "recipeIngredient": [
+    "4 oz pancetta",
+    "2 tablespoons olive oil, divided",
+    "3 small red potatoes, diced pretty small",
+    "1/2 teaspoon seasoned salt",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon ground black pepper",
+    "6 eggs",
+    "6 tortillas",
+    "1 avocado",
+    "cilantro and hot sauce, optional"
+  ],
+  "recipeInstructions": [
+    "In a large saute pan, cook pancetta over medium heat until crispy and all the fat is rendered. Remove pancetta from pan, crumble and lay on paper towel lined plate while you prepare the rest of the tacos.",
+    "Add 1 tablespoon of olive oil to the pan and add potatoes. Cook, stirring occasionally, so the potatoes start to brown. Add seasoned salt, garlic powder and black pepper. Depending on how small you cut the potatoes, they’ll take 15-20 minutes to cook through. When they’re soft on the inside and crispy on the outside, remove from pan and set aside.",
+    "Beat the 6 eggs in a small bowl and add them to the same pan along with the other tablespoon of olive oil. Scramble until cooked and season with a pinch of salt and pepper.",
+    "To serve the tacos, divide the eggs between 6 tortillas and top with some crumbled pancetta and diced potatoes. Top with a slice of avocado, a few sprigs of cilantro and lots of your favorite hot sauce!"
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "Yield: 6 tacos 1x",
+  "image": "https://i0.wp.com/mountainmamacooks.com/wp-content/uploads/2014/06/breakfast-tacos-mountain-mama-cooks-2.jpg?resize=205%2C300&ssl=1",
+  "author": "mountainmamacooks.com",
+  "categories": [
+    "Breakfast"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

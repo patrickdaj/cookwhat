@@ -1,0 +1,35 @@
+{
+  "mealId": "one-pot-tortellini-with-prosciutto-and-peas-83fab7da",
+  "fetchedAt": "2026-06-17T15:05:08.328Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1025271-one-pot-tortellini-with-prosciutto-and-peas?algo=cooking_search_relevance_metric_ios_and_web&amp;fellback=false&amp;imp_id=1082932239706704&amp;req_id=77398101135349&amp;surface=cooking-search&amp;variant=0_relevance_reranking",
+  "name": "One-Pot Tortellini with Prosciutto and Peas",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/2 tablespoons unsalted butter, plus more if needed",
+    "4 slices prosciutto (about 2 ounces)",
+    "1 shallot, finely chopped",
+    "16 to 20 ounces refrigerated cheese tortellini",
+    "2 cups (10 ounces) frozen peas (no need to thaw)",
+    "1 cup chicken broth",
+    "1 cup heavy cream",
+    "¼ teaspoon ground nutmeg (optional)",
+    "Salt and black pepper",
+    "Zest and juice of 1/2 lemon (about 1 1/2 teaspoons zest plus 1 ½ tablespoons juice)"
+  ],
+  "recipeInstructions": [
+    "In a large nonstick skillet, melt the butter over medium. Add the prosciutto in a single layer and cook, flipping halfway through, until golden and crisp, 2 to 4 minutes. Press occasionally with a spatula to ensure even crisping and reducing the heat as necessary if the fat begins to smoke. Transfer the prosciutto to a plate, leaving the fat in the pan.",
+    "To the skillet, add the shallot and cook over medium until softened, 2 to 4 minutes, adding about ½ tablespoon butter if the pan is dry. Add the tortellini, peas, chicken broth, heavy cream and nutmeg (if using) and season with salt and pepper. Simmer over medium-high, stirring occasionally, until the pasta and peas are tender, 3 to 5 minutes. (The sauce will thicken as it cools.) Turn off the heat and stir in the lemon zest and juice. Season to taste with salt and pepper. Crumble the prosciutto on top."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "totalTime": "25 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/04/11/multimedia/as-one-pot-tortellinirex-hwkq/as-one-pot-tortellinirex-hwkq-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 2,
+  "notes": null,
+  "nutrition": "Trans Fat: 1 gram | Fat: 37 grams | Calories: 753 | Saturated Fat: 22 grams | Unsaturated Fat: 12 grams | Sodium: 1082 milligrams | Sugar: 9 grams | Fiber: 7 grams | Carbohydrate: 78 grams | Protein: 29 grams",
+  "ai": null
+}

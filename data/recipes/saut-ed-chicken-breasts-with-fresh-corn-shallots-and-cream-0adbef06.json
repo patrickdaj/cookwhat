@@ -1,0 +1,38 @@
+{
+  "mealId": "saut-ed-chicken-breasts-with-fresh-corn-shallots-and-cream-0adbef06",
+  "fetchedAt": "2026-06-17T15:05:08.340Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/2321-sauteed-chicken-breasts-with-fresh-corn-shallots-and-cream?q=Saut%C3%A9ed%20chicken%20",
+  "name": "Sautéed Chicken Breasts with Fresh Corn, Shallots and Cream",
+  "description": "",
+  "recipeIngredient": [
+    "4 skinless, boneless chicken breasts",
+    "Salt to taste",
+    "Freshly ground pepper to taste",
+    "2 large ears of corn",
+    "2 tablespoons butter",
+    "1/4 cup finely chopped shallots",
+    "1/2 cup dry white wine",
+    "2 tablespoons Dijon mustard",
+    "2/3 cup heavy cream",
+    "1/4 cup coarsely chopped fresh chervil or parsley"
+  ],
+  "recipeInstructions": [
+    "Sprinkle chicken breasts on both sides with salt and pepper.",
+    "Cut the kernels from the ears of corn. There should be about 1 cup. Set aside.",
+    "Heat butter in a skillet large enough to hold the breasts in one layer. Add the chicken, cook 3 minutes and turn. Cover and cook 5 minutes longer.",
+    "Transfer chicken pieces to a hot serving dish. To the skillet add shallots and cook briefly. Add wine and bring to the boil. Add the corn and stir in mustard.",
+    "Add cream and stir to blend. Bring to the boil and add the chervil or parsley. Pour and scrape the sauce over the chicken pieces and serve."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2025/07/03/multimedia/PF-Sauteed-Chicken-Breasts-with-Fresh-Corn-gkcm/PF-Sauteed-Chicken-Breasts-with-Fresh-Corn-gkcm-videoSixteenByNineJumbo1600.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 1 gram | Fat: 28 grams | Calories: 629 | Saturated Fat: 14 grams | Unsaturated Fat: 10 grams | Sodium: 1045 milligrams | Sugar: 5 grams | Fiber: 3 grams | Carbohydrate: 23 grams | Protein: 66 grams",
+  "ai": null
+}

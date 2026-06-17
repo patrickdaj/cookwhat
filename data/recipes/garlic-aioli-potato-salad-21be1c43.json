@@ -1,0 +1,39 @@
+{
+  "mealId": "garlic-aioli-potato-salad-21be1c43",
+  "fetchedAt": "2026-06-17T15:05:08.310Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017402-garlic-aioli-potato-salad",
+  "name": "Garlic Aioli Potato Salad",
+  "description": "",
+  "recipeIngredient": [
+    "3 large eggs",
+    "2 garlic cloves, grated",
+    "1/2 teaspoon kosher salt, more as needed",
+    "1 tablespoon lemon juice, more as needed",
+    "1 large egg yolk",
+    "1 cup extra-virgin olive oil",
+    "1/4 cup sour cream",
+    "1/2 cup finely chopped celery",
+    "1/4 cup finely chopped red onion",
+    "2 pounds small waxy white or yellow potatoes, roughly about the same size",
+    "Black pepper, as needed",
+    "2 tablespoons finely chopped chives, for garnish"
+  ],
+  "recipeInstructions": [
+    "Place 2 eggs in a small pot with water to cover. Bring to a boil over high heat; immediately remove from heat and cover for 8 minutes. Transfer eggs to a bowl of ice water to cool. Peel and dice small.",
+    "Meanwhile, combine grated garlic, salt and lemon juice in a blender, and pulse a few times to combine. Pulse in egg yolk. With motor running, slowly drizzle in olive oil until completely incorporated and mayonnaise is thick. Scrape into a bowl and fold in sour cream. Fold in celery and red onion.",
+    "Place whole unpeeled potatoes in a large pot with enough salted water to cover by 1 inch. Bring to a boil over medium-high heat and cook until potatoes are just tender, 15 to 25 minutes depending upon size. Drain and cut potatoes into 1 1/2-inch chunks as soon as you can handle them.",
+    "Transfer hot potatoes to a large bowl and toss with diced boiled eggs and 2/3 of the dressing. Let cool to room temperature, or refrigerate until ready to use. Just before serving, toss with some of the remaining dressing to taste (if desired). Season with black pepper and add more salt if necessary. Sprinkle with chives."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "8 servings",
+  "image": "https://static01.nyt.com/images/2015/05/20/dining/20POTATO2/20POTATO2-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 31 grams | Calories: 380 | Saturated Fat: 5 grams | Unsaturated Fat: 24 grams | Sodium: 160 milligrams | Sugar: 2 grams | Fiber: 3 grams | Carbohydrate: 22 grams | Protein: 5 grams",
+  "ai": null
+}

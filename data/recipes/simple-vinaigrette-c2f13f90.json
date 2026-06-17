@@ -1,0 +1,31 @@
+{
+  "mealId": "simple-vinaigrette-c2f13f90",
+  "fetchedAt": "2026-06-17T15:05:08.345Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/simple-vinaigrette-recipe",
+  "name": "Simple Vinaigrette",
+  "description": "",
+  "recipeIngredient": [
+    "1 small shallot, minced (about 2 tablespoons)",
+    "1 small clove garlic, minced (about 1/2 teaspoon)",
+    "2 teaspoons Dijon mustard",
+    "3 tablespoons white wine vinegar",
+    "1 tablespoon water",
+    "3/4 cup extra-virgin olive oil",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Combine shallot, garlic, mustard, vinegar, and water in a large bowl and whisk to combine. Whisking constantly, slowly drizzle in olive oil. Alternatively, place all ingredients in a tightly sealing jar, seal, and shake vigorously until emulsified. Season to taste with salt and pepper. Vinaigrette will keep in the refrigerator for up to 2 weeks."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": null,
+  "recipeYield": "8 servings",
+  "image": "https://www.seriouseats.com/thmb/t4bCGE038au6SzfZfggyMAARrzk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__09__20140930-how-to-dress-a-salad-vinaigrette-14-bada37c9759e4cbd8d029d1f4689c3cc.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 183 Calories 20g Fat 1g Carbs 0g Protein | Nutrition Facts | Servings: 8 | Amount per serving | Calories 183 | % Daily Value* | Total Fat 20g 26% | Saturated Fat 3g 14% | Cholesterol 0mg 0% | Sodium 113mg 5% | Total Carbohydrate 1g 0% | Dietary Fiber 0g 0% | Total Sugars 0g | Protein 0g | Vitamin C 0mg 1% | Calcium 3mg 0% | Iron 0mg 1% | Potassium 11mg 0% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

@@ -1,0 +1,40 @@
+{
+  "mealId": "classic-coleslaw-6368dd31",
+  "fetchedAt": "2026-06-17T16:53:32.979Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/creamy-cole-slaw",
+  "name": "Classic Coleslaw",
+  "description": "",
+  "recipeIngredient": [
+    "For the Slaw Mix:",
+    "1 large head green cabbage, about 3 1/2 pounds, finely shredded on a mandoline or by hand (see notes)",
+    "1 large red onion, finely sliced on a mandoline or by hand",
+    "1 large carrot, peeled and grated on the large holes of a box grater (see notes)",
+    "1/4 cup roughly chopped fresh parsley leaves",
+    "1 cup white sugar",
+    "1/2 cup kosher salt",
+    "For the Dressing:",
+    "3/4 cup mayonnaise",
+    "1/4 cup apple cider vinegar",
+    "2 tablespoons Dijon mustard",
+    "1 tablespoon freshly ground black pepper",
+    "3 tablespoons sugar"
+  ],
+  "recipeInstructions": [
+    "For the Slaw Mix: Combine cabbage, onion, carrot, and parsley in a large bowl, leaving plenty of room to toss (you may have to use 2 large bowls if your bowls are not large enough). Sprinkle with sugar and salt and toss to combine. Let rest 5 minutes, then transfer to a large colander and rinse thoroughly under cold running water.",
+    "Transfer rinsed mixture to a salad spinner and spin dry. Alternatively, transfer to a large rimmed baking sheet lined with a triple layer of paper towels or a clean kitchen towel and blot mixture dry with more paper towels. Return to large bowl and set aside.",
+    "For the Dressing: Combine mayonnaise, vinegar, mustard, black pepper, and sugar in a medium bowl and whisk until homogenous.",
+    "Pour dressing over cabbage mixture and toss to coat. Taste and adjust seasoning with more salt, pepper, sugar, and/or vinegar if desired."
+  ],
+  "prepTime": "30 min",
+  "cookTime": "0 min",
+  "totalTime": null,
+  "recipeYield": "12 servings",
+  "image": "https://www.seriouseats.com/thmb/YoXCEQG8t5g5FNAhnwJ3VmD51L4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2013__07__20210317_coleslaw_LizClayman-15-9e1299efd2a24315946495bca67cd002.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 149 Calories 11g Fat 13g Carbs 2g Protein | Nutrition Facts | Servings: 12 | Amount per serving | Calories 149 | % Daily Value* | Total Fat 11g 13% | Saturated Fat 2g 8% | Cholesterol 6mg 2% | Sodium 275mg 12% | Total Carbohydrate 13g 5% | Dietary Fiber 3g 11% | Total Sugars 8g | Protein 2g | Vitamin C 55mg 274% | Calcium 77mg 6% | Iron 1mg 3% | Potassium 322mg 7% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

@@ -1,0 +1,36 @@
+{
+  "mealId": "horseradish-roasted-salmon-with-mustard-potatoes-8c82fbba",
+  "fetchedAt": "2026-06-17T15:05:08.316Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1024479-horseradish-roasted-salmon-with-mustard-potatoes?algo=cooking_search_relevance_metric_ios_and_web&amp;fellback=false&amp;imp_id=577021450670062&amp;req_id=6678509957242017&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking",
+  "name": "Horseradish Roasted Salmon with Mustard Potatoes",
+  "description": "",
+  "recipeIngredient": [
+    "1 pound baby Yukon Gold potatoes, halved if large",
+    "3 tablespoons olive oil",
+    "2 tablespoons whole-grain mustard",
+    "Kosher salt and coarsely ground black pepper",
+    "3 tablespoons mayonnaise",
+    "2 tablespoons drained prepared horseradish",
+    "2 limes",
+    "1 1/2 pounds skinless salmon fillet (preferably 1 single center-cut piece)"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 400 degrees.",
+    "On a rimmed sheet pan, toss together the potatoes, olive oil and mustard. Season with salt and pepper. Roast for 20 minutes, tossing once halfway through.",
+    "Meanwhile, combine the mayonnaise and horseradish in a small bowl. Finely grate 2 teaspoons lime zest and then cut the remaining lime into wedges. Add the lime zest to the mayonnaise mixture and season to taste with salt and pepper. Season the salmon with salt and pepper and then slather the sauce all over the top and sides.",
+    "Remove the potatoes from the oven and use a spatula to make space in the center of the pan. Add the salmon, skinned side down. Return the pan to the oven and cook until the potatoes are browned and tender and the salmon is cooked through to your liking, 10 to 20 minutes, depending on the thickness of the salmon.",
+    "Serve the salmon and potatoes with lime wedges."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "40 min",
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/01/05/multimedia/SSE-horseredish-salmon-hcbf/SSE-horseredish-salmon-hcbf-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 42 grams | Calories: 627 | Saturated Fat: 8 grams | Unsaturated Fat: 29 grams | Sodium: 824 milligrams | Sugar: 2 grams | Fiber: 4 grams | Carbohydrate: 25 grams | Protein: 38 grams",
+  "ai": null
+}

@@ -1,0 +1,32 @@
+{
+  "mealId": "mango-slaw-de2f4648",
+  "fetchedAt": "2026-06-17T15:05:08.323Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1021305-mango-slaw",
+  "name": "Mango Slaw",
+  "description": "",
+  "recipeIngredient": [
+    "1 (8-ounce) bag coleslaw (about 3 cups)",
+    "2 large, slightly firm mangoes (about 1 3/4 pounds), peeled, pitted and thinly sliced (about 2 cups)",
+    "1/2 cup chopped fresh cilantro",
+    "2 tablespoons freshly squeezed lime juice",
+    "1 tablespoon honey or agave syrup",
+    "1/4 teaspoon celery salt",
+    "1/4 teaspoon freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "In a large bowl, combine all ingredients. Toss with tongs or a fork to combine.",
+    "Refrigerate for at least 1 hour. Serve cold."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "5 min",
+  "recipeYield": "3 cups",
+  "image": "https://static01.nyt.com/images/2020/07/30/dining/mp-mango-slaw/mp-mango-slaw-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 10 grams | Calories: 179 | Saturated Fat: 2 grams | Unsaturated Fat: 8 grams | Sodium: 195 milligrams | Sugar: 19 grams | Fiber: 3 grams | Carbohydrate: 22 grams | Protein: 1 gram",
+  "ai": null
+}

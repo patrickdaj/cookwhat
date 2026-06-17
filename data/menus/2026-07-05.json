@@ -1,11 +1,11 @@
 {
   "weekOf": "2026-07-05",
-  "createdAt": "2026-06-17T04:09:07.756Z",
+  "createdAt": "2026-06-17T16:51:49.434Z",
   "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "grilled-swordfish-537ed905",
+      "id": "grilled-swordfish-e945816f",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
@@ -15,9 +15,8 @@
       "cuisine": "mediterranean",
       "protein": "swordfish",
       "tags": [
-        "grill",
         "weekend",
-        "cabin"
+        "project"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -91,20 +90,27 @@
           "qty": 2,
           "unit": "tsp",
           "category": "produce",
-          "note": "Greek Ladolemono finishing sauce (Meathead p.192)"
+          "note": ""
         },
         {
           "item": "lemon (for ladolemono)",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "2 tbsp juice for the sauce"
+          "note": ""
+        },
+        {
+          "item": "crusty bread or pita, grilled",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
         }
       ],
-      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more. Finish with Greek Ladolemono (Meathead/Goldwyn p.192): shake 1/4 cup EVOO, 2 tbsp lemon juice, 2 tsp chopped fresh oregano, and 1/4 tsp each salt and pepper in a jar; drizzle over the grilled fish."
+      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more. Finish with Greek Ladolemono (Meathead/Goldwyn p.192): shake 1/4 cup EVOO, 2 tbsp lemon juice, 2 tsp chopped fresh oregano, and 1/4 tsp each salt and pepper in a jar; drizzle over the grilled fish. Add grilled bread for the carb to make it a full plate."
     },
     {
-      "id": "mediterranean-tomato-and-cucumber-salad-f723b5af",
+      "id": "mediterranean-tomato-and-cucumber-salad-5a0dbfbc",
       "day": "Sun",
       "slot": "dinner",
       "role": "side",
@@ -114,9 +120,6 @@
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "cabin",
-        "quick",
-        "no-cook",
         "side"
       ],
       "activeTimeMin": null,
@@ -176,5 +179,5 @@
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
     }
   ],
-  "setAt": "2026-06-17T05:05:15.519Z"
+  "setAt": "2026-06-17T17:08:30.515Z"
 }

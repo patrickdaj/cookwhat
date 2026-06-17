@@ -1,0 +1,36 @@
+{
+  "mealId": "chicken-marsala-and-mushrooms-77e045a6",
+  "fetchedAt": "2026-06-17T15:05:08.293Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/7344-chicken-marsala-and-mushrooms?algo=identity&amp;fellback=true&amp;imp_id=3771232332661532&amp;req_id=6487214477982952&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking",
+  "name": "Chicken Marsala and Mushrooms",
+  "description": "",
+  "recipeIngredient": [
+    "3 tablespoons olive oil",
+    "4 boneless, skinless chicken breast halves (about 1 1/2 pounds), pounded to 1/4-inch thickness",
+    "Kosher salt and freshly ground pepper to taste",
+    "2/3 cup flour",
+    "1/2 pound cleaned and thinly sliced button, crimini or shiitake mushrooms (or a combination)",
+    "1 shallot, minced",
+    "4 tablespoons Marsala wine, more as needed",
+    "3 tablespoons veal glaze (see recipe) or chicken stock, more as needed",
+    "1 tablespoon butter",
+    "1 tablespoon chopped chervil or parsley (optional, for garnish)"
+  ],
+  "recipeInstructions": [
+    "Heat 1 tablespoon of the oil in a medium-size skillet set over high heat. Sprinkle the chicken pieces with salt and pepper to taste and dredge in flour. Place 2 of the chicken pieces in the pan and cook until nicely browned, about 2 minutes per side. Add another tablespoon of oil and the remaining chicken pieces. As chicken is cooked, set aside on a plate and loosely tent with foil to keep it warm.",
+    "Heat the remaining tablespoon of oil in the skillet, add the mushrooms and shallot and cook until the mushrooms are tender and beginning to brown. Add the Marsala wine and cook until reduced by half. Stir in the veal glaze or stock and heat for 1 minute.",
+    "Remove from heat and swirl in the butter until melted. Transfer the chicken to a serving platter and pour the sauce from the skillet over the chicken. Garnish with chervil or parsley and serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "30 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2018/03/27/dining/27COOKING-CHICKENMARSALA2/27COOKING-CHICKENMARSALA2-square640-v3.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 18 grams | Calories: 444 | Saturated Fat: 4 grams | Unsaturated Fat: 12 grams | Sodium: 707 milligrams | Sugar: 3 grams | Fiber: 3 grams | Carbohydrate: 24 grams | Protein: 43 grams",
+  "ai": null
+}

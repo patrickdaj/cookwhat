@@ -1,0 +1,29 @@
+{
+  "mealId": "roasted-fennel-with-parmesan-ce694adc",
+  "fetchedAt": "2026-06-17T15:05:08.338Z",
+  "source": "paprika",
+  "url": "https://www.farmfreshtoyou.com/recipes/215/roasted-fennel-with-parmesan",
+  "name": "Roasted Fennel with Parmesan",
+  "description": "",
+  "recipeIngredient": [
+    "1 teaspoon olive oil",
+    "1 fennel bulb",
+    "2-3 tablespoons Parmesan cheese, grated",
+    "salt and pepper to taste",
+    "1 teaspoon fennel fronds, minced (optional)"
+  ],
+  "recipeInstructions": [
+    "Preheat the oven to 375 degrees Fahrenheit. Trim about one inch off the bottom of the bulb. Using a mandoline or a very sharp knife, thinly slice the rest of the fennel bulb. Place in a roasting pan or baking sheet and drizzle with olive oil. Toss to coat, then sprinkle Parmesan on top. Season with salt and pepper and roast for 30 min, or until the fennel starts to turn golden. After the fennel is cooked, sprinkle with the fennel fronds and serve!"
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "2 as a side",
+  "image": "https://contenthandler.azureedge.net/recp/215/2000/0/9994475.jpg",
+  "author": "farmfreshtoyou.com",
+  "categories": [],
+  "rating": 2,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

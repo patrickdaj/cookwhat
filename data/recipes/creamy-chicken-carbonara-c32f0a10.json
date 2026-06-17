@@ -1,0 +1,41 @@
+{
+  "mealId": "creamy-chicken-carbonara-c32f0a10",
+  "fetchedAt": "2026-06-17T15:05:08.300Z",
+  "source": "paprika",
+  "url": "https://kitchenswagger.com/creamy-chicken-carbonara-recipe/",
+  "name": "Creamy Chicken Carbonara",
+  "description": "",
+  "recipeIngredient": [
+    "1 X 2X 3X",
+    "2 boneless skinless chicken breasts, cut into bite-sized strips",
+    "12-14 ounces linguine, or spaghetti",
+    "4 strips thick-cut bacon, guanciale or pancetta, chopped into 1/2 inch pieces",
+    "2 cloves garlic, very finely grated",
+    "1-2 tablespoons chopped fresh basil",
+    "salt and fresh cracked pepper, to taste",
+    "Carbonara Sauce",
+    "4 eggs, (2 yolk only, 2 whole)",
+    "3/4 cup grated Parmesan cheese, or Pecorino Romano",
+    "salt and fresh cracked pepper, to taste",
+    "1/3 cup heavy cream**, optional, if preferred"
+  ],
+  "recipeInstructions": [
+    "Bring a large pot of salted water to a boil and cook linguine al dente. Reserve 1/2 cup of pasta water before straining.",
+    "Combine eggs, Parmesan cheese, a pinch of salt, and pepper, and optional cream in a medium-sized bowl. Whisk thoroughly and set aside.",
+    "Meanwhile, cook bacon in a large stainless pan or cast iron skillet on medium heat until fully cooked, remove from the skillet, and place on a paper towel-lined plate to drain. Keep 1-2 tablespoons of bacon grease in the skillet and discard the rest.",
+    "Add sliced chicken. Season with salt and pepper and cook until chicken is fully cooked through (about 5-7 minutes). The bacon fat should brown the chicken. in the last 1-2 minutes, add garlic and a pinch of olive oil. Cook until fragrant.",
+    "Turn the heat down to low and let the pan cool for 2-3 minutes. Remove from the heat if necessary. (If the pan is too hot, you'll run the risk of scrambling the eggs.) Return the bacon to the pan and add the warm linguine. Add the egg mixture to the pan along with 1/4 cup of pasta water. Toss with the pasta until fully mixed and creamy. Add more pasta water if sauce feels too thick.",
+    "Top with fresh basil and serve immediately with extra Parmesan cheese and garnish with fresh basil."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": null,
+  "recipeYield": "6",
+  "image": "https://kitchenswagger.com/wp-content/uploads/2019/09/carbonara-2-final-600x900.jpg",
+  "author": "kitchenswagger.com",
+  "categories": [],
+  "rating": null,
+  "notes": "Prep makes a big difference in this recipe. Cutting the chicken and bacon before you start anything else makes the recipe move quickly and smoothly.\nDon’t forget to reserve starchy pasta water. This helps activate the cheese/egg mixture to form a creamy sauce that coats the entire dish.\nYou can omit the protein altogether and still create a simple and delicious classic dish.\nClassic carbonara does not contain cream. Some people like it so I’ve included it as an optional ingredient.\nIf it’s Italian it’s got to be served with wine. This recipe pairs well with a crisp, fruity white or Chianti Classico.\nPancetta is a common Italian substitute for bacon—it’s considered Italian bacon. Both bacon and pancetta come from cured pork belly. You can substitute either interchangeably in the recipe depending on availability.",
+  "nutrition": "CARBOHYDRATES: 37.2G PROTEIN: 91.4G | FAT: 20.7G SATURATED FAT: 7.4G | CHOLESTEROL: 363MG SODIUM: 906MG | SUGAR: 0.3G",
+  "ai": null
+}

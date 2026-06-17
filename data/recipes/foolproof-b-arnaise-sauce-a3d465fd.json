@@ -1,0 +1,35 @@
+{
+  "mealId": "foolproof-b-arnaise-sauce-a3d465fd",
+  "fetchedAt": "2026-06-17T15:05:08.308Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe",
+  "name": "Foolproof Béarnaise Sauce",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup dry white wine",
+    "1/4 cup white wine vinegar",
+    "3 sprigs chervil, leaves finely minced, stems reserved separately (optional; if not using add an extra sprig of tarragon)",
+    "3 sprigs tarragon, leaves finely minced, stems reserved separately",
+    "1 small shallot, roughly chopped",
+    "1/2 teaspoon whole black peppercorns",
+    "2 large egg yolks",
+    "Kosher salt",
+    "1 1/2 sticks (12 tablespoons) unsalted butter"
+  ],
+  "recipeInstructions": [
+    "Combine wine, vinegar, herb stems, shallot, and black peppercorns in a small saucepan. Bring to a simmer over medium-high heat and lower heat to maintain a gentle simmer. Cook until reduced to about 1 1/2 tablespoons of liquid, about 15 minutes. Carefully strain liquid through a fine-mesh strainer into a small bowl, pressing on the solids with the back of a spoon to extract as much liquid as possible.",
+    "Combine wine reduction, egg yolks, and a pinch of salt in the bottom of a cup that barely fits the head of an immersion blender. Melt butter in a small saucepan over high heat, swirling constantly, until foaming subsides. Transfer butter to a 1-cup liquid measuring cup.",
+    "Place head of immersion blender into the bottom of the cup with the wine reduction and turn it on. With the blender constantly running, slowly pour hot butter into cup. It should emulsify with the egg yolk and wine reduction. Continue pouring until all butter is added. Sauce should be thick and creamy (see notes). Season to taste with salt. Whisk in chopped tarragon and chervil, if using. Serve immediately, or transfer to a small lidded pot and keep in a warm place for up to 1 hour before serving. Béarnaise cannot be cooled and reheated."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "14 servings",
+  "image": "https://www.seriouseats.com/thmb/wt8cWypn00z2dJ9vAntBmIzUmXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__04__20150328-bearnaise-sauce-easy-18-19c46cc0b920456da3f0cfaa8ff575b3.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "(per serving) | 109 Calories 11g Fat 1g Carbs 1g Protein | Nutrition Facts | Servings: 14 | Amount per serving | Calories 109 | % Daily Value* | Total Fat 11g 14% | Saturated Fat 6g 32% | Cholesterol 66mg 22% | Sodium 58mg 3% | Total Carbohydrate 1g 0% | Dietary Fiber 0g 1% | Total Sugars 0g | Protein 1g | Vitamin C 0mg 2% | Calcium 15mg 1% | Iron 0mg 2% | Potassium 40mg 1% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

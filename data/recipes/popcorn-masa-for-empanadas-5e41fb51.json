@@ -1,0 +1,33 @@
+{
+  "mealId": "popcorn-masa-for-empanadas-5e41fb51",
+  "fetchedAt": "2026-06-17T15:05:08.332Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1021301-popcorn-masa-for-empanadas?q=Popcorn%20em",
+  "name": "Popcorn Masa for Empanadas",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/2 cups raw popcorn kernels",
+    "1 teaspoon kosher salt"
+  ],
+  "recipeInstructions": [
+    "To prepare popcorn kernels with a pressure cooker, combine kernels and 2 quarts water in the cooker. Cook at high pressure for 45 minutes. Remove from heat and allow the corn to cool naturally. Proceed to Step 4.",
+    "To prepare popcorn kernels on the stovetop, place kernels in a large bowl and cover with 2 quarts of water. Cover and set aside overnight.",
+    "The next day, transfer popcorn and water to a large saucepan. Bring to a boil over high heat, reduce to a simmer, then cover and cook until the popcorn is tender and kernels are starting to blow out (the tops should crack open and split), about 2 hours, adding more water as necessary to ensure that the popcorn is constantly submerged.",
+    "To prepare masa in a grain mill, drain corn thoroughly and transfer to the hopper of a grain mill adjusted to the finest milling size. Mill popcorn onto a wooden cutting board. Sprinkle with 2 tablespoons water and 1 teaspoon salt, and fold and press to incorporate. Skip to Step 6.",
+    "To prepare masa in a food processor, drain corn thoroughly and transfer to the bowl of a food processor. Add 2 tablespoons water and 1 teaspoon salt. Process until a coarse masa is formed, 1 to 2 minutes, scraping down the sides of the food processor as necessary. Transfer the masa to a wooden cutting board. Fold and press to incorporate.",
+    "Continue kneading the masa by pressing it against the board with the heel of your hand until it forms a moist, easily workable dough. To test, take a small ball in your hand and press it flat. If the dough cracks when you press it, add more water 1 tablespoon at a time until it is smoother and workable. (Small cracks around the edges are OK.)",
+    "Using a clean, damp kitchen towel or plastic wrap, cover masa and set aside to rest for at least 15 minutes before using. Masa can be made several days in advance and stored in the fridge in a zip-top bag. Bring to room temperature before using.",
+    "For empanada assembly and cooking instructions, proceed to Step 6 of this Colombian Beef and Potato Empanadas recipe."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr 30 min",
+  "recipeYield": "About 24 (3-inch) empanadas",
+  "image": "https://static01.nyt.com/images/2020/08/05/dining/04Kenji-popcorn-masa/04Kenji-popcorn-masa-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 1,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 0 grams | Calories: 28 | Saturated Fat: 0 grams | Unsaturated Fat: 0 grams | Sodium: 17 milligrams | Sugar: 0 grams | Fiber: 1 gram | Carbohydrate: 6 grams | Protein: 1 gram",
+  "ai": null
+}

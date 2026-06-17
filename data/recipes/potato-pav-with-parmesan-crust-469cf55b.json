@@ -1,0 +1,42 @@
+{
+  "mealId": "potato-pav-with-parmesan-crust-469cf55b",
+  "fetchedAt": "2026-06-17T15:05:08.334Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1026237-potato-pave-with-parmesan-crust?q=Potato%20pav",
+  "name": "Potato Pavé with Parmesan Crust",
+  "description": "",
+  "recipeIngredient": [
+    "6 tablespoons unsalted butter, plus more for greasing",
+    "Kosher salt (such as Diamond Crystal) and black pepper",
+    "1 cup heavy cream",
+    "5 pounds Yukon Gold potatoes (opt for larger potatoes, for less slicing)",
+    "Canola oil, as needed (¼ to ⅓ cup)",
+    "2/3 cup finely grated fresh Parmesan",
+    "Flaky sea salt, for serving"
+  ],
+  "recipeInstructions": [
+    "Prepare your pan: Trace the bottom of a metal 9-inch nonstick loaf pan on a piece of cardboard; cut it out and wrap tightly in aluminum foil. Set aside. Cut two rectangles of parchment paper: one that is 5-by-20 inches and one that is 9-by-15-inches. Grease the inside of the baking pan with butter, then set the 5-by-20-inch sheet of parchment in the bottom along the length, and the remaining 9-by-15-inch piece across the width. Grease the parchment with more butter and season generously with salt and pepper; set aside.",
+    "Heat the oven to 350 degrees. Add the butter to a small saucepan and melt it over medium. Remove from heat, whisk in the cream and season with 5 teaspoons salt and 1 tablespoon pepper. Pour into a large bowl.",
+    "Working with a few potatoes at a time to prevent browning, peel the potatoes, then thinly slice each potato using a mandoline into ⅛-inch thick rounds. Add the sliced potatoes to the cream mixture, tossing to coat.",
+    "Add the sliced potatoes to the prepared loaf pan, allowing any excess cream to drip off into the bowl before laying them flat in the pan (overlap is fine!), forming one layer at a time. For a compact potato terrine, you’ll want to occasionally press down on the potatoes to even out the layers.",
+    "Fold up parchment to enclose potato mixture, wrap top tightly with aluminum foil, then bake for 2 hours, until potatoes are tender.",
+    "Remove the terrine from the oven, carefully remove the aluminum foil, open up the parchment paper and let the steam escape for about 15 minutes. Next, set the prepared piece of cardboard on top and place five 14-ounce cans on top. Transfer to a cooling rack and let sit at room temperature until fully cooled, 1 to 1 1/2 hours.",
+    "Remove the cans, rewrap the potato terrine with the parchment and cover tightly with aluminum foil and refrigerate at least 8 hours and up to 3 days.",
+    "When ready to sear the potatoes, run a knife around the perimeter of the terrine to loosen, then flip it onto a cutting board, peeling off and discarding the parchment paper. Trim the terrine, ensuring all edges form sharp 90-degree angles, then slice the terrine in half lengthwise. Cut each piece crosswise into 6 pieces, creating 12 pieces total. Let the pieces rest at room temperature for 15 to 30 minutes.",
+    "Heat a medium or large cast iron skillet over medium-high and add enough canola oil to form a thin layer (¼ to 1/3 cup).",
+    "Set the Parmesan on a plate. Dip each potato wedge into the Parmesan on its two largest surfaces.",
+    "Working in two batches, sear the Parmesan-dusted sides until golden and crisp, 2 to 3 minutes per side. Transfer to a paper-towel lined platter and repeat with remaining pieces, adding more oil to the pan if necessary.",
+    "Transfer to a clean platter, placing each with its best crust-side up, sprinkle with flaky sea salt and serve immediately."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "10 hr",
+  "recipeYield": "12 pieces",
+  "image": "https://static01.nyt.com/images/2024/11/18/multimedia/AW-Potato-Pave-2-mbzk/AW-Potato-Pave-2-mbzk-videoSixteenByNineJumbo1600-v4.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 20 grams | Calories: 345 | Saturated Fat: 10 grams | Unsaturated Fat: 10 grams | Sodium: 535 milligrams | Sugar: 2 grams | Fiber: 4 grams | Carbohydrate: 34 grams | Protein: 8 grams",
+  "ai": null
+}

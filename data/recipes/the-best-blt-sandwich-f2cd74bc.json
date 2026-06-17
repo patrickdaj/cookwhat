@@ -1,0 +1,34 @@
+{
+  "mealId": "the-best-blt-sandwich-f2cd74bc",
+  "fetchedAt": "2026-06-17T15:05:08.352Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/ultimate-blt-sandwich-bacon-lettuce-tomato-recipe",
+  "name": "The Best BLT Sandwich",
+  "description": "",
+  "recipeIngredient": [
+    "3 strips thick-cut, naturally cured bacon (see note)",
+    "2 slices high-quality sandwich bread, such as shokupan",
+    "2 tablespoons (30 ml) homemade or store-bought mayonnaise (see note)",
+    "1 cup finely shredded iceberg lettuce (from about a quarter head; see note)",
+    "2 to 4 thick slices ripe tomato (see note)",
+    "Coarse sea salt, such as fleur de sel or Maldon",
+    "Freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Place a griddle or skillet over medium-low heat. Add bacon and place a bacon press, skillet, or masonry trowel on top of it to keep it flat as it cooks. Cook until lightly browned on first side, about 5 minutes, then flip, cover again, and continue cooking until bacon is browned on both sides and fat has rendered, about 3 minutes longer. Transfer bacon to a paper towel–lined plate and set aside.",
+    "Place bread on same skillet or griddle and toast in bacon fat over medium-low heat, swirling occasionally, until evenly browned on first side. Flip and brown second side.",
+    "Lay toasted bread on a work surface and spread mayonnaise on both top faces. Divide lettuce evenly between both pieces of bread. Layer tomato slices on 1 piece of bread and sprinkle generously with coarse salt and freshly ground pepper.",
+    "Break bacon slices in half and layer them onto the sandwich in 2 layers of 3 half slices each, alternating the orientation of bacon in each layer for more structural stability. Close sandwich and cut in half diagonally. Serve immediately."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "1 serving",
+  "image": "https://www.seriouseats.com/thmb/8_nXZXVQzs9kzKuI1himzLxXywo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220811-_ultimate-blt-sandwich-bacon-lettuce-tomato-recipe-AmandaSuarez-heros-d01e6b359b054dd1a63733733ea229b4.JPG",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 454 Calories 34g Fat 22g Carbs 17g Protein | Nutrition Facts | Servings: 1 | Amount per serving | Calories 454 | % Daily Value* | Total Fat 34g 44% | Saturated Fat 8g 38% | Cholesterol 47mg 16% | Sodium 952mg 41% | Total Carbohydrate 22g 8% | Dietary Fiber 7g 24% | Total Sugars 14g | Protein 17g | Vitamin C 69mg 346% | Calcium 68mg 5% | Iron 2mg 11% | Potassium 1444mg 31% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

@@ -1,0 +1,38 @@
+{
+  "mealId": "the-ultimate-chicken-noodle-soup-9532f6ad",
+  "fetchedAt": "2026-06-17T15:05:08.354Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/the-ultimate-chicken-noodle-soup",
+  "name": "The Ultimate Chicken Noodle Soup",
+  "description": "",
+  "recipeIngredient": [
+    "2 pounds (900 g; about 10) chicken wings",
+    "1 large (8-ounce; 225 g) yellow onion",
+    "2 boneless, skinless chicken breast halves (about 1 pound; 450 g)",
+    "Kosher salt and freshly ground black pepper",
+    "1 1/2 cups (4 ounces; 115 g) dried orecchiette pasta (or other shape of your choice)",
+    "1/4 bunch (1/2 ounce; 15 g) fresh dill sprigs, roughly chopped",
+    "1 lemon, cut into wedges"
+  ],
+  "recipeInstructions": [
+    "Preheat the oven to 550°F (290°C) and adjust the rack to the center position. Evenly spread the chicken wings directly on an unlined rimmed baking sheet. Roast the wings until golden brown, about 30 minutes.",
+    "Remove wings from the oven and drain any rendered chicken fat into a heatproof dish and reserve. Pour about 1/2 cup of water on to the baking sheet and scrape up any browned bits that may be stuck to the bottom. Transfer the wings along with the water and dissolved browned bits to a 3-quart sauce pot. Cover with 1 1/2 quarts of water.",
+    "Bring to a boil over high heat, then let boil vigorously for 15 minutes. Reduce to a simmer, then cook gently for 2 hours, adding water as needed to maintain the 1 1/2-quart volume.",
+    "Meanwhile, preheat a sous vide cooker to 140°F (60°C). Season chicken breasts generously with salt. Place chicken in zipper-lock bags or vacuum bags and add 2 tablespoons of the reserved chicken fat. Remove air from zipper-lock bags using the water displacement method, or use a vacuum sealer to seal the vacuum bags. Add chicken and cook for 2 hours. (See note for instructions on how to cook the chicken without using a sous vide setup.)",
+    "Heat a 12-inch sauté pan over high heat. Peel the onion and cut crosswise into thick 1-inch slices. Char the onion slices in the hot pan until blackened on both sides. Add onions to stock and simmer an additional 1 hour.",
+    "After chicken stock has simmered for a total of 3 hours, pass through a fine-mesh strainer. Discard chicken wings and onion and return stock to pot. Season with salt and pepper.",
+    "In a pot of salted boiling water, cook the pasta until al dente. Drain and toss with the remaining reserved chicken fat.",
+    "Dice the chicken breasts into 1/2-inch pieces and portion into the bottom of 4 serving bowls. Add the pasta and dill to each bowl. Top with hot chicken stock. Finish with a squeeze of fresh lemon juice, to taste. Serve right away."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "4 hr 5 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/itk8CbcB09Ab_jYB8H9KyegCCYI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2017__12__20171213-chicken-soup-sohla-vicky-wasik-15-1de09f1733984b26a1a7637188a58fac.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": "If you prefer not to cook the chicken breasts sous vide, they can be poached in the chicken stock: After simmering and straining the stock, add the breasts and heat gently, using an instant-read thermometer to keep the temperature of the stock around 150°F (65°C). Cook until the chicken breast reaches an internal temperature of 145°F (63°C).",
+  "nutrition": "(per serving) | 324 Calories 7g Fat 7g Carbs 55g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 324 | % Daily Value* | Total Fat 7g 10% | Saturated Fat 2g 10% | Cholesterol 116mg 39% | Sodium 1233mg 54% | Total Carbohydrate 7g 3% | Dietary Fiber 2g 6% | Total Sugars 3g | Protein 55g | Vitamin C 20mg 100% | Calcium 62mg 5% | Iron 2mg 13% | Potassium 489mg 10% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

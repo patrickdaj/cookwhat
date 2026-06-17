@@ -1,0 +1,33 @@
+{
+  "mealId": "foolproof-eggs-benedict-8945fff0",
+  "fetchedAt": "2026-06-17T15:05:08.309Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/food-lab-foolproof-eggs-benedict-recipe",
+  "name": "Foolproof Eggs Benedict",
+  "description": "",
+  "recipeIngredient": [
+    "1 tablespoon butter",
+    "8 slices Canadian bacon or ham steak, cut into English muffin-sized pieces",
+    "4 buttered and toasted English muffins",
+    "8 foolproof poached eggs, drained (see notes)",
+    "Kosher salt and freshly ground black pepper",
+    "1 recipe foolproof hollandaise, kept warm (see notes)",
+    "Minced fresh parsley or chives (optional)"
+  ],
+  "recipeInstructions": [
+    "Melt butter in a large skillet over medium heat until foaming. Add ham slices and cook, turning occasionally, until heated through, golden brown, and crisp on both sides. Transfer to a paper towel-lined plate to drain.",
+    "Divide English muffin halves between 4 plates. Place 1 ham slice on each English muffin half and top with one drained egg. Season eggs with salt and pepper.",
+    "Spoon warm hollandaise over each egg. Sprinkle with parsley or chives (if using) and serve immediately."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/AWEFCRl6AFT113pz5QOwZ0fIBLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/food-lab-foolproof-eggs-benedict-recipe-hero-56a86e510be84599ab6179b0f8de40d7.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": "Poached eggs can be stored in a bowl of warm water until ready to place on English muffins. They can also be cooked up to three days ahead, stored in a bowl of water in the refrigerator. To reheat, add the eggs to a bowl of hot tap water and let them sit for at least 15 minutes.\nHollandaise should be made just before cooking ham and toasting English muffins. It can be kept warm in a covered pot on a warm spot of the stove. Do not reheat directly over a flame or it will curdle and break.",
+  "nutrition": "(per serving) | 1048 Calories 73g Fat 70g Carbs 30g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 1048 | % Daily Value* | Total Fat 73g 93% | Saturated Fat 33g 166% | Cholesterol 711mg 237% | Sodium 2226mg 97% | Total Carbohydrate 70g 25% | Dietary Fiber 2g 8% | Total Sugars 37g | Protein 30g | Vitamin C 7mg 36% | Calcium 173mg 13% | Iron 4mg 23% | Potassium 626mg 13% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

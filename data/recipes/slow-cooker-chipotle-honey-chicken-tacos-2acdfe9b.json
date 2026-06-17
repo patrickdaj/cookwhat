@@ -1,0 +1,37 @@
+{
+  "mealId": "slow-cooker-chipotle-honey-chicken-tacos-2acdfe9b",
+  "fetchedAt": "2026-06-17T15:05:08.347Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos?q=Chipotle",
+  "name": "Slow Cooker Chipotle-Honey Chicken Tacos",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/2 pounds boneless, skinless chicken thighs",
+    "3 tablespoons honey",
+    "1 teaspoon onion powder",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon ground cumin",
+    "1 teaspoon kosher salt",
+    "1 to 4 chipotles from a can of chipotles in adobo, finely chopped, plus 2 tablespoons adobo sauce",
+    "1 (15-ounce) can black beans, rinsed and drained",
+    "Juice of 1 lime",
+    "Warmed tortillas, for serving",
+    "Pickled onion, for serving (see Tip)",
+    "Sliced or cubed avocado, for serving"
+  ],
+  "recipeInstructions": [
+    "Combine the chicken, honey, onion and garlic powders, cumin, salt and chipotle chiles and adobo sauce in a 5- to 8-quart slow cooker. Stir well. Cook for at least 3 hours and up to 5 hours on low. If it’s more convenient, you can let the slow cooker switch to warm after 5 hours. The dish will hold on warm for about another 3 hours before the chicken starts to become quite dry.",
+    "Using two forks, coarsely shred the chicken in the sauce. Stir in the black beans and lime juice. Cover and let the beans warm through, about 5 minutes. Taste and add more salt or lime juice if necessary. Serve in tortillas with pickled onion and avocado."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "5 hr",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2018/11/05/dining/sd-slow-cooker-honey-chipotle-tacos/sd-slow-cooker-honey-chipotle-tacos-square640-v2.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": "To make quick-pickled onions, thinly slice a red onion and put the slices in a bowl or container. Bring about 1½ cups cider or white vinegar to a boil, and add about 3 heaping spoonfuls of sugar and a big pinch of salt to dissolve. You can also add a pinch of red-pepper flakes, a bay leaf or some dried oregano, if you like. Pour the hot vinegar over the onions and let them cool. They’re ready to use right away, and can be stored in the refrigerator for 2 weeks.",
+  "nutrition": "Trans Fat: 0 grams | Fat: 9 grams | Calories: 407 | Saturated Fat: 2 grams | Unsaturated Fat: 6 grams | Sodium: 890 milligrams | Sugar: 16 grams | Fiber: 10 grams | Carbohydrate: 40 grams | Protein: 41 grams",
+  "ai": null
+}

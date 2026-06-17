@@ -1,0 +1,35 @@
+{
+  "mealId": "braised-pork-belly-over-rice-0abe7b30",
+  "fetchedAt": "2026-06-17T15:05:08.289Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/instant-pot-lu-rou-fan-recipe-11710886",
+  "name": "Braised Pork Belly Over Rice",
+  "description": "",
+  "recipeIngredient": [
+    "2 pounds (906 g) skin-off pork belly, cut into 1/2-inch pieces",
+    "3 medium cloves garlic (15 g), peeled and minced",
+    "1 1/4 cups (295 ml) water",
+    "1/2 cup fried shallots (1 1/2 ounces; 40 g), homemade or store-bought",
+    "1/2 cup (120 ml) all-purpose soy sauce, such as Kikkoman",
+    "2 tablespoons granulated sugar (1 ounce; 30 g)",
+    "2 tablespoons oyster sauce (1 ounce; 30 g)",
+    "2 tablespoons (30 ml) rice wine, such as Taiwanese michiu or cooking sake",
+    "Cooked white rice, for serving"
+  ],
+  "recipeInstructions": [
+    "In an electric multicooker (such as an Instant Pot) set to the sauté function, cook pork belly, stirring often, until opaque and some of its fat has rendered, about 5 minutes. Add the garlic and cook, stirring to combine, until fragrant, about 1 minute.",
+    "Add water, fried shallots, soy sauce, sugar, oyster sauce, and rice wine. Seal cooker, bring to high pressure, and cook for 40 minutes. When done, let cooker depressurize naturally, 30 to 45 minutes.",
+    "Open the cooker and mix well. If you’d like the braising liquid to be thicker, set pressure cooker to sauté function and simmer sauce until it’s thick, treacly, and slightly reduced, about 15 minutes. Serve over cooked white rice."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "90 min",
+  "totalTime": null,
+  "recipeYield": "3 to 4",
+  "image": "https://www.seriouseats.com/thmb/I8RNxbfdpzRBme_ulaMVqAxsR4I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250401-SEA-PressureCookerBraisedMincedPorkBelly-QiAi-Beauty2-75-d8ffb37e9abf45f093b0ccd85187fb10.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 870 Calories 53g Fat 26g Carbs 57g Protein | Nutrition Facts | Servings: 3 to 4 | Amount per serving | Calories 870 | % Daily Value* | Total Fat 53g 68% | Saturated Fat 18g 90% | Cholesterol 190mg 63% | Sodium 2203mg 96% | Total Carbohydrate 26g 9% | Dietary Fiber 1g 3% | Total Sugars 8g | Protein 57g | Vitamin C 2mg 8% | Calcium 135mg 10% | Iron 3mg 18% | Potassium 750mg 16% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

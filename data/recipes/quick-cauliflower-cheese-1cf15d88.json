@@ -1,0 +1,41 @@
+{
+  "mealId": "quick-cauliflower-cheese-1cf15d88",
+  "fetchedAt": "2026-06-17T15:05:08.335Z",
+  "source": "paprika",
+  "url": "https://www.bbcgoodfood.com/recipes/cauliflower-cheese",
+  "name": "Quick Cauliflower Cheese",
+  "description": "",
+  "recipeIngredient": [
+    "Ingredients Nutrition",
+    "100 g mature cheddar",
+    "grated",
+    "50 g fresh white breadcrumbs",
+    "handful flat-leaf parsley",
+    "roughly chopped",
+    "1 large cauliflower",
+    "cut into florets",
+    "1 l full-fat milk",
+    "plus a splash",
+    "1 small onion",
+    "halved",
+    "85 g butter",
+    "85 g plain flour"
+  ],
+  "recipeInstructions": [
+    "In a small bowl, mix the cheese with the breadcrumbs and parsley, and set aside. Put the cauliflower florets in a large saucepan, cover with water and a splash of milk (this stops the cauliflower smelling) and bring to the boil. Cook for 2-3 mins until tender, then drain.",
+    "In a separate saucepan, pour in the milk, add the onion and some seasoning, bring to the boil, then take off the heat. In a small saucepan, make a roux by melting the butter slowly, then adding the flour, stirring to make a paste. While still over a low heat, add the boiled milk, discarding the onion. Using a whisk, beat the milk together with the roux and bring to the boil. Cook for 2 mins until the sauce is lovely and thick – make sure the heat is not too high, otherwise it will catch on the bottom and burn.",
+    "Ad",
+    "Heat oven to 200C/180C fan/gas 6. Transfer the cooked cauliflower to a casserole dish, pour over the sauce and top with the cheese and breadcrumb mix. Bake in the oven for 20 mins until golden and bubbling."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "Serves 6",
+  "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cauliflower-cheese-1acaef2.jpg?quality=90&resize=400,363",
+  "author": "bbcgoodfood.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "100g mature cheddar grated 50g fresh white breadcrumbs | handful flat-leaf parsley roughly chopped 1 large cauliflower cut into florets 1l full-fat milk plus a splash 1 small onion halved 85g butter 85g plain flour | kcal 403 | fat 25g | saturates 15g | carbs 28g | sugars 11g | fibre 4g | protein 15g | salt 0.8g",
+  "ai": null
+}

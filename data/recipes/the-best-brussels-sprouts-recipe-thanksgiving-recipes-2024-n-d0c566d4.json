@@ -1,0 +1,33 @@
+{
+  "mealId": "the-best-brussels-sprouts-recipe-thanksgiving-recipes-2024-n-d0c566d4",
+  "fetchedAt": "2026-06-17T15:05:08.352Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic?q=Brussel",
+  "name": "The Best Brussels Sprouts Recipe | Thanksgiving Recipes 2024 | NYT Cooking",
+  "description": "",
+  "recipeIngredient": [
+    "1 pint brussels sprouts (about a pound)",
+    "4 to 6 tablespoons extra virgin olive oil, to coat bottom of pan",
+    "5 cloves garlic, peeled",
+    "Salt and pepper to taste",
+    "1 tablespoon balsamic vinegar"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 400 degrees. Trim bottom of brussels sprouts, and slice each in half top to bottom. Heat oil in cast-iron pan over medium-high heat until it shimmers; put sprouts cut side down in one layer in pan. Put in garlic, and sprinkle with salt and pepper.",
+    "Cook, undisturbed, until sprouts begin to brown on bottom, and transfer to oven. Roast, shaking pan every 5 minutes, until sprouts are quite brown and tender, about 10 to 20 minutes.",
+    "Taste, and add more salt and pepper if necessary. Stir in balsamic vinegar, and serve hot or warm."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "30 min",
+  "totalTime": "35 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/10/29/multimedia/Roasted-Brussels-Sprouts-With-Garlicrex-tmlw/Roasted-Brussels-Sprouts-With-Garlicrex-tmlw-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 17 grams | Calories: 208 | Saturated Fat: 2 grams | Unsaturated Fat: 14 grams | Sodium: 322 milligrams | Sugar: 3 grams | Fiber: 4 grams | Carbohydrate: 12 grams | Protein: 4 grams",
+  "ai": null
+}

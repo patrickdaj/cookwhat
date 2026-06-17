@@ -1,0 +1,42 @@
+{
+  "mealId": "one-pot-spanish-style-shrimp-and-chorizo-pasta-a19b2e95",
+  "fetchedAt": "2026-06-17T15:05:08.328Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1019503-one-pot-spanish-style-shrimp-and-chorizo-pasta?q=Spanish%20chorizo",
+  "name": "One-Pot Spanish-Style Shrimp and Chorizo Pasta",
+  "description": "",
+  "recipeIngredient": [
+    "1/4 cup extra-virgin olive oil, plus more for drizzling",
+    "1/2 cup finely chopped onion",
+    "8 ounces fideos, angel hair pasta or capellini, broken into 3-inch pieces",
+    "Kosher salt and black pepper",
+    "3 garlic cloves, minced",
+    "2 tablespoons tomato paste",
+    "4 ounces Spanish chorizo, casing removed and sliced 1/2-inch thick",
+    "1 medium fennel bulb, trimmed, quartered and sliced into thin wedges",
+    "2 (8-ounce) bottles clam juice",
+    "1 pound large shrimp, cleaned",
+    "1/2 cup frozen peas",
+    "1/4 cup freshly grated Parmesan",
+    "1 tablespoon lemon juice",
+    "1/4 cup chopped parsley",
+    "Lemon wedges, for serving"
+  ],
+  "recipeInstructions": [
+    "Heat oil in a large Dutch oven over medium heat. Add onion and pasta, season with salt and pepper and cook over moderate heat, stirring, until pasta starts to turn golden, about 5 minutes (pasta will break up a bit during stirring).",
+    "Lower heat and add garlic, tomato paste and chorizo, and cook until tomato paste is lightly caramelized, 2 to 3 minutes. Add fennel, clam juice and 1 cup of water and season with salt and pepper. Bring to a boil, cover and simmer over moderate heat until pasta has softened and most of the liquid is absorbed, about 5 minutes.",
+    "Stir in shrimp, peas and Parmesan, cover and cook until shrimp is opaque, about 3 to 4 minutes. Stir in lemon juice and parsley.",
+    "Drizzle with oil and serve with lemon wedges."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "30 min",
+  "recipeYield": "4 to 6 servings",
+  "image": "https://static01.nyt.com/images/2018/08/08/dining/chun-shrimp-pasta-horizontal/chun-shrimp-pasta-horizontal-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 16 grams | Calories: 421 | Saturated Fat: 4 grams | Unsaturated Fat: 11 grams | Sodium: 897 milligrams | Sugar: 4 grams | Fiber: 4 grams | Carbohydrate: 37 grams | Protein: 32 grams",
+  "ai": null
+}

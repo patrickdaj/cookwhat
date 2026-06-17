@@ -1,0 +1,39 @@
+{
+  "mealId": "korean-zucchini-430ef3dd",
+  "fetchedAt": "2026-06-17T15:05:08.321Z",
+  "source": "paprika",
+  "url": "https://seonkyounglongest.com/korean-zucchini/",
+  "name": "Korean Zucchini",
+  "description": "",
+  "recipeIngredient": [
+    "4 medium-sized zucchinis",
+    "1/2 small onion, thinly sliced",
+    "5 cloves garlic, chopped",
+    "2 green onions, sliced",
+    "2 heaping tbsp Saewoojeot, Korean salted & fermented shrimp (you can substitute to fish sauce or soy sauce)",
+    "1 tbsp maple syrup",
+    "1/2 tbsp gochugaru, optional",
+    "2 tsp cooking oil",
+    "sesame seeds for garnish",
+    "sesame oil for garnish"
+  ],
+  "recipeInstructions": [
+    "Cut zucchinis in half lengthwise and slice into a half-moon shape.",
+    "Place all ingredients in a wok or large skillet except sesame seeds and sesame oil.",
+    "Over high heat, stir fry ingredients for 5 minutes, or until zucchini is cooked but still has bite. It will have some liquid on the bottom, that’s totally fine but don’t overcook them, they will become too mushy.",
+    "Place on a serving plate, and garnish with sesame seeds and sesame oil. Enjoy with warm cooked rice and with other side dishes or make bibimbap by just simply putting the zucchini on top of the rice and adding a fried egg! Enjoy!"
+  ],
+  "prepTime": null,
+  "cookTime": "5 min",
+  "totalTime": null,
+  "recipeYield": "Yield: 4",
+  "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2019/08/Korean-Zucchini-3-copy.jpg?w=1000&ssl=1",
+  "author": "seonkyounglongest.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

@@ -1,0 +1,38 @@
+{
+  "mealId": "linguine-with-clams-roasted-tomatoes-and-caramelized-garlic-f2aeaa73",
+  "fetchedAt": "2026-06-17T15:05:08.322Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/12148-linguine-with-clams-roasted-tomatoes-and-caramelized-garlic?q=Linguine%20with%20clams",
+  "name": "Linguine with Clams, Roasted Tomatoes and Caramelized Garlic",
+  "description": "",
+  "recipeIngredient": [
+    "14 garlic cloves",
+    "2 pints cherry tomatoes, a mix of colors is nice",
+    "6 tablespoons extra-virgin olive oil, more for drizzling",
+    "1/4 teaspoon fine sea salt",
+    "1 teaspoon black pepper",
+    "Salt",
+    "1 pound dry linguine",
+    "1/2 teaspoon crushed red pepper flakes",
+    "1/2 cup dry white wine",
+    "4 dozen littleneck clams, scrubbed",
+    "1/4 cup torn mint leaves"
+  ],
+  "recipeInstructions": [
+    "Heat the oven to 450 degrees. Smash and peel 8 garlic cloves; peel and finely chop the remaining 6. Toss the smashed garlic with the tomatoes, 2 tablespoons of oil, fine sea salt, and 1/4 teaspoon black pepper. Spread the tomatoes out in a layer in one or two baking pans (make sure they aren't too crowded, so they don't steam) and roast tomatoes, tossing occasionally, until bursting, 15 to 20 minutes.",
+    "In a large pot of heavily salted boiling water, cook the pasta until it is 2 minutes from being done to taste. Drain.",
+    "Return the pasta pot to medium-high heat. Warm 4 tablespoons oil in the pot. Add the chopped garlic and red pepper flakes; cook for 30 seconds. Add the wine and let simmer 2 minutes. Stir in the roasted tomatoes and garlic. Add the clams. Cover the pot and cook until the clams open, 5 to 10 minutes. Use tongs to transfer open clams to a bowl; discard any that do not open.",
+    "Add the pasta and 3/4 teaspoon black pepper to the sauce in the pot. Cook, tossing, until pasta is just cooked through. Return the clams to the pot and toss with the pasta. Divide mixture among serving bowls. Garnish with mint and drizzle with more oil."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "6 servings",
+  "image": "https://static01.nyt.com/images/2014/03/26/dining/linguine/linguine-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 16 grams | Calories: 550 | Saturated Fat: 2 grams | Unsaturated Fat: 12 grams | Sodium: 820 milligrams | Sugar: 5 grams | Fiber: 4 grams | Carbohydrate: 69 grams | Protein: 29 grams",
+  "ai": null
+}

@@ -1,0 +1,38 @@
+{
+  "mealId": "pork-fennel-burger-1569514a",
+  "fetchedAt": "2026-06-17T15:05:08.333Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1013160-pork-fennel-burger?algo=identity&amp;fellback=true&amp;imp_id=6667865002643468&amp;req_id=173804498147594&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking",
+  "name": "Pork-Fennel Burger",
+  "description": "",
+  "recipeIngredient": [
+    "1 fennel bulb, trimmed and cut into large chunks",
+    "3 to 4 garlic cloves",
+    "2 1/2 pounds boneless pork shoulder, with some of the fat, cut into 1-inch cubes",
+    "1 tablespoon fennel seeds",
+    "1 teaspoon caraway seeds (optional)",
+    "1 teaspoon salt",
+    "1/2 teaspoon pepper, or more to taste",
+    "Peeled orange slices to garnish (optional)",
+    "chopped olives to garnish (optional)",
+    "chopped parsley to garnish (optional)",
+    "chopped roasted red pepper to garnish (optional)",
+    "fennel slices, to garnish (optional)"
+  ],
+  "recipeInstructions": [
+    "If grilling or broiling, heat should be medium-high and rack about 4 inches from fire. Put fennel and garlic into a food processor and pulse until just chopped; remove to a large bowl. Put pork fat in processor and grind until just chopped; add to bowl. Working in batches, process meat with fennel seeds, caraway, if using and salt and pepper, until meat is just chopped (be careful not to over-process). Add to bowl and mix well. Shape mixture into 8 patties.",
+    "To broil or grill, cook about 5 minutes on each side, turning once after 4 or 5 minutes and again as necessary, 8 to 10 minutes total. For stovetop, heat a large skillet over medium heat for 2 or 3 minutes, then add patties; cook undisturbed for about 3 minutes, then rotate them so they brown evenly. When browned, turn. Total cooking time is about 10 minutes. (They can remain ever-so-slightly pink in the center.)",
+    "Garnish with peeled orange slices, chopped olives, chopped parsley, chopped roasted red pepper and fennel slices, to taste."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "30 min",
+  "recipeYield": "8 patties",
+  "image": "https://static01.nyt.com/images/2014/03/05/dining/porkfennel-still/porkfennel-still-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 26 grams | Calories: 351 | Saturated Fat: 9 grams | Unsaturated Fat: 14 grams | Sodium: 400 milligrams | Sugar: 1 gram | Fiber: 1 gram | Carbohydrate: 4 grams | Protein: 25 grams",
+  "ai": null
+}

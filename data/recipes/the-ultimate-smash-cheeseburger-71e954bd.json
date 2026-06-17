@@ -1,0 +1,32 @@
+{
+  "mealId": "the-ultimate-smash-cheeseburger-71e954bd",
+  "fetchedAt": "2026-06-17T15:05:08.355Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab",
+  "name": "The Ultimate Smash Cheeseburger",
+  "description": "",
+  "recipeIngredient": [
+    "1 soft hamburger roll, buttered and toasted",
+    "Condiments and toppings as desired, such as mayonnaise, mustard, shredded lettuce, onions, tomatoes, and pickles",
+    "4 ounces (110 g) freshly ground beef chuck, divided into 2 (2-ounce; 55 g) balls",
+    "Kosher salt and freshly ground black pepper",
+    "1 slice good melting cheese, such as American, cheddar, or homemade melting cheese"
+  ],
+  "recipeInstructions": [
+    "Prepare burger bun by laying toppings on bottom half of bun. Have it nearby and ready for when your burger is cooked.",
+    "Preheat a large stainless steel sauté pan or skillet over high heat for 2 minutes. Place balls of beef in pan and smash down with a stiff metal spatula, using a second spatula to add pressure. Smashed patties should be slightly wider than burger bun.",
+    "Season generously with salt and pepper and allow to cook until patties are well browned and tops are beginning to turn pale pink/gray in spots, about 45 seconds. Using a bench scraper or the back side of a stiff metal spatula, carefully scrape patties from pan, making sure to get all of the browned bits.",
+    "Flip patties and immediately place a slice of cheese over 1 patty, then stack the second directly on top. Immediately remove from pan and transfer to waiting burger bun. Serve."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": null,
+  "recipeYield": "1 serving",
+  "image": "https://www.seriouseats.com/thmb/9_cgmmiUktI7lbZ2wfsQh4T5vJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__03__20140330-ultra-smashed-cheeseburger-food-lab-09-c23c140aa3474e3e981d8465d5e6830c.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": "These burgers cook very fast, so it's best to make them one at a time. If making multiple burgers, keep them warm under a tent of foil while preparing subsequent burgers.",
+  "nutrition": "(per serving) | 781 Calories 41g Fat 55g Carbs 46g Protein | Nutrition Facts | Servings: 1 | Amount per serving | Calories 781 | % Daily Value* | Total Fat 41g 52% | Saturated Fat 18g 90% | Cholesterol 140mg 47% | Sodium 2061mg 90% | Total Carbohydrate 55g 20% | Dietary Fiber 2g 8% | Total Sugars 12g | Protein 46g | Vitamin C 1mg 7% | Calcium 1330mg 102% | Iron 6mg 35% | Potassium 693mg 15% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

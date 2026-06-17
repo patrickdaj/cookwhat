@@ -1,0 +1,34 @@
+{
+  "mealId": "butter-basted-sous-vide-halibut-5c7b66f6",
+  "fetchedAt": "2026-06-17T15:05:08.290Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/sous-vide-seared-halibut-recipe",
+  "name": "Butter-Basted Sous Vide Halibut",
+  "description": "",
+  "recipeIngredient": [
+    "4 halibut fillets, about 6 ounces (170 g) each",
+    "Kosher salt and freshly ground black pepper",
+    "Fresh herbs, such as thyme, parsley, or dill (optional)",
+    "Aromatics, such as sliced shallots or grated citrus zest (optional)",
+    "4 tablespoons (55 g) unsalted butter, divided"
+  ],
+  "recipeInstructions": [
+    "Season halibut generously on all sides with salt and pepper.",
+    "Place halibut portions in a single layer inside 1 or more zipper-lock bags. Divide 2 tablespoons butter evenly between bags. Add some gentle aromatics if desired, such as thyme, parsley, or dill; thinly sliced shallots; or grated citrus zest. (Do not add large chunks of food, which can damage the shape of the fish, or acidic ingredients, which damage the texture.) Close bag(s) and let halibut rest in the refrigerator for at least 30 minutes and up to overnight.",
+    "Set the temperature on your sous vide cooker according to the chart (see note) and allow it to preheat while halibut rests. Remove all air from bag(s) using the water displacement method, then add bagged halibut to preheated water bath. Cook for 30 to 45 minutes for 1-inch fillets, or 45 minutes to an hour for fillets up to 2 inches thick.",
+    "Carefully remove halibut from bag(s) using your hands or a fish spatula. Place it on a double layer of paper towels, then use another paper towel to gently blot surface dry. Discard aromatics, if used, and remove and discard halibut skin.",
+    "Heat remaining 2 tablespoons butter in a heavy skillet over medium-high heat until foaming subsides. Carefully add halibut, presentation side down, and cook, without moving, until lightly browned, 30 to 45 seconds. (You can sear between 1 and 4 pieces at a time.) Add aromatics if desired, such as thyme, garlic, and shallots, and continue to cook, tilting pan and basting halibut with the hot butter, until first side is well-browned, about 1 1/2 minutes total. Flip and let second side brown for 15 to 30 seconds.",
+    "Transfer halibut to a paper towel to blot off excess fat. Serve immediately."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "65 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/q0GVwUXRyEB6s8pitiSs4IfmVB8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__08__20160826-sous-vide-halibut-26-f73d3e104d4048f98d7f74df95e6ee31.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "(per serving) | 260 Calories 11g Fat 0g Carbs 38g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 260 | % Daily Value* | Total Fat 11g 14% | Saturated Fat 6g 28% | Cholesterol 124mg 41% | Sodium 455mg 20% | Total Carbohydrate 0g 0% | Dietary Fiber 0g 0% | Total Sugars 0g | Protein 38g | Vitamin C 0mg 0% | Calcium 18mg 1% | Iron 0mg 2% | Potassium 900mg 19% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

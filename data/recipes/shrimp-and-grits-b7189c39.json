@@ -1,0 +1,37 @@
+{
+  "mealId": "shrimp-and-grits-b7189c39",
+  "fetchedAt": "2026-06-17T15:05:08.344Z",
+  "source": "paprika",
+  "url": "https://www.foodnetwork.com/recipes/bobby-flay/shrimp-and-grits-recipe-1911862",
+  "name": "Shrimp and Grits",
+  "description": "",
+  "recipeIngredient": [
+    "4 cups water",
+    "Salt and pepper",
+    "1 cup stone-ground grits",
+    "3 tablespoons butter",
+    "2 cups shredded sharp cheddar cheese",
+    "1 pound shrimp, peeled and deveined",
+    "6 slices bacon, chopped",
+    "4 teaspoons lemon juice",
+    "2 tablespoons chopped parsley",
+    "1 cup thinly sliced scallions",
+    "1 large clove garlic, minced"
+  ],
+  "recipeInstructions": [
+    "Bring water to a boil. Add salt and pepper. Add grits and cook until water is absorbed, about 20 to 25 minutes. Remove from heat and stir in butter and cheese.",
+    "Rinse shrimp and pat dry. Fry the bacon in a large skillet until browned; drain well. In grease, add shrimp. Cook until shrimp turn pink. Add lemon juice, chopped bacon, parsley, scallions and garlic. Saute for 3 minutes.",
+    "Spoon grits into a serving bowl. Add shrimp mixture and mix well. Serve immediately."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "Yield: 4 servings",
+  "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/1/BFSP01_shrimp-and-grits_s4x3.jpg.rend.hgtvcom.511.288.suffix/1371599794400.jpeg",
+  "author": "foodnetwork.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Fat: 48g | Calories: 770 | Saturated Fat: 24g | Sodium: 1265mg | Fiber: 3g | Cholesterol: 300mg | Carbohydrate: 37g | Sugar: 1g | Serving Size: 1 of 4 servings | Protein: 48g",
+  "ai": null
+}

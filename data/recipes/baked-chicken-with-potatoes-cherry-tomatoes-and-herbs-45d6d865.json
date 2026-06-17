@@ -1,0 +1,37 @@
+{
+  "mealId": "baked-chicken-with-potatoes-cherry-tomatoes-and-herbs-45d6d865",
+  "fetchedAt": "2026-06-17T15:05:08.286Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017566-baked-chicken-with-potatoes-cherry-tomatoes-and-herbs?q=Baked%20chicken",
+  "name": "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs",
+  "description": "",
+  "recipeIngredient": [
+    "1 (3- to 4-pound) chicken, cut up, or 3 to 4 pounds bone-in, skin-on chicken thighs",
+    "4 tablespoons extra-virgin olive oil",
+    "1 tablespoon rosemary leaves (from about 2 sprigs)",
+    "Kosher salt and black pepper",
+    "2 small dried red chiles, crumbled, or 1/2 teaspoon red-pepper flakes",
+    "2 to 3 pounds large Yukon Gold potatoes, quartered",
+    "12 ounces cherry or grape tomatoes",
+    "1 large yellow onion, quartered and thickly sliced",
+    "1/4 cup dry white wine",
+    "4 to 6 basil sprigs, plus 2 tablespoons finely shredded leaves, for garnish"
+  ],
+  "recipeInstructions": [
+    "Pull any lumps of fat off the chicken and discard. In a bowl, combine chicken, 2 tablespoons olive oil, 1/2 tablespoon rosemary, 2 teaspoons salt, 1/2 teaspoon pepper and the chiles. Mix and set aside, at least 30 minutes at room temperature or up to 8 hours in the refrigerator.",
+    "Heat oven to 450 degrees. In a 9-by-13-inch baking dish or a large ovenproof skillet with a lid, combine the remaining 2 tablespoons olive oil and 1/2 tablespoon rosemary, potatoes, tomatoes, onion and a generous sprinkling of salt and pepper. Toss and spread out evenly in the pan. Arrange chicken pieces on top, skin-side up. Add the wine, pouring along the edges of the pan, and place basil sprigs on top. Cover tightly, and bake for 30 minutes.",
+    "Remove chicken from the oven and turn the oven temperature to 475 degrees. (Use the convection feature if you have it.) Or heat the broiler and arrange oven rack about 8 inches from the heat. Return uncovered pan to oven and cook until chicken skin is browned, cooking liquid is reduced and vegetables are very soft, 10 to 15 minutes more.",
+    "Discard basil sprigs. Garnish with shredded basil and serve immediately."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "4 hr",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2020/02/10/dining/jm-chicken/jm-chicken-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 80 grams | Calories: 1265 | Saturated Fat: 20 grams | Unsaturated Fat: 53 grams | Sodium: 1946 milligrams | Sugar: 6 grams | Fiber: 8 grams | Carbohydrate: 60 grams | Protein: 73 grams",
+  "ai": null
+}

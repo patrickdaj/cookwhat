@@ -1,0 +1,23 @@
+{
+  "mealId": "hazelnut-salmon-c7462e9b",
+  "fetchedAt": "2026-06-17T15:05:08.313Z",
+  "source": "paprika",
+  "url": null,
+  "name": "Hazelnut Salmon",
+  "description": "",
+  "recipeIngredient": [],
+  "recipeInstructions": [],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": null,
+  "image": null,
+  "author": null,
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 4,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

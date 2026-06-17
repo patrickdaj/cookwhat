@@ -1,0 +1,54 @@
+{
+  "mealId": "grilled-shrimp-tacos-with-creamy-slaw-559e525e",
+  "fetchedAt": "2026-06-17T16:52:32.674Z",
+  "url": "https://www.isabeleats.com/grilled-shrimp-tacos-with-creamy-slaw/",
+  "name": "Grilled Shrimp Tacos",
+  "description": "These grilled shrimp tacos are seasoned with lime juice, garlic and cumin and served in corn tortillas with a creamy cabbage slaw, corn and cotija cheese.",
+  "recipeIngredient": [
+    "1 pound large raw shrimp (peeled and deveined)",
+    "1 tablespoon tequila ((I used an aged añejo tequila for a smoky flavor, but any kind will work))",
+    "1 tablespoon olive oil",
+    "3 cloves garlic, (minced (about 1 1/2 teaspoons))",
+    "1/2 teaspoon ground cumin",
+    "1 tablespoon lime juice ((about juice of 1/2 lime))",
+    "1 teaspoon kosher salt",
+    "1 teaspoon ancho chili powder",
+    "1/2 teaspoon paprika",
+    "4 cups thinly sliced cabbage ((green, red or a combination of both))",
+    "1/4 cup chopped cilantro",
+    "2 tablespoons mayonnaise",
+    "2 tablespoons sour cream",
+    "2 tablespoons lime juice ((about juice of 1 lime))",
+    "1/2 teaspoon salt, (plus more to taste)",
+    "2  ears corn",
+    "chopped cilantro (for garnishing)",
+    "cotija cheese, (for garnishing)",
+    "lime wedges, (for garnishing)",
+    "warm corn tortillas, (as needed)"
+  ],
+  "recipeInstructions": [
+    "Prepare grill: Preheat grill to medium-high heat (about 400°F-450°F) for direct-heat grilling. While grill is heating up, make the slaw.(For gas grilling, simply light all the burners on high, close the lid and let the grill heat up for 5-10 minutes. For charcoal grilling, the process is a bit more involved. Here&#x27;s a super-quick read showing you step-by-step how to start a charcoal grill.)",
+    "Make the slaw: Add all slaw ingredients to a medium bowl and toss to combine. Taste and season with more salt if desired. If you prefer your slaw a little more dressed, add in more mayo and/or sour cream. Refrigerate until ready to use.",
+    "Grill the corn: Grill the ears of corn with the lid closed for 10-15 minutes, turning occasionally, until corn is caramelized and dark brown spots appear on the kernels. Transfer to a large plate or baking sheet and set aside to cool for 5 minutes.",
+    "Slice corn: When cool enough to handle, slice corn kernels off the cob and into a bowl. Set aside.",
+    "Season shrimp: In a medium bowl, combine all the ingredients for the shrimp. Toss together until evenly coated.",
+    "Skewer: Thread the shrimp onto 4-6 metal skewers. (If using wooden skewers, be sure to soak them in water for 15 minutes before threading shrimp to help prevent the skewers from burning on the grill.)",
+    "Grill: Grill the shrimp for 4-5 minutes, turning halfway through cooking, or until the shrimp are firm to the touch and opaque at the center.",
+    "Assemble tacos: Remove the shrimp from the skewers and serve in warm corn tortillas with slaw, grilled corn, cotija cheese and a spritz of fresh lime."
+  ],
+  "prepTime": "25 min",
+  "cookTime": "25 min",
+  "totalTime": "50 min",
+  "recipeYield": "4 4 servings",
+  "image": "https://www.isabeleats.com/wp-content/uploads/2019/10/grilled-tequila-lime-shrimp-tacos-small-7.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Season shrimp heavily with cumin, chili powder, and lime, then grill quickly over high heat until just opaque to keep them tender while developing char, then balance with a cool creamy slaw and charred corn.",
+    "keyTips": [
+      "Preheat grill to 400-450°F and grill shrimp only 4-5 minutes total, turning once—overcooked shrimp becomes rubbery and tough",
+      "Thread shrimp onto skewers and soak wooden skewers 15 minutes before grilling to prevent burning and ensure even cooking",
+      "Make the slaw ahead and refrigerate—the cool, creamy cabbage provides essential textural and temperature contrast to hot grilled components",
+      "Char the corn with grill lid closed for 10-15 minutes, turning occasionally, until dark brown spots appear for caramelized sweetness that complements the spiced shrimp"
+    ]
+  }
+}

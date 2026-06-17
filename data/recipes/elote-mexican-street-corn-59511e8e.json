@@ -1,0 +1,42 @@
+{
+  "mealId": "elote-mexican-street-corn-59511e8e",
+  "fetchedAt": "2026-06-17T15:05:08.306Z",
+  "source": "paprika",
+  "url": "https://heygrillhey.com/elote-mexican-street-corn/",
+  "name": "Elote (Mexican Street Corn)",
+  "description": "",
+  "recipeIngredient": [
+    "6 ears sweet corn",
+    "¼ cup melted butter",
+    "1 Tablespoon salt",
+    "¾ cup mayonnaise",
+    "2 teaspoon chili powder",
+    "1 teaspoon smoked paprika",
+    "¼ tsp cayenne pepper",
+    "1 cup Cotija cheese, crumbled",
+    "2 limes, zested and then cut into wedges",
+    "cilantro, as a garnish"
+  ],
+  "recipeInstructions": [
+    "Preheat your grill to 400-450 degrees F for direct heat grilling.",
+    "Husk your corn and remove the silks.",
+    "Set the ears of corn on a metal sheet pan.",
+    "Brush the melted butter on all sides of the corn and sprinkle on all sides with salt.",
+    "In a small bowl, combine the mayo, chili pepper, smoked paprika, cayenne pepper, and lime zest. Set aside with a pastry brush.",
+    "Crumble cheese into a small bowl and set aside.",
+    "Prepare lime wedges and cilantro and set aside.",
+    "Place buttered corn directly on the grill grates. Cook for 8-10 minutes, turning every 2 minutes.",
+    "Place the corn back on the sheet pan, brush on all sides with the chili lime mayo. Sprinkle on all sides with the cotija cheese, and serve immediately with lime wedges and cilantro."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "6 people",
+  "image": "https://heygrillhey.com/wp-content/uploads/2019/07/Grilled-Mexican-683x1024.jpg",
+  "author": "heygrillhey.com",
+  "categories": [],
+  "rating": 4,
+  "notes": "Can increase to 1/2 teaspoon cayenne pepper if you want more spice.",
+  "nutrition": "Calories: 267kcal | Carbohydrates: 4g | Protein: 4g | Fat: 26g | Saturated Fat: 7g | Cholesterol: 34mg | Sodium: 468mg | Potassium: 59mg | Fiber: 1g | Sugar: 2g | Vitamin A: 530IU | Vitamin C: 6.5mg | Calcium: 135mg | Iron: 0.5mg",
+  "ai": null
+}

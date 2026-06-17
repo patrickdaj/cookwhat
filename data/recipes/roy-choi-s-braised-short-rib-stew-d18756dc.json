@@ -1,0 +1,44 @@
+{
+  "mealId": "roy-choi-s-braised-short-rib-stew-d18756dc",
+  "fetchedAt": "2026-06-17T15:05:08.339Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1015300-roy-chois-braised-short-rib-stew",
+  "name": "Roy Choi’s Braised Short-Rib Stew",
+  "description": "",
+  "recipeIngredient": [
+    "4 pounds bone-in short ribs",
+    "1 small bunch scallions, trimmed and roughly chopped",
+    "1 1/2 cups soy sauce",
+    "1/4 cup chopped fresh ginger",
+    "1 small yellow onion, roughly chopped",
+    "1/2 cup garlic cloves, peeled (about 2 heads)",
+    "1/2 cup granulated sugar",
+    "1/2 cup mirin",
+    "1/2 cup fresh orange juice",
+    "1/2 cup apple juice",
+    "1/2 pound shiitake mushrooms, stems reserved for another use, halved or quartered if large",
+    "1 cup jarred, peeled chestnuts",
+    "1 cup taro, peeled and cut into large dice (about a 3-inch segment)",
+    "1 cup carrots, peeled and cut into large dice (about 2 carrots)",
+    "1 cup butternut squash, peeled and cubed (about half a squash)"
+  ],
+  "recipeInstructions": [
+    "Put short ribs in a bowl, and cover with water. Drain, and discard water. Repeat twice. Remove short ribs from bowl, and score them diagonally across the top of the meat. Return ribs to the bowl, and rinse again. Remove, and pat dry.",
+    "In a blender or food processor, combine scallions, soy sauce, ginger, onion, garlic, sugar, mirin, orange juice and apple juice, then pulse to purée. Add a little water if you need to thin out the sauce so it combines.",
+    "Put puréed sauce in a heavy-bottomed pot or Dutch oven with a lid, add 3 cups water and stir to combine. Bring pot to a boil over high heat, then add the ribs to the pot and lower heat to a simmer. Cover pot.",
+    "Cook ribs over low for at least 2 hours. Add vegetables, cover and simmer, 30 minutes more or so, until meat is tender and vegetables are cooked through. Serve warm."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "3 hr 30 min",
+  "recipeYield": "4 to 6 servings",
+  "image": "https://static01.nyt.com/images/2020/02/10/dining/roy-choi-stew/merlin_167226090_3ff938cd-6b16-47b1-880e-fec6453c9765-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": "Short ribs produce a good amount of fat. Get rid of the excess by making the stew ahead of time, refrigerating it overnight and skimming off any fat that collects on top. (Reserve for cooking potatoes or other root vegetables.) Warm through before serving.\nFor a slow-cooker version, add the scored meat, vegetables, sauce and 2 cups water (instead of 3) to the machine. Cook on low for 7 to 8 hours. If you like firmer vegetables, wait to add them to the slow cooker 5 to 6 hours into cooking.",
+  "nutrition": "Trans Fat: 0 grams | Fat: 111 grams | Calories: 1457 | Saturated Fat: 48 grams | Unsaturated Fat: 54 grams | Sodium: 3676 milligrams | Sugar: 24 grams | Fiber: 4 grams | Carbohydrate: 57 grams | Protein: 52 grams",
+  "ai": null
+}

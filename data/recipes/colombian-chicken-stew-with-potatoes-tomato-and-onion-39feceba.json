@@ -1,0 +1,32 @@
+{
+  "mealId": "colombian-chicken-stew-with-potatoes-tomato-and-onion-39feceba",
+  "fetchedAt": "2026-06-17T15:05:08.298Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/colombian-chicken-stew-with-potatoes-tomato-onion-recipe",
+  "name": "Colombian Chicken Stew with Potatoes, Tomato, and Onion",
+  "description": "",
+  "recipeIngredient": [
+    "4 large Russet or Yukon Gold potatoes, peeled and cut into 1- to 2-inch chunks",
+    "1 large onion, sliced into 1/4-inch slices (about 1 1/2 cups)",
+    "4 medium beefsteak tomatoes, cut into 1- to 2-inch chunks (about 3 cups)",
+    "1 whole chicken, back removed, cut into 8 pieces (about 4 pounds), or 4 whole chicken legs, cut into thighs and drumsticks",
+    "2 bay leaves",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Combine potatoes, onion, tomatoes, chicken pieces, bay leaves, and a large pinch of salt in a pressure cooker. Toss with hands to combine. Seal lid and cook under high pressure for 25 minutes. Release pressure, remove lid, season to taste, and serve."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/xR7VjHdCJysgvWzek-qu9sd5Tys=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__05__20120530-chicken-colombian-potato-tomato-3-9b64ce63fba54a73b726de3c1ee3f33c.jpg",
+  "author": "seriouseats.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 433 Calories 7g Fat 71g Carbs 24g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 433 | % Daily Value* | Total Fat 7g 8% | Saturated Fat 2g 9% | Cholesterol 82mg 27% | Sodium 415mg 18% | Total Carbohydrate 71g 26% | Dietary Fiber 9g 30% | Total Sugars 8g | Protein 24g | Vitamin C 47mg 236% | Calcium 73mg 6% | Iron 4mg 24% | Potassium 2115mg 45% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

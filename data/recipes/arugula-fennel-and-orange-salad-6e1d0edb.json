@@ -1,0 +1,36 @@
+{
+  "mealId": "arugula-fennel-and-orange-salad-6e1d0edb",
+  "fetchedAt": "2026-06-17T15:52:34.701Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe",
+  "name": "Arugula, Fennel, and Orange Salad",
+  "description": "",
+  "recipeIngredient": [
+    "For the Salad:",
+    "1 (7-ounce) bag arugula (about 7 cups)",
+    "1 large fennel bulb, cored and very thinly sliced (about 3 cups), fronds reserved",
+    "1/4 small red onion, thinly sliced (about 1/4 cup)",
+    "2 navel oranges, cut into trimmed segments",
+    "For the Dressing:",
+    "1 teaspoon Dijon mustard",
+    "2 teaspoons honey",
+    "5 tablespoons white wine vinegar",
+    "1/2 cup extra-virgin olive oil",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Combine the arugula, fennel, fennel fronds, and orange segments in a large bowl.",
+    "In a small bowl, whisk mustard, honey, and vinegar. Whisking constantly, drizzle in olive oil. Season to taste with salt and pepper. Dress salad as desired (not all the dressing needs to be used). Serve immediately. Extra dressing can be stored in an airtight container in the refrigerator for up to 1 month."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/ktVUu_m-UgIeezy-kvMUvYpwWbk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__11__2012-11-07-arugula-oranges-fennel-a786f795f0ad4cdebb25a1aab0e1296f.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "(per serving) | 468 Calories 28g Fat 56g Carbs 5g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 468 | % Daily Value* | Total Fat 28g 36% | Saturated Fat 4g 20% | Cholesterol 0mg 0% | Sodium 244mg 11% | Total Carbohydrate 56g 20% | Dietary Fiber 11g 38% | Total Sugars 37g | Protein 5g | Vitamin C 217mg 1,085% | Calcium 248mg 19% | Iron 2mg 11% | Potassium 1110mg 24% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

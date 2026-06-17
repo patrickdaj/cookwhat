@@ -1,0 +1,38 @@
+{
+  "mealId": "pork-chops-with-apple-cider-pan-sauce-0e02f6bf",
+  "fetchedAt": "2026-06-17T15:05:08.333Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/pork-chops-apple-cider-pan-sauce-recipe",
+  "name": "Pork Chops with Apple Cider Pan Sauce",
+  "description": "",
+  "recipeIngredient": [
+    "4 bone-in pork rib chops, about 1- to 1 1/2-inches thick (about 3 1/4 pounds total)",
+    "4 tablespoons (36 g) kosher salt; for table salt, use half as much by volume",
+    "1 tablespoon (15 g) granulated sugar",
+    "Freshly ground black pepper",
+    "2 tablespoons (30 g) vegetable oil",
+    "4 tablespoons (2 ounces; 56 g) unsalted butter, divided",
+    "2 tablespoons minced shallot (1 small shallot)",
+    "2 teaspoons minced thyme leaves, divided",
+    "3/4 cup (177 ml) apple cider",
+    "1/2 teaspoon apple cider vinegar",
+    "2 teaspoons minced parsley"
+  ],
+  "recipeInstructions": [
+    "Pat pork chops dry with a paper towel. Combine salt and sugar in a small bowl. Season pork chops generously on all sides with salt/sugar mixture (you may have some seasoning mixture left over; reserve for another use or discard). Transfer to a wire rack set in a rimmed baking sheet. If dry-brining chops overnight, refrigerate, uncovered, at least 8 hours and up to 24; otherwise proceed immediately to Step 2.",
+    "When ready to cook chops, preheat oven to 250°F (121°C). Season chops with pepper. Place baking sheet with pork chops in oven and cook until an instant-read thermometer inserted into the center of the chops registers 100 to 110°F (38 to 43°C) for medium-rare, about 20 to 25 minutes, or 110 to 120°F (43 to 49°C) for medium, about 35 minutes. To prevent overcooking, start checking temperature 5 to 10 minutes before suggested time. Remove from oven.",
+    "Heat oil in a large stainless steel or cast iron skillet over high heat until smoking. Working in batches if necessary to not overcrowd the skillet, place pork chops in skillet and cook, turning occasionally, until browned and an instant-read thermometer registers 120 to 130°F (49 to 54°C) for medium-rare or 130 to 140°F (54 to 60°C) for medium, about 3 to 5 minutes. Stack pork chops with tongs, hold them on their sides, and sear the fat caps on the edges until crisp, about 1 minute. Remove pan from heat, transfer chops to a clean rack set in a rimmed baking sheet, and let rest for 3 to 5 minutes.",
+    "Pour fat from skillet. Add 1 tablespoon butter and melt over medium-high heat. Add shallot and thyme and cook, stirring, until softened, about 1 minute. Stir in apple cider and bring to a simmer. Lower heat to medium and simmer until liquid is slightly reduced, about 4 minutes. Whisk in cider vinegar and remaining 3 tablespoons butter. Remove from heat, season to taste, and stir in parsley. Serve chops, spooning sauce on top."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "45 min",
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://www.seriouseats.com/thmb/kMWxI4wHp_WvnCeeA3aFxuJK8NM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pork-Chops-with-Apple-Cider-Pan-Sauce-Hero-1a-00245-61a7569246dc4b25a3c7a374ccb9ff77.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "(per serving) | 1141 Calories 77g Fat 10g Carbs 97g Protein | Nutrition Facts | Servings: 4 | Amount per serving | Calories 1141 | % Daily Value* | Total Fat 77g 98% | Saturated Fat 30g 151% | Cholesterol 299mg 100% | Sodium 2039mg 89% | Total Carbohydrate 10g 4% | Dietary Fiber 0g 2% | Total Sugars 8g | Protein 97g | Vitamin C 21mg 104% | Calcium 34mg 3% | Iron 4mg 21% | Potassium 1508mg 32% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

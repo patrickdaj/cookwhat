@@ -1,0 +1,34 @@
+{
+  "mealId": "miso-chicken-4a535807",
+  "fetchedAt": "2026-06-17T16:52:35.951Z",
+  "url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+  "name": "Miso Chicken",
+  "description": "Making a compound of unsalted butter and the salty, fungal deliciousness of Japanese miso paste is a surefire way of adding immense flavor to a simple weeknight meal. Here the mixture is spread over chicken thighs, which are then roasted to golden perfection. But you could easily use it on salmon or flounder, on corn or potatoes. The recipe calls for white miso, which is more mild than the aged version known as red miso. But you could certainly use red for a more intense result.",
+  "recipeIngredient": [
+    "4 tablespoons unsalted butter, softened ",
+    "½ cup white miso ",
+    "2 tablespoons honey ",
+    "1 tablespoon rice vinegar (do not use seasoned rice vinegar) ",
+    "Black pepper, to taste ",
+    "8 skin-on, bone-in chicken thighs, approximately 2 ½ to 3 pounds "
+  ],
+  "recipeInstructions": [
+    "Heat oven to 425 degrees. Combine butter, miso, honey, rice vinegar and black pepper in a large bowl and mix with a spatula or spoon until it is well combined.",
+    "Add chicken to the bowl and massage the miso-butter mixture all over it. Place the chicken in a single layer in a roasting pan and slide it into the oven. Roast for 30 to 40 minutes, turning the chicken pieces over once or twice, until the skin is golden brown and crisp, and the internal temperature of the meat is 160 to 165 degrees."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-videoSixteenByNineJumbo1600.jpg",
+  "author": "Sam Sifton",
+  "ai": {
+    "cliffNotes": "A miso-butter glaze is massaged onto chicken thighs and roasted at high heat until the skin crisps and the glaze caramelizes.",
+    "keyTips": [
+      "Use bone-in, skin-on thighs — they stay juicy while the skin gets crispy and brown at 425°F",
+      "Don't use seasoned rice vinegar; regular rice vinegar balances the saltiness of the miso without adding extra sodium",
+      "Turn the chicken once or twice during roasting to ensure even browning and prevent the glaze from burning",
+      "Check internal temperature at 160–165°F to avoid overcooking; the residual heat will continue cooking after removal"
+    ]
+  }
+}

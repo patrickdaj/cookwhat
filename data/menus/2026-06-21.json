@@ -236,479 +236,6 @@
       "notes": "Fondant potatoes: cut into thick cylinders, brown both sides in oil, then braise in chicken broth with thyme and garlic until meltingly tender. Start potatoes first — they take ~30 min. Blanch beans last 5 min."
     },
     {
-      "id": "shrimp-pad-thai-ba8548e6",
-      "day": "Tue",
-      "slot": "dinner",
-      "title": "Shrimp Pad Thai",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/shrimp-pad-thai/",
-      "cuisine": "thai",
-      "protein": "shrimp",
-      "tags": [
-        "weeknight",
-        "dairy-free"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "pad thai rice noodles",
-          "qty": 8,
-          "unit": "oz",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "eggs",
-          "qty": 3,
-          "unit": "",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "bean sprouts",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "roasted peanuts",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "tamarind paste",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "brown sugar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dried chili flakes",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Soak noodles in cold water while you prep everything else. Complete meal — no sides needed."
-    },
-    {
-      "id": "one-pot-chicken-teriyaki-with-vegetables-and-rice-2b75dd4a",
-      "day": "Wed",
-      "slot": "dinner",
-      "title": "One-Pot Chicken Teriyaki with Vegetables and Rice",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/one-pot-recipe-easy-chicken-teriyaki-with-vegetables-and-rice-240523",
-      "cuisine": "japanese",
-      "protein": "chicken",
-      "tags": [
-        "weeknight",
-        "dairy-free",
-        "one-pot"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "bok choy",
-          "qty": 2,
-          "unit": "head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mirin",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sake or dry sherry",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "brown sugar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Complete one-pot. Add bok choy in the last few minutes so it stays crisp."
-    },
-    {
-      "id": "garlicky-shrimp-linguine-75611ea8",
-      "day": "Thu",
-      "slot": "dinner",
-      "title": "Garlicky Shrimp Linguine",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/shrimp-linguine/",
-      "cuisine": "mediterranean",
-      "protein": "shrimp",
-      "tags": [
-        "weeknight",
-        "dairy-free"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "linguine",
-          "qty": 12,
-          "unit": "oz",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 1,
-          "unit": "pint",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.5,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "baby arugula",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Arugula wilts into the hot pasta — adds a peppery green without a separate side."
-    },
-    {
-      "id": "mediterranean-baked-fish-with-tomatoes-capers-and-couscous-e540733d",
-      "day": "Fri",
-      "slot": "dinner",
-      "title": "Mediterranean Baked Fish with Tomatoes and Capers",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
-      "cuisine": "mediterranean",
-      "protein": "fish",
-      "tags": [
-        "weeknight",
-        "dairy-free"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "white fish fillets (cod or halibut)",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "crushed tomatoes",
-          "qty": 1,
-          "unit": "can",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "capers",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.5,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Couscous just needs boiling water — start it 5 min before the fish comes out. Spoon the tomato-caper sauce over both."
-    },
-    {
-      "id": "roasted-pork-loin-with-potatoes-and-carrots-10a07ff3",
-      "day": "Sat",
-      "slot": "dinner",
-      "title": "Roasted Pork Loin with Apples",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/juicy-and-tender-roasted-pork-loin-the-easiest-simplest-method-251998",
-      "cuisine": "american",
-      "protein": "pork",
-      "tags": [
-        "weekend",
-        "project",
-        "dairy-free"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "boneless pork loin roast",
-          "qty": 3.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "apples (Honeycrisp or Pink Lady)",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Granny Smith apple",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 5,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "maple syrup",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 3,
-          "unit": "sprig",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh sage",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh mint",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "unsalted butter",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "olive oil",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "20 min active, 55 min in the oven. Roast veg underneath to catch all the drippings."
-    },
-    {
       "id": "fondant-potatoes",
       "day": "Mon",
       "slot": "dinner",
@@ -841,157 +368,661 @@
       "notes": ""
     },
     {
-      "id": "roasted-potatoes",
-      "day": "Sat",
+      "id": "yellowtail-teriyaki-buri-no-teriyaki-14ce21d5",
+      "day": "Tue",
       "slot": "dinner",
-      "role": "side",
-      "title": "Crispy Roasted Potatoes",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/oven-roasted-potatoes-recipe-23424442",
-      "cuisine": "american",
-      "protein": "",
+      "role": "main",
+      "title": "Yellowtail Teriyaki (Buri no Teriyaki)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/yellowtail-teriyaki/",
+      "cuisine": "japanese",
+      "protein": "fish",
       "tags": [
-        "side"
+        "weeknight",
+        "quick"
       ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 40,
-      "servings": 4,
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "baby potatoes",
-          "qty": 1.5,
-          "unit": "lb",
+          "item": "yellowtail (hamachi/buri) fillets",
+          "qty": 2,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Tokyo negi (long green onion)",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "olive oil",
+          "item": "shishito peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "mirin",
           "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce",
+          "item": "soy sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "kosher salt",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "neutral oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed Japanese short-grain rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
           "note": ""
         }
       ],
-      "notes": ""
+      "notes": "Dredge fillets lightly in flour for a glaze that clings. Carb: steamed rice. Veg: pan-blistered shishito + negi."
     },
     {
-      "id": "roasted-carrots",
-      "day": "Sat",
+      "id": "takeout-style-kung-pao-chicken-dcd6fa60",
+      "day": "Wed",
       "slot": "dinner",
-      "role": "side",
-      "title": "Honey-Garlic Roasted Carrots",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/roasted-carrots-262010",
-      "cuisine": "american",
-      "protein": "",
+      "role": "main",
+      "title": "Takeout-Style Kung Pao Chicken",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/takeout-style-kung-pao-chicken-diced-chicken-peppers-peanuts-recipe",
+      "cuisine": "chinese",
+      "protein": "chicken",
       "tags": [
-        "side"
+        "weeknight"
       ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 40,
+      "activeTimeMin": null,
+      "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "carrots",
-          "qty": 1,
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
           "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "olive oil",
+          "item": "green bell pepper",
           "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
+          "unit": "",
+          "category": "produce",
           "note": ""
         },
         {
-          "item": "honey",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
+          "item": "celery",
+          "qty": 2,
+          "unit": "stalk",
+          "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 1,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "unsalted butter",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "dairy",
+          "item": "fresh ginger",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
           "note": ""
         },
         {
-          "item": "kosher salt",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
           "note": ""
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "id": "simple-couscous",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Couscous",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/how-to-cook-couscous/",
-      "cuisine": "mediterranean",
-      "protein": "",
-      "tags": [
-        "side",
-        "quick"
-      ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
-      "servings": 4,
-      "ingredients": [
+        },
         {
-          "item": "couscous",
-          "qty": 1.5,
+          "item": "roasted peanuts",
+          "qty": 0.5,
           "unit": "cup",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "olive oil",
+          "item": "dried red chiles (arbol)",
+          "qty": 8,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "dark soy sauce",
           "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "kosher salt",
+          "item": "distilled white vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "cornstarch",
+          "qty": 2.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chicken stock",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "steamed jasmine rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Velvet the chicken in the marinade first. Veg: peppers + celery in the stir-fry. Carb: steamed rice."
+    },
+    {
+      "id": "pork-chops-milanese-with-amatriciana-c8263a73",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pork Chops Milanese with Amatriciana",
+      "source": "Lidia's Italy",
+      "sourceUrl": "https://lidiasitaly.com/recipes/pork-chops-milanese/",
+      "cuisine": "italian",
+      "protein": "pork",
+      "tags": [
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pork chops, frenched (3/4-inch)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "slab bacon or pancetta",
+          "qty": 4,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "canned whole San Marzano tomatoes",
+          "qty": 28,
+          "unit": "oz",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "arugula",
+          "qty": 5,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "fine dried breadcrumbs",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes (peperoncino)",
           "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "note": ""
+        },
+        {
+          "item": "crusty Italian bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
         }
       ],
-      "notes": ""
+      "notes": "Breaded pork over quick amatriciana. Veg: dressed arugula + lemon on top. Carb: breadcrumb crust + crusty bread."
+    },
+    {
+      "id": "championship-bacon-wrapped-stuffed-shrimp-15be6c0e",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Championship Bacon-Wrapped Stuffed Shrimp",
+      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.344",
+      "sourceUrl": "",
+      "cuisine": "american",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "grill"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp (16/20), shell-on",
+          "qty": 20,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "bacon (pepper-crusted)",
+          "qty": 20,
+          "unit": "slice",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "jalapeños",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cream cheese",
+          "qty": 8,
+          "unit": "oz",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "Thai sweet chili sauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "chives or parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Stuff each shrimp with cream cheese + jalapeño, wrap in bacon, grill two-zone, glaze with sweet chili."
+    },
+    {
+      "id": "classic-coleslaw-ea6b29f4",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Classic Coleslaw",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/creamy-cole-slaw",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green cabbage",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "apple cider vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Salt-and-drain the cabbage first for a crisp, non-watery slaw. Veg for Friday's plate."
+    },
+    {
+      "id": "easy-grilled-corn-on-the-cob-08edb2a9",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Easy Grilled Corn on the Cob",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/easiest-grilled-corn-ever/",
+      "cuisine": "american",
+      "protein": "corn",
+      "tags": [
+        "side",
+        "grill"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "corn on the cob",
+          "qty": 4,
+          "unit": "ear",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "butter",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Goes on the grill alongside the shrimp. Carb for Friday's plate."
+    },
+    {
+      "id": "roast-spatchcock-chicken-with-citrus-honey-d9a98447",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Roast Spatchcock Chicken with Citrus & Honey",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey/",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "weekend",
+        "project"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "whole chicken (~5 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "potatoes",
+          "qty": 5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "clementines",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Spatchcock for fast, even roasting over the potatoes (carb). Pair with the fennel-orange salad (veg)."
+    },
+    {
+      "id": "arugula-fennel-and-orange-salad-6e1d0edb",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Arugula, Fennel, and Orange Salad",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "arugula",
+          "qty": 7,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fennel bulb",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "navel oranges",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-15T23:15:31.208Z"
+  "setAt": "2026-06-17T15:51:30.955Z"
 }

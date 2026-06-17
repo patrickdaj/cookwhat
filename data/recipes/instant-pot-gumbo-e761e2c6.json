@@ -1,0 +1,41 @@
+{
+  "mealId": "instant-pot-gumbo-e761e2c6",
+  "fetchedAt": "2026-06-17T15:05:08.318Z",
+  "source": "paprika",
+  "url": "https://www.savorytooth.com/instant-pot-gumbo/",
+  "name": "Instant Pot Gumbo",
+  "description": "",
+  "recipeIngredient": [
+    "1 pound boneless skinless chicken breasts",
+    "12 ounces smoked andouille sausage, sliced (Note 1)",
+    "1 green bell pepper, chopped",
+    "1/2 medium onion, chopped",
+    "2 stalks celery, chopped",
+    "14.5 -ounce can crushed tomatoes",
+    "2 teaspoons garlic powder",
+    "2 teaspoons smoked paprika",
+    "1.5 teaspoons table salt",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon ground thyme",
+    "1/4 teaspoon ground cayenne"
+  ],
+  "recipeInstructions": [
+    "Prepare Ingredients: Pat chicken breasts dry with paper towels, and cut into total of 6 evenly-sized pieces. Add all ingredients including seasoning mix to pressure cooker pot (Note 3), and briefly stir everything together. No water needs to be added.",
+    "Pressure Cook: Secure and seal lid. Cook at high pressure for 10 minutes, followed by quick pressure release.",
+    "Shred Chicken: Uncover. Transfer chicken pieces to large plate and shred meat using two forks (or shred directly in pot). Transfer shredded chicken back to pot, and stir to let meat soak up sauce.",
+    "Thicken Stew (Optional): If thicker stew is desired, turn on sauté setting for medium heat. Boil until liquid thickens to desired consistency, 5 to 10 minutes, stirring frequently. Turn off sauté setting, and serve (Note 4)."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "Yield: 4 servings",
+  "image": "https://www.savorytooth.com/wp-content/uploads/2019/02/instant-pot-gumbo-7-500x500.jpg",
+  "author": "savorytooth.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Saturated Fat 3g 15% | Cholesterol 114mg 38% | Sodium 1510mg 63% | Net Carb 8.5g | Total Carb 12g 4% | Dietary Fiber 3.5g 14% | Sugars 6g | Protein 43g | Vitamin A 27% · Vitamin C 67% · Calcium 6% · Iron 20%",
+  "ai": null
+}

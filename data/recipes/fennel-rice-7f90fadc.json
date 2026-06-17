@@ -1,0 +1,35 @@
+{
+  "mealId": "fennel-rice-7f90fadc",
+  "fetchedAt": "2026-06-17T15:05:08.307Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1017252-fennel-rice?algo=identity&amp;fellback=true&amp;imp_id=7850874513429172&amp;req_id=6639765227775000&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking",
+  "name": "Fennel Rice",
+  "description": "",
+  "recipeIngredient": [
+    "1/4 cup extra virgin olive oil",
+    "1 medium onion, chopped",
+    "2 garlic cloves, minced",
+    "1 pound fennel (2 medium bulbs), trimmed, cored and diced small",
+    "Salt to taste",
+    "1 cup long grain rice, such as basmati, rinsed, or coarse bulgur",
+    "2 1/2 cups water",
+    "1/4 cup chopped fresh parsley",
+    "1/4 cup chopped fresh dill",
+    "Freshly ground pepper"
+  ],
+  "recipeInstructions": [
+    "Heat 3 tablespoons olive oil over medium heat in a deep, lidded skillet or a wide, lidded saucepan. Add onion and cook, stirring often, until tender, about 5 minutes. Add garlic and stir until fragrant, about 30 seconds. Stir in fennel, add a generous pinch of salt, and cook, stirring often, until fennel has wilted and softened, about 8 minutes. Stir in rice or bulgur and stir to coat with olive oil.",
+    "Add water, salt, pepper, parsley and dill and bring to a boil. Reduce heat to low, cover and simmer 20 to 30 minutes, until rice or bulgur is soft and liquid absorbed. Remove from heat, uncover and place a towel across the top of the pan. Return lid and let sit for 10 minutes. Serve hot, with the remaining olive oil drizzled over the top."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr",
+  "recipeYield": "Serves 6",
+  "image": "https://static01.nyt.com/images/2015/02/25/science/recipehealthfennel/recipehealthfennel-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": "Advance preparation: You can make this a day ahead and reheat in a pan, in a medium oven or in the microwave. It will keep for 3 or 4 days in the refrigerator.",
+  "nutrition": "Trans Fat: 0 grams | Fat: 10 grams | Calories: 195 | Saturated Fat: 1 gram | Unsaturated Fat: 8 grams | Sodium: 539 milligrams | Sugar: 4 grams | Fiber: 6 grams | Carbohydrate: 26 grams | Protein: 4 grams",
+  "ai": null
+}

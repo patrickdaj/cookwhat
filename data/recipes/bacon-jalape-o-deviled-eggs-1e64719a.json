@@ -1,0 +1,37 @@
+{
+  "mealId": "bacon-jalape-o-deviled-eggs-1e64719a",
+  "fetchedAt": "2026-06-17T15:05:08.285Z",
+  "source": "paprika",
+  "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a46457/bacon-jalapeno-deviled-eggs-recipe/",
+  "name": "Bacon-Jalapeño Deviled Eggs",
+  "description": "",
+  "recipeIngredient": [
+    "PRINT",
+    "12 large eggs",
+    "1/3 c. mayonnaise",
+    "Juice of 1/2 lemon",
+    "1/4 c. chopped cooked bacon",
+    "2 Tbsp. shredded Cheddar",
+    "1 1/2 Tbsp. yellow mustard",
+    "2 tsp. chopped jalapeño (seeded if desired)",
+    "kosher salt",
+    "Freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Place eggs in a single layer in a saucepan and cover with 2 inches of water. Bring to a boil, then reduce heat and cook, covered, 1 minute. Remove from heat and let sit, covered, 14 minutes, then rinse under cold water.",
+    "Crack shells and carefully peel under cool running water.",
+    "Halve eggs lengthwise, then spoon out yolks into a small bowl and place whites on a serving platter. Using a fork, mash yolks, then stir in mayonnaise, lemon juice, bacon, cheddar, mustard, and jalapeño and season with salt and pepper.",
+    "Spoon mixture evenly among egg whites and serve."
+  ],
+  "prepTime": "20 min",
+  "cookTime": "35 min",
+  "totalTime": null,
+  "recipeYield": "Yields: 24",
+  "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/16/12/1458569724-delish-bacon-jalapeno.jpg?crop=1xw:0.99975xh;center,top&resize=640:*",
+  "author": "delish.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

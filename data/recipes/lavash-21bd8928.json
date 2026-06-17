@@ -1,0 +1,37 @@
+{
+  "mealId": "lavash-21bd8928",
+  "fetchedAt": "2026-06-17T15:05:08.321Z",
+  "source": "paprika",
+  "url": "https://www.daringgourmet.com/lavash-bread/",
+  "name": "Lavash",
+  "description": "",
+  "recipeIngredient": [
+    "3/4 cup lukewarm water",
+    "3/4 cup lukewarm milk (milk is not traditional but it makes a softer lavash which I prefer)",
+    "2 teaspoons active dry yeast , can substitute instant yeast and add it directly to the flour along with the liquids and proceed)",
+    "1 tablespoon olive oil",
+    "1 teaspoon honey",
+    "1 1/2 teaspoons salt",
+    "3 1/2-4 cups all-purpose flour (see Note about flour type)"
+  ],
+  "recipeInstructions": [
+    "Stir together the water, milk, yeast, oil and honey and let sit for 5-10 minutes until nice and frothy.",
+    "In the meantime, place the flour and salt in the bowl of a stand mixer with a dough hook attached. Add the yeast mixture and knead on \"2\" until everything comes together in a dough and then continue to knead for 7 minutes. If the dough is too wet add more flour as needed. (Alternatively this can be done by hand: knead the mixture until it comes together, then transfer to a floured work surface and knead for 10 minutes.)",
+    "Form the dough into a ball, spray the bowl with oil, return the dough ball to the bowl, lightly spray the dough with oil, cover with plastic wrap and let sit in a warm place for up to an hour or until the dough has doubled in size.",
+    "Punch the dough down, divide into 12 equal pieces (or 6 if using for larger wraps and you have an extra large skillet or griddle), lay them on a lined baking sheet and cover with a towel. Let rest for 10-15 minutes.",
+    "Preheat a large non-skillet or griddle over medium heat.",
+    "Transfer a dough ball ball to a floured work surface and roll out a thinly as you can. Lightly spray the skillet or griddle and place the dough on it. Cook for roughly 45-60 seconds or until the dough bubbles and has some brown spots on the bottom then flip it over and cook on the other side for another 30-40 seconds. Transfer to large plate or baking sheet and cover with a towel so it retains moisture. Repeat this process for the remaining dough balls, stacking the finished lavash on top of each other under the towel.",
+    "Best served immediately. For best texture enjoy within the same day. To store, place the lavash in a ziplock bag at room temperature for up to 2 days. To freeze layer them with parchment paper and store in a freezer bag or container for up to one month. To serve, spray lightly with water and reheat slowly in the oven."
+  ],
+  "prepTime": "30 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "12",
+  "image": "https://www.daringgourmet.com/wp-content/uploads/2023/10/Lavash-Recipe-10-1152x1536.jpg",
+  "author": "daringgourmet.com",
+  "categories": [],
+  "rating": null,
+  "notes": "Lavash can be made with either all-purpose flour or bread flour, depending on the texture and consistency you want. Both types of flour will produce delicious lavash, but they have slight differences in their characteristics:",
+  "nutrition": "Serving: 12lavash Calories: 156kcal | Carbohydrates: 29g Protein: 4g | Fat: 2g Saturated Fat: 1g | Polyunsaturated Fat: 0.3g | Monounsaturated Fat: 1g | Cholesterol: 2mg Sodium: 298mg | Potassium: 67mg Fiber: 1g | Sugar: 1g Vitamin A: 25IU | Vitamin C: 0.01mg Calcium: 25mg | Iron: 2mg",
+  "ai": null
+}

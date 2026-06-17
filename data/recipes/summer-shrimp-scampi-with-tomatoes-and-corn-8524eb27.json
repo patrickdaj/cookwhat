@@ -1,0 +1,39 @@
+{
+  "mealId": "summer-shrimp-scampi-with-tomatoes-and-corn-8524eb27",
+  "fetchedAt": "2026-06-17T15:05:08.350Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1021184-summer-shrimp-scampi-with-tomatoes-and-corn?algo=identity&amp;fellback=true&amp;imp_id=2890411122968894&amp;req_id=8406211710498314&amp;surface=cooking-search&amp;variant=0_relevance_reranking",
+  "name": "Summer Shrimp Scampi with Tomatoes and Corn",
+  "description": "",
+  "recipeIngredient": [
+    "1 pound large shrimp, peeled and deveined",
+    "Kosher salt and black pepper",
+    "2 tablespoons extra-virgin olive oil",
+    "1 pint cherry or grape tomatoes",
+    "2 cups fresh or frozen corn kernels (from 4 ears)",
+    "5 garlic cloves, minced",
+    "1/2 teaspoon red-pepper flakes",
+    "1/4 cup dry white wine",
+    "2 tablespoons fresh lemon juice (from 1 lemon), plus wedges for serving (optional)",
+    "5 tablespoons unsalted butter, cut into 5 pieces",
+    "3 tablespoons chopped parsley or chives, or torn basil leaves"
+  ],
+  "recipeInstructions": [
+    "Pat the shrimp very dry and season with salt and pepper. In a large (12-inch) skillet, heat the olive oil over medium-high. Add the shrimp and cook until pink and lightly golden in spots, 1 to 2 minutes per side. Use a slotted spoon to transfer the shrimp to a plate.",
+    "Add the tomatoes to the skillet, season with salt and pepper, and cook, stirring just once or twice, until they start to blister in spots, 3 to 4 minutes. Add the corn, season with salt and pepper, and cook, stirring just once or twice, until the tomatoes burst and the corn is golden in spots, 3 to 4 minutes.",
+    "Add the garlic and red-pepper flakes and cook, stirring, until you smell garlic, about 1 minute.",
+    "Reduce heat to medium, and add the wine and lemon juice, scraping any brown bits from the bottom of the pan. Cook until nearly evaporated, then add the butter and stir until melted. Add the shrimp and its juices and stir until warmed through. (If the sauce breaks and looks greasy, add 1 or 2 teaspoons of water and stir until emulsified.)",
+    "Remove from heat, add the herbs, season to taste with salt and pepper, and serve with extra lemon for squeezing over, if you like."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2020/07/26/dining/as-summer-shrimp-scampi-copy/as-summer-shrimp-scampi-copy-videoSixteenByNineJumbo1600.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 23 grams | Calories: 402 | Saturated Fat: 10 grams | Unsaturated Fat: 11 grams | Sodium: 758 milligrams | Sugar: 5 grams | Fiber: 3 grams | Carbohydrate: 25 grams | Protein: 27 grams",
+  "ai": null
+}

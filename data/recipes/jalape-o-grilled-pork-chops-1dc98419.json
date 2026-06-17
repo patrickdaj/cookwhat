@@ -1,0 +1,45 @@
+{
+  "mealId": "jalape-o-grilled-pork-chops-1dc98419",
+  "fetchedAt": "2026-06-17T15:05:08.320Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1022317-jalapeno-grilled-pork-chops",
+  "name": "Jalapeño Grilled Pork Chops",
+  "description": "",
+  "recipeIngredient": [
+    "5 large jalapeños, stemmed",
+    "5 large garlic cloves, peeled",
+    "1 bunch cilantro stems, cut into 1-inch pieces (about 1 packed cup)",
+    "2 tablespoons rice vinegar",
+    "1/2 cup olive oil, plus more for cooking",
+    "1 tablespoon kosher salt (Diamond Crystal)",
+    "2 teaspoons granulated sugar",
+    "8 thin-cut, bone-in pork loin chops (1/2-inch thick)",
+    "1 large jalapeño, thinly sliced into rings",
+    "1 small red onion, thinly sliced into rings",
+    "1/3 cup rice vinegar",
+    "1 teaspoon kosher salt (Diamond Crystal)",
+    "2 tablespoons granulated sugar",
+    "Cilantro leaves and tender stems, for garnish",
+    "Cilantro rice or cooked white rice, for serving (optional)"
+  ],
+  "recipeInstructions": [
+    "Make the pork chops: In a food processor, blitz the jalapeños, garlic, cilantro stems, rice vinegar, olive oil, salt and sugar until smooth. Place the pork chops in a large bowl or resealable container and pour the marinade over them; turn the chops to evenly coat. Cover and refrigerate for at least 30 minutes and up to 24 hours.",
+    "While the chops marinate, prepare a charcoal grill for direct high-heat cooking, or heat a gas grill to medium-high.",
+    "Make the relish: In a small bowl, toss the jalapeño, red onion, rice vinegar, salt, sugar and 2 tablespoons water. Set aside to quick-pickle until ready to serve, or refrigerate for up to 24 hours.",
+    "Carefully grease the grill grate: Use tongs to grip a wadded paper towel dipped in oil and then rub the grates with the oiled towel. With the marinade clinging to them, place the pork chops on the hot greased grate. Grill until the chops are charred at the edges and no longer pink in the middle, 2 to 3 minutes per side. The meat is ready to flip when it releases easily from the grates. (If using a gas grill, close the lid between flips.) Alternatively, cook the chops on the stovetop in batches. Heat a large skillet or grill pan over medium-high. Add enough oil to lightly coat the bottom of the pan, and heat until shimmering. Add the chops, with the marinade clinging to them, to the pan. Sear until browned and caramelized at the edges and no longer pink in the middle, 3 to 4 minutes per side. Discard any remaining marinade.",
+    "Serve the chops with the relish and cilantro on top. If you’d like, serve rice alongside."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2021/06/17/dining/ek-jalapeno-grilled-pork-chops/merlin_189307476_76974cf0-fc4e-4401-b0aa-bf212d18c5ac-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 57 grams | Calories: 766 | Saturated Fat: 14 grams | Unsaturated Fat: 39 grams | Sodium: 837 milligrams | Sugar: 10 grams | Fiber: 2 grams | Carbohydrate: 14 grams | Protein: 47 grams",
+  "ai": null
+}

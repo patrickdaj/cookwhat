@@ -1,0 +1,35 @@
+{
+  "mealId": "roasted-chicken-with-figs-and-rosemary-cb341f42",
+  "fetchedAt": "2026-06-17T15:05:08.338Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1018294-roasted-chicken-with-figs-and-rosemary?algo=cooking_search_relevance_metric_ios_and_web&amp;fellback=false&amp;imp_id=7020121885693797&amp;req_id=1479414036072738&amp;surface=cooking-search-web&amp;variant=0_relevance_reranking",
+  "name": "Roasted Chicken with Figs and Rosemary",
+  "description": "",
+  "recipeIngredient": [
+    "4 1/2 pounds bone-in chicken parts",
+    "1 tablespoon coarse kosher salt",
+    "2 rosemary sprigs, needles removed from stems (discard the stems)",
+    "2 garlic cloves, grated on a microplane or finely minced",
+    "1/2 teaspoon finely grated orange or lemon zest, plus optional orange or lemon wedges for serving",
+    "1/2 teaspoon black pepper",
+    "1 pound ripe figs, stemmed and quartered lengthwise",
+    "1 to 2 jalapeño or red chile peppers, halved, seeded and thinly sliced",
+    "Extra-virgin olive oil, for drizzling"
+  ],
+  "recipeInstructions": [
+    "In a large bowl, toss chicken with salt, rosemary, garlic, citrus zest and pepper. Cover and refrigerate for at least 2 hours and up to overnight (the longer the better).",
+    "Heat oven to 450 degrees. Spread chicken pieces out on two rimmed baking sheets, making sure there is plenty of room between the pieces. Arrange figs among the chicken pieces, then scatter jalapeño slices on top. Drizzle everything generously with olive oil.",
+    "Roast, switching the position of the baking pans after 15 minutes so everything browns evenly, until the chicken is golden and cooked through. This should take about 25 to 30 minutes for the breast meat, and 30 to 40 for the dark meat. Serve chicken with the orange or lemon wedges for squeezing, if you like."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "1 hr",
+  "recipeYield": "6 servings",
+  "image": "https://static01.nyt.com/images/2016/09/15/multimedia/clark-chicken-and-figs/clark-chicken-and-figs-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 63 grams | Calories: 869 | Saturated Fat: 16 grams | Unsaturated Fat: 41 grams | Sodium: 1014 milligrams | Sugar: 13 grams | Fiber: 3 grams | Carbohydrate: 17 grams | Protein: 57 grams",
+  "ai": null
+}

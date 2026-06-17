@@ -1,0 +1,37 @@
+{
+  "mealId": "mediterranean-tomato-and-cucumber-salad-5a0dbfbc",
+  "fetchedAt": "2026-06-17T16:52:57.762Z",
+  "url": "https://www.themediterraneandish.com/mediterranean-cucumber-salad-recipe/",
+  "name": "Simple Mediterranean Cucumber Salad Recipe",
+  "description": "Bright and refreshing cucumber salad, prepared Mediterranean-style with shallots, fresh dill, peppery radish and a light citrus dressing.",
+  "recipeIngredient": [
+    "2  English cucumbers",
+    "1 to 2  shallots (thinly sliced)",
+    "4 to 6  radishes (thinly sliced)",
+    "About 1/4 oz/9 g chopped fresh dill",
+    "3 to 4 tbsp extra virgin olive oil",
+    "2 tbsp white wine vinegar",
+    "Juice of 1/2 lemon",
+    "1 tsp dried oregano",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": [
+    "Place sliced cucumbers in a large mixing bowl. Add sliced shallots, radish, and fresh dill.",
+    "In a small bowl (or mason jar), combine the dressing ingredients (extra virgin olive oil, white wine vinegar, lemon juice, oregano, kosher salt and black pepper.) Whisk (or cover and shake the mason jar) until well combined.",
+    "Pour the dressing over the salad. Toss again to combine, making sure the cucumber salad is well coated with the dressing. Enjoy!"
+  ],
+  "prepTime": "15 min",
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "6 6 people",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/05/Simple-Mediterranean-Cucumber-Salad-4.jpg",
+  "author": "Suzy Karadsheh",
+  "ai": {
+    "cliffNotes": "Fresh vegetables are dressed with an emulsified vinaigrette that coats and seasons them evenly while their moisture keeps the salad crisp.",
+    "keyTips": [
+      "Slice cucumbers, shallots, and radishes thin so they absorb dressing quickly and evenly",
+      "Whisk the dressing thoroughly to emulsify the oil and vinegar, preventing separation",
+      "Toss immediately after adding dressing to coat all vegetables before any liquid pools at the bottom"
+    ]
+  }
+}

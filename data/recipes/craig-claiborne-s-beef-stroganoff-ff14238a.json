@@ -1,0 +1,41 @@
+{
+  "mealId": "craig-claiborne-s-beef-stroganoff-ff14238a",
+  "fetchedAt": "2026-06-17T15:05:08.300Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1019085-craig-claibornes-beef-stroganoff?q=Stroganoff",
+  "name": "Craig Claiborne's Beef Stroganoff",
+  "description": "",
+  "recipeIngredient": [
+    "1/2 cup flour",
+    "1 teaspoon salt",
+    "1/4 teaspoon freshly ground black pepper",
+    "2 pounds beef tenderloin or boneless sirloin of beef, trimmed of all exterior fat and cut int 2-by-1/4-by-1/4-inch strips",
+    "1/2 cup (one stick) butter",
+    "1/2 cup finely chopped onion",
+    "1/2 pound mushrooms, thinly sliced",
+    "2 cups beef or chicken stock, ideally homemade",
+    "1 cup sour cream",
+    "3 tablespoons tomato paste",
+    "1 teaspoon Worcestershire sauce",
+    "3 tablespoons finely chopped parsley"
+  ],
+  "recipeInstructions": [
+    "Combine the flour, salt and pepper. Dredge the meat in the mixture.",
+    "Brown the meat in one-quarter cup of the butter in a saucepan. Remove meat from the pan and set aside.",
+    "Add the onion to the pan and sauté until transparent. Add the mushrooms and remaining butter and sauté 3 to 5 minutes longer.",
+    "Add the beef stock or bouillon and bring to a boil. The preparation, to this point, may be done ahead.",
+    "Add the meat to the sauce and cook until meat is tender but not overcooked, 3 to 10 minutes, stirring often.",
+    "Combine sour cream, tomato paste and Worcestershire sauce. Add some of the beef sauce to sour cream mixture. Return to pan and heat meat and sauce, stirring. Do not boil. Sprinkle with parsley. Serve with buttered parsley noodles."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "45 min",
+  "recipeYield": "4 to 6 servings",
+  "image": "https://static01.nyt.com/images/2017/12/13/dining/13COOKING-BEEFSTROGANOFF/13COOKING-BEEFSTROGANOFF-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 1 gram | Fat: 31 grams | Calories: 497 | Saturated Fat: 17 grams | Unsaturated Fat: 12 grams | Sodium: 717 milligrams | Sugar: 5 grams | Fiber: 1 gram | Carbohydrate: 17 grams | Protein: 39 grams",
+  "ai": null
+}

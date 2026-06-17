@@ -1,0 +1,42 @@
+{
+  "mealId": "crispy-smashed-potatoes-with-za-atar-a8babf5d",
+  "fetchedAt": "2026-06-17T16:52:51.247Z",
+  "url": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
+  "name": "Crispy Smashed Potatoes with Garlic and Za'atar",
+  "description": "Crisp on the outside and soft and fluffy on the inside, these smashed potatoes are best served immediately with a good drizzle of garlicy olive oil, za&#039;atar and herbs!  Serve as a side dish to a protein or as an appetizer with your favorite dipping sauce (I like tzatziki with these)",
+  "recipeIngredient": [
+    "Extra virgin olive oil",
+    "Kosher salt",
+    "1/2 teaspoon baking soda",
+    "2 pounds baby potatoes (or new potatoes)",
+    "1/4 cup chopped parsley leaves and tender stems",
+    "2 teaspoons za&#39;atar, (plus more to taste)",
+    "2  garlic cloves, (minced)",
+    "1/4 cup extra virgin olive oil",
+    "2  green onions, (chopped)"
+  ],
+  "recipeInstructions": [
+    "Get ready. Preheat your oven to 400°F. Lightly oil a large sheet pan.",
+    "Boil the potatoes. Bring a large pot of water (about 2 quarts) to a boil. Season generously with kosher salt (about 1 tablespoon). Stir in the baking soda and the potatoes. Let the water return to a boil, then reduce to a simmer and cook for 10 to 15 minutes, or until they’re tender enough to easily pierce with a knife.",
+    "Drain. Drain the potatoes through a colander and let them sit for 5 to 10 minutes to dry.",
+    "Smash and dry the potatoes. Arrange the potatoes on the prepared sheet pan. Use the back of a fork or a potato masher to lightly smash the potatoes, making sure to keep them in one piece. The thinner you smash them, the crispier they will be. Let the potatoes sit to dry for another 5 to 10 minutes.",
+    "Roast. Season the potatoes with a pinch of salt and drizzle with extra virgin olive oil, making sure all the potatoes get some of the oil. Roast on the middle rack of your heated oven for about 45 to 50 minutes, or until the potatoes are golden brown and crispy (the rough edges will be charred).",
+    "Meanwhile, make the Za’atar Garlic Sauce. In a small mixing bowl, combine the parsley, za’atar, garlic and olive oil.",
+    "Season and serve. When the potatoes are ready, remove them from the oven and transfer to a serving platter. Drizzle the olive oil and za’atar mixture all over while the potatoes are still hot. Finish with the chopped green onions. Enjoy as soon as possible!"
+  ],
+  "prepTime": "11 min",
+  "cookTime": "60 min",
+  "totalTime": "90 min",
+  "recipeYield": "31 31 Baby Potatoes",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/07/Crispy-Smashed-Potatoes-10.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Potatoes are boiled with baking soda to roughen their surface, then smashed flat and roasted until crispy before being finished with a fresh za'atar-garlic oil while still hot.",
+    "keyTips": [
+      "Baking soda in the boiling water is essential—it creates a rough, starchy surface that crisps up during roasting; skip this and you'll get soft potatoes instead",
+      "Smash potatoes thin and let them dry for 5-10 minutes before roasting to maximize crust formation and crispiness",
+      "Don't skip the final drizzle of za'atar sauce while potatoes are still hot—the heat carries the flavors and the oil prevents them from cooling and hardening",
+      "Use a middle oven rack and roast for the full 45-50 minutes until edges are charred; underbaking defeats the purpose of this recipe"
+    ]
+  }
+}

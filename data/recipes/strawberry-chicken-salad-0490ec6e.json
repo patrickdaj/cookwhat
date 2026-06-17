@@ -1,0 +1,40 @@
+{
+  "mealId": "strawberry-chicken-salad-0490ec6e",
+  "fetchedAt": "2026-06-17T15:05:08.349Z",
+  "source": "paprika",
+  "url": "https://deliciousonadime.com/strawberry-chicken-salad/",
+  "name": "Strawberry Chicken Salad",
+  "description": "",
+  "recipeIngredient": [
+    "1 chicken breast",
+    "1 tbsp olive oil",
+    "1 apple",
+    "1 cup strawberries",
+    "4 oz goat cheese",
+    "1/2 cup walnuts",
+    "2 tbsp pumpkin seeds",
+    "2 tbsp chives (or can use minced red onions, or even regular onions - soak in water to lessen the bite)",
+    "4 cups washed and dried mixed greens (or can substitute whatever you have on-hand)",
+    "salt",
+    "pepper",
+    "1 batch Creamy Maple Salad Dressing*"
+  ],
+  "recipeInstructions": [
+    "Heat a large frying pan over medium heat. Cut chicken into bite-sized pieces.",
+    "Once pan is hot, add olive oil, swirl to coat bottom of pan and add chicken, spreading it out over the bottom of the pan. Season generously with salt and pepper. Let chicken cook 3-4 minutes without disturbing it, before flipping it to cook the other side. Once it is nearly cooked through, stir it around to brown all sides**. Taste a small piece. If it tastes blah, add a bit more salt.",
+    "While chicken is cooking, use a new cutting board to slice apples and strawberries, crumble goat cheese and chop walnuts into smaller pieces (if using whole walnuts). Mince chives.",
+    "Arrange salad on individual plates or a platter, starting with mixed greens. Then, evenly sprinkle apples, strawberries, pumpkin seeds, walnuts, goat cheese, chives and chicken. Finish with freshly cracked salt and pepper.",
+    "*Serve with Creamy Maple Salad Dressing and enjoy! 🙂"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": null,
+  "recipeYield": "4",
+  "image": "https://deliciousonadime.com/wp-content/uploads/2019/07/IMG_3681-REDONE-32x48.jpg",
+  "author": "deliciousonadime.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Calories: 336kcal | Carbohydrates: 13g | Protein: 22g | Fat: 23g | Saturated Fat: 6g | Cholesterol: 49mg | Sodium: 182mg | Potassium: 487mg | Fiber: 3g | Sugar: 7g | Vitamin A: 854IU | Vitamin C: 34mg | Calcium: 71mg | Iron: 2mg",
+  "ai": null
+}

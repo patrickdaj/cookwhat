@@ -1,0 +1,39 @@
+{
+  "mealId": "grilled-chicken-and-corn-with-tartar-butter-3bbaee06",
+  "fetchedAt": "2026-06-17T15:05:08.312Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1022388-grilled-chicken-and-corn-with-tartar-butter",
+  "name": "Grilled Chicken and Corn with Tartar Butter",
+  "description": "",
+  "recipeIngredient": [
+    "Vegetable oil, for greasing the grill",
+    "2 pounds boneless, skinless chicken thighs",
+    "4 tablespoons extra-virgin olive oil",
+    "Kosher salt and black pepper",
+    "4 ears corn, shucked",
+    "1/2 pound okra, stems trimmed",
+    "1/2 cup unsalted butter, at room temperature",
+    "2 tablespoons finely chopped dill pickles",
+    "2 tablespoons finely chopped capers",
+    "2 tablespoons finely chopped parsley",
+    "Lemon wedges, for serving"
+  ],
+  "recipeInstructions": [
+    "Heat grill to medium-high and grease grates. (Alternatively, heat a cast-iron grill pan over medium-high and lightly grease.)",
+    "In a medium bowl, combine chicken and 2 tablespoons olive oil, season with salt and pepper, and toss to evenly coat. Rub corn and okra with the remaining 2 tablespoons olive oil and season with salt and pepper. Skewer okra or place in a grill basket to prevent them from falling through the grates during cooking.",
+    "Working in batches if needed, grill chicken, corn and okra, turning occasionally, until chicken is nicely charred and cooked through and vegetables are tender, about 5 minutes for the okra and 10 to 12 minutes for the chicken and corn.",
+    "Meanwhile, in a medium bowl, combine butter, pickles, capers and parsley. Season with salt and pepper, and mix well. Once okra is done, toss with 2 tablespoons of the tartar butter while warm.",
+    "Divide chicken and vegetables among plates. Slather corn with some of the tartar butter. Serve with lemon wedges and extra tartar butter on the side."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "20 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2021/08/17/dining/kc-chicken-corn-tartar-butter/kc-chicken-corn-tartar-butter-square640.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [],
+  "rating": null,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 53 grams | Calories: 763 | Saturated Fat: 19 grams | Unsaturated Fat: 31 grams | Sodium: 1041 milligrams | Sugar: 7 grams | Fiber: 4 grams | Carbohydrate: 25 grams | Protein: 50 grams",
+  "ai": null
+}

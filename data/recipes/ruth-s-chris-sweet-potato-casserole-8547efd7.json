@@ -1,0 +1,40 @@
+{
+  "mealId": "ruth-s-chris-sweet-potato-casserole-8547efd7",
+  "fetchedAt": "2026-06-17T15:05:08.336Z",
+  "source": "paprika",
+  "url": "https://ruthschris.net/recipes/sweet-potato-casserole-recipe/",
+  "name": "RUTH’S CHRIS SWEET POTATO CASSEROLE",
+  "description": "",
+  "recipeIngredient": [
+    "Crust Mixture:",
+    "3/4 cup brown sugar",
+    "1/4 cup flour",
+    "3/4 cup chopped nuts (pecans preferred)",
+    "1/4 cup melted butter",
+    "Sweet Potato Mixture:",
+    "3/4 cup sugar",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon vanilla",
+    "2 cups mashed sweet potatoes",
+    "1 egg, well beaten",
+    "1/4 cup butter"
+  ],
+  "recipeInstructions": [
+    "Combine Crust Mixture in mixing bowl and put to one side.",
+    "Combine Sweet Potato Mixture ingredients in a mixing bowl in the order listed. Combine thoroughly.",
+    "Pour Sweet Potato Mixture into buttered baking dish.",
+    "Sprinkle Crust Mixture evenly onto surface of Sweet Potato Mixture.",
+    "Bake for 30 minutes at 350°. Allow to set for at least 30 minutes before serving."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": "https://ruthschris.net/wp-content/uploads/2018/11/sweet-potato-casserole.jpg",
+  "author": "ruthschris.net",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

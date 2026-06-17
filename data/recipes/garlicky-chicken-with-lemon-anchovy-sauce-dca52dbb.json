@@ -1,0 +1,39 @@
+{
+  "mealId": "garlicky-chicken-with-lemon-anchovy-sauce-dca52dbb",
+  "fetchedAt": "2026-06-17T15:05:08.310Z",
+  "source": "paprika",
+  "url": "https://cooking.nytimes.com/recipes/1015290-garlicky-chicken-with-lemon-anchovy-sauce?q=Garlicky",
+  "name": "Garlicky Chicken with Lemon-Anchovy Sauce",
+  "description": "",
+  "recipeIngredient": [
+    "1 1/4 pounds boneless, skinless chicken thighs (4 to 5 thighs)",
+    "1 teaspoon coarse kosher salt",
+    "Freshly ground black pepper",
+    "6 garlic cloves, smashed and peeled",
+    "1/4 cup extra-virgin olive oil",
+    "5 anchovy fillets",
+    "2 tablespoons drained capers, patted dry",
+    "1 large pinch chile flakes",
+    "1 lemon, halved",
+    "Fresh chopped parsley, for serving"
+  ],
+  "recipeInstructions": [
+    "Heat oven to 350 degrees. Season the chicken thighs with salt and pepper and let rest while you prepare the anchovy-garlic oil. Mince one of the garlic cloves and set it aside for later. In a large, ovenproof skillet over medium-high heat, add the oil. When the oil is hot, add the 5 smashed whole garlic cloves, the anchovies, capers and chile. Let cook, stirring with a wooden spoon to break up the anchovies, until the garlic browns around the edges and the anchovies dissolve, 3 to 5 minutes.",
+    "Add the chicken thighs and cook until nicely browned on one side, 5 to 7 minutes. Flip the thighs, place the pan in the oven and cook another 5 to 10 minutes, until the chicken is cooked through.",
+    "When chicken is done, transfer thighs to a plate (be careful, as the pan handle will be hot). Place skillet back on the heat and add minced garlic and the juice of one lemon half. Cook for about 30 seconds, scraping up the browned bits on the bottom of the pan. Return chicken to the pan and cook it in the sauce for another 15 to 30 seconds.",
+    "Transfer everything to a serving platter. Squeeze the remaining lemon half over the chicken and garnish with chopped parsley. Serve."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": "25 min",
+  "recipeYield": "4 servings",
+  "image": "https://static01.nyt.com/images/2020/08/16/dining/mc-chicken-with-lemon-anchovy-sauce/mc-chicken-with-lemon-anchovy-sauce-square640-v3.jpg",
+  "author": "cooking.nytimes.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Trans Fat: 0 grams | Fat: 21 grams | Calories: 340 | Saturated Fat: 4 grams | Unsaturated Fat: 16 grams | Sodium: 491 milligrams | Sugar: 1 gram | Fiber: 1 gram | Carbohydrate: 4 grams | Protein: 34 grams",
+  "ai": null
+}

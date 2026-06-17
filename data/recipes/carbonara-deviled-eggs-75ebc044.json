@@ -1,0 +1,36 @@
+{
+  "mealId": "carbonara-deviled-eggs-75ebc044",
+  "fetchedAt": "2026-06-17T15:05:08.291Z",
+  "source": "paprika",
+  "url": "https://www.delish.com/cooking/recipe-ideas/a62377352/carbonara-deviled-eggs-recipe/",
+  "name": "Carbonara Deviled Eggs",
+  "description": "",
+  "recipeIngredient": [
+    "PRINT",
+    "6 large eggs",
+    "1 Tbsp. neutral oil",
+    "1 oz. pancetta, finely chopped",
+    "1/3 c. mayonnaise",
+    "1/4 tsp. freshly ground black pepper",
+    "2 Tbsp. finely grated Pecorino Romano, plus more for serving"
+  ],
+  "recipeInstructions": [
+    "Fill a medium pot with 1/2\" water and bring to a simmer over high heat. Using a spoon or tongs, gently lower in eggs, reduce heat to medium-low, and cover. Cook eggs, adjusting heat as needed to maintain a simmer, for 12 minutes.",
+    "Meanwhile, fill a large bowl halfway with ice and add cold water to make an ice bath.",
+    "In a medium skillet over medium heat, heat oil. Cook pancetta, stirring occasionally, until browned and crispy, 5 to 7 minutes. Using a slotted spoon, transfer pancetta to a plate. Discard fat or reserve for another use.",
+    "Transfer eggs to ice bath. Let cool, then carefully peel. Cut in half lengthwise and scoop out egg yolks. Transfer yolks to a medium bowl; reserve egg whites.",
+    "To egg yolks, add mayonnaise and pepper. Using a handheld mixer on medium speed, beat until light and fluffy, about 2 minutes. Fold in cheese.",
+    "Spoon filling into egg whites or, if desired, transfer filling to a piping bag fitted with a large round tip and pipe filling into shells. Top with more cheese and pancetta. Serve immediately or transfer to an airtight container and refrigerate up to 3 days."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "45 min",
+  "totalTime": null,
+  "recipeYield": "Yields: 12",
+  "image": "https://hips.hearstapps.com/hmg-prod/images/del109924-carbonaradeviledeggs-web-063-lp-lead-6718166ad1042.jpg?resize=640:*",
+  "author": "delish.com",
+  "categories": [],
+  "rating": 3,
+  "notes": null,
+  "nutrition": "Fat: 128 g | Calories: 1417 Calories | Saturated Fat: 33 g | Trans Fat: 0 g | Sodium: 1894 mg | Fiber: 0 g | Sugar: 2 g | Carbohydrate: 4 g | Cholesterol: 1224 mg | Protein: 60 g",
+  "ai": null
+}

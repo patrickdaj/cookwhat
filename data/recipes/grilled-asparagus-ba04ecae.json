@@ -1,0 +1,28 @@
+{
+  "mealId": "grilled-asparagus-ba04ecae",
+  "fetchedAt": "2026-06-17T16:53:32.979Z",
+  "source": "cookbook",
+  "url": null,
+  "name": "Grilled Asparagus",
+  "description": "From Meathead: The Science of Great Barbecue and Grilling (Goldwyn), p.350.",
+  "recipeIngredient": [
+    "16 fresh asparagus stalks",
+    "1 tbsp extra-virgin olive oil",
+    "1 1/4 tsp Simon & Garfunkel Rub (p.168)",
+    "1/4 tsp kosher salt",
+    "4 oz Parmigiano-Reggiano cheese",
+    "1 tbsp balsamic condimento or balsamic reduction"
+  ],
+  "recipeInstructions": [
+    "Snap off the woody bottoms (1-3 in).",
+    "Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons.",
+    "Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": null,
+  "image": null,
+  "author": "Meathead Goldwyn",
+  "ai": null
+}

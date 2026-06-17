@@ -1,0 +1,40 @@
+{
+  "mealId": "gyudon-japanese-simmered-beef-and-rice-bowls-2dbea73b",
+  "fetchedAt": "2026-06-17T15:05:08.313Z",
+  "source": "paprika",
+  "url": "https://www.seriouseats.com/gyudon-japanese-simmered-beef-and-rice-bowl-recipe-2?utm_source=chatgpt.com",
+  "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
+  "description": "",
+  "recipeIngredient": [
+    "1 small onion, slivered (about 4 ounces; 120 g)",
+    "1/2 cup (120 ml) homemade dashi, or the equivalent in Hondashi (see note)",
+    "1/4 cup (60 ml) dry sake",
+    "2 tablespoons (30 ml) soy sauce",
+    "1 tablespoon (12 g) sugar, plus more to taste",
+    "1/2 pound (225 g) thinly shaved beef ribeye or chuck steak (see note)",
+    "1 teaspoon (5 ml) grated fresh ginger",
+    "Salt",
+    "To Serve:",
+    "2 cups cooked white rice",
+    "2 poached eggs (optional)",
+    "Sliced scallions",
+    "Beni-shoga (see note)",
+    "Togarashi (see note)"
+  ],
+  "recipeInstructions": [
+    "Combine onion, dashi, sake, soy sauce, and sugar in a medium saucepan or saucier and bring to a simmer over medium heat. Cook, stirring occasionally, until onion is softened, about 5 minutes.",
+    "Add beef and cook, stirring until beef is cooked through and liquid has reduced down to an intensely flavored broth, about 5 minutes. Stir in ginger and simmer for 1 minute longer. Adjust seasoning with salt and sugar to taste.",
+    "Divide rice between 2 to 3 bowls and top with beef and sauce mixture. Garnish each bowl with a poached egg (if using), sliced scallions, beni-shoga, and togarashi. Serve immediately."
+  ],
+  "prepTime": null,
+  "cookTime": "20 min",
+  "totalTime": null,
+  "recipeYield": "2 servings",
+  "image": "https://www.seriouseats.com/thmb/SbLrp29LvlnQz2KAtCjxk-Qcoq8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__07__20160711-gyudon-beef-rice-bowl-japanese-recipe-16-91997f708ebb4e6ba41514a13ff5b864.jpg",
+  "author": "seriouseats.com",
+  "categories": [],
+  "rating": 3,
+  "notes": "Homemade dashi is nice, but not necessary for this simple dish, which has so many other strong flavors. Look for thinly shaved beef at Japanese markets, ask your butcher to shave it for you, or use frozen shaved steak intended for Philly cheesesteaks. The beef can be cooked directly from the freezer if using frozen; just add a few minutes to the cooking time, and make sure to carefully stir the beef and break it apart as it thaws. Beni-shoga is bright red pickled hot ginger. Togarashi is Japanese chili powder, which comes in both ichimi (chilies only) and shichimi (chilies blended with other dried aromatics) versions. Either will work on this dish. All of these ingredients can be found in any Japanese market or well-stocked Western supermarket.",
+  "nutrition": "(per serving) | 655 Calories 22g Fat 65g Carbs 42g Protein | Nutrition Facts | Servings: 2 | Amount per serving | Calories 655 | % Daily Value* | Total Fat 22g 28% | Saturated Fat 8g 42% | Cholesterol 109mg 36% | Sodium 2240mg 97% | Total Carbohydrate 65g 24% | Dietary Fiber 3g 9% | Total Sugars 11g | Protein 42g | Vitamin C 8mg 39% | Calcium 75mg 6% | Iron 6mg 33% | Potassium 801mg 17% | *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "ai": null
+}

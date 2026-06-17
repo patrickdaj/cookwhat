@@ -1,0 +1,30 @@
+{
+  "mealId": "creamy-feta-yogurt-dressing-or-dip-d91d35fe",
+  "fetchedAt": "2026-06-17T15:05:08.300Z",
+  "source": "paprika",
+  "url": "https://www.ambitiouskitchen.com/feta-yogurt-dressing/",
+  "name": "Creamy Feta Yogurt Dressing (Or Dip!)",
+  "description": "",
+  "recipeIngredient": [
+    "1 garlic clove (or sub 1/2 teaspoon garlic powder)",
+    "1/2 cup plain greek yogurt (whole milk or 2%)",
+    "1/4 cup feta crumbles",
+    "½ tablespoon fresh lemon juice",
+    "1-2 teaspoons water, to thin if necessary",
+    "Freshly ground salt and pepper, to taste"
+  ],
+  "recipeInstructions": [
+    "Add the garlic, yogurt, feta and lemon juice to a food processor or blender; process until smooth. Add a bit of salt and pepper to taste and process once more and water if necessary to thin to your liking."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": null,
+  "recipeYield": "4",
+  "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2020/05/Creamy-Feta-Yogurt-Dressing-2-96x96.jpg",
+  "author": "ambitiouskitchen.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": "Fat: 2.6 g | Calories: 47 kcal | Saturated Fat: 1.7 g | Carbohydrate: 1.8 g | Sugar: 1.1 g | Serving Size: 2 tablespoons | Protein: 4.2 g",
+  "ai": null
+}

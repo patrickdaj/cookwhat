@@ -22,7 +22,9 @@ generate a shopping list.
    invent a URL.
 4. **Design a balanced week.** Spread proteins and cuisines; respect time
    budgets (quick on weeknights, project cooking on weekends); lean toward the
-   `nutrition.goals`. Pull ingredient lists from the actual recipes.
+   `nutrition.goals`. Pull ingredient lists from the actual recipes. **Build
+   full dinners** (see "Full meals" below): most days should land a protein, a
+   vegetable, and a carb.
 5. **Save the plan.** Write a plan JSON and import it (preferred for a full
    week), or add meals one at a time. See "Saving a plan" below.
 6. **Validate & self-correct.** `cookwhat plan check <week>`. Fix any ✗ errors
@@ -75,6 +77,23 @@ Field notes:
 - Quantities should be for the recipe's own `servings`; the CLI scales on
   request. Omit `qty` for "to taste" items.
 
+## Full meals (protein + veggie + carb)
+
+Most dinners should be a **complete plate: a protein, a vegetable, and some kind
+of carb** (rice, potatoes, bread, pasta, grain). This is a design rule for *you*
+— the CLI doesn't validate meal composition, so it won't show up in `plan
+check`; you have to compose it.
+
+- The carb/veggie can live **inside the main** (e.g. a sheet-pan chicken with
+  potatoes already has its carb; a stir-fry already has its veg) — don't bolt on
+  a redundant side. Only add a `side` dish when the main is missing a component.
+- When you do add one, pull from the user's pools first: **Paprika recipes and
+  cookbooks** are full of veg sides and salads, so a "full meal" is also a
+  natural way to keep using the recipe database. Trivial carbs (steamed rice,
+  crusty bread) can just be ingredient lines on the main — see Sides rules below.
+- Breakfasts (e.g. a Sunday Huevos) are exempt; this is about dinners.
+- "Most days," not all — a one-bowl ramen night is fine. Use judgment.
+
 ## Sides & multi-dish days (lessons learned)
 
 A day can hold several dishes: one `main` plus `side` dishes (`"role": "side"`).
@@ -113,6 +132,29 @@ Spread recipes across the user's `preferredSites` — don't lean on one site.
   them to paste the recipe text (as with the gated NYT huevos), then save it
   with the real source URL.
 
+## Source mix & freshness
+
+Pull from **all four pools** and don't skew to any one: redos/history, the user's
+Paprika recipes, their cookbooks (title placeholders, scanned on demand), and
+fresh web finds. Crucially, **"fresh" does not mean web-only** — most of the
+user's own catalog is *uncooked*, so it's new-to-them:
+
+- **Redos** (in history, rated ≥4) — loved repeats; seed a week with a few.
+- **Cooked & meh** (rated 1–3 in history) — deprioritize; don't re-suggest soon.
+  Also respect `avoidRepeatWithinDays` for anything cooked recently.
+- **Owned but uncooked = the big freshness pool.** Paprika recipes with **no
+  rating** (~40% of the import) and any cookbook recipe not yet cooked are new
+  experiences from the user's own shelves. Leaning here *is* bringing fresh
+  stuff, and it works through the library the user already paid for. (Signal: a
+  Paprika recipe JSON with no `rating`, or a history with no entry for that
+  title, hasn't been cooked.)
+- **New web finds** — genuine discovery beyond the collection; sprinkle 1–2 in
+  most weeks so the rotation keeps growing.
+
+A good week blends these — a redo or two for comfort, several uncooked-owned
+picks (Paprika + book placeholders), and a new web recipe or two. When you
+present the plan, label which pool each pick came from so the balance is visible.
+
 ## Cookbooks (the user's physical books)
 
 The user owns physical cookbooks, catalogued in `data/cookbooks/*.json` (e.g.
@@ -128,20 +170,35 @@ When designing a week, scan the catalogs for recipes that fit the user's config
 broccoli/bean-heavy items). Cookbook recipes also **sidestep the site-blocking
 problem** (nothing to fetch), so they're reliable picks.
 
-To put a cookbook recipe on a menu:
-- Save it as a normal meal with `source: "Book Title (Author) — p.NNN"` and
-  **no `url`** (there isn't one).
-- **Ingredients must come from a real scan**, never from the title or memory. If
-  the catalog entry has a `captured` block, use it. If it's title+page only, ask
-  the user to scan that page first — same rule as "real URLs only" for the web.
-- `plan check` will emit a benign `⚠ "…" has no source URL` for cookbook dishes.
-  That's expected and **not** a blocker; don't try to "fix" it with a fake URL.
-- `recipe fetch` skips no-URL meals automatically.
-- After capturing a scanned recipe, store its `captured` data back in the
-  catalog so it's reusable in future weeks.
-- Catalogs are built from a book's table of contents / "Recipes in This Chapter"
-  pages; transcribing titles + page numbers is fine, but a recipe's full
-  ingredient list/method only gets recorded from an actual scan of that page.
+To put a cookbook recipe on a menu — **plan by title now, scan on demand later.**
+Scanning every book up front is a ton of work, so don't. Two stages:
+
+1. **Placeholder now (no scan).** Add it as a normal meal with
+   `source: "Book Title (Author) — p.NNN"` and **no `url`**. Set
+   `cuisine`/`protein`/`role`/`active` from the title + catalog entry — these are
+   categorization (so the balance + time checks still work), not fabricated
+   ingredients. Leave `ingredients: []` and add the tag **`"needs-scan"`**. If the
+   catalog already has a `captured` block, use it and skip the placeholder.
+2. **Scan on demand, before that week's shopping/cooking.** Ask the user to scan
+   the specific page(s), capture the real `ingredients`/`method` into the meal,
+   **and** store the `captured` block back in the catalog (reusable forever). Then
+   re-run `cookwhat shopping` so the list is complete.
+
+Rules for the workflow:
+- **Never fabricate ingredients** from a title or memory — a placeholder carries
+  *no* ingredients until scanned. (Cuisine/protein from the title is fine;
+  inventing an ingredient list is not.)
+- A `needs-scan` placeholder contributes **nothing to the shopping list.** When
+  you generate shopping for a week, first check for `needs-scan` meals and tell
+  the user exactly which book pages to scan — those items are missing until then.
+- Find what's pending: grep menus for cookbook meals (no `sourceUrl`) whose
+  `ingredients` is empty, or that carry the `needs-scan` tag.
+- `plan check` emits a benign `⚠ "…" has no source URL` for cookbook dishes —
+  expected, **not** a blocker; don't "fix" it with a fake URL. `recipe fetch`
+  skips no-URL meals automatically.
+- Catalogs come from a book's table of contents; transcribing titles + page
+  numbers is fine, but a recipe's ingredient list/method is only recorded from an
+  actual scan of that page.
 
 ## Hard rules (never violate)
 
