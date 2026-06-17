@@ -1,0 +1,682 @@
+{
+  "weekOf": "2026-06-28",
+  "generatedAt": "2026-06-17T04:20:09.061Z",
+  "targetServings": 4,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "bell peppers (assorted), sliced",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "celery",
+          "qty": 2,
+          "unit": "stalks",
+          "category": "produce",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cherry or datterini tomatoes",
+          "qty": 250,
+          "unit": "g",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "unit": "pint",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "corn on the cob",
+          "qty": 4,
+          "unit": "ears",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.17,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh dill",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "20-Minute Greek Salmon",
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh green asparagus",
+          "qty": 400,
+          "unit": "g",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 6,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle",
+            "Greek Lemon Rice",
+            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Roasted Red Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes",
+            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "garlic",
+          "qty": 14,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle",
+            "Chicken Provencal with Olives and Cherry Tomatoes",
+            "Crispy Roasted Red Potatoes",
+            "20-Minute Greek Salmon",
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Roasted Red Potatoes",
+            "20-Minute Greek Salmon",
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lime",
+          "qty": 1.67,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas",
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion, sliced",
+          "qty": 0.67,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion, thinly sliced",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Roasted Red Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "scallions (or mitsuba)",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Yukon Gold or waxy potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "zucchini (small)",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Grilled Zucchini Planks"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 20,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled",
+          "qty": 400,
+          "unit": "g",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ribeye steaks",
+          "qty": 4,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken (~4 lb)",
+          "qty": 0.67,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "eggs (hard-boiled)",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large eggs",
+          "qty": 8,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn or flour tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "cooked Japanese short-grain rice",
+          "qty": 4,
+          "unit": "serving",
+          "category": "pantry",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dashi",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "farfalle pasta",
+          "qty": 400,
+          "unit": "g",
+          "category": "pantry",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mirin",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "orzo pasta",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sake",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Oyakodon (Chicken and Egg Bowl)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellow mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 2.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dill pickles",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "All-American Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "pitted olives (Nicoise or Kalamata)",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "beef rub (or coarse salt + pepper + garlic powder)",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chili powder",
+          "qty": 0.67,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chili powder",
+          "qty": 1.33,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spatchcock Chicken with Dry Rub",
+            "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried ground mustard",
+          "qty": 0.67,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Crispy Roasted Red Potatoes",
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic powder",
+          "qty": 0.67,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1.33,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas",
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "herbes de Provence",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion powder",
+          "qty": 1.33,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas",
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "20-Minute Greek Salmon",
+            "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 0.67,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 1,
+          "unit": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Italian Shrimp and Asparagus Farfalle",
+            "Chicken Provencal with Olives and Cherry Tomatoes"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "extra virgin olive oil",
+    "brown sugar",
+    "butter",
+    "olive oil",
+    "unsalted butter"
+  ],
+  "totalItems": 61
+}
