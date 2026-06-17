@@ -1,11 +1,21 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T04:20:09.061Z",
+  "generatedAt": "2026-06-17T04:39:41.271Z",
   "targetServings": 4,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "asparagus (large spears)",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "bell peppers (assorted), sliced",
           "qty": 2,
@@ -99,13 +109,12 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 6,
+          "qty": 4,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
             "Italian Shrimp and Asparagus Farfalle",
-            "Greek Lemon Rice",
-            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+            "Greek Lemon Rice"
           ],
           "hasUnquantified": false
         },
@@ -120,13 +129,42 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh tarragon",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh thyme",
           "qty": null,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken Provencal with Olives and Cherry Tomatoes",
-            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+            "Chicken Provencal with Olives and Cherry Tomatoes"
           ],
           "hasUnquantified": true
         },
@@ -141,16 +179,6 @@
             "Crispy Roasted Red Potatoes",
             "20-Minute Greek Salmon",
             "Greek Lemon Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
           ],
           "hasUnquantified": false
         },
@@ -328,7 +356,7 @@
           "unit": "steak",
           "category": "meat-seafood",
           "fromMeals": [
-            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -376,6 +404,16 @@
             "Oyakodon (Chicken and Egg Bowl)"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "Parmigiano-Reggiano (optional)",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": true
         }
       ]
     },
@@ -397,6 +435,16 @@
     {
       "category": "pantry",
       "items": [
+        {
+          "item": "balsamic reduction",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": true
+        },
         {
           "item": "cooked Japanese short-grain rice",
           "qty": 4,
@@ -538,16 +586,6 @@
       "category": "spices",
       "items": [
         {
-          "item": "beef rub (or coarse salt + pepper + garlic powder)",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Rib Eye Steak with Roasted Garlic Resting Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "chili powder",
           "qty": 0.67,
           "unit": "tbsp",
@@ -565,6 +603,16 @@
           "fromMeals": [
             "Grilled Spatchcock Chicken with Dry Rub",
             "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chili powder or ground ancho",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -590,12 +638,33 @@
           "hasUnquantified": false
         },
         {
+          "item": "dry mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "garlic powder",
-          "qty": 0.67,
+          "qty": 2.67,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Grilled Spatchcock Chicken with Dry Rub"
+            "Grilled Spatchcock Chicken with Dry Rub",
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground chipotle or cayenne",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
           ],
           "hasUnquantified": false
         },
@@ -632,6 +701,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Ribeye with Big Bad Beef Rub & Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "paprika",
           "qty": 1.5,
           "unit": "tsp",
@@ -639,6 +718,16 @@
           "fromMeals": [
             "20-Minute Greek Salmon",
             "Grilled Spatchcock Chicken with Dry Rub"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Simon and Garfunkel Rub (Meathead p.168)",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
           ],
           "hasUnquantified": false
         },
@@ -676,7 +765,10 @@
     "brown sugar",
     "butter",
     "olive oil",
-    "unsalted butter"
+    "kosher salt",
+    "coarsely ground black pepper",
+    "sugar",
+    "salted butter"
   ],
-  "totalItems": 61
+  "totalItems": 70
 }

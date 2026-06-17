@@ -13,7 +13,7 @@
     {"title": "Lubing Turkey Breasts", "page": 162, "chapter": "Brines, Rubs & Sauces"},
 
     {"title": "Dalmatian Rub", "page": 166, "chapter": "Rubs"},
-    {"title": "Big Bad Beef Rub", "page": 166, "chapter": "Rubs", "fitsMenu": "great on the July 4 ribeye"},
+    {"title": "Big Bad Beef Rub", "page": 166, "chapter": "Rubs", "fitsMenu": "great on the July 4 ribeye", "scanned": true, "makes": "about 1/2 cup", "captured": {"ingredients": ["3 tbsp coarsely ground black pepper", "1 tbsp sugar", "1 tbsp onion powder", "1 tbsp dry mustard", "2 tsp garlic powder", "2 tsp chili powder or ground ancho", "1 tsp ground chipotle or cayenne"], "method": "Mix together in a bowl. No salt in the rub - salt the meat separately."}},
     {"title": "Mrs. O'Leary's Cow Crust", "page": 167, "chapter": "Rubs"},
     {"title": "Meathead's Memphis Dust", "page": 167, "chapter": "Rubs", "note": "the signature pork/rib rub"},
     {"title": "Simon & Garfunkel Rub", "page": 168, "chapter": "Rubs", "fitsMenu": "herb rub for poultry"},
@@ -35,7 +35,7 @@
     {"title": "Pesto", "page": 189, "chapter": "Sauces"},
     {"title": "Roasted Red Pepper and Garlic Coulis", "page": 190, "chapter": "Sauces"},
     {"title": "Japanese Happy Mouth Yakitori Sauce", "page": 191, "chapter": "Sauces"},
-    {"title": "Greek Ladolemono for Seafood", "page": 192, "chapter": "Sauces", "fitsMenu": "perfect for the grilled swordfish"},
+    {"title": "Greek Ladolemono for Seafood", "page": 192, "chapter": "Sauces", "fitsMenu": "perfect for the grilled swordfish", "scanned": true, "makes": "1/2 cup (2-4 servings of seafood)", "captured": {"ingredients": ["1/4 cup high-quality extra-virgin olive oil", "2 tbsp fresh lemon juice", "2 tsp finely chopped fresh oregano (or 1 tsp dried)", "1/4 tsp kosher salt", "1/4 tsp coarsely ground black pepper"], "method": "Combine in a lidded jar and shake thoroughly; shake again just before using. Also good with fresh parsley, basil, or fennel."}},
     {"title": "Grilled Marinara Sauce", "page": 193, "chapter": "Sauces"},
     {"title": "Bacon and Onion Jam", "page": 194, "chapter": "Sauces", "note": "bacon is a favorite"},
 
@@ -57,7 +57,7 @@
     {"title": "Prime Rib", "page": 249, "chapter": "Beef"},
     {"title": "Santa Maria Tri-Tip (Poor Man's Prime Rib)", "page": 251, "chapter": "Beef"},
     {"title": "Chateaubriand with Compound Butter", "page": 254, "chapter": "Beef"},
-    {"title": "Beef Butter", "page": 255, "chapter": "Beef (compound butter)", "fitsMenu": "compound butter for the ribeye"},
+    {"title": "Beef Butter", "page": 255, "chapter": "Beef (compound butter)", "fitsMenu": "compound butter for the ribeye", "scanned": true, "makes": "4 oz (1 stick)", "captured": {"ingredients": ["8 tbsp (1 stick) salted butter", "1/2 tsp chopped fresh rosemary", "1/2 tsp chopped fresh parsley", "1/2 tsp chopped fresh tarragon"], "method": "Soften the butter, mash in the herbs with a fork, roll in plastic wrap like a Tootsie Roll (~1 inch thick), twist the ends, and chill overnight. Keeps in fridge or freezer. Endlessly variable - add chipotle, mushrooms, port, miso, etc."}},
     {"title": "Short Ribs, Texas Style", "page": 257, "chapter": "Beef"},
     {"title": "Short Ribs, Brazilian Steakhouse Style", "page": 257, "chapter": "Beef"},
     {"title": "Texas Beef Brisket", "page": 260, "chapter": "Beef"},
@@ -106,7 +106,7 @@
     {"title": "Greg's Grilled Lobster", "page": 346, "chapter": "Seafood"},
 
     {"title": "Simple Grilled Crostini", "page": 350, "chapter": "Sides"},
-    {"title": "Grilled Asparagus", "page": 350, "chapter": "Sides", "fitsMenu": "the green side for the July 4 ribeye"},
+    {"title": "Grilled Asparagus", "page": 350, "chapter": "Sides", "fitsMenu": "the green side for the July 4 ribeye", "scanned": "partial", "captured": {"note": "Ingredient quantities were cropped off the left margin in the scan, and the recipe cross-references the Simon & Garfunkel Rub (p.168, not yet scanned). Readable ingredients: asparagus stalks, extra-virgin olive oil, Simon & Garfunkel Rub, kosher salt, shaved Parmigiano-Reggiano, balsamic condimento/reduction.", "method": "Snap the woody ends, coat with oil + rub + salt, grill two-zone (~325F indirect), finish with shaved Parm ribbons and a balsamic drizzle.", "needsRescan": "p.350 ingredient column + Simon & Garfunkel Rub p.168"}},
     {"title": "Grilled Cauliflower", "page": 352, "chapter": "Sides"},
     {"title": "The Ultimate Grilled Corn on the Cob", "page": 353, "chapter": "Sides", "fitsMenu": "cookbook alt for the Fri grilled corn"},
     {"title": "Chipotle-Lime Corn on the Cob", "page": 354, "chapter": "Sides"},

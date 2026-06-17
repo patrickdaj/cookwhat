@@ -85,9 +85,23 @@
           "unit": "",
           "category": "spices",
           "note": ""
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "Greek Ladolemono finishing sauce (Meathead p.192)"
+        },
+        {
+          "item": "lemon (for ladolemono)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tbsp juice for the sauce"
         }
       ],
-      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more."
+      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more. Finish with Greek Ladolemono (Meathead/Goldwyn p.192): shake 1/4 cup EVOO, 2 tbsp lemon juice, 2 tsp chopped fresh oregano, and 1/4 tsp each salt and pepper in a jar; drizzle over the grilled fish."
     },
     {
       "id": "mediterranean-tomato-and-cucumber-salad-f723b5af",

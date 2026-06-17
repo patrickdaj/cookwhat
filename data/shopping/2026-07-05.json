@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-17T04:20:09.129Z",
+  "generatedAt": "2026-06-17T04:39:41.352Z",
   "targetServings": 4,
   "sections": [
     {
@@ -13,6 +13,16 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Swordfish"
           ],
           "hasUnquantified": false
         },
@@ -48,7 +58,7 @@
         },
         {
           "item": "lemon (juiced)",
-          "qty": 2,
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -153,5 +163,5 @@
   "excludedStaples": [
     "extra virgin olive oil"
   ],
-  "totalItems": 13
+  "totalItems": 14
 }

@@ -718,7 +718,7 @@
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Rib Eye Steak with Roasted Garlic Resting Butter",
+      "title": "Grilled Ribeye with Big Bad Beef Rub & Beef Butter",
       "source": "Hey Grill Hey",
       "sourceUrl": "https://heygrillhey.com/rib-eye-steak/",
       "cuisine": "american",
@@ -741,42 +741,91 @@
           "note": ""
         },
         {
-          "item": "beef rub (or coarse salt + pepper + garlic powder)",
-          "qty": 2,
+          "item": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "salt the steaks separately - Meathead keeps salt out of the rub"
+        },
+        {
+          "item": "coarsely ground black pepper",
+          "qty": 3,
           "unit": "tbsp",
           "category": "spices",
-          "note": ""
+          "note": "Big Bad Beef Rub (Meathead p.166)"
         },
         {
-          "item": "unsalted butter",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "garlic",
+          "item": "sugar",
           "qty": 1,
-          "unit": "head",
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "Big Bad Beef Rub"
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "Big Bad Beef Rub"
+        },
+        {
+          "item": "dry mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "Big Bad Beef Rub"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "Big Bad Beef Rub"
+        },
+        {
+          "item": "chili powder or ground ancho",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "Big Bad Beef Rub"
+        },
+        {
+          "item": "ground chipotle or cayenne",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "Big Bad Beef Rub (adjust to heat preference)"
+        },
+        {
+          "item": "salted butter",
+          "qty": 8,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "Beef Butter (Meathead p.255) - 1 stick"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 0.5,
+          "unit": "tsp",
           "category": "produce",
-          "note": ""
+          "note": "Beef Butter"
         },
         {
           "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
+          "qty": 0.5,
+          "unit": "tsp",
           "category": "produce",
-          "note": ""
+          "note": "Beef Butter"
         },
         {
-          "item": "fresh thyme",
-          "qty": null,
-          "unit": "",
+          "item": "fresh tarragon",
+          "qty": 0.5,
+          "unit": "tsp",
           "category": "produce",
-          "note": ""
+          "note": "Beef Butter"
         }
       ],
-      "notes": "Roast the garlic ahead, mash into softened butter; rest the grilled steaks on the compound butter so it melts over the top."
+      "notes": "Grill hot (Hey Grill Hey two-zone method). Season with Big Bad Beef Rub (Meathead/Goldwyn p.166) - the rub has no salt, so salt the steaks separately. Make Beef Butter ahead (Meathead p.255): mash the herbs into a softened stick of butter, roll in plastic like a Tootsie Roll, chill overnight, and top the rested steaks with a coin so it melts over."
     },
     {
       "id": "all-american-potato-salad-d02b98d9",
@@ -849,6 +898,64 @@
         }
       ],
       "notes": "Boil potatoes whole in salted water, then cut and dress while warm so they absorb flavor; chill before serving."
+    },
+    {
+      "id": "grilled-asparagus-cf65d880",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Grilled Asparagus",
+      "source": "Meathead (Goldwyn) p.350",
+      "sourceUrl": "",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "grill",
+        "cabin",
+        "side",
+        "festive"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus (large spears)",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Simon and Garfunkel Rub (Meathead p.168)",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "sub-recipe not yet scanned"
+        },
+        {
+          "item": "Parmigiano-Reggiano (optional)",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "note": "shaved; optional - skip to keep dairy low"
+        },
+        {
+          "item": "balsamic reduction",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "drizzle to serve"
+        }
+      ],
+      "notes": "Quantities ESTIMATED - the scanned p.350 ingredient column was cropped. Snap the woody ends, coat with oil + Simon and Garfunkel Rub, grill two-zone ~325F indirect; finish with shaved Parm and a balsamic drizzle."
     }
   ]
 }
