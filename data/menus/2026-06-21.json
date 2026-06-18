@@ -547,6 +547,12 @@
           "note": ""
         },
         {
+          "item": "long or green beans, cut into 1-inch pieces",
+          "qty": 0.5,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
           "item": "jasmine rice",
           "qty": 3,
           "unit": "cup",
@@ -554,7 +560,7 @@
           "note": ""
         }
       ],
-      "notes": "15-minute high-heat stir-fry; basil + mint go in at the end. Full plate: chicken + onion/basil/mint (veg) + jasmine rice (carb)."
+      "notes": "15-minute high-heat stir-fry; basil + mint go in at the end. Full plate: chicken + long/green beans + basil/mint (veg) + jasmine rice (carb). (Long beans added to round out the veg — common in Thai basil stir-fries.)"
     },
     {
       "id": "pork-chops-milanese-with-amatriciana-c8263a73",

@@ -79,25 +79,26 @@ Field notes:
 
 ## Full meals (protein + veggie + carb)
 
-Most dinners should be a **complete plate: a protein, a vegetable, and some kind
-of carb** (rice, potatoes, bread, pasta, grain). This is a design rule for *you*
-— the CLI doesn't validate meal composition, so it won't show up in `plan
-check`; you have to compose it.
+Every dinner should be a **complete meal: a protein, a vegetable, and some kind
+of carb** (rice, potatoes, bread, pasta, grain). **It's about the *meal*, not
+about having a separate side** — a one-bowl/one-pan dish that already contains
+all three (a salmon rice bowl with edamame, a shrimp fried rice with spinach) is
+a full meal and needs nothing added. This is a design rule for *you* — the CLI
+doesn't validate meal composition, so it won't show up in `plan check`.
 
-- **The user wants real sides — give most dinners at least one distinct `side`
-  dish** (usually a vegetable or salad), *even when the main is already a
-  complete one-pan/one-bowl plate.* A bare main reads as "missing something."
-  Aim for: main + a veg/salad side, plus a starch side if the main has no carb.
-- The carb/veg can still live **inside the main** for the *composition* check (a
-  stir-fry has its veg, a risotto its carb) — but that doesn't replace serving an
-  actual side alongside. Match the side to the cuisine (a Korean banchan with
-  Korean mains, a green salad with Italian, etc.).
-- Pull sides from the user's pools first: **Paprika recipes and cookbooks** are
-  full of veg sides and salads, so rounding out a plate is also a natural way to
-  keep using the database. Trivial carbs (steamed rice, crusty bread) can be
-  ingredient lines on the main — see Sides rules below.
+- **Audit each day for the three components across the whole plate** (main's own
+  ingredients + any sides). Watch for the common gap: a stir-fry or protein over
+  rice whose only "vegetable" is really an aromatic/herb (onion, garlic, basil,
+  scallion, ginger) — that's missing a *real* veg. Likewise a protein-and-salad
+  plate with no starch is missing a carb.
+- **Fill only the missing component** — don't bolt a redundant side onto an
+  already-complete dish. Add the missing piece however fits best: an in-dish
+  ingredient (e.g. toss long beans into the pad krapow) *or* a side dish (a veg
+  side, a starch). Match it to the cuisine.
+- Pull added sides from the user's pools first: **Paprika recipes and cookbooks**
+  are full of veg sides and salads. Trivial carbs (steamed rice, crusty bread)
+  can just be ingredient lines on the main — see Sides rules below.
 - Breakfasts (e.g. a Sunday Huevos) are exempt; this is about dinners.
-- "Most days," not all — a one-bowl ramen night is fine. Use judgment.
 
 ## Sides & multi-dish days (lessons learned)
 
