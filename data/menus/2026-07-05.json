@@ -782,9 +782,15 @@
           "unit": "tbsp",
           "category": "dairy",
           "note": ""
+        },
+        {
+          "item": "Yukon Gold potatoes, halved",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce"
         }
       ],
-      "notes": "Buttery Lemon-Herb-Rubbed Roast Chicken (The Food Lab, p.595). Process parsley, sage, rosemary, scallion, garlic, salt, pepper, lemon zest, and butter to a paste; rub all over and under the skin. Dry-brine uncovered overnight for crisp skin, then roast per the Simple Whole Roast Chicken method (p.594)."
+      "notes": "From The Food Lab (p.595), scanned. Carb: roast halved Yukon Golds under the chicken to catch the drippings. Veg: the sautéed green beans side on this day."
     },
     {
       "id": "saut-ed-green-beans-with-garlic-and-herbs-892ea077",
@@ -1082,5 +1088,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T04:20:31.487Z"
+  "setAt": "2026-06-18T04:40:16.761Z"
 }

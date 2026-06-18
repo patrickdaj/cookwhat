@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T04:30:25.756Z",
-  "targetServings": 4,
+  "generatedAt": "2026-06-18T04:40:16.796Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
@@ -392,6 +392,16 @@
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Yukon Gold potatoes, halved",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         }
@@ -860,5 +870,5 @@
     "butter"
   ],
   "pendingScans": [],
-  "totalItems": 78
+  "totalItems": 79
 }

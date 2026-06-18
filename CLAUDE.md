@@ -257,6 +257,10 @@ Rules for the workflow:
 
 - Anything in `ingredients.allergies` or `ingredients.dislikes` → exclude
   entirely. Check recipe ingredients, not just titles.
+- **Preparation-dependent preferences** (can't live in the flat `dislikes`
+  list): **swordfish** — the user dislikes it *grilled* (we swapped grilled
+  swordfish → trout once), but **likes it in a stew/braise** (e.g. Sicilian fish
+  stew is fine). So don't blanket-ban swordfish; just avoid grilling it.
 - Stay within `proteinRules` (e.g. `redMeatMaxPerWeek`). `plan check` enforces
   these; a failing check blocks `plan set`.
 - Use only `preferredSites` unless the user asks otherwise; never use

@@ -1,14 +1,14 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-18T04:30:25.661Z",
-  "targetServings": 4,
+  "generatedAt": "2026-06-18T04:40:16.702Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
           "item": "asparagus stalks",
-          "qty": 32,
+          "qty": 16,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -386,7 +386,7 @@
         },
         {
           "item": "Parmigiano-Reggiano",
-          "qty": 8,
+          "qty": 4,
           "unit": "oz",
           "category": "dairy",
           "fromMeals": [
@@ -418,6 +418,16 @@
             "Grilled Shrimp Tacos with Creamy Slaw"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "crusty bread, for serving",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -446,7 +456,7 @@
         },
         {
           "item": "balsamic condimento or reduction",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -697,7 +707,7 @@
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 3.5,
+          "qty": 2.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -757,5 +767,5 @@
     "black pepper"
   ],
   "pendingScans": [],
-  "totalItems": 69
+  "totalItems": 70
 }

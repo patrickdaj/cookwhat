@@ -937,9 +937,15 @@
           "unit": "",
           "category": "produce",
           "note": "for juice"
+        },
+        {
+          "item": "crusty bread (or rice), for serving",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery"
         }
       ],
-      "notes": "Spanish-Style Braised Chicken and Almonds (Complete Mediterranean, ATK p.295). Brown the thighs; soften onions, then garlic + bay leaf + cinnamon; add wine and tomatoes, return chicken and braise in the oven until tender; ground toasted almonds thicken the sauce. Finish with parsley, lemon juice, and the remaining toasted almonds. (Catalog title corrected from 'with Mushrooms and Tomatoes'.)"
+      "notes": "From the Complete Mediterranean (ATK p.295), scanned. Carb: serve with crusty bread or rice to soak up the almond-tomato sauce. Veg: the arugula-fennel-orange salad on this day."
     },
     {
       "id": "arugula-fennel-and-orange-salad-6e1d0edb",
@@ -1019,5 +1025,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-18T04:20:31.251Z"
+  "setAt": "2026-06-18T04:41:50.374Z"
 }
