@@ -1,0 +1,45 @@
+{
+  "mealId": "japanese-potato-salad-f446e0c1",
+  "fetchedAt": "2026-06-18T01:52:08.433Z",
+  "source": "paprika",
+  "url": "https://nomnompaleo.com/japanese-potato-salad",
+  "name": "A Paleo and Whole30 Japanese Potato Salad",
+  "description": "",
+  "recipeIngredient": [
+    "1 X 2X 3X",
+    "1½ pounds russet potatoes, peeled and cut into 1½ inch cubes",
+    "Diamond Crystal kosher salt",
+    "2 Persian cucumbers, thinly sliced into half-moons",
+    "⅓ cup paleo mayonnaise",
+    "2 teaspoons rice vinegar",
+    "1 teaspoon Dijon mustard",
+    "1 small carrot, thinly sliced into half-moons",
+    "¼ cup thinly sliced shallot or red onion, soaked for 10 minutes in ice water and drained",
+    "2 hard boiled eggs, roughly chopped",
+    "½ cup diced ham (optional)",
+    "2 scallions, thinly sliced",
+    "Freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Plop the potatoes into a large pot and add enough cold water to submerge them so that the potatoes are at least an inch below the water’s surface. Add a generous pinch of salt and bring the contents of the pot to a boil over high heat.",
+    "Decrease the heat to maintain a steady simmer. Cook for 10 minutes or until the potatoes are tender and can be easily pierced with a fork. Drain the cooked potatoes and cool to room temperature. (Pop them in the fridge to chill them faster.)",
+    "While the potatoes are cooking, toss the cucumber slices and ½ teaspoon of kosher salt in a small bowl. Set aside for at least 10 minutes so the excess moisture can be released.",
+    "Place the salted cucumber slices in a clean kitchen towel and squeeze out and discard the liquid. Set aside the cucumber slices.",
+    "In a large bowl, stir together the paleo mayonnaise, rice wine vinegar, and mustard.",
+    "Add the cooled potatoes to the bowl. Mash well with a forker potato masher to incorporate the potatoes with the mayonnaise mixture. The resulting creamy texture should resemble chunky mashed potatoes.",
+    "Stir in the cucumbers, carrots, shallots, eggs, ham, and scallions. Taste for seasoning and adjust with salt and pepper to taste. Serve immediately or chill in the fridge before serving!"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "25 min",
+  "totalTime": null,
+  "recipeYield": "Servings 8",
+  "image": "https://nomnompaleo.com/wp-content/uploads/2023/05/1200-Japanese-Potato-Salad-DSC_1714-378x567.jpg",
+  "author": "nomnompaleo.com",
+  "categories": [
+    "Paleo"
+  ],
+  "rating": null,
+  "notes": "Leftover potato salad can be stored in a sealed container in the fridge for up to 4 days. I don’t recommend freezing potato salad because after it thaws, the texture isn’t great.",
+  "nutrition": "Calories: 170kcal | Carbohydrates: 18g | Protein: 5g | Fat: 9g | Fiber: 2g | Sugar: 2g",
+  "ai": null
+}

@@ -327,103 +327,171 @@
       "notes": "First Maangchi pick! Marinate chicken in milk + soy, then stir-fry with the gochugaru sauce and vegetables. Full plate: chicken + cabbage/sweet potato/onion (veg) + rice (carb)."
     },
     {
-      "id": "hoisin-peanut-shrimp-and-slaw-51738a60",
-      "day": "Tue",
+      "id": "korean-cucumber-salad-oi-muchim-043101e1",
+      "day": "Mon",
       "slot": "dinner",
-      "role": "main",
-      "title": "Hoisin-Peanut Shrimp and Slaw",
-      "source": "NYT Cooking",
-      "sourceUrl": "https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw",
-      "cuisine": "chinese",
-      "protein": "shrimp",
+      "role": "side",
+      "title": "Korean Cucumber Salad (Oi Muchim)",
+      "source": "Korean banchan",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
       "tags": [
-        "weeknight",
-        "quick",
-        "asian"
+        "side",
+        "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "coleslaw blend (cabbage + carrot)",
-          "qty": 1,
-          "unit": "bag",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mini cucumbers",
-          "qty": 4,
+          "item": "Persian or English cucumbers",
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "jalapeño",
+          "item": "scallion",
           "qty": 1,
           "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mixed herbs (cilantro/mint/basil)",
-          "qty": 1,
-          "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 3,
+          "qty": 1,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "limes",
+          "item": "gochugaru (Korean red pepper flakes)",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Crunchy spicy-sesame cucumber banchan alongside the dakgalbi (no cabbage overlap)."
+    },
+    {
+      "id": "skillet-salmon-with-quinoa-feta-and-arugula-3eee9a6b",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Skillet Salmon with Quinoa, Feta, and Arugula",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/skillet-salmon-quinoa-feta-arugula-recipe",
+      "cuisine": "mediterranean",
+      "protein": "salmon",
+      "tags": [
+        "weeknight",
+        "one-pan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "quinoa",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "baby arugula",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "chunky peanut butter",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "hoisin sauce",
+          "item": "feta cheese",
           "qty": 0.5,
           "unit": "cup",
-          "category": "pantry",
+          "category": "dairy",
           "note": ""
         },
         {
-          "item": "fried onions or shallots",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "rice noodles",
-          "qty": 8,
-          "unit": "oz",
-          "category": "pantry",
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
           "note": ""
         }
       ],
-      "notes": "Uncooked Paprika pick (new to you). Peanut-hoisin glazed shrimp over a crunchy slaw. Veg = slaw + cucumber; carb = rice noodles."
+      "notes": "Uncooked Paprika pick (replaces the Hoisin shrimp). Sear salmon, cook quinoa in the same skillet, finish with arugula + feta + lemon. Asparagus side rounds it out."
+    },
+    {
+      "id": "braised-asparagus-c54f35db",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Braised Asparagus",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/braised-asparagus-recipe",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Quick braise in stock + butter."
     },
     {
       "id": "my-mother-s-meatballs-87ae4db8",
@@ -704,18 +772,80 @@
       "notes": "Uncooked Paprika pick. One-pan roast — complete plate: chicken + potatoes (carb) + tomatoes/onion (veg)."
     },
     {
-      "id": "grilled-fish-tacos-with-cilantro-lime-slaw-3d4b186e",
+      "id": "saut-ed-green-beans-with-garlic-and-herbs-892ea077",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sautéed Green Beans with Garlic and Herbs",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Crisp-tender green beans with garlic, thyme, lemon — a green for the one-pan chicken."
+    },
+    {
+      "id": "brown-butter-scallops-with-parmesan-risotto-6840d303",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Fish Tacos with Cilantro Lime Slaw",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/grilled-fish-tacos/",
-      "cuisine": "mexican",
-      "protein": "fish",
+      "title": "Brown Butter Scallops with Parmesan Risotto",
+      "source": "Pinch of Yum",
+      "sourceUrl": "https://pinchofyum.com/brown-butter-scallops-parmesan-risotto",
+      "cuisine": "italian",
+      "protein": "scallop",
       "tags": [
         "weeknight",
-        "grill",
         "redo"
       ],
       "activeTimeMin": null,
@@ -723,70 +853,98 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "mahi mahi (or white fish) fillets",
-          "qty": 4,
-          "unit": "",
+          "item": "jumbo scallops",
+          "qty": 1,
+          "unit": "lb",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "shredded cabbage (red + green)",
-          "qty": 1.5,
+          "item": "arborio rice",
+          "qty": 1,
           "unit": "cup",
-          "category": "produce",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "green onions",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cilantro",
+          "item": "dry white wine",
           "qty": 0.5,
           "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "baby spinach",
+          "qty": 4,
+          "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "limes",
+          "item": "garlic",
           "qty": 2,
-          "unit": "",
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Your loved 4-star redo (replaces the fish tacos). Seared scallops over Parmesan risotto with garlicky spinach. Arugula salad finishes the plate."
+    },
+    {
+      "id": "simple-arugula-parmesan-salad-d754ac6a",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Simple Arugula Parmesan Salad",
+      "source": "pantry classic",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby arugula",
+          "qty": 5,
+          "unit": "oz",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "avocado",
+          "item": "Parmesan cheese",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "lemon",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
-        },
-        {
-          "item": "corn or flour tortillas",
-          "qty": 16,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "Hey Grill Hey Fiesta Rub",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
         }
       ],
-      "notes": "Your loved 4★ redo. Grilled fish + cilantro-lime slaw (veg) + tortillas (carb)."
+      "notes": "Lemon-dressed arugula with shaved Parmesan — a light green against the rich risotto."
     },
     {
       "id": "karaage-japanese-fried-chicken-c99fff93",
@@ -879,7 +1037,77 @@
         }
       ],
       "notes": "Japanese fried chicken — fun Saturday project. Marinate thighs, coat in potato starch, twice-fry. Serve with shredded cabbage (veg), rice (carb), and lemon. Asian (JP)."
+    },
+    {
+      "id": "japanese-potato-salad-f446e0c1",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Japanese Potato Salad",
+      "source": "Nom Nom Paleo",
+      "sourceUrl": "https://nomnompaleo.com/japanese-potato-salad",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "russet potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Persian cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-17T21:53:34.258Z"
+  "setAt": "2026-06-18T01:52:08.493Z"
 }

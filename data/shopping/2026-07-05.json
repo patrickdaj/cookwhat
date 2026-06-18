@@ -1,18 +1,48 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T01:19:22.039Z",
-  "targetServings": 4,
+  "generatedAt": "2026-06-18T01:53:08.686Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "avocado",
+          "item": "asparagus",
           "qty": 1,
-          "unit": "",
+          "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby arugula",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby arugula",
+          "qty": 5,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Simple Arugula Parmesan Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby spinach",
+          "qty": 4,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
         },
@@ -27,32 +57,22 @@
           "hasUnquantified": false
         },
         {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "cherry tomatoes",
           "qty": 12,
           "unit": "oz",
           "category": "produce",
           "fromMeals": [
             "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "cilantro",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "coleslaw blend (cabbage + carrot)",
-          "qty": 1,
-          "unit": "bag",
-          "category": "produce",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
           ],
           "hasUnquantified": false
         },
@@ -118,11 +138,12 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 2,
+          "qty": 3,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Sautéed Green Beans with Garlic and Herbs"
           ],
           "hasUnquantified": false
         },
@@ -177,15 +198,27 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans with Garlic and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "garlic",
-          "qty": 11,
+          "qty": 14,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Grilled Trout with Parsley-Caper Sauce",
             "Hummus with Warm Pita",
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Hoisin-Peanut Shrimp and Slaw",
+            "Korean Cucumber Salad (Oi Muchim)",
+            "Sautéed Green Beans with Garlic and Herbs",
+            "Brown Butter Scallops with Parmesan Risotto",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -201,22 +234,22 @@
           "hasUnquantified": false
         },
         {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans with Garlic and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "green cabbage",
           "qty": 0.25,
           "unit": "head",
           "category": "produce",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green onions",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
           ],
           "hasUnquantified": false
         },
@@ -231,25 +264,18 @@
           "hasUnquantified": false
         },
         {
-          "item": "jalapeño",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "lemon",
-          "qty": 5,
+          "qty": 8,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Trout with Parsley-Caper Sauce",
             "Hummus with Warm Pita",
             "Mediterranean Tomato and Cucumber Salad",
+            "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
+            "Sautéed Green Beans with Garlic and Herbs",
+            "Simple Arugula Parmesan Salad",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -265,37 +291,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "limes",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw",
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mini cucumbers",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mixed herbs (cilantro/mint/basil)",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "onion",
           "qty": 1,
           "unit": "",
@@ -306,32 +301,64 @@
           "hasUnquantified": false
         },
         {
-          "item": "red onion",
-          "qty": 0.5,
+          "item": "Persian cucumbers",
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad"
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Persian or English cucumbers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Korean Cucumber Salad (Oi Muchim)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.75,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad",
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "russet potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Potato Salad"
           ],
           "hasUnquantified": false
         },
         {
           "item": "scallions",
-          "qty": 3,
+          "qty": 6,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Korean Cucumber Salad (Oi Muchim)",
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "shredded cabbage (red + green)",
-          "qty": 3.5,
+          "item": "shredded cabbage",
+          "qty": 2,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -432,22 +459,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1.5,
+          "item": "jumbo scallops",
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
+            "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "mahi mahi (or white fish) fillets",
+          "item": "skin-on salmon fillets",
           "qty": 4,
           "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
           "hasUnquantified": false
         },
@@ -466,6 +493,26 @@
     {
       "category": "dairy",
       "items": [
+        {
+          "item": "eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "feta cheese",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "Grana Padano, freshly grated",
           "qty": 0.5,
@@ -508,6 +555,17 @@
           "hasUnquantified": false
         },
         {
+          "item": "Parmesan cheese",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Brown Butter Scallops with Parmesan Risotto",
+            "Simple Arugula Parmesan Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "Parmigiano-Reggiano, grated",
           "qty": 0.5,
           "unit": "cup",
@@ -533,16 +591,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "corn or flour tortillas",
-          "qty": 16,
-          "unit": "",
-          "category": "bakery",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "pita bread",
           "qty": 2,
           "unit": "pack",
@@ -558,6 +606,16 @@
       "category": "pantry",
       "items": [
         {
+          "item": "arborio rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Brown Butter Scallops with Parmesan Risotto"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "coarse polenta (cornmeal)",
           "qty": 1,
           "unit": "cup",
@@ -568,32 +626,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "fried onions or shallots",
+          "item": "mayonnaise",
           "qty": 0.33,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "hoisin sauce",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
+            "Japanese Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -618,12 +656,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "rice noodles",
-          "qty": 8,
-          "unit": "oz",
+          "item": "quinoa",
+          "qty": 1,
+          "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Hoisin-Peanut Shrimp and Slaw"
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
           "hasUnquantified": false
         },
@@ -634,6 +672,26 @@
           "category": "pantry",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Korean Cucumber Salad (Oi Muchim)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -655,6 +713,16 @@
           "category": "pantry",
           "fromMeals": [
             "Hummus with Warm Pita"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Korean Cucumber Salad (Oi Muchim)"
           ],
           "hasUnquantified": false
         }
@@ -684,12 +752,32 @@
           "hasUnquantified": false
         },
         {
+          "item": "chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Brown Butter Scallops with Parmesan Risotto"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "chicken or vegetable broth",
           "qty": 4,
           "unit": "cup",
           "category": "canned",
           "fromMeals": [
             "Creamy Parmesan Polenta"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Asparagus"
           ],
           "hasUnquantified": false
         }
@@ -710,21 +798,12 @@
         },
         {
           "item": "gochugaru (Korean red pepper flakes)",
-          "qty": 3,
+          "qty": 4,
           "unit": "tbsp",
           "category": "spices",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Hey Grill Hey Fiesta Rub",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro Lime Slaw"
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Korean Cucumber Salad (Oi Muchim)"
           ],
           "hasUnquantified": false
         },
@@ -756,11 +835,12 @@
         },
         {
           "item": "dry white wine",
-          "qty": 0.25,
+          "qty": 0.75,
           "unit": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs",
+            "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
         },
@@ -794,10 +874,10 @@
   ],
   "excludedStaples": [
     "extra virgin olive oil",
-    "chunky peanut butter",
+    "unsalted butter",
     "butter",
     "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 73
+  "totalItems": 80
 }

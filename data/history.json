@@ -2600,5 +2600,16 @@
     "sourceUrl": "https://www.seriouseats.com/takeout-style-kung-pao-chicken-diced-chicken-peppers-peanuts-recipe",
     "source": "seriouseats.com",
     "notes": "Cooked ~a week ago — skip repeating for now."
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Hoisin-Peanut Shrimp and Slaw",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "chinese",
+    "protein": "shrimp",
+    "sourceUrl": "https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw",
+    "source": "cooking.nytimes.com",
+    "notes": "Cooked it — just OK, ~3. Don't repeat soon."
   }
 ]

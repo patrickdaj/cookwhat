@@ -84,13 +84,18 @@ of carb** (rice, potatoes, bread, pasta, grain). This is a design rule for *you*
 — the CLI doesn't validate meal composition, so it won't show up in `plan
 check`; you have to compose it.
 
-- The carb/veggie can live **inside the main** (e.g. a sheet-pan chicken with
-  potatoes already has its carb; a stir-fry already has its veg) — don't bolt on
-  a redundant side. Only add a `side` dish when the main is missing a component.
-- When you do add one, pull from the user's pools first: **Paprika recipes and
-  cookbooks** are full of veg sides and salads, so a "full meal" is also a
-  natural way to keep using the recipe database. Trivial carbs (steamed rice,
-  crusty bread) can just be ingredient lines on the main — see Sides rules below.
+- **The user wants real sides — give most dinners at least one distinct `side`
+  dish** (usually a vegetable or salad), *even when the main is already a
+  complete one-pan/one-bowl plate.* A bare main reads as "missing something."
+  Aim for: main + a veg/salad side, plus a starch side if the main has no carb.
+- The carb/veg can still live **inside the main** for the *composition* check (a
+  stir-fry has its veg, a risotto its carb) — but that doesn't replace serving an
+  actual side alongside. Match the side to the cuisine (a Korean banchan with
+  Korean mains, a green salad with Italian, etc.).
+- Pull sides from the user's pools first: **Paprika recipes and cookbooks** are
+  full of veg sides and salads, so rounding out a plate is also a natural way to
+  keep using the database. Trivial carbs (steamed rice, crusty bread) can be
+  ingredient lines on the main — see Sides rules below.
 - Breakfasts (e.g. a Sunday Huevos) are exempt; this is about dinners.
 - "Most days," not all — a one-bowl ramen night is fine. Use judgment.
 

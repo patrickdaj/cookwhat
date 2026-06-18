@@ -1,0 +1,43 @@
+{
+  "mealId": "brown-butter-scallops-with-parmesan-risotto-6840d303",
+  "fetchedAt": "2026-06-18T01:52:08.433Z",
+  "source": "paprika",
+  "url": "https://pinchofyum.com/brown-butter-scallops-parmesan-risotto",
+  "name": "Brown Butter Scallops with Parmesan Risotto",
+  "description": "",
+  "recipeIngredient": [
+    "PARMESAN RISOTTO:",
+    "1 tablespoon butter",
+    "1 minced clove garlic or 1 minced shallot (or both)",
+    "1 cup arborio rice",
+    "1/2 cup white wine",
+    "3 -ish cups of chicken broth",
+    "1/2 cup Parmesan cheese",
+    "SEARED SCALLOPS:",
+    "1 tablespoon grapeseed oil",
+    "1 pound jumbo scallops",
+    "SAUTEED SPINACH OR KALE:",
+    "1 tablespoon olive oil",
+    "1 clove minced garlic",
+    "4 cups spinach or kale",
+    "BROWN BUTTER:",
+    "3 tablespoons butter"
+  ],
+  "recipeInstructions": [
+    "For the Risotto: In a large non-stick skillet over medium heat, melt the butter. Add the garlic or shallots and saute for a minute or two, until soft and fragrant. Add the arborio rice, stir to coat with butter. Add the white wine and enjoy the sizzles. Add the broth, 1/2 cup at a time, and simmer/stir after each addition until the rice is soft and creamy. I usually err on the side of more liquid to get a creamier texture. Add the parmesan and stir until incorporated. Salt + pepp to taste.",
+    "For the Seared Scallops: Heat oil in nonstick skillet. Pat scallops dry (VERY DRY, as dry as possible), sprinkle with salt, and add to pan. They should sizzle (if not, you need a hotter pan.) Shake gently to prevent sticking. After 2-3 minutes, flip each scallop over. They should have a pretty golden brown exterior and an opaque inside. Transfer to a paper towel lined plate to absorb excess oil. Serve immediately.",
+    "For the Sautéed Spinach: Heat the oil over medium low heat. Add the garlic, stir for a minute to get the flavor going. Add the spinach or kale and stir until wilted.",
+    "For the Brown Butter: Put a few tablespoons of butter in a clean skillet over medium heat and stir it while watching it closely – when it starts to look golden and foamy, remove from heat, transfer to a heat-proof bowl to cool slightly, then drizzle over the risotto, scallops, and greens."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": null,
+  "recipeYield": "Yield: 3-4",
+  "image": "https://pinchofyum.com/cdn-cgi/image/width=1080,height=99999,fit=scale-down/wp-content/uploads/Scallop-Risotto-3-2.jpg",
+  "author": "pinchofyum.com",
+  "categories": [],
+  "rating": 4,
+  "notes": null,
+  "nutrition": null,
+  "ai": null
+}

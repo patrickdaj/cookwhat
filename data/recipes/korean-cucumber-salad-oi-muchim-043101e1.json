@@ -1,0 +1,30 @@
+{
+  "mealId": "korean-cucumber-salad-oi-muchim-043101e1",
+  "fetchedAt": "2026-06-18T01:52:08.433Z",
+  "source": "home",
+  "url": null,
+  "name": "Korean Cucumber Salad (Oi Muchim)",
+  "description": "",
+  "recipeIngredient": [
+    "3 Persian or English cucumbers, thinly sliced",
+    "1 scallion, sliced",
+    "1 clove garlic, minced",
+    "1 tbsp gochugaru",
+    "1 tbsp rice vinegar",
+    "1 tsp toasted sesame oil",
+    "1 tsp sugar",
+    "1 tsp sesame seeds",
+    "Salt"
+  ],
+  "recipeInstructions": [
+    "Salt the cucumbers 10 min and pat dry.",
+    "Toss with garlic, scallion, gochugaru, vinegar, sesame oil, sugar; finish with sesame seeds."
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": null,
+  "ai": null
+}

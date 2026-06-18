@@ -1,0 +1,32 @@
+{
+  "mealId": "creamy-parmesan-polenta-3b7fbc32",
+  "fetchedAt": "2026-06-18T01:52:49.287Z",
+  "url": "https://www.themediterraneandish.com/polenta-recipe/",
+  "name": "Creamy Polenta",
+  "description": "Creamy polenta makes a perfect, soft bed for stews, ragùs, and sautéed vegetables or seafood. It takes some time and stirring, but it’s easy to make—there’s no prep work—and worth the effort for the satisfying warmth and comfort it provides.",
+  "recipeIngredient": [
+    "1 cup cornmeal",
+    "4 cups cold water",
+    "1 teaspoon fine salt",
+    "3 tablespoons unsalted butter",
+    "1/2 cup freshly grated Parmigiano-Reggiano cheese"
+  ],
+  "recipeInstructions": [
+    "Stir and simmer: Combine the cornmeal, water, and salt in a Dutch oven or heavy-bottomed saucepan. Set the pan over medium-high heat and bring to a simmer, stirring to keep the polenta from forming lumps. Reduce the heat to low and cook, stirring often to prevent the polenta from sticking to the bottom of the pot, until the grains are fully cooked, about 45 minutes.",
+    "Serve: When the polenta is done, taste and season with more salt if needed. Remove the pot from the heat and stir in the butter and Parmigiano cheese. Serve immediately."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "45 min",
+  "totalTime": "50 min",
+  "recipeYield": "4",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/03/how-to-make-polenta-FINAL-8.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Polenta requires constant stirring over low heat to hydrate the cornmeal evenly and prevent it from sticking and scorching on the bottom.",
+    "keyTips": [
+      "Stir frequently throughout the 45-minute cook time to prevent lumps from forming and the bottom from burning",
+      "Use a heavy-bottomed pot to distribute heat evenly and reduce scorching risk",
+      "Add butter and cheese only at the end after removing from heat to preserve their flavor and prevent greasiness"
+    ]
+  }
+}

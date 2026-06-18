@@ -1,0 +1,29 @@
+{
+  "mealId": "shaved-fennel-and-blood-orange-salad-6337405f",
+  "fetchedAt": "2026-06-18T01:53:08.621Z",
+  "source": "smittenkitchen.com",
+  "url": "https://smittenkitchen.com/2014/02/fennel-and-blood-orange-salad/",
+  "name": "Shaved Fennel and Blood Orange Salad",
+  "description": "Thinly shaved fennel with blood orange segments, olive oil, and lemon — a bright, crunchy winter salad.",
+  "recipeIngredient": [
+    "1 large (or 2 small) fennel bulb, very thinly shaved",
+    "2 blood oranges, segmented (or sliced into rounds)",
+    "2 tbsp extra-virgin olive oil",
+    "1 tbsp fresh lemon juice",
+    "Flaky salt and freshly ground black pepper",
+    "Fennel fronds or mint, for garnish (optional)",
+    "A few oil-cured olives, optional"
+  ],
+  "recipeInstructions": [
+    "Shave the fennel as thinly as possible (a mandoline helps) and segment the blood oranges, catching any juice.",
+    "Arrange fennel and orange on a platter; drizzle with olive oil, lemon juice, and any orange juice.",
+    "Season with flaky salt and pepper; scatter fronds/mint (and olives if using). Serve right away."
+  ],
+  "prepTime": "15 min",
+  "cookTime": null,
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "Smitten Kitchen",
+  "ai": null
+}
