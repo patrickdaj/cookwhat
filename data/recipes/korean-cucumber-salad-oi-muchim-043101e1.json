@@ -1,30 +1,32 @@
 {
   "mealId": "korean-cucumber-salad-oi-muchim-043101e1",
-  "fetchedAt": "2026-06-18T01:52:08.433Z",
-  "source": "home",
-  "url": null,
-  "name": "Korean Cucumber Salad (Oi Muchim)",
-  "description": "",
+  "fetchedAt": "2026-06-18T04:15:16.769Z",
+  "source": "maangchi.com",
+  "url": "https://www.maangchi.com/recipe/oi-muchim",
+  "name": "Oi Muchim (Korean Spicy Cucumber Salad)",
+  "description": "Crisp, juicy cucumber tossed with a sweet-spicy-savory seasoning — a classic Korean banchan ready in minutes.",
   "recipeIngredient": [
-    "3 Persian or English cucumbers, thinly sliced",
-    "1 scallion, sliced",
+    "2 cucumbers",
+    "1/4 onion, thinly sliced",
+    "1 scallion, chopped",
     "1 clove garlic, minced",
-    "1 tbsp gochugaru",
-    "1 tbsp rice vinegar",
+    "1 tbsp gochugaru (Korean hot pepper flakes)",
+    "1 tsp soy sauce",
     "1 tsp toasted sesame oil",
+    "1 tsp toasted sesame seeds",
     "1 tsp sugar",
-    "1 tsp sesame seeds",
     "Salt"
   ],
   "recipeInstructions": [
-    "Salt the cucumbers 10 min and pat dry.",
-    "Toss with garlic, scallion, gochugaru, vinegar, sesame oil, sugar; finish with sesame seeds."
+    "Halve the cucumbers lengthwise and slice diagonally into thin pieces; put in a large bowl.",
+    "Add onion, scallion, garlic, gochugaru, soy sauce, sesame oil, sesame seeds, and sugar.",
+    "Mix well until the sugar dissolves. Best mixed just before serving so it stays crisp and doesn't get watery."
   ],
-  "prepTime": null,
+  "prepTime": "10 min",
   "cookTime": null,
-  "totalTime": null,
+  "totalTime": "10 min",
   "recipeYield": "4 servings",
   "image": null,
-  "author": null,
+  "author": "Maangchi",
   "ai": null
 }

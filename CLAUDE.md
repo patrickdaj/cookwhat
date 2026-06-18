@@ -182,13 +182,16 @@ Aim each week for a deliberate mix across the pools — keeps things fresh, work
 through the cookbook library, and still revisits loved meals. For a ~6–7-dinner
 week, target roughly:
 
-- **1–2 cookbook** dishes — a **"featured book of the week."** Pick one book and
-  pull 1–2 fitting recipes as title placeholders (scan when cooking). **Rotate
-  the featured book** so the whole shelf gets sampled — look at recent weeks and
-  feature one that's been neglected. The library is large (~1,300 catalogued
-  across 6 books; only Meathead is scanned), so there's years of new-to-them
-  material here.
-- **2–3 Paprika uncooked** (unrated) — the big fresh-to-you pool (~160 recipes).
+- **2–3 cookbook dishes — books are a PRIMARY pool, not an afterthought.** The
+  user explicitly wants way more book recipes. Feature a **"book of the week"**
+  (rotate so the whole shelf gets sampled — favor a neglected one) *and* pull an
+  extra book pick or two from elsewhere on the shelf. Add them as **title
+  placeholders** and scan on demand, so you can lean on books heavily without
+  scanning everything up front — the library is huge (~1,300 catalogued across 6
+  books, only Meathead scanned), so there are years of dinners here. The
+  Mediterranean (ATK, 408) and Italian books are loved-cuisine goldmines.
+- **1–2 Paprika uncooked** (unrated) — still a good fresh-to-you pool (~160), but
+  lighter now that books are weighted up.
 - **1–2 new web** picks from `preferredSites` — discovery that grows the DB.
 - **~1 redo every other week** — a loved older recipe (history rating ≥4) for
   comfort. Not every week; respect `avoidRepeatWithinDays`.
@@ -199,7 +202,7 @@ Within that blend, also hit the standing targets:
   japanese / thai / chinese / korean / vietnamese (don't repeat the same one
   twice in one week). Lean on the under-used Asian preferred sites:
   **thewoksoflife** (Chinese), **justonecookbook** (Japanese), and **maangchi**
-  (Korean — never used yet), plus Asian Paprika picks and Asian cookbooks.
+  (Korean), plus Asian Paprika picks and Asian cookbooks.
 - Spread proteins/cuisines and respect all `proteinRules` + time budgets. Label
   each pick's pool when you present the plan so the balance is visible.
 

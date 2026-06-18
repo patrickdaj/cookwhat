@@ -331,9 +331,9 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "Korean Cucumber Salad (Oi Muchim)",
-      "source": "Korean banchan",
-      "sourceUrl": "",
+      "title": "Oi Muchim (Korean Spicy Cucumber Salad)",
+      "source": "Maangchi",
+      "sourceUrl": "https://www.maangchi.com/recipe/oi-muchim",
       "cuisine": "korean",
       "protein": "vegetable",
       "tags": [
@@ -345,49 +345,58 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "Persian or English cucumbers",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
+          "item": "cucumbers",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "onion",
+          "qty": 0.25,
+          "category": "produce"
         },
         {
           "item": "scallion",
           "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
+          "category": "produce"
         },
         {
           "item": "garlic",
           "qty": 1,
           "unit": "clove",
-          "category": "produce",
-          "note": ""
+          "category": "produce"
         },
         {
-          "item": "gochugaru (Korean red pepper flakes)",
+          "item": "gochugaru (Korean hot pepper flakes)",
           "qty": 1,
           "unit": "tbsp",
-          "category": "spices",
-          "note": ""
+          "category": "spices"
         },
         {
-          "item": "rice vinegar",
+          "item": "soy sauce",
           "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "unit": "tsp",
+          "category": "pantry"
         },
         {
           "item": "toasted sesame oil",
           "qty": 1,
           "unit": "tsp",
-          "category": "pantry",
-          "note": ""
+          "category": "pantry"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
         }
       ],
-      "notes": "Crunchy spicy-sesame cucumber banchan alongside the dakgalbi (no cabbage overlap)."
+      "notes": "Real Maangchi banchan (replaces the constructed version): crisp cucumber tossed with gochugaru, garlic, sesame. Mix just before serving so it stays crunchy."
     },
     {
       "id": "skillet-salmon-with-quinoa-feta-and-arugula-3eee9a6b",
@@ -1067,5 +1076,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T02:19:12.399Z"
+  "setAt": "2026-06-18T04:15:16.817Z"
 }

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T02:19:12.445Z",
+  "generatedAt": "2026-06-18T04:15:16.858Z",
   "targetServings": null,
   "sections": [
     {
@@ -63,6 +63,16 @@
           "category": "produce",
           "fromMeals": [
             "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false
         },
@@ -206,7 +216,7 @@
             "Grilled Trout with Parsley-Caper Sauce",
             "Hummus with Warm Pita",
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Korean Cucumber Salad (Oi Muchim)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
             "Sautéed Green Beans with Garlic and Herbs",
             "Brown Butter Scallops with Parmesan Risotto",
             "Karaage (Japanese Fried Chicken)"
@@ -281,11 +291,12 @@
         },
         {
           "item": "onion",
-          "qty": 1,
+          "qty": 1.25,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false
         },
@@ -296,16 +307,6 @@
           "category": "produce",
           "fromMeals": [
             "Japanese Potato Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Persian or English cucumbers",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Korean Cucumber Salad (Oi Muchim)"
           ],
           "hasUnquantified": false
         },
@@ -337,7 +338,7 @@
           "category": "produce",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Korean Cucumber Salad (Oi Muchim)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
           "hasUnquantified": false
@@ -665,16 +666,6 @@
         },
         {
           "item": "rice vinegar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Korean Cucumber Salad (Oi Muchim)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "rice vinegar",
           "qty": 2,
           "unit": "tsp",
           "category": "pantry",
@@ -710,7 +701,17 @@
           "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Korean Cucumber Salad (Oi Muchim)"
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false
         }
@@ -791,7 +792,7 @@
           "category": "spices",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Korean Cucumber Salad (Oi Muchim)"
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false
         },
@@ -862,9 +863,10 @@
   ],
   "excludedStaples": [
     "extra virgin olive oil",
+    "soy sauce",
+    "sugar",
     "unsalted butter",
-    "butter",
-    "soy sauce"
+    "butter"
   ],
   "pendingScans": [],
   "totalItems": 79
