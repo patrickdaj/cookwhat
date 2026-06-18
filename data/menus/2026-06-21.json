@@ -852,95 +852,24 @@
       "notes": "Goes on the grill alongside the shrimp. Carb for Friday's plate."
     },
     {
-      "id": "roast-spatchcock-chicken-with-citrus-honey-d9a98447",
+      "id": "spanish-style-braised-chicken-with-mushrooms-and-tomatoes-ac13382e",
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Roast Spatchcock Chicken with Citrus & Honey",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey/",
-      "cuisine": "mediterranean",
+      "title": "Spanish-Style Braised Chicken with Mushrooms and Tomatoes",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.295",
+      "sourceUrl": "",
+      "cuisine": "spanish",
       "protein": "chicken",
       "tags": [
         "weekend",
-        "project"
+        "needs-scan"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "whole chicken (~5 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "potatoes",
-          "qty": 5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "clementines",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "dried thyme",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "extra virgin olive oil",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Spatchcock for fast, even roasting over the potatoes (carb). Pair with the fennel-orange salad (veg)."
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Featured book pick (Complete Mediterranean). Title placeholder — scan p.295 before cooking. Round the plate out (it likely comes with bread/potatoes + the arugula-fennel-orange salad already on this day handles the veg)."
     },
     {
       "id": "arugula-fennel-and-orange-salad-6e1d0edb",
@@ -1020,5 +949,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-18T02:13:55.582Z"
+  "setAt": "2026-06-18T04:20:31.251Z"
 }

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-18T02:13:55.624Z",
+  "generatedAt": "2026-06-18T04:20:31.289Z",
   "targetServings": null,
   "sections": [
     {
@@ -68,16 +68,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "clementines",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "corn on the cob",
           "qty": 4,
           "unit": "ear",
@@ -140,15 +130,14 @@
         },
         {
           "item": "garlic",
-          "qty": 10,
+          "qty": 8,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Honey Mustard Sheet-Pan Chicken",
-            "Roast Spatchcock Chicken with Citrus & Honey"
+            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -185,13 +174,12 @@
         },
         {
           "item": "lemon",
-          "qty": 2.5,
+          "qty": 1.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Haricots Verts with Butter and Shallots",
-            "Pork Chops Milanese with Amatriciana",
-            "Roast Spatchcock Chicken with Citrus & Honey"
+            "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
         },
@@ -212,26 +200,6 @@
           "category": "produce",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "potatoes",
-          "qty": 5,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
@@ -380,16 +348,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Pork Chops Milanese with Amatriciana"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "whole chicken (~5 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
         },
@@ -552,16 +510,6 @@
         },
         {
           "item": "honey",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "honey",
           "qty": 2,
           "unit": "tsp",
           "category": "pantry",
@@ -712,26 +660,6 @@
       "category": "spices",
       "items": [
         {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dried thyme",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "ground cumin",
           "qty": 1.5,
           "unit": "tsp",
@@ -809,6 +737,13 @@
     "butter",
     "extra virgin olive oil"
   ],
-  "pendingScans": [],
-  "totalItems": 74
+  "pendingScans": [
+    {
+      "title": "Spanish-Style Braised Chicken with Mushrooms and Tomatoes",
+      "day": "Sat",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.295",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 67
 }

@@ -711,74 +711,24 @@
       "notes": "Shave fennel thin, supreme the oranges, toss with oil, lemon, salt; top with toasted hazelnuts + herbs. Bright/bitter foil to the rich meatballs. Quantities best-effort."
     },
     {
-      "id": "baked-chicken-with-potatoes-cherry-tomatoes-and-herbs-5061ee99",
+      "id": "buttery-lemon-herb-rubbed-roast-chicken-2939cd07",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs",
-      "source": "NYT Cooking",
-      "sourceUrl": "https://cooking.nytimes.com/recipes/1017566-baked-chicken-with-potatoes-cherry-tomatoes-and-herbs",
+      "title": "Buttery Lemon-Herb-Rubbed Roast Chicken",
+      "source": "The Food Lab (Kenji López-Alt) — p.595",
+      "sourceUrl": "",
       "cuisine": "american",
       "protein": "chicken",
       "tags": [
         "weeknight",
-        "one-pan"
+        "needs-scan"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 3.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "Yukon Gold potatoes",
-          "qty": 2.5,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 12,
-          "unit": "oz",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh basil",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        }
-      ],
-      "notes": "Uncooked Paprika pick. One-pan roast — complete plate: chicken + potatoes (carb) + tomatoes/onion (veg)."
+      "ingredients": [],
+      "notes": "Featured book pick (The Food Lab). Title placeholder — scan p.595 before cooking. The Sautéed Green Beans side stays for the veg; add a potato/bread carb at scan time."
     },
     {
       "id": "saut-ed-green-beans-with-garlic-and-herbs-892ea077",
@@ -1076,5 +1026,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T04:15:16.817Z"
+  "setAt": "2026-06-18T04:20:31.487Z"
 }

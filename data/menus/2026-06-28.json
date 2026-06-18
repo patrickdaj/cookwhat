@@ -5,80 +5,24 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "pasta-with-zucchini-and-shrimp-607a4084",
+      "id": "sicilian-fish-stew-e047a9f8",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Pasta with Zucchini and Shrimp",
-      "source": "The Pasta Project",
-      "sourceUrl": "https://www.the-pasta-project.com/pasta-zucchini-prawns-italian-recipe/",
+      "title": "Sicilian Fish Stew",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
+      "sourceUrl": "",
       "cuisine": "italian",
-      "protein": "shrimp",
+      "protein": "fish",
       "tags": [
-        "weekend"
+        "weekend",
+        "needs-scan"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "shrimp or prawns",
-          "qty": 14,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "zucchini",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mezze maniche pasta (or tubes)",
-          "qty": 14,
-          "unit": "oz",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "capers",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "handful",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "peperoncino (red pepper flakes)",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Thinly slice the zucchini and soften in garlicky oil; toss with the shrimp and pasta. Complete plate: shrimp + zucchini + pasta."
+      "ingredients": [],
+      "notes": "Featured book pick (Complete Mediterranean). Title placeholder — scan p.267 before cooking. Serve with crusty bread (carb); the stew brings the veg."
     },
     {
       "id": "thai-basil-chicken-gai-pad-krapow-5431e84f",
@@ -891,5 +835,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-18T02:13:55.706Z"
+  "setAt": "2026-06-18T04:20:31.374Z"
 }

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T04:15:16.858Z",
+  "generatedAt": "2026-06-18T04:20:31.522Z",
   "targetServings": null,
   "sections": [
     {
@@ -57,16 +57,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "cherry tomatoes",
-          "qty": 12,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "cucumbers",
           "qty": 2,
           "unit": "",
@@ -93,16 +83,6 @@
           "category": "produce",
           "fromMeals": [
             "Shaved Fennel and Blood Orange Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh basil",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
           ],
           "hasUnquantified": false
         },
@@ -174,16 +154,6 @@
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
           ],
           "hasUnquantified": false
         },
@@ -382,42 +352,12 @@
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Yukon Gold potatoes",
-          "qty": 2.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "meat-seafood",
       "items": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 3.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "boneless skin-on chicken thighs",
           "qty": 1.5,
@@ -824,11 +764,10 @@
         },
         {
           "item": "dry white wine",
-          "qty": 0.75,
+          "qty": 0.5,
           "unit": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs",
             "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
@@ -868,6 +807,13 @@
     "unsalted butter",
     "butter"
   ],
-  "pendingScans": [],
-  "totalItems": 79
+  "pendingScans": [
+    {
+      "title": "Buttery Lemon-Herb-Rubbed Roast Chicken",
+      "day": "Thu",
+      "source": "The Food Lab (Kenji López-Alt) — p.595",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 73
 }

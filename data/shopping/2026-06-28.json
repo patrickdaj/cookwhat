@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-18T02:13:55.739Z",
+  "generatedAt": "2026-06-18T04:20:31.408Z",
   "targetServings": null,
   "sections": [
     {
@@ -79,16 +79,6 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 1,
-          "unit": "handful",
-          "category": "produce",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
           "qty": 0.5,
           "unit": "tsp",
           "category": "produce",
@@ -129,11 +119,10 @@
         },
         {
           "item": "garlic",
-          "qty": 23,
+          "qty": 21,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
-            "Pasta with Zucchini and Shrimp",
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Green Beans",
             "Grilled Shrimp Tacos with Creamy Slaw",
@@ -224,16 +213,6 @@
             "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "zucchini",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -277,16 +256,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Grilled Ribeye with Beef Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shrimp or prawns",
-          "qty": 14,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
           ],
           "hasUnquantified": false
         },
@@ -496,16 +465,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "mezze maniche pasta (or tubes)",
-          "qty": 14,
-          "unit": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "rice vinegar",
           "qty": 1,
           "unit": "tbsp",
@@ -551,16 +510,6 @@
     {
       "category": "canned",
       "items": [
-        {
-          "item": "capers",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "low-sodium chicken broth",
           "qty": 0.33,
@@ -617,16 +566,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "peperoncino (red pepper flakes)",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
           "qty": 2.25,
           "unit": "tsp",
@@ -653,16 +592,6 @@
       "category": "beverages",
       "items": [
         {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Pasta with Zucchini and Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "tequila",
           "qty": 1,
           "unit": "tbsp",
@@ -687,6 +616,13 @@
     "extra virgin olive oil",
     "black pepper"
   ],
-  "pendingScans": [],
-  "totalItems": 62
+  "pendingScans": [
+    {
+      "title": "Sicilian Fish Stew",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 55
 }
