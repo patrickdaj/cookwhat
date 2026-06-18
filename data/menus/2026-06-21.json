@@ -856,20 +856,90 @@
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Spanish-Style Braised Chicken with Mushrooms and Tomatoes",
+      "title": "Spanish-Style Braised Chicken and Almonds",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.295",
       "sourceUrl": "",
       "cuisine": "spanish",
       "protein": "chicken",
       "tags": [
-        "weekend",
-        "needs-scan"
+        "weekend"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Featured book pick (Complete Mediterranean). Title placeholder — scan p.295 before cooking. Round the plate out (it likely comes with bread/potatoes + the arugula-fennel-orange salad already on this day handles the veg)."
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "onions, chopped fine",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 1,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "canned whole peeled tomatoes",
+          "qty": 1,
+          "unit": "can (14.5 oz)",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "blanched slivered almonds, toasted",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley, chopped",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "for juice"
+        }
+      ],
+      "notes": "Spanish-Style Braised Chicken and Almonds (Complete Mediterranean, ATK p.295). Brown the thighs; soften onions, then garlic + bay leaf + cinnamon; add wine and tomatoes, return chicken and braise in the oven until tender; ground toasted almonds thicken the sauce. Finish with parsley, lemon juice, and the remaining toasted almonds. (Catalog title corrected from 'with Mushrooms and Tomatoes'.)"
     },
     {
       "id": "arugula-fennel-and-orange-salad-6e1d0edb",

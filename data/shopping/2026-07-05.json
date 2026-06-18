@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T04:20:31.522Z",
-  "targetServings": null,
+  "generatedAt": "2026-06-18T04:30:25.756Z",
+  "targetServings": 4,
   "sections": [
     {
       "category": "produce",
@@ -138,6 +138,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh parsley leaves",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh parsley, chopped",
           "qty": 0.33,
           "unit": "cup",
@@ -154,6 +164,26 @@
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh rosemary leaves",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh sage leaves",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         },
@@ -204,6 +234,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "garlic, minced",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "green beans",
           "qty": 1,
           "unit": "lb",
@@ -235,7 +275,7 @@
         },
         {
           "item": "lemon",
-          "qty": 7,
+          "qty": 8,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -244,6 +284,7 @@
             "Mediterranean Tomato and Cucumber Salad",
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
+            "Buttery Lemon-Herb-Rubbed Roast Chicken",
             "Sautéed Green Beans with Garlic and Herbs",
             "Karaage (Japanese Fried Chicken)"
           ],
@@ -303,13 +344,14 @@
         },
         {
           "item": "scallions",
-          "qty": 6,
+          "qty": 7,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
             "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Skillet Salmon with Quinoa, Feta, and Arugula"
+            "Skillet Salmon with Quinoa, Feta, and Arugula",
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         },
@@ -405,6 +447,16 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken (3.5-4 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         },
@@ -807,13 +859,6 @@
     "unsalted butter",
     "butter"
   ],
-  "pendingScans": [
-    {
-      "title": "Buttery Lemon-Herb-Rubbed Roast Chicken",
-      "day": "Thu",
-      "source": "The Food Lab (Kenji López-Alt) — p.595",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 73
+  "pendingScans": [],
+  "totalItems": 78
 }

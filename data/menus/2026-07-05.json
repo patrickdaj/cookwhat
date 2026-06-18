@@ -721,14 +721,70 @@
       "cuisine": "american",
       "protein": "chicken",
       "tags": [
-        "weeknight",
-        "needs-scan"
+        "weeknight"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Featured book pick (The Food Lab). Title placeholder — scan p.595 before cooking. The Sautéed Green Beans side stays for the veg; add a potato/bread carb at scan time."
+      "ingredients": [
+        {
+          "item": "whole chicken (3.5-4 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley leaves",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh sage leaves",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary leaves",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon (for zest)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Buttery Lemon-Herb-Rubbed Roast Chicken (The Food Lab, p.595). Process parsley, sage, rosemary, scallion, garlic, salt, pepper, lemon zest, and butter to a paste; rub all over and under the skin. Dry-brine uncovered overnight for crisp skin, then roast per the Simple Whole Roast Chicken method (p.594)."
     },
     {
       "id": "saut-ed-green-beans-with-garlic-and-herbs-892ea077",

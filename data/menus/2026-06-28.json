@@ -15,14 +15,112 @@
       "cuisine": "italian",
       "protein": "fish",
       "tags": [
-        "weekend",
-        "needs-scan"
+        "weekend"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Featured book pick (Complete Mediterranean). Title placeholder — scan p.267 before cooking. Serve with crusty bread (carb); the stew brings the veg."
+      "ingredients": [
+        {
+          "item": "skinless swordfish steaks, cut into 1-inch pieces",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "pine nuts, toasted",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh mint, chopped",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "orange (for zest)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onions, chopped fine",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "celery",
+          "qty": 1,
+          "unit": "rib",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "pinch",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "canned whole peeled tomatoes",
+          "qty": 1,
+          "unit": "can (28 oz)",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "clam juice",
+          "qty": 1,
+          "unit": "bottle (8 oz)",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "raisins",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "capers, rinsed",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "Sicilian Fish Stew (Complete Mediterranean, ATK p.267). Mix pine nuts + mint + a little garlic + orange zest for serving. Soften onion+celery, add remaining garlic/thyme/pepper flakes, then wine + reserved tomato juice (reduce), then tomatoes, clam juice, raisins, capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min then off-heat covered 3 min. Serve topped with the pine nut mixture."
     },
     {
       "id": "thai-basil-chicken-gai-pad-krapow-5431e84f",

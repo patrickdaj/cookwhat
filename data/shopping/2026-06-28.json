@@ -1,14 +1,14 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-18T04:20:31.408Z",
-  "targetServings": null,
+  "generatedAt": "2026-06-18T04:30:25.661Z",
+  "targetServings": 4,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
           "item": "asparagus stalks",
-          "qty": 16,
+          "qty": 32,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -47,6 +47,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "celery",
+          "qty": 1,
+          "unit": "rib",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "cilantro",
           "qty": 0.75,
           "unit": "cup",
@@ -74,6 +84,16 @@
           "category": "produce",
           "fromMeals": [
             "Easy Grilled Corn on the Cob"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh mint, chopped",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -118,6 +138,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "garlic",
           "qty": 21,
           "unit": "clove",
@@ -129,6 +159,16 @@
             "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic, minced",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -171,6 +211,26 @@
           "fromMeals": [
             "Grilled Shrimp Tacos with Creamy Slaw",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onions, chopped fine",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "orange (for zest)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -270,6 +330,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "skinless swordfish steaks, cut into 1-inch pieces",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "whole chicken, cut into quarters (3-4 lb)",
           "qty": 1,
           "unit": "",
@@ -316,7 +386,7 @@
         },
         {
           "item": "Parmigiano-Reggiano",
-          "qty": 4,
+          "qty": 8,
           "unit": "oz",
           "category": "dairy",
           "fromMeals": [
@@ -376,7 +446,7 @@
         },
         {
           "item": "balsamic condimento or reduction",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -465,6 +535,26 @@
           "hasUnquantified": false
         },
         {
+          "item": "pine nuts, toasted",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "raisins",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "rice vinegar",
           "qty": 1,
           "unit": "tbsp",
@@ -510,6 +600,36 @@
     {
       "category": "canned",
       "items": [
+        {
+          "item": "canned whole peeled tomatoes",
+          "qty": 1,
+          "unit": "can (28 oz)",
+          "category": "canned",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "capers, rinsed",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "clam juice",
+          "qty": 1,
+          "unit": "bottle (8 oz)",
+          "category": "canned",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "low-sodium chicken broth",
           "qty": 0.33,
@@ -566,8 +686,18 @@
           "hasUnquantified": false
         },
         {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "pinch",
+          "category": "spices",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": true
+        },
+        {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 2.25,
+          "qty": 3.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -591,6 +721,16 @@
     {
       "category": "beverages",
       "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "tequila",
           "qty": 1,
@@ -616,13 +756,6 @@
     "extra virgin olive oil",
     "black pepper"
   ],
-  "pendingScans": [
-    {
-      "title": "Sicilian Fish Stew",
-      "day": "Sun",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 55
+  "pendingScans": [],
+  "totalItems": 69
 }
