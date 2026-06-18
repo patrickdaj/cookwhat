@@ -5,109 +5,152 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "grilled-swordfish-e945816f",
+      "id": "grilled-trout-with-parsley-caper-sauce-9407e34b",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Swordfish",
+      "title": "Grilled Trout with Parsley-Caper Sauce",
       "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/grilled-swordfish-recipe/",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
       "cuisine": "mediterranean",
-      "protein": "swordfish",
+      "protein": "trout",
       "tags": [
         "weekend",
-        "project"
+        "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "swordfish steaks",
-          "qty": 4,
-          "unit": "steak",
+          "item": "whole rainbow trout, cleaned",
+          "qty": 2,
+          "unit": "",
           "category": "meat-seafood",
           "note": ""
         },
         {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 10,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
           "item": "garlic",
-          "qty": 8,
+          "qty": 1,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "fennel seeds",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
           "item": "extra virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg) + hummus with warm pita (carb/mezze)."
+    },
+    {
+      "id": "hummus-with-warm-pita-98633ab5",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Hummus with Warm Pita",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/how-to-make-hummus/",
+      "cuisine": "mediterranean",
+      "protein": "chickpea",
+      "tags": [
+        "side",
+        "mezze",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "canned chickpeas",
+          "qty": 2,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "tahini",
           "qty": 0.33,
           "unit": "cup",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "lemon (juiced)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "ground coriander",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.75,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh oregano",
+          "item": "garlic",
           "qty": 2,
-          "unit": "tsp",
+          "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "lemon (for ladolemono)",
+          "item": "lemon",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "crusty bread or pita, grilled",
-          "qty": 1,
-          "unit": "loaf",
+          "item": "pita bread",
+          "qty": 2,
+          "unit": "pack",
           "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "sumac",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "extra virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Blend the marinade smooth, coat both sides of the patted-dry steaks; grill over high heat ~5 min, flip once, ~3 min more. Finish with Greek Ladolemono (Meathead/Goldwyn p.192): shake 1/4 cup EVOO, 2 tbsp lemon juice, 2 tsp chopped fresh oregano, and 1/4 tsp each salt and pepper in a jar; drizzle over the grilled fish. Add grilled bread for the carb to make it a full plate."
+      "notes": "Make-ahead mezze: blend chickpeas with tahini, garlic, lemon and ice until silky; drizzle with EVOO + sumac, serve with warm pita to round out the grilled-trout spread."
     },
     {
       "id": "mediterranean-tomato-and-cucumber-salad-5a0dbfbc",
@@ -177,7 +220,478 @@
         }
       ],
       "notes": "Salt the tomatoes and cucumbers and rest 5 min before dressing with lemon, oil, and sumac; skip the feta to keep dairy low."
+    },
+    {
+      "id": "dakgalbi-spicy-korean-chicken-and-vegetables-70b82823",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+      "source": "Maangchi",
+      "sourceUrl": "https://www.maangchi.com/recipe/dakgalbi",
+      "cuisine": "korean",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sweet potato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean red pepper flakes)",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "rice syrup or honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "milk",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "Korean rice cakes (tteok)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "other",
+          "note": ""
+        },
+        {
+          "item": "steamed rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "First Maangchi pick! Marinate chicken in milk + soy, then stir-fry with the gochugaru sauce and vegetables. Full plate: chicken + cabbage/sweet potato/onion (veg) + rice (carb)."
+    },
+    {
+      "id": "hoisin-peanut-shrimp-and-slaw-51738a60",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Hoisin-Peanut Shrimp and Slaw",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw",
+      "cuisine": "chinese",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "quick",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "coleslaw blend (cabbage + carrot)",
+          "qty": 1,
+          "unit": "bag",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mixed herbs (cilantro/mint/basil)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chunky peanut butter",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "hoisin sauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fried onions or shallots",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Uncooked Paprika pick (new to you). Peanut-hoisin glazed shrimp over a crunchy slaw. Veg = slaw + cucumber; carb = rice noodles."
+    },
+    {
+      "id": "my-mother-s-meatballs-87ae4db8",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "My Mother's Meatballs",
+      "source": "My Italian Kitchen (Menafe) — p.156",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "beef",
+      "tags": [
+        "weeknight",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Featured cookbook of the week (My Italian Kitchen). Title placeholder — scan p.156 before cooking to capture the real ingredients. Plate will be meatballs + spaghetti (carb) + a green salad (veg), finalized on scan."
+    },
+    {
+      "id": "baked-chicken-with-potatoes-cherry-tomatoes-and-herbs-5061ee99",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Baked Chicken with Potatoes, Cherry Tomatoes and Herbs",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1017566-baked-chicken-with-potatoes-cherry-tomatoes-and-herbs",
+      "cuisine": "american",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "one-pan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 3.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        }
+      ],
+      "notes": "Uncooked Paprika pick. One-pan roast — complete plate: chicken + potatoes (carb) + tomatoes/onion (veg)."
+    },
+    {
+      "id": "grilled-fish-tacos-with-cilantro-lime-slaw-3d4b186e",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Fish Tacos with Cilantro Lime Slaw",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/grilled-fish-tacos/",
+      "cuisine": "mexican",
+      "protein": "fish",
+      "tags": [
+        "weeknight",
+        "grill",
+        "redo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "mahi mahi (or white fish) fillets",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shredded cabbage (red + green)",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "green onions",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "corn or flour tortillas",
+          "qty": 16,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "Hey Grill Hey Fiesta Rub",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Your loved 4★ redo. Grilled fish + cilantro-lime slaw (veg) + tortillas (carb)."
+    },
+    {
+      "id": "karaage-japanese-fried-chicken-c99fff93",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Karaage (Japanese Fried Chicken)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/karaage/",
+      "cuisine": "japanese",
+      "protein": "chicken",
+      "tags": [
+        "weekend",
+        "asian",
+        "project"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skin-on chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shredded cabbage",
+          "qty": 2,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "potato starch",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "neutral oil (for frying)",
+          "qty": 4,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Japanese fried chicken — fun Saturday project. Marinate thighs, coat in potato starch, twice-fry. Serve with shredded cabbage (veg), rice (carb), and lemon. Asian (JP)."
     }
   ],
-  "setAt": "2026-06-17T17:08:30.515Z"
+  "setAt": "2026-06-17T21:53:34.258Z"
 }

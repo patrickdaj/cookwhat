@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-17T15:52:57.174Z",
+  "generatedAt": "2026-06-17T20:39:41.865Z",
   "targetServings": null,
   "sections": [
     {
@@ -34,16 +34,6 @@
           "category": "produce",
           "fromMeals": [
             "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "celery",
-          "qty": 2,
-          "unit": "stalk",
-          "category": "produce",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -98,16 +88,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh ginger",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "unit": "tbsp",
@@ -140,25 +120,15 @@
         },
         {
           "item": "garlic",
-          "qty": 10,
+          "qty": 11,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Takeout-Style Kung Pao Chicken",
+            "Thai Chicken Stir-fry with Basil & Mint",
             "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green bell pepper",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -216,12 +186,32 @@
           "hasUnquantified": false
         },
         {
+          "item": "mint leaves",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "navel oranges",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -242,16 +232,6 @@
           "category": "produce",
           "fromMeals": [
             "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "red bell pepper",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -277,16 +257,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "scallion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "shallots",
           "qty": 2,
           "unit": "",
@@ -304,6 +274,26 @@
           "category": "produce",
           "fromMeals": [
             "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai basil",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai or Holland chili",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -363,13 +353,22 @@
           "hasUnquantified": false
         },
         {
+          "item": "boneless skinless chicken breast or thighs",
+          "qty": 12,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "boneless skinless chicken thighs",
-          "qty": 3.5,
+          "qty": 2,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken au Poivre",
-            "Takeout-Style Kung Pao Chicken"
+            "Chicken au Poivre"
           ],
           "hasUnquantified": false
         },
@@ -521,11 +520,11 @@
         },
         {
           "item": "cornstarch",
-          "qty": 2.5,
+          "qty": 1,
           "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -551,22 +550,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "distilled white vinegar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "fine dried breadcrumbs",
           "qty": 1,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
             "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -587,6 +586,16 @@
           "category": "pantry",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -631,12 +640,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "roasted peanuts",
-          "qty": 0.5,
-          "unit": "cup",
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
+            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -647,26 +656,6 @@
           "category": "pantry",
           "fromMeals": [
             "Yellowtail Teriyaki (Buri no Teriyaki)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "steamed jasmine rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -706,16 +695,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "chicken stock",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "low-sodium chicken broth",
           "qty": 1.25,
           "unit": "cup",
@@ -748,16 +727,6 @@
           "category": "spices",
           "fromMeals": [
             "Roast Spatchcock Chicken with Citrus & Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dried red chiles (arbol)",
-          "qty": 8,
-          "unit": "",
-          "category": "spices",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
           ],
           "hasUnquantified": false
         },
@@ -835,16 +804,6 @@
             "Yellowtail Teriyaki (Buri no Teriyaki)"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "Shaoxing wine",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Takeout-Style Kung Pao Chicken"
-          ],
-          "hasUnquantified": false
         }
       ]
     }
@@ -860,5 +819,6 @@
     "butter",
     "extra virgin olive oil"
   ],
-  "totalItems": 79
+  "pendingScans": [],
+  "totalItems": 75
 }

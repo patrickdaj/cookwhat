@@ -459,136 +459,102 @@
       "notes": "Dredge fillets lightly in flour for a glaze that clings. Carb: steamed rice. Veg: pan-blistered shishito + negi."
     },
     {
-      "id": "takeout-style-kung-pao-chicken-dcd6fa60",
+      "id": "thai-chicken-stir-fry-with-basil-mint-582515f2",
       "day": "Wed",
       "slot": "dinner",
       "role": "main",
-      "title": "Takeout-Style Kung Pao Chicken",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/takeout-style-kung-pao-chicken-diced-chicken-peppers-peanuts-recipe",
-      "cuisine": "chinese",
+      "title": "Thai Chicken Stir-fry with Basil & Mint",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/thai-chicken-stir-fry-basil-mint/",
+      "cuisine": "thai",
       "protein": "chicken",
       "tags": [
-        "weeknight"
+        "weeknight",
+        "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 1.5,
-          "unit": "lb",
+          "item": "boneless skinless chicken breast or thighs",
+          "qty": 12,
+          "unit": "oz",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "red bell pepper",
+          "item": "Thai basil",
           "qty": 1,
-          "unit": "",
+          "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "green bell pepper",
+          "item": "mint leaves",
           "qty": 1,
-          "unit": "",
+          "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "celery",
-          "qty": 2,
-          "unit": "stalk",
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 2,
+          "qty": 3,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "fresh ginger",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallion",
+          "item": "Thai or Holland chili",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "roasted peanuts",
-          "qty": 0.5,
-          "unit": "cup",
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "dried red chiles (arbol)",
-          "qty": 8,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "Shaoxing wine",
-          "qty": 2,
+          "item": "fish sauce",
+          "qty": 1,
           "unit": "tbsp",
-          "category": "beverages",
+          "category": "pantry",
           "note": ""
         },
         {
           "item": "dark soy sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "distilled white vinegar",
           "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 2,
           "unit": "tsp",
           "category": "pantry",
           "note": ""
         },
         {
           "item": "cornstarch",
-          "qty": 2.5,
+          "qty": 1,
           "unit": "tsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "chicken stock",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "steamed jasmine rice",
+          "item": "jasmine rice",
           "qty": 3,
           "unit": "cup",
           "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Velvet the chicken in the marinade first. Veg: peppers + celery in the stir-fry. Carb: steamed rice."
+      "notes": "15-minute high-heat stir-fry; basil + mint go in at the end. Full plate: chicken + onion/basil/mint (veg) + jasmine rice (carb)."
     },
     {
       "id": "pork-chops-milanese-with-amatriciana-c8263a73",
@@ -1024,5 +990,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-17T15:51:30.955Z"
+  "setAt": "2026-06-17T20:39:41.780Z"
 }

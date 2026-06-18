@@ -32,14 +32,15 @@
         "mexican",
         "mediterranean",
         "japanese",
-        "french"
+        "french",
+        "chinese",
+        "korean"
       ],
       "ok": [
         "american",
         "indian",
-        "chinese",
         "spanish",
-        "korean"
+        "vietnamese"
       ],
       "avoid": []
     },
@@ -93,6 +94,13 @@
         "lobster",
         "clam",
         "mussel",
+        "trout",
+        "halibut",
+        "mahi",
+        "snapper",
+        "bass",
+        "tilapia",
+        "swordfish",
         "seafood"
       ],
       "vegetarian": [

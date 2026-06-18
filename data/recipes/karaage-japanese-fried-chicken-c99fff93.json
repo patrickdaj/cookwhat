@@ -1,0 +1,35 @@
+{
+  "mealId": "karaage-japanese-fried-chicken-c99fff93",
+  "fetchedAt": "2026-06-17T21:53:34.201Z",
+  "source": "justonecookbook.com",
+  "url": "https://www.justonecookbook.com/karaage/",
+  "name": "Karaage (Japanese Fried Chicken)",
+  "description": "Crispy, juicy Japanese fried chicken — thighs marinated in soy, sake, ginger and garlic, coated in potato starch and twice-fried.",
+  "recipeIngredient": [
+    "1 1/2 lb boneless, skin-on chicken thighs, cut into bite-size pieces",
+    "1/2 tsp kosher salt",
+    "1/8 tsp black pepper",
+    "1/2 tsp grated ginger (with juice)",
+    "1 clove garlic, grated",
+    "1/2-1 tbsp soy sauce",
+    "1/2 tbsp sake",
+    "1/2 tsp toasted sesame oil",
+    "2 tbsp potato starch",
+    "2 tbsp all-purpose flour",
+    "3-4 cups neutral oil, for frying",
+    "Lemon wedges, shredded cabbage, and Kewpie mayo, to serve"
+  ],
+  "recipeInstructions": [
+    "Marinate the chicken with salt, pepper, ginger, garlic, soy sauce, sake, and sesame oil for 30 minutes.",
+    "Coat each piece in a mix of potato starch and flour.",
+    "Heat oil to 325F and fry 1.5 min; rest, then fry again at 350F until golden and crisp, ~1 min.",
+    "Serve with lemon, shredded cabbage, and rice."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "30 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "Just One Cookbook",
+  "ai": null
+}

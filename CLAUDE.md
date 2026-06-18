@@ -155,6 +155,35 @@ A good week blends these — a redo or two for comfort, several uncooked-owned
 picks (Paprika + book placeholders), and a new web recipe or two. When you
 present the plan, label which pool each pick came from so the balance is visible.
 
+## Weekly sourcing strategy (the blend)
+
+Aim each week for a deliberate mix across the pools — keeps things fresh, works
+through the cookbook library, and still revisits loved meals. For a ~6–7-dinner
+week, target roughly:
+
+- **1–2 cookbook** dishes — a **"featured book of the week."** Pick one book and
+  pull 1–2 fitting recipes as title placeholders (scan when cooking). **Rotate
+  the featured book** so the whole shelf gets sampled — look at recent weeks and
+  feature one that's been neglected. The library is large (~1,300 catalogued
+  across 6 books; only Meathead is scanned), so there's years of new-to-them
+  material here.
+- **2–3 Paprika uncooked** (unrated) — the big fresh-to-you pool (~160 recipes).
+- **1–2 new web** picks from `preferredSites` — discovery that grows the DB.
+- **~1 redo every other week** — a loved older recipe (history rating ≥4) for
+  comfort. Not every week; respect `avoidRepeatWithinDays`.
+
+Within that blend, also hit the standing targets:
+
+- **~2 Asian dinners/week.** The user wants more Asian — rotate across
+  japanese / thai / chinese / korean / vietnamese (don't repeat the same one
+  twice in one week). Lean on the under-used Asian preferred sites:
+  **thewoksoflife** (Chinese), **justonecookbook** (Japanese), and **maangchi**
+  (Korean — never used yet), plus Asian Paprika picks and Asian cookbooks.
+- Spread proteins/cuisines and respect all `proteinRules` + time budgets. Label
+  each pick's pool when you present the plan so the balance is visible.
+
+Targets, not quotas — flex for holidays, travel weeks, or a specific request.
+
 ## Cookbooks (the user's physical books)
 
 The user owns physical cookbooks, catalogued in `data/cookbooks/*.json` (e.g.

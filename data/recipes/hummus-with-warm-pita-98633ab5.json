@@ -1,0 +1,32 @@
+{
+  "mealId": "hummus-with-warm-pita-98633ab5",
+  "fetchedAt": "2026-06-17T21:38:16.812Z",
+  "source": "themediterraneandish.com",
+  "url": "https://www.themediterraneandish.com/how-to-make-hummus/",
+  "name": "Hummus with Warm Pita",
+  "description": "Ultra-creamy classic hummus from chickpeas, tahini, garlic and lemon — a make-ahead mezze served with warm pita.",
+  "recipeIngredient": [
+    "3 cups cooked chickpeas, peeled (2 15-oz cans)",
+    "1 1/2 tsp baking soda (optional, for peeling)",
+    "1-2 garlic cloves, minced",
+    "2 ice cubes",
+    "1/3 cup tahini",
+    "1/2 tsp kosher salt",
+    "Juice of 1 lemon",
+    "Extra-virgin olive oil, to serve",
+    "Sumac, to serve (optional)",
+    "Warm pita, for serving"
+  ],
+  "recipeInstructions": [
+    "For the creamiest hummus, simmer the chickpeas with baking soda and rub off the skins (or use quality canned).",
+    "In a food processor, blend the chickpeas until powdery, then stream in tahini, lemon juice, garlic, salt, and 2 ice cubes; process 4-5 minutes until silky, adding a little water if needed.",
+    "Spread in a bowl, drizzle generously with olive oil, dust with sumac, and serve with warm pita."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "totalTime": "20 min",
+  "recipeYield": "8 servings",
+  "image": null,
+  "author": "The Mediterranean Dish",
+  "ai": null
+}

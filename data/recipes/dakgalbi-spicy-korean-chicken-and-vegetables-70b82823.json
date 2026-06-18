@@ -1,0 +1,38 @@
+{
+  "mealId": "dakgalbi-spicy-korean-chicken-and-vegetables-70b82823",
+  "fetchedAt": "2026-06-17T21:53:34.201Z",
+  "source": "maangchi.com",
+  "url": "https://www.maangchi.com/recipe/dakgalbi",
+  "name": "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+  "description": "Maangchi's spicy stir-fried chicken with cabbage, sweet potato, and rice cakes in a gochugaru sauce — a communal Korean favorite.",
+  "recipeIngredient": [
+    "2 lb boneless skinless chicken thighs, cut into bite-size pieces",
+    "1/2 cup milk",
+    "3 tbsp soy sauce (divided)",
+    "1/4 tsp ground black pepper",
+    "1/4 green cabbage, chopped",
+    "1 sweet potato, thinly sliced",
+    "1 onion, sliced",
+    "3 scallions, cut into 2-inch pieces",
+    "1 cup Korean rice cakes (tteok)",
+    "SAUCE:",
+    "4 cloves garlic, minced",
+    "1 tbsp grated ginger",
+    "3 tbsp gochugaru (Korean hot pepper flakes)",
+    "2 tbsp rice syrup (or honey)",
+    "Cooked rice, to serve"
+  ],
+  "recipeInstructions": [
+    "Combine the chicken with milk, 1 tbsp soy sauce, and black pepper; set aside to tenderize.",
+    "Mix the sauce: garlic, ginger, gochugaru, remaining soy sauce, rice syrup, a splash of water, and pepper.",
+    "In a large skillet, combine the chicken, vegetables, rice cakes, and sauce. Cook over medium-high, stirring, until the chicken is cooked through and the vegetables are tender, 12-15 minutes.",
+    "Serve hot with rice."
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": "35 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "Maangchi",
+  "ai": null
+}

@@ -352,89 +352,97 @@
       "notes": "Broil the miso-butter-glazed thighs until lacquered. Carb: steamed rice. Veg: quick-seared baby bok choy."
     },
     {
-      "id": "fridge-clearing-vegetable-frittata-615a1b64",
+      "id": "maple-miso-sheet-pan-salmon-with-green-beans-e51e3196",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Fridge-Clearing Vegetable Frittata",
-      "source": "The Kitchn",
-      "sourceUrl": "https://www.thekitchn.com/recipe-the-fridge-clearing-omelet-you-can-make-once-a-week-244666",
-      "cuisine": "american",
-      "protein": "egg",
+      "title": "Maple-Miso Sheet-Pan Salmon with Green Beans",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+      "cuisine": "japanese",
+      "protein": "salmon",
       "tags": [
         "weeknight",
         "quick",
-        "easy"
+        "easy",
+        "sheet-pan"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "eggs",
-          "qty": 8,
-          "unit": "",
-          "category": "dairy",
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "heavy cream",
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
           "qty": 0.25,
           "unit": "cup",
-          "category": "dairy",
+          "category": "produce",
           "note": ""
         },
         {
-          "item": "grated cheese (Parmesan/cheddar)",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "bell pepper",
+          "item": "lime",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "zucchini",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "baby spinach",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "crusty bread (to toast)",
+          "item": "maple syrup",
           "qty": 4,
-          "unit": "slice",
-          "category": "bakery",
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white or brown miso",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "rice wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "cooked white rice",
+          "qty": 3,
+          "unit": "cup",
+          "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Packing-day easy: clear out whatever produce is in the fridge. The Kitchn ratio = 6 eggs : 1/4 cup cream : ~2 cups veg. Sauté veg, add eggs, bake at 400F until just set. Serve with toast (carb)."
+      "notes": "Easy packing-day sheet-pan: salmon + green beans roast together, minimal cleanup. Full plate: salmon + green beans (veg) + rice (carb). Uncooked Paprika pick (new to you)."
     },
     {
       "id": "cornell-chicken-2d98ccdf",
@@ -665,7 +673,7 @@
       "day": "Sat",
       "slot": "dinner",
       "role": "side",
-      "title": "Crispy Smashed Potatoes with Za'atar",
+      "title": "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan",
       "source": "The Mediterranean Dish",
       "sourceUrl": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
       "cuisine": "american",
@@ -692,17 +700,24 @@
           "note": ""
         },
         {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
           "category": "produce",
-          "note": ""
+          "note": "minced"
         },
         {
-          "item": "fresh chives or parsley",
-          "qty": 2,
+          "item": "fresh rosemary",
+          "qty": 1,
           "unit": "tbsp",
           "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "grated Parmesan",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
           "note": ""
         },
         {
@@ -720,7 +735,7 @@
           "note": ""
         }
       ],
-      "notes": "Par-boil the potatoes until tender, toss with oil/salt/pepper, smash with a glass just until the skins split, then grill until charred and crisp. Grill a lemon half alongside and squeeze over. (Quantities best-effort - site blocks our fetch tools.)"
+      "notes": "Par-boil, smash, and crisp on the grill, then toss with garlic, rosemary, and Parmesan to echo the herb beef butter on the ribeye. (Reseasoned from za-atar to match the steak.)"
     },
     {
       "id": "grilled-asparagus-ba04ecae",
@@ -785,5 +800,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-17T16:52:21.757Z"
+  "setAt": "2026-06-17T20:39:41.807Z"
 }
