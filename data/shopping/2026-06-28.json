@@ -1,14 +1,14 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-17T20:39:41.900Z",
-  "targetServings": null,
+  "generatedAt": "2026-06-18T01:45:38.540Z",
+  "targetServings": 4,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
           "item": "asparagus stalks",
-          "qty": 16,
+          "qty": 32,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -129,12 +129,13 @@
         },
         {
           "item": "garlic",
-          "qty": 15,
+          "qty": 19,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Pasta with Zucchini and Shrimp",
             "Thai Basil Chicken (Gai Pad Krapow)",
+            "Garlic Green Beans",
             "Grilled Shrimp Tacos with Creamy Slaw",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
@@ -143,10 +144,11 @@
         },
         {
           "item": "green beans",
-          "qty": 1,
+          "qty": 2,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
+            "Garlic Green Beans",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
@@ -344,7 +346,7 @@
         },
         {
           "item": "Parmigiano-Reggiano",
-          "qty": 4,
+          "qty": 8,
           "unit": "oz",
           "category": "dairy",
           "fromMeals": [
@@ -404,7 +406,7 @@
         },
         {
           "item": "balsamic condimento or reduction",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -624,7 +626,7 @@
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 2.25,
+          "qty": 3.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -664,8 +666,8 @@
   "excludedStaples": [
     "soy sauce",
     "sugar",
-    "unsalted butter",
     "vegetable oil",
+    "unsalted butter",
     "butter",
     "kosher salt",
     "coarsely ground black pepper",

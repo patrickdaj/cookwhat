@@ -172,6 +172,55 @@
       "notes": "10-minute high-heat stir-fry. Serve over jasmine rice (carb); the basil/chili/shallot is the veg. A fried egg on top is traditional."
     },
     {
+      "id": "garlic-green-beans-aec655d2",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Green Beans",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-green-beans/",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Blister the green beans in a hot wok, toss with lots of garlic + a splash of soy. A real green for the Thai basil chicken plate."
+    },
+    {
       "id": "grilled-shrimp-tacos-with-creamy-slaw-559e525e",
       "day": "Tue",
       "slot": "dinner",
