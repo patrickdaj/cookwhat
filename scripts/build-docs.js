@@ -558,7 +558,7 @@ function buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle) {
 
 // ---- mkdocs.yml ------------------------------------------------------------
 
-function buildMkdocsYml(menus, navWeeks) {
+function buildMkdocsYml(menus, navWeeks, books = []) {
   // navWeeks: [{ label: 'This Week', week: '2026-06-14' }, ...] — quick-access
   // tabs that jump straight to a week's menu. Browse sections are single
   // landing pages so the bar stays tidy as weeks accumulate.
@@ -575,6 +575,7 @@ function buildMkdocsYml(menus, navWeeks) {
     '  days/*.md',
     '  shopping/2*.md',
     '  recipes/*-*.md',
+    ...books.map(b => `  cookbooks/${b.id}.md`),
   ].join('\n');
 
   return `site_name: cookwhat
@@ -634,11 +635,75 @@ nav:
 ${weekTabs ? weekTabs + '\n' : ''}  - Menus: menus/index.md
   - Shopping: shopping/index.md
   - Recipes: recipes/index.md
-  - Ratings: history.md
+${books.length ? '  - Cookbooks: cookbooks/index.md\n' : ''}  - Ratings: history.md
   - Help:
     - How to Use: HOW_TO_USE.md
     - Config: CONFIG.md
 `;
+}
+
+// ---- Cookbook library pages ------------------------------------------------
+
+function buildCookbooksIndex(books) {
+  const totalRecipes = books.reduce((n, b) => n + (b.recipes?.length || 0), 0);
+  const out = [
+    '# Cookbook Library\n',
+    `The household's physical cookbooks, catalogued for menu-building — ` +
+      `**${totalRecipes} recipes** across **${books.length} books**. These are a ` +
+      `reference layer for planning; ⚠ marks recipes that hit a dislike, and ` +
+      `✓ marks recipes whose full ingredients have been scanned in.\n`,
+    '| Book | Author | Recipes |',
+    '|------|--------|--------:|',
+  ];
+  for (const b of [...books].sort((a, c) => c.recipes.length - a.recipes.length)) {
+    out.push(`| [${b.title}](${b.id}.md) | ${b.author || ''} | ${b.recipes.length} |`);
+  }
+  out.push('');
+  return out.join('\n');
+}
+
+function buildCookbookPage(book) {
+  const out = [`# ${book.title}\n`];
+  const meta = [];
+  if (book.author) meta.push(`*by ${book.author}*`);
+  meta.push(`${book.recipes.length} recipes`);
+  out.push(meta.join(' · ') + '\n');
+  out.push('[← Cookbook Library](index.md)\n');
+
+  // Group by chapter, preserving first-seen order.
+  const chapters = [];
+  const byChapter = new Map();
+  for (const r of book.recipes) {
+    const ch = r.chapter || 'Recipes';
+    if (!byChapter.has(ch)) { byChapter.set(ch, []); chapters.push(ch); }
+    byChapter.get(ch).push(r);
+  }
+
+  for (const ch of chapters) {
+    out.push(`## ${ch}\n`);
+    for (const r of byChapter.get(ch)) {
+      let line = `- **${r.title}**`;
+      if (r.page != null) line += ` — p.${r.page}`;
+      if (r.scanned) line += ' · ✓ scanned';
+      if (r.flag) line += ` · ⚠ ${r.flag}`;
+      out.push(line);
+
+      // Scanned recipes get a collapsible block with the captured details.
+      if (r.captured && (r.captured.ingredients?.length || r.captured.method)) {
+        const label = `${r.title}${r.makes ? ` — makes ${r.makes}` : ''}`.replace(/"/g, "'");
+        out.push('');
+        out.push(`??? note "${label}"`);
+        for (const ing of r.captured.ingredients || []) out.push(`    - ${ing}`);
+        if (r.captured.method) {
+          out.push('');
+          out.push(`    **Method:** ${r.captured.method}`);
+        }
+        out.push('');
+      }
+    }
+    out.push('');
+  }
+  return out.join('\n');
 }
 
 // ---- main ------------------------------------------------------------------
@@ -661,6 +726,21 @@ function main() {
       const r = readJson(join(recipesDir, f));
       if (r.mealId) recipesByMealId[r.mealId] = r;
     }
+  }
+
+  // Cookbook catalogs (reference layer) — rendered into a browsable library.
+  const cookbooksDir = join(DATA, 'cookbooks');
+  let books = [];
+  if (existsSync(cookbooksDir)) {
+    books = readdirSync(cookbooksDir)
+      .filter(f => f.endsWith('.json'))
+      .map(f => {
+        const b = readJson(join(cookbooksDir, f));
+        b.id = b.id || f.replace(/\.json$/, '');
+        return b;
+      })
+      .filter(b => Array.isArray(b.recipes) && b.recipes.length)
+      .sort((a, c) => (a.title || '').localeCompare(c.title || ''));
   }
 
   // Menus sorted latest-first
@@ -707,6 +787,7 @@ function main() {
   ensureDir(join(DOCS, 'days'));
   ensureDir(join(DOCS, 'shopping'));
   ensureDir(join(DOCS, 'recipes'));
+  if (books.length) ensureDir(join(DOCS, 'cookbooks'));
 
   // Warm palette stylesheet + persistent-checklist script
   write(join(DOCS, 'stylesheets', 'extra.css'), EXTRA_CSS);
@@ -748,6 +829,14 @@ function main() {
   write(join(DOCS, 'shopping', 'index.md'), buildShoppingIndex(shoppingWeeks));
   write(join(DOCS, 'recipes', 'index.md'), buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle));
 
+  // Cookbook library
+  if (books.length) {
+    write(join(DOCS, 'cookbooks', 'index.md'), buildCookbooksIndex(books));
+    for (const b of books) {
+      write(join(DOCS, 'cookbooks', `${b.id}.md`), buildCookbookPage(b));
+    }
+  }
+
   // History
   write(join(DOCS, 'history.md'), buildHistoryPage(history));
 
@@ -757,12 +846,13 @@ function main() {
   }));
 
   // mkdocs.yml
-  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, navWeeks));
+  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, navWeeks, books));
 
+  const cookbookRecipes = books.reduce((n, b) => n + b.recipes.length, 0);
   console.log(
     `Docs built: ${menus.length} menu(s), ${dayCount} day page(s), ` +
     `${shoppingWeeks.length} shopping list(s), ${recipeCount} recipe(s), ` +
-    `${history.length} rating(s)`
+    `${books.length} cookbook(s)/${cookbookRecipes} recipes, ${history.length} rating(s)`
   );
 }
 
