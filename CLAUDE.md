@@ -260,6 +260,27 @@ Rules for the workflow:
   numbers is fine, but a recipe's ingredient list/method is only recorded from an
   actual scan of that page.
 
+## Recipe tips (the `ai` block) — mine the prose, not the card
+
+The valuable part of `ai` is **`keyTips`**: the prep/technique details an author
+buries in the **article prose** (headnote, "why this works", notes) that never
+make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
+
+- The CLI's `analyzeWithAI` only sees the recipe's ingredients + steps, so the
+  tips it produces are *inferences from the card* — useful, but **not the
+  author's actual advice**. To get the real thing, read the **source prose**:
+  WebFetch the recipe URL and ask for the tips/notes that aren't in the steps.
+- **Paywall/bot reality:** open sites (thekitchn, themediterraneandish, Just One
+  Cookbook, Woks of Life, nomnompaleo, Hey Grill Hey…) fetch fine; **NYT, Serious
+  Eats, Bon Appétit, Epicurious are gated** — for those, fall back to
+  card-inference or ask the user to paste the article text. (~40% of the Paprika
+  set is fetchable, ~60% blocked.)
+- **Cookbook scans** have no web page — the book's equivalent is its **headnote /
+  "why this works"** (ATK books are full of these). Capture that text when
+  scanning and mine *it*; otherwise tips are only inferred from the method.
+- Practical default: **do this on-demand** — upgrade a recipe's tips when it
+  lands on a menu (you'll actually cook it), not by brute-forcing the whole DB.
+
 ## Hard rules (never violate)
 
 - Anything in `ingredients.allergies` or `ingredients.dislikes` → exclude
