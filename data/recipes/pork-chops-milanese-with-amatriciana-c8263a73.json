@@ -40,5 +40,13 @@
   "rating": 4,
   "notes": null,
   "nutrition": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "Quality pork, frenched bones, and a make-ahead amatriciana solve the dish's doneness and timing challenges.",
+    "keyTips": [
+      "Use good pork (Lidia favors Berkshire) — sustainably raised makes a real taste difference.",
+      "French the bone so the meat near it doesn't undercook while the pounded eye finishes — even doneness.",
+      "The amatriciana makes more than you need and freezes well — save it to dress pasta later."
+    ],
+    "source": "article-prose"
+  }
 }

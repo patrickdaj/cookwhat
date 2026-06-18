@@ -39,5 +39,13 @@
   "rating": 4,
   "notes": null,
   "nutrition": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "A bone-dry sear in a high-smoke-point oil is the whole game for golden scallops.",
+    "keyTips": [
+      "Pat the scallops VERY dry — surface moisture prevents browning and causes sticking.",
+      "Sear in grapeseed oil (high smoke point) so the pan gets hot enough without burning.",
+      "Gently shake the pan as they cook so they don't stick and tear the golden crust."
+    ],
+    "source": "article-prose"
+  }
 }

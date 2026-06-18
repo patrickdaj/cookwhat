@@ -32,5 +32,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": "The Mediterranean Dish",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Clean grates, an aromatic-stuffed cavity, and tools-at-the-ready are what make whole grilled trout work.",
+    "keyTips": [
+      "Clean the grill well before and after heating — delicate fish skin sticks otherwise.",
+      "Stuff the cavity fully with lemon and thyme to keep the flesh moist and flavor it from the inside.",
+      "Lay out all filleting tools beforehand so you can work fast once the hot fish comes off."
+    ],
+    "source": "article-prose"
+  }
 }

@@ -41,5 +41,13 @@
   "rating": null,
   "notes": "Leftover potato salad can be stored in a sealed container in the fridge for up to 4 days. I don’t recommend freezing potato salad because after it thaws, the texture isn’t great.",
   "nutrition": "Calories: 170kcal | Carbohydrates: 18g | Protein: 5g | Fat: 9g | Fiber: 2g | Sugar: 2g",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Salted cucumbers, ice-soaked shallot, and mashing warm potatoes give creamy, non-watery Japanese potato salad.",
+    "keyTips": [
+      "Salt the cucumbers ~10 min and squeeze dry so the salad isn't watery.",
+      "Soak the sliced shallot/onion in ice water to pull out the harsh raw bite.",
+      "Mash the still-warm potatoes with the dressing so they soak up flavor (chunky, not smooth)."
+    ],
+    "source": "article-prose"
+  }
 }

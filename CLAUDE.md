@@ -270,9 +270,10 @@ make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
   tips it produces are *inferences from the card* — useful, but **not the
   author's actual advice**. To get the real thing, read the **source prose**:
   WebFetch the recipe URL and ask for the tips/notes that aren't in the steps.
-- **Paywall/bot reality:** open sites (thekitchn, themediterraneandish, Just One
-  Cookbook, Woks of Life, nomnompaleo, Hey Grill Hey…) fetch fine; **NYT, Serious
-  Eats, Bon Appétit, Epicurious are gated** — for those, fall back to
+- **Paywall/bot reality:** open sites (themediterraneandish, Just One Cookbook, Woks of Life,
+  nomnompaleo, Hey Grill Hey, isabeleats, lidiasitaly, pinchofyum) fetch fine;
+  **NYT, Serious Eats, Bon Appétit, Epicurious — and also thekitchn, maangchi,
+  smittenkitchen — block the fetcher** — for those, fall back to
   card-inference or ask the user to paste the article text. (~40% of the Paprika
   set is fetchable, ~60% blocked.)
 - **Cookbook scans** have no web page — the book's equivalent is its **headnote /

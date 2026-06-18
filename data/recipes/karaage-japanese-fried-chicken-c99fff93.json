@@ -31,5 +31,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": "Just One Cookbook",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Uniform pieces, a 30-minute marinade, and a double-fry give tender-inside, ultra-crisp karaage.",
+    "keyTips": [
+      "Cut the chicken into uniform 2-inch pieces so everything cooks at the same rate.",
+      "Marinate ~30 minutes — long enough for flavor, not so long it over-marinates.",
+      "Double-fry: 325F for 90s, rest, then 350F for 45s for a crisp exterior and juicy interior."
+    ],
+    "source": "article-prose"
+  }
 }

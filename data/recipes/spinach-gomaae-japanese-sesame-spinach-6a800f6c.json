@@ -22,5 +22,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": "Just One Cookbook",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Fresh-toasted sesame, stem-first blanching, and an ice shock give bright, properly-seasoned gomaae.",
+    "keyTips": [
+      "Toast the sesame seeds fresh (even if pre-toasted) for nutty depth.",
+      "Blanch stems first (15-20s), then leaves (30-45s), so nothing overcooks.",
+      "Shock in ice water right after to set the color and remove the oxalic bite."
+    ],
+    "source": "article-prose"
+  }
 }

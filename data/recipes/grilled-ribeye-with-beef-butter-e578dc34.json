@@ -30,11 +30,12 @@
   "image": "https://heygrillhey.com/wp-content/uploads/2021/11/Rib-Eye-Steak-Feature.png",
   "author": "Susie Bulloch",
   "ai": {
-    "cliffNotes": "Two-zone grilling with indirect heat cooking followed by a direct heat sear ensures even doneness throughout while developing a crust, then a compound butter melts into the meat during rest.",
+    "cliffNotes": "Two-zone heat, a thermometer, and a good grade of beef separate steakhouse ribeye from average.",
     "keyTips": [
-      "Use a meat thermometer to pull steaks off indirect heat 10°F before target temp, since carryover cooking will continue during the sear and rest",
-      "Rotate the garlic every 5 minutes during roasting so it cooks evenly and doesn't burn on one side",
-      "Let steaks rest for the full 10 minutes on the butter-lined plate—this allows juices to redistribute and the butter to properly coat the surface"
-    ]
+      "Set up two-zone heat: cook gently on indirect, then sear over direct for crust + control.",
+      "Go by temperature, not time — use a good instant-read thermometer for your target doneness.",
+      "Buy Choice or Prime over Select — the extra marbling means more flavor and tenderness."
+    ],
+    "source": "article-prose"
   }
 }
