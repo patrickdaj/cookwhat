@@ -233,6 +233,7 @@ Scanning every book up front is a ton of work, so don't. Two stages:
    ingredients. Leave `ingredients: []` and add the tag **`"needs-scan"`**. If the
    catalog already has a `captured` block, use it and skip the placeholder.
 2. **Scan on demand, before that week's shopping/cooking.** Ask the user to scan
+<<<<<<< HEAD
    the specific page(s), capture the real `ingredients` into the meal, **and**
    store a `captured` block back in the catalog (reusable forever). When you
    capture, **don't just grab ingredients + a method blob** — also:
@@ -242,6 +243,18 @@ Scanning every book up front is a ton of work, so don't. Two stages:
      (dry-brine timing, doneness cues, why-it-works notes, make-ahead). The site
      renders Steps and a "Tips & Tricks" section from these.
    Then re-run `cookwhat shopping` so the list is complete.
+=======
+   the specific page(s), capture the real `ingredients`/`method` into the meal,
+   **and** store the `captured` block back in the catalog (reusable forever). Then
+   re-run `cookwhat shopping` so the list is complete.
+   - **Also generate the `ai` block** (cliffNotes + keyTips) just like a web
+     fetch does — book recipes were coming through with `ai: null` and looked
+     thin next to fetched ones. Run `analyzeWithAI` (from `src/recipe-fetch.js`,
+     it works on any name+ingredients+steps) and save it onto the detail. The
+     book's *full* step-by-step lives in the physical book; the captured `method`
+     is a faithful summary for shopping/planning, and the AI tips add the
+     technique guidance — don't pad the steps with invented detail.
+>>>>>>> origin/main
 
 Rules for the workflow:
 - **Never fabricate ingredients** from a title or memory — a placeholder carries
@@ -259,10 +272,36 @@ Rules for the workflow:
   numbers is fine, but a recipe's ingredient list/method is only recorded from an
   actual scan of that page.
 
+## Recipe tips (the `ai` block) — mine the prose, not the card
+
+The valuable part of `ai` is **`keyTips`**: the prep/technique details an author
+buries in the **article prose** (headnote, "why this works", notes) that never
+make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
+
+- The CLI's `analyzeWithAI` only sees the recipe's ingredients + steps, so the
+  tips it produces are *inferences from the card* — useful, but **not the
+  author's actual advice**. To get the real thing, read the **source prose**:
+  WebFetch the recipe URL and ask for the tips/notes that aren't in the steps.
+- **Paywall/bot reality:** open sites (themediterraneandish, Just One Cookbook, Woks of Life,
+  nomnompaleo, Hey Grill Hey, isabeleats, lidiasitaly, pinchofyum) fetch fine;
+  **NYT, Serious Eats, Bon Appétit, Epicurious — and also thekitchn, maangchi,
+  smittenkitchen — block the fetcher** — for those, fall back to
+  card-inference or ask the user to paste the article text. (~40% of the Paprika
+  set is fetchable, ~60% blocked.)
+- **Cookbook scans** have no web page — the book's equivalent is its **headnote /
+  "why this works"** (ATK books are full of these). Capture that text when
+  scanning and mine *it*; otherwise tips are only inferred from the method.
+- Practical default: **do this on-demand** — upgrade a recipe's tips when it
+  lands on a menu (you'll actually cook it), not by brute-forcing the whole DB.
+
 ## Hard rules (never violate)
 
 - Anything in `ingredients.allergies` or `ingredients.dislikes` → exclude
   entirely. Check recipe ingredients, not just titles.
+- **Preparation-dependent preferences** (can't live in the flat `dislikes`
+  list): **swordfish** — the user dislikes it *grilled* (we swapped grilled
+  swordfish → trout once), but **likes it in a stew/braise** (e.g. Sicilian fish
+  stew is fine). So don't blanket-ban swordfish; just avoid grilling it.
 - Stay within `proteinRules` (e.g. `redMeatMaxPerWeek`). `plan check` enforces
   these; a failing check blocks `plan set`.
 - Use only `preferredSites` unless the user asks otherwise; never use

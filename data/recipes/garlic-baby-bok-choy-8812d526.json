@@ -25,5 +25,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": "The Woks of Life",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Dry, uniform pieces and fast work after the garlic keep it crisp and non-bitter.",
+    "keyTips": [
+      "Drain the bok choy well — it releases a lot of water and will steam otherwise.",
+      "Cut pieces uniformly so they cook evenly.",
+      "Add the bok choy right after the garlic and move fast so the garlic doesn't burn bitter."
+    ],
+    "source": "article-prose"
+  }
 }

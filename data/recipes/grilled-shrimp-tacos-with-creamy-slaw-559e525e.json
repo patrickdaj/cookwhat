@@ -43,12 +43,12 @@
   "image": "https://www.isabeleats.com/wp-content/uploads/2019/10/grilled-tequila-lime-shrimp-tacos-small-7.jpg",
   "author": null,
   "ai": {
-    "cliffNotes": "Season shrimp heavily with cumin, chili powder, and lime, then grill quickly over high heat until just opaque to keep them tender while developing char, then balance with a cool creamy slaw and charred corn.",
+    "cliffNotes": "Skip long marinating and prep the sides ahead for fast, non-rubbery grilled shrimp tacos.",
     "keyTips": [
-      "Preheat grill to 400-450°F and grill shrimp only 4-5 minutes total, turning once—overcooked shrimp becomes rubbery and tough",
-      "Thread shrimp onto skewers and soak wooden skewers 15 minutes before grilling to prevent burning and ensure even cooking",
-      "Make the slaw ahead and refrigerate—the cool, creamy cabbage provides essential textural and temperature contrast to hot grilled components",
-      "Char the corn with grill lid closed for 10-15 minutes, turning occasionally, until dark brown spots appear for caramelized sweetness that complements the spiced shrimp"
-    ]
+      "Don't marinate long — lime juice can 'cook' the shrimp like ceviche; season and grill right away.",
+      "Use metal skewers (or soak wooden ones 15 min) so they don't char on the grill.",
+      "Make the slaw and grill the corn ahead so you just assemble while the shrimp cooks."
+    ],
+    "source": "article-prose"
   }
 }

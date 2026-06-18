@@ -28,5 +28,13 @@
   "recipeYield": "8 servings",
   "image": null,
   "author": "The Mediterranean Dish",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Peeled chickpeas, a couple ice cubes, and a long blend make ultra-creamy hummus.",
+    "keyTips": [
+      "Peel the cooked chickpeas — the real secret to smooth (not rustic) hummus.",
+      "Drop in a couple ice cubes while blending for a fluffy, ice-cream-like texture.",
+      "Process a full 4-5 minutes — don't stop early or it stays grainy."
+    ],
+    "source": "article-prose"
+  }
 }

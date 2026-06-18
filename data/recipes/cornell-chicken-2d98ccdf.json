@@ -24,5 +24,13 @@
   "recipeYield": null,
   "image": null,
   "author": "Meathead Goldwyn",
-  "ai": null
+  "ai": {
+    "cliffNotes": "An emulsified vinegar-oil marinade with egg creates a basting liquid that keeps chicken moist during indirect grilling while building flavor.",
+    "keyTips": [
+      "Marinate 3-24 hours for the acidity to penetrate and tenderize, but don't exceed 24 hours or the texture becomes mushy",
+      "Use indirect heat at 325°F to avoid burning the oil-based marinade while allowing even cooking",
+      "Monitor internal temps carefully (160°F breast, 165°F thigh) since the marinade and flipping can mask doneness visually",
+      "Reserve some marinade before adding raw chicken to use as a finishing baste in the final minutes of grilling"
+    ]
+  }
 }

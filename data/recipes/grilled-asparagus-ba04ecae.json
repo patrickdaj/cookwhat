@@ -24,5 +24,13 @@
   "recipeYield": null,
   "image": null,
   "author": "Meathead Goldwyn",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Two-zone grilling with indirect heat allows asparagus to cook through without charring, while the finishing touch of Parmigiano ribbons and balsamic adds richness and acidity.",
+    "keyTips": [
+      "Snap woody bottoms before cooking—they won't soften and waste grill space",
+      "Use two-zone setup with indirect side as primary cooking zone to avoid burning the delicate spears",
+      "Add cheese and balsamic after grilling when spears are hot so Parm softens slightly and flavors meld",
+      "Shave cheese into wide ribbons rather than grating for better texture and visual appeal"
+    ]
+  }
 }

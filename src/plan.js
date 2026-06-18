@@ -123,7 +123,11 @@ export function checkPlan(menu, cfg) {
       .join(" ")
       .toLowerCase();
     for (const { x, kind } of blocked) {
-      if (x && haystack.includes(String(x).toLowerCase())) {
+      if (!x) continue;
+      // Whole-word match so e.g. "liver" doesn't trip on "slivered almonds"
+      // (and "broccoli" doesn't trip on "broccolini").
+      const term = String(x).toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      if (new RegExp(`\\b${term}\\b`).test(haystack)) {
         const msg = `"${m.title}" (${m.day}) contains ${kind}: ${x}.`;
         if (kind === "allergy") errors.push(msg);
         else errors.push(msg);

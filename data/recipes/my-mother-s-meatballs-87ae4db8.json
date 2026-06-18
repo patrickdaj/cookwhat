@@ -13,5 +13,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": "Menafe",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Bread soaked in milk is mixed into ground beef to create tender, juicy meatballs that stay moist through a combination of high-heat searing and low-heat braising with frequent basting.",
+    "keyTips": [
+      "Soak bread until fully soggy and squeeze out the milk before mixing—this adds moisture and tenderness without making the mixture wet or dense",
+      "Get the oil very hot before adding meatballs and leave them undisturbed for 3 minutes to develop a proper crust that seals in juices",
+      "Baste frequently during the final 8-10 minutes of covered cooking to keep the exterior moist and prevent drying out",
+      "Form into 8 large patties rather than small balls—flattened rounds cook more evenly and have better surface area for browning"
+    ]
+  }
 }

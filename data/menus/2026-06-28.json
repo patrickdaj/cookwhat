@@ -118,9 +118,15 @@
           "unit": "tbsp",
           "category": "canned",
           "note": ""
+        },
+        {
+          "item": "crusty bread, for serving",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery"
         }
       ],
-      "notes": "Sicilian Fish Stew (Complete Mediterranean, ATK p.267). Mix pine nuts + mint + a little garlic + orange zest for serving. Soften onion+celery, add remaining garlic/thyme/pepper flakes, then wine + reserved tomato juice (reduce), then tomatoes, clam juice, raisins, capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min then off-heat covered 3 min. Serve topped with the pine nut mixture."
+      "notes": "From the Complete Mediterranean (ATK p.267), scanned. Swordfish stays — you like it in a stew (just not grilled). Carb: crusty bread for the broth; the tomato-celery base is the veg."
     },
     {
       "id": "thai-basil-chicken-gai-pad-krapow-5431e84f",
@@ -933,5 +939,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-18T04:20:31.374Z"
+  "setAt": "2026-06-18T04:40:16.665Z"
 }
