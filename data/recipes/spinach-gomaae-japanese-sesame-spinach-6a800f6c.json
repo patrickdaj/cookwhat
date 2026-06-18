@@ -1,0 +1,26 @@
+{
+  "mealId": "spinach-gomaae-japanese-sesame-spinach-6a800f6c",
+  "fetchedAt": "2026-06-18T02:13:23.305Z",
+  "source": "justonecookbook.com",
+  "url": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+  "name": "Spinach Gomaae (Japanese Sesame Spinach)",
+  "description": "Blanched spinach dressed in a nutty toasted-sesame sauce — a classic Japanese vegetable side.",
+  "recipeIngredient": [
+    "1 lb spinach",
+    "3 tbsp toasted white sesame seeds",
+    "1 tbsp soy sauce",
+    "1 tsp sugar"
+  ],
+  "recipeInstructions": [
+    "Blanch the spinach 30 seconds, shock in ice water, then squeeze out all excess water and cut into 1-inch lengths.",
+    "Grind most of the toasted sesame seeds in a mortar; mix with soy sauce and sugar to make the dressing.",
+    "Toss the spinach in the sesame dressing and top with the remaining whole seeds."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "5 min",
+  "totalTime": "15 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "Just One Cookbook",
+  "ai": null
+}

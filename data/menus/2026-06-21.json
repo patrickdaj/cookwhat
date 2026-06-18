@@ -459,108 +459,132 @@
       "notes": "Dredge fillets lightly in flour for a glaze that clings. Carb: steamed rice. Veg: pan-blistered shishito + negi."
     },
     {
-      "id": "thai-chicken-stir-fry-with-basil-mint-582515f2",
-      "day": "Wed",
+      "id": "spinach-gomaae-japanese-sesame-spinach-6a800f6c",
+      "day": "Tue",
       "slot": "dinner",
-      "role": "main",
-      "title": "Thai Chicken Stir-fry with Basil & Mint",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/thai-chicken-stir-fry-basil-mint/",
-      "cuisine": "thai",
-      "protein": "chicken",
+      "role": "side",
+      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
       "tags": [
-        "weeknight",
-        "quick"
+        "side",
+        "quick",
+        "make-ahead"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "boneless skinless chicken breast or thighs",
-          "qty": 12,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "Thai basil",
+          "item": "spinach",
           "qty": 1,
-          "unit": "cup",
+          "unit": "lb",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "mint leaves",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
+          "item": "toasted sesame seeds",
           "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Thai or Holland chili",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "oyster sauce",
-          "qty": 2,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "fish sauce",
+          "item": "soy sauce",
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "dark soy sauce",
+          "item": "sugar",
           "qty": 1,
           "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "cornstarch",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "long or green beans, cut into 1-inch pieces",
-          "qty": 0.5,
-          "unit": "lb",
-          "category": "produce"
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 3,
-          "unit": "cup",
           "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "15-minute high-heat stir-fry; basil + mint go in at the end. Full plate: chicken + long/green beans + basil/mint (veg) + jasmine rice (carb). (Long beans added to round out the veg — common in Thai basil stir-fries.)"
+      "notes": "Real Japanese veg side for the yellowtail (the shishito were only a garnish): blanched spinach dressed in nutty ground-sesame sauce."
+    },
+    {
+      "id": "honey-mustard-sheet-pan-chicken-c38aa993",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Honey Mustard Sheet-Pan Chicken",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416",
+      "cuisine": "american",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "sheet-pan",
+        "redo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "frisée or mixed greens",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "crusty sourdough bread",
+          "qty": 6,
+          "unit": "oz",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "stoneground mustard",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "4-star redo (replaces the Thai stir-fry to avoid duplicating next week's Pad Krapow). Sheet-pan chicken thighs roast with asparagus + bread croutons, tossed with honey-mustard greens. Complete meal: chicken + asparagus/greens (veg) + croutons (carb)."
     },
     {
       "id": "pork-chops-milanese-with-amatriciana-c8263a73",
@@ -996,5 +1020,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-17T20:39:41.780Z"
+  "setAt": "2026-06-18T02:13:55.582Z"
 }

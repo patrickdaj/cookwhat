@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-18T02:03:00.823Z",
+  "generatedAt": "2026-06-18T02:13:55.624Z",
   "targetServings": null,
   "sections": [
     {
@@ -14,6 +14,16 @@
           "fromMeals": [
             "Pork Chops Milanese with Amatriciana",
             "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -119,15 +129,25 @@
           "hasUnquantified": false
         },
         {
+          "item": "frisée or mixed greens",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Honey Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "garlic",
-          "qty": 11,
+          "qty": 10,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Thai Chicken Stir-fry with Basil & Mint",
+            "Honey Mustard Sheet-Pan Chicken",
             "Roast Spatchcock Chicken with Citrus & Honey"
           ],
           "hasUnquantified": false
@@ -186,42 +206,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "long or green beans, cut into 1-inch pieces",
-          "qty": 0.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mint leaves",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "navel oranges",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -288,22 +278,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "Thai basil",
+          "item": "spinach",
           "qty": 1,
-          "unit": "cup",
+          "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Thai or Holland chili",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
+            "Spinach Gomaae (Japanese Sesame Spinach)"
           ],
           "hasUnquantified": false
         },
@@ -363,22 +343,13 @@
           "hasUnquantified": false
         },
         {
-          "item": "boneless skinless chicken breast or thighs",
-          "qty": 12,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "boneless skinless chicken thighs",
-          "qty": 2,
+          "qty": 3.5,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken au Poivre"
+            "Chicken au Poivre",
+            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -502,6 +473,16 @@
             "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "crusty sourdough bread",
+          "qty": 6,
+          "unit": "oz",
+          "category": "bakery",
+          "fromMeals": [
+            "Honey Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -525,16 +506,6 @@
           "category": "pantry",
           "fromMeals": [
             "Fondant Potatoes"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "cornstarch",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -570,12 +541,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "fish sauce",
-          "qty": 1,
+          "item": "honey",
+          "qty": 3,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
+            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -596,16 +567,6 @@
           "category": "pantry",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
           ],
           "hasUnquantified": false
         },
@@ -650,12 +611,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "oyster sauce",
+          "item": "red wine vinegar",
           "qty": 2,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Thai Chicken Stir-fry with Basil & Mint"
+            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -666,6 +627,26 @@
           "category": "pantry",
           "fromMeals": [
             "Yellowtail Teriyaki (Buri no Teriyaki)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "stoneground mustard",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
           ],
           "hasUnquantified": false
         },
@@ -825,10 +806,9 @@
     "soy sauce",
     "sugar",
     "all-purpose flour",
-    "dark soy sauce",
     "butter",
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 76
+  "totalItems": 74
 }

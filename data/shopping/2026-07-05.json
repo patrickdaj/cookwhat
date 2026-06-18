@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T01:53:08.686Z",
+  "generatedAt": "2026-06-18T02:13:55.853Z",
   "targetServings": null,
   "sections": [
     {
@@ -23,16 +23,6 @@
           "category": "produce",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "baby arugula",
-          "qty": 5,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Simple Arugula Parmesan Salad"
           ],
           "hasUnquantified": false
         },
@@ -275,7 +265,7 @@
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
             "Sautéed Green Beans with Garlic and Herbs",
-            "Simple Arugula Parmesan Salad",
+            "5-Minute Radicchio and Watercress Salad",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -317,6 +307,26 @@
           "category": "produce",
           "fromMeals": [
             "Korean Cucumber Salad (Oi Muchim)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "radicchio",
+          "qty": 4,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "5-Minute Radicchio and Watercress Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "radishes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "5-Minute Radicchio and Watercress Salad"
           ],
           "hasUnquantified": false
         },
@@ -380,6 +390,16 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Tomato and Cucumber Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "watercress or arugula",
+          "qty": 2,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "5-Minute Radicchio and Watercress Salad"
           ],
           "hasUnquantified": false
         },
@@ -556,12 +576,11 @@
         },
         {
           "item": "Parmesan cheese",
-          "qty": 0.75,
+          "qty": 0.5,
           "unit": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Brown Butter Scallops with Parmesan Risotto",
-            "Simple Arugula Parmesan Salad"
+            "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
         },
@@ -879,5 +898,5 @@
     "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 80
+  "totalItems": 82
 }

@@ -1,0 +1,29 @@
+{
+  "mealId": "garlic-baby-bok-choy-8812d526",
+  "fetchedAt": "2026-06-18T02:13:23.305Z",
+  "source": "thewoksoflife.com",
+  "url": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+  "name": "Garlic Baby Bok Choy",
+  "description": "Quick high-heat stir-fried baby bok choy with garlic — crisp-tender and glistening.",
+  "recipeIngredient": [
+    "1 1/2 lb baby bok choy, halved or quartered",
+    "4 cloves garlic, sliced",
+    "2 tbsp neutral oil",
+    "1 tsp toasted sesame oil (optional)",
+    "1/4 tsp white pepper",
+    "Salt to taste",
+    "1 tsp cornstarch slurry (optional, for gloss)"
+  ],
+  "recipeInstructions": [
+    "Wash the bok choy thoroughly and drain. Heat oil in a wok over high heat and fry the garlic until fragrant.",
+    "Add the bok choy and stir-fry over high heat, scooping to coat in the garlicky oil.",
+    "Season with salt, sesame oil, and white pepper; stir-fry 1-2 minutes until just tender. Finish with a touch of cornstarch slurry for gloss if you like."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": "10 min",
+  "recipeYield": "4 servings",
+  "image": null,
+  "author": "The Woks of Life",
+  "ai": null
+}

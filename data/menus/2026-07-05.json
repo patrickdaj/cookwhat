@@ -905,13 +905,13 @@
       "notes": "Your loved 4-star redo (replaces the fish tacos). Seared scallops over Parmesan risotto with garlicky spinach. Arugula salad finishes the plate."
     },
     {
-      "id": "simple-arugula-parmesan-salad-d754ac6a",
+      "id": "5-minute-radicchio-and-watercress-salad-1c950a7c",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Simple Arugula Parmesan Salad",
-      "source": "pantry classic",
-      "sourceUrl": "",
+      "title": "5-Minute Radicchio and Watercress Salad",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe",
       "cuisine": "italian",
       "protein": "vegetable",
       "tags": [
@@ -923,17 +923,24 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "baby arugula",
-          "qty": 5,
+          "item": "radicchio",
+          "qty": 4,
           "unit": "oz",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "Parmesan cheese",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "dairy",
+          "item": "watercress or arugula",
+          "qty": 2,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "radishes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
           "note": ""
         },
         {
@@ -944,7 +951,7 @@
           "note": ""
         }
       ],
-      "notes": "Lemon-dressed arugula with shaved Parmesan — a light green against the rich risotto."
+      "notes": "A real vetted salad (replaces the throwaway arugula side): peppery radicchio + watercress + radish to cut the rich risotto."
     },
     {
       "id": "karaage-japanese-fried-chicken-c99fff93",
@@ -1109,5 +1116,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T01:52:08.493Z"
+  "setAt": "2026-06-18T02:13:55.819Z"
 }

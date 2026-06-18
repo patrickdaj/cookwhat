@@ -1,0 +1,32 @@
+{
+  "mealId": "garlic-green-beans-aec655d2",
+  "fetchedAt": "2026-06-18T02:13:54.600Z",
+  "url": "https://thewoksoflife.com/garlic-green-beans/",
+  "name": "Garlic Green Beans",
+  "description": "Need a simple, go-to way to cook green beans without too much fuss? This garlic green beans recipe is it, and it goes with everything!",
+  "recipeIngredient": [
+    "1 pound green beans ((trimmed))",
+    "3 tablespoons neutral oil ((such as vegetable oil, canola oil, or avocado oil))",
+    "1 tablespoon water",
+    "5 cloves garlic ((finely chopped))",
+    "salt"
+  ],
+  "recipeInstructions": [
+    "Bring a pot of water to a boil. Blanch the green beans for 2 minutes. Drain. (No need to shock them in cold water.)",
+    "Heat a dry wok or large skillet over medium-high heat, and add the oil. When the oil is shimmering, add the green beans, and let them fry until they begin to scorch and wrinkle, about 2 minutes. Lower the heat to medium, and add the water, garlic, and salt to taste. Stir-fry for 1 minute, just until the garlic turns golden. Serve!"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": "20 min",
+  "recipeYield": "4",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2024/09/garlic-green-beans-11.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Blanch green beans first to cook through, then high-heat fry them to char and wrinkle before finishing with garlic and a splash of water to bloom the aromatics.",
+    "keyTips": [
+      "Don't shock the blanched beans in cold water—they should still be warm when they hit the hot oil to fry properly",
+      "Get the oil genuinely shimmering before adding beans so they fry and scorch rather than steam",
+      "Add water right before the garlic finishes cooking to prevent it from burning while keeping the beans from drying out"
+    ]
+  }
+}

@@ -86,18 +86,24 @@ all three (a salmon rice bowl with edamame, a shrimp fried rice with spinach) is
 a full meal and needs nothing added. This is a design rule for *you* — the CLI
 doesn't validate meal composition, so it won't show up in `plan check`.
 
-- **Audit each day for the three components across the whole plate** (main's own
-  ingredients + any sides). Watch for the common gap: a stir-fry or protein over
-  rice whose only "vegetable" is really an aromatic/herb (onion, garlic, basil,
-  scallion, ginger) — that's missing a *real* veg. Likewise a protein-and-salad
-  plate with no starch is missing a carb.
-- **Fill only the missing component** — don't bolt a redundant side onto an
-  already-complete dish. Add the missing piece however fits best: an in-dish
-  ingredient (e.g. toss long beans into the pad krapow) *or* a side dish (a veg
-  side, a starch). Match it to the cuisine.
-- Pull added sides from the user's pools first: **Paprika recipes and cookbooks**
-  are full of veg sides and salads. Trivial carbs (steamed rice, crusty bread)
-  can just be ingredient lines on the main — see Sides rules below.
+- **The vegetable must be substantial — not an aromatic, herb, or garnish.**
+  Onion / garlic / scallion / ginger are aromatics. Basil / mint / cilantro /
+  parsley are herbs. A few shishito peppers, a sprinkle of scallion, a lemon
+  wedge — those are *garnishes*. None of them count as "the veg." If a stir-fry
+  or protein-over-rice has only those, the meal is missing a real vegetable and
+  needs one (a proper serving of greens, beans, a salad, a roasted veg…).
+  Likewise a protein-and-salad plate with no starch is missing a carb.
+- **Added sides must be real, sourced recipes** — from `preferredSites`, Paprika,
+  or a cookbook, with a URL or book citation, *exactly like a main*. **Never
+  invent a throwaway** ("Simple Arugula Salad", "pantry classic") with no real
+  recipe — it reads as weak and lazy. And **don't fake completeness by tacking a
+  bare, unprepared ingredient** (a lone `bok choy` or `baby spinach` line, with
+  no dish or method behind it) onto the main — that's a phantom veg. A vegetable
+  is a *real prepared side*. (Plain rice or bread, purely as the carb, may stay
+  an ingredient line; a veg may not.)
+- **Fill only what's genuinely missing** — don't bolt a redundant side onto an
+  already-complete one-bowl dish. Match the added side to the cuisine, and pull
+  it from the user's pools (Paprika/cookbooks are full of real veg sides).
 - Breakfasts (e.g. a Sunday Huevos) are exempt; this is about dinners.
 
 ## Sides & multi-dish days (lessons learned)
@@ -160,6 +166,15 @@ user's own catalog is *uncooked*, so it's new-to-them:
 A good week blends these — a redo or two for comfort, several uncooked-owned
 picks (Paprika + book placeholders), and a new web recipe or two. When you
 present the plan, label which pool each pick came from so the balance is visible.
+
+**Avoid near-duplicates, not just exact repeats.** A dish is a repeat if it
+shares the same **archetype = protein + technique + cuisine**, even with a
+different title or source. Two Thai basil chicken stir-fries, two miso-glazed
+salmons, two shrimp-slaw tacos, two breaded-cutlet nights within a few weeks is
+too samey. Before locking a pick, scan the **last ~3–4 weeks** of menus for the
+same protein+technique+cuisine combo and choose something genuinely different —
+vary the *technique* (braise vs grill vs stir-fry vs roast) and the *cuisine*,
+not just the recipe name.
 
 ## Weekly sourcing strategy (the blend)
 

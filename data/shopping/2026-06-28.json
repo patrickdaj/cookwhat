@@ -1,14 +1,14 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-18T01:45:38.540Z",
-  "targetServings": 4,
+  "generatedAt": "2026-06-18T02:13:55.739Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
           "item": "asparagus stalks",
-          "qty": 32,
+          "qty": 16,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -18,11 +18,11 @@
         },
         {
           "item": "baby bok choy",
-          "qty": 4,
-          "unit": "",
+          "qty": 1.5,
+          "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Miso Chicken"
+            "Garlic Baby Bok Choy"
           ],
           "hasUnquantified": false
         },
@@ -129,7 +129,7 @@
         },
         {
           "item": "garlic",
-          "qty": 19,
+          "qty": 23,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
@@ -137,6 +137,7 @@
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Green Beans",
             "Grilled Shrimp Tacos with Creamy Slaw",
+            "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
@@ -346,7 +347,7 @@
         },
         {
           "item": "Parmigiano-Reggiano",
-          "qty": 8,
+          "qty": 4,
           "unit": "oz",
           "category": "dairy",
           "fromMeals": [
@@ -406,7 +407,7 @@
         },
         {
           "item": "balsamic condimento or reduction",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -536,10 +537,11 @@
         },
         {
           "item": "toasted sesame oil",
-          "qty": 0.25,
+          "qty": 1.25,
           "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
+            "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
@@ -626,12 +628,22 @@
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 3.5,
+          "qty": 2.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
             "Cornell Chicken",
             "Grilled Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Garlic Baby Bok Choy"
           ],
           "hasUnquantified": false
         }
@@ -676,5 +688,5 @@
     "black pepper"
   ],
   "pendingScans": [],
-  "totalItems": 61
+  "totalItems": 62
 }

@@ -384,13 +384,6 @@
           "note": ""
         },
         {
-          "item": "baby bok choy",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
           "item": "steamed rice",
           "qty": 3,
           "unit": "cup",
@@ -398,7 +391,56 @@
           "note": ""
         }
       ],
-      "notes": "Broil the miso-butter-glazed thighs until lacquered. Carb: steamed rice. Veg: quick-seared baby bok choy."
+      "notes": "Broil the miso-butter-glazed thighs until lacquered. Carb: steamed rice. Veg: a real Garlic Baby Bok Choy side (added)."
+    },
+    {
+      "id": "garlic-baby-bok-choy-8812d526",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Baby Bok Choy",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby bok choy",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "A real garlicky stir-fried bok choy side for the miso chicken (replaces the bare bok-choy ingredient line)."
     },
     {
       "id": "maple-miso-sheet-pan-salmon-with-green-beans-e51e3196",
@@ -849,5 +891,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-17T20:39:41.807Z"
+  "setAt": "2026-06-18T02:13:55.706Z"
 }
