@@ -905,55 +905,6 @@
       "notes": "Your loved 4-star redo (replaces the fish tacos). Seared scallops over Parmesan risotto with garlicky spinach. Arugula salad finishes the plate."
     },
     {
-      "id": "5-minute-radicchio-and-watercress-salad-1c950a7c",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "5-Minute Radicchio and Watercress Salad",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "radicchio",
-          "qty": 4,
-          "unit": "oz",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "watercress or arugula",
-          "qty": 2,
-          "unit": "oz",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "radishes",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "A real vetted salad (replaces the throwaway arugula side): peppery radicchio + watercress + radish to cut the rich risotto."
-    },
-    {
       "id": "karaage-japanese-fried-chicken-c99fff93",
       "day": "Sat",
       "slot": "dinner",
@@ -1116,5 +1067,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T02:13:55.819Z"
+  "setAt": "2026-06-18T02:19:12.399Z"
 }

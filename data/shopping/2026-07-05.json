@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T02:13:55.853Z",
+  "generatedAt": "2026-06-18T02:19:12.445Z",
   "targetServings": null,
   "sections": [
     {
@@ -255,7 +255,7 @@
         },
         {
           "item": "lemon",
-          "qty": 8,
+          "qty": 7,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -265,7 +265,6 @@
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
             "Sautéed Green Beans with Garlic and Herbs",
-            "5-Minute Radicchio and Watercress Salad",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -307,26 +306,6 @@
           "category": "produce",
           "fromMeals": [
             "Korean Cucumber Salad (Oi Muchim)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "radicchio",
-          "qty": 4,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "5-Minute Radicchio and Watercress Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "radishes",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "5-Minute Radicchio and Watercress Salad"
           ],
           "hasUnquantified": false
         },
@@ -390,16 +369,6 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Tomato and Cucumber Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "watercress or arugula",
-          "qty": 2,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "5-Minute Radicchio and Watercress Salad"
           ],
           "hasUnquantified": false
         },
@@ -898,5 +867,5 @@
     "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 82
+  "totalItems": 79
 }

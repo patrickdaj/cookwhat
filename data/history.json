@@ -2611,5 +2611,38 @@
     "sourceUrl": "https://cooking.nytimes.com/recipes/1026229-hoisin-peanut-shrimp-and-slaw",
     "source": "cooking.nytimes.com",
     "notes": "Cooked it — just OK, ~3. Don't repeat soon."
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Salmon Bowl",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "japanese",
+    "protein": "salmon",
+    "sourceUrl": "https://www.thekitchn.com/salmon-rice-bowl-recipe-23645663",
+    "source": "thekitchn.com",
+    "notes": "Good. Next time swap the Greek yogurt for more of a mayo."
+  },
+  {
+    "date": "2026-06-16",
+    "title": "One-Pan Italian Chicken and Rice",
+    "rating": null,
+    "redo": true,
+    "cuisine": "italian",
+    "protein": "chicken",
+    "sourceUrl": "https://www.thekitchn.com/one-pan-italian-chicken-and-rice-recipe-23650537",
+    "source": "thekitchn.com",
+    "notes": "Not rating yet — my cooking, not the recipe. Rice came out way too al dente; next time cook it longer with a bit more liquid than indicated. Make again."
+  },
+  {
+    "date": "2026-06-17",
+    "title": "5-Minute Radicchio and Watercress Salad",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "italian",
+    "protein": "vegetable",
+    "sourceUrl": "https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe",
+    "source": "seriouseats.com",
+    "notes": "Just OK (3). Wife will not like it — skip going forward."
   }
 ]
