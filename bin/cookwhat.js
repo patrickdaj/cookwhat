@@ -552,8 +552,17 @@ async function cmdRecipe() {
       week: { type: "string" },
       all: { type: "boolean", default: false },
       force: { type: "boolean", default: false },
+      ai: { type: "boolean", default: false },
       "no-ai": { type: "boolean", default: false },
     });
+
+    // The paid Haiku annotation (analyzeWithAI) is OFF by default for an
+    // interactive single-week fetch — Claude in the editor fills the `ai` block
+    // instead (free, and can mine the article prose for the author's real tips).
+    // It turns ON automatically for headless `--all` batch runs, where there's
+    // no Claude in the loop. Either default is overridable: --ai forces it on,
+    // --no-ai forces it off (and wins over everything).
+    const useAI = values["no-ai"] ? false : (values.ai || values.all);
 
     const { fetchRecipe, analyzeWithAI } = await import("../src/recipe-fetch.js");
 
@@ -588,7 +597,7 @@ async function cmdRecipe() {
         const recipe = await fetchRecipe(meal.sourceUrl);
         let ai = null;
 
-        if (!values["no-ai"]) {
+        if (useAI) {
           try {
             ai = await analyzeWithAI(recipe);
           } catch (e) {
@@ -671,12 +680,14 @@ ${c.bold("History, ratings & redos")}
   cookwhat redos [--top 10]           Best-loved meals to cook again
 
 ${c.bold("Recipes")}
-  cookwhat recipe fetch [--week DATE] [--all] [--force] [--no-ai]
+  cookwhat recipe fetch [--week DATE] [--all] [--force] [--ai] [--no-ai]
     Downloads JSON-LD from each meal's source URL, stores in data/recipes/.
-    AI extracts cliff notes + key tips (needs ANTHROPIC_API_KEY).
-    --all     Fetch all weeks, not just current
+    The ai block (cliff notes + key tips) is left for Claude to fill in;
+    --all turns on the paid Haiku fallback for headless batch runs.
+    --all     Fetch all weeks, not just current (enables AI annotation)
     --force   Re-fetch even if already stored
-    --no-ai   Skip AI analysis
+    --ai      Force the paid Haiku annotation (needs ANTHROPIC_API_KEY)
+    --no-ai   Skip AI annotation (wins over --ai/--all)
 
 ${c.bold("Shopping")}
   cookwhat shopping [week] [--servings N] [--print] [--notes]
