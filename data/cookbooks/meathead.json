@@ -40,7 +40,15 @@
           "2 tsp chili powder or ground ancho",
           "1 tsp ground chipotle or cayenne"
         ],
-        "method": "Mix together in a bowl. No salt in the rub - salt the meat separately."
+        "method": "Mix together in a bowl. No salt in the rub - salt the meat separately.",
+        "ai": {
+          "cliffNotes": "A bold spice rub that layers heat, smoke, and umami without salt, which is added to the meat separately to prevent drawing out moisture during cooking.",
+          "keyTips": [
+            "Salt the meat separately from the rub to avoid extracting surface moisture that inhibits browning",
+            "Coarsely grind the black pepper yourself rather than using pre-ground for more vibrant pepper flavor and texture",
+            "Mix the dry spices thoroughly to ensure even distribution, especially the potent chipotle and garlic powder which can clump"
+          ]
+        }
       }
     },
     {
@@ -73,7 +81,16 @@
           "1 tbsp freshly ground black pepper",
           "1 tbsp sugar"
         ],
-        "method": "Pulse everything in a blender or food processor a few seconds until you have a coarse powder. All-purpose rub for pork, turkey, chicken, veggies, eggs, grilled potatoes, asparagus."
+        "method": "Pulse everything in a blender or food processor a few seconds until you have a coarse powder. All-purpose rub for pork, turkey, chicken, veggies, eggs, grilled potatoes, asparagus.",
+        "ai": {
+          "cliffNotes": "Combine dried herbs with sugar and pepper, then pulse briefly to create a coarse, aromatic powder that clings to proteins and vegetables while maintaining textural interest.",
+          "keyTips": [
+            "Pulse only a few seconds to maintain coarse texture — over-processing creates fine powder that doesn't adhere as well and tastes dusty",
+            "Crush dried herbs by hand before blending to break down larger pieces and ensure more even distribution in the final rub",
+            "Apply rub generously to slightly damp meat or vegetables so it adheres better during cooking rather than falling off",
+            "Store in an airtight container away from heat and light to preserve the volatile oils in the herbs that provide flavor"
+          ]
+        }
       }
     },
     {
@@ -178,7 +195,16 @@
           "1/4 tsp kosher salt",
           "1/4 tsp coarsely ground black pepper"
         ],
-        "method": "Combine in a lidded jar and shake thoroughly; shake again just before using. Also good with fresh parsley, basil, or fennel."
+        "method": "Combine in a lidded jar and shake thoroughly; shake again just before using. Also good with fresh parsley, basil, or fennel.",
+        "ai": {
+          "cliffNotes": "Emulsify olive oil and lemon juice through vigorous shaking to create a temporary suspension that coats seafood evenly.",
+          "keyTips": [
+            "Use high-quality extra-virgin olive oil—its flavor is essential since there are so few ingredients",
+            "Shake the jar vigorously and again just before serving, as the emulsion will separate and you need fresh coating action",
+            "Fresh lemon juice matters; bottled lacks the brightness needed to balance the oil",
+            "Apply immediately after shaking while the emulsion is still suspended, before it breaks"
+          ]
+        }
       }
     },
     {
@@ -287,7 +313,16 @@
           "1/2 tsp chopped fresh parsley",
           "1/2 tsp chopped fresh tarragon"
         ],
-        "method": "Soften the butter, mash in the herbs with a fork, roll in plastic wrap like a Tootsie Roll (~1 inch thick), twist the ends, and chill overnight. Keeps in fridge or freezer. Endlessly variable - add chipotle, mushrooms, port, miso, etc."
+        "method": "Soften the butter, mash in the herbs with a fork, roll in plastic wrap like a Tootsie Roll (~1 inch thick), twist the ends, and chill overnight. Keeps in fridge or freezer. Endlessly variable - add chipotle, mushrooms, port, miso, etc.",
+        "ai": {
+          "cliffNotes": "Soften butter, fold in herbs, and roll tightly in plastic wrap before chilling to create a compound butter that melts over hot food.",
+          "keyTips": [
+            "Soften butter to room temperature so herbs incorporate evenly without breaking down",
+            "Roll tightly in plastic wrap and twist ends firmly to create a uniform cylinder that slices cleanly",
+            "Chill overnight to let flavors meld and butter firm up enough to hold its shape when sliced",
+            "Slice into rounds and place on hot meat or vegetables immediately after cooking so the butter melts into sauce"
+          ]
+        }
       }
     },
     {
@@ -383,7 +418,16 @@
           "1/4 tsp freshly ground black pepper",
           "1 (3- to 4-pound) chicken, cut into quarters"
         ],
-        "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F."
+        "method": "Whisk the egg, oil, vinegar, salt, S&G rub, and pepper into a marinade; marinate the chicken quarters 3-24 hours. Grill indirect (~325F), flipping, until breasts hit 160F and thighs 165F.",
+        "ai": {
+          "cliffNotes": "An emulsified vinegar-oil marinade with egg creates a basting liquid that keeps chicken moist during indirect grilling while building flavor.",
+          "keyTips": [
+            "Marinate 3-24 hours for the acidity to penetrate and tenderize, but don't exceed 24 hours or the texture becomes mushy",
+            "Use indirect heat at 325°F to avoid burning the oil-based marinade while allowing even cooking",
+            "Monitor internal temps carefully (160°F breast, 165°F thigh) since the marinade and flipping can mask doneness visually",
+            "Reserve some marinade before adding raw chicken to use as a finishing baste in the final minutes of grilling"
+          ]
+        }
       }
     },
     {
@@ -499,7 +543,16 @@
           "1/4 small head cabbage, shredded",
           "pico de gallo or red salsa"
         ],
-        "method": "Season fish with salt, ancho, and pepper. Mix sour cream + mayo + chipotle; chill. Coat fish in a thin layer of mayo and grill on a metal topper over two-zone heat until just cooked. Warm tortillas; toss avocado with lime. Assemble: fish, chipotle crema, cabbage, avocado, pico; serve with lime wedges."
+        "method": "Season fish with salt, ancho, and pepper. Mix sour cream + mayo + chipotle; chill. Coat fish in a thin layer of mayo and grill on a metal topper over two-zone heat until just cooked. Warm tortillas; toss avocado with lime. Assemble: fish, chipotle crema, cabbage, avocado, pico; serve with lime wedges.",
+        "ai": {
+          "cliffNotes": "Mild white fish is seasoned simply with chile and pepper, grilled quickly with a mayo barrier to prevent sticking, then finished with a chipotle-spiked crema that carries the heat and richness.",
+          "keyTips": [
+            "Use a metal grill topper and coat fish lightly with mayo before grilling—this prevents sticking and helps the fish stay moist",
+            "Don't overcook the fish; it's done the moment it flakes easily—overcooking dries out mild white fish instantly",
+            "Toss avocado with lime juice just before assembly to prevent browning and add brightness to cut through the richness of the crema",
+            "Mix the chipotle crema ahead and chill it so flavors meld and it's ready to serve, speeding up final assembly"
+          ]
+        }
       }
     },
     {
@@ -546,7 +599,16 @@
           "Thai sweet chili sauce (e.g. Maggi Taste of Asia Mild Sweet Chili)",
           "finely chopped chives or flat-leaf parsley (optional garnish)"
         ],
-        "method": "Peel/devein shrimp leaving tails on; brine (p.343). Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick. Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish."
+        "method": "Peel/devein shrimp leaving tails on; brine (p.343). Halve and seed jalapenos; stuff each shrimp with cream cheese and a jalapeno strip, wrap in bacon, secure with a toothpick. Grill two-zone (~325F indirect) until the bacon is done; brush with sweet chili sauce and garnish.",
+        "ai": {
+          "cliffNotes": "Brining the shrimp before stuffing ensures they stay tender and juicy while the bacon renders and crisps over indirect heat.",
+          "keyTips": [
+            "Brine the peeled shrimp first to season throughout and prevent them from drying out during grilling",
+            "Use the two-zone setup so bacon renders fully without overcooking the delicate shrimp meat",
+            "Secure each bundle tightly with a toothpick so the bacon stays wrapped and doesn't unroll during cooking",
+            "Don't skip leaving the tails on—they provide a handle and help shrimp cook evenly by keeping the shape intact"
+          ]
+        }
       }
     },
     {
@@ -575,7 +637,16 @@
           "4 oz Parmigiano-Reggiano cheese",
           "1 tbsp balsamic condimento or balsamic reduction"
         ],
-        "method": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons. Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle."
+        "method": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with the rub and salt, shave the cheese into wide ribbons. Grill two-zone ~325F on the indirect side; finish with the Parm ribbons and a balsamic drizzle.",
+        "ai": {
+          "cliffNotes": "Two-zone grilling with indirect heat allows asparagus to cook through without charring, while the finishing touch of Parmigiano ribbons and balsamic adds richness and acidity.",
+          "keyTips": [
+            "Snap woody bottoms before cooking—they won't soften and waste grill space",
+            "Use two-zone setup with indirect side as primary cooking zone to avoid burning the delicate spears",
+            "Add cheese and balsamic after grilling when spears are hot so Parm softens slightly and flavors meld",
+            "Shave cheese into wide ribbons rather than grating for better texture and visual appeal"
+          ]
+        }
       }
     },
     {

@@ -25,5 +25,13 @@
   "recipeYield": "20 shrimp (about 4 servings)",
   "image": null,
   "author": "Meathead Goldwyn",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Brining the shrimp before stuffing ensures they stay tender and juicy while the bacon renders and crisps over indirect heat.",
+    "keyTips": [
+      "Brine the peeled shrimp first to season throughout and prevent them from drying out during grilling",
+      "Use the two-zone setup so bacon renders fully without overcooking the delicate shrimp meat",
+      "Secure each bundle tightly with a toothpick so the bacon stays wrapped and doesn't unroll during cooking",
+      "Don't skip leaving the tails on—they provide a handle and help shrimp cook evenly by keeping the shape intact"
+    ]
+  }
 }

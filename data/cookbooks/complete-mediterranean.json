@@ -62,7 +62,16 @@
           "2 tbsp chopped fresh parsley",
           "1 1/2 tsp lemon juice"
         ],
-        "method": "Brown the seasoned thighs; set aside. Soften onions, then add garlic, bay leaf, and cinnamon. Add wine and tomatoes, return the chicken, and braise in the oven until tender. Grind some toasted almonds to thicken the sauce; finish with parsley, lemon juice, and the remaining almonds."
+        "method": "Brown the seasoned thighs; set aside. Soften onions, then add garlic, bay leaf, and cinnamon. Add wine and tomatoes, return the chicken, and braise in the oven until tender. Grind some toasted almonds to thicken the sauce; finish with parsley, lemon juice, and the remaining almonds.",
+        "ai": {
+          "cliffNotes": "Bone-in chicken thighs braise in a wine-tomato sauce enriched and thickened by ground almonds, creating a rich Spanish dish that relies on low, moist heat to render the thighs tender while the sauce develops flavor.",
+          "keyTips": [
+            "Brown the chicken properly before braising to build fond and develop surface color, which deepens sauce flavor",
+            "Grind half the almonds into powder to naturally thicken the sauce without flour or cornstarch—this is the structural element that defines the dish",
+            "Braise low and covered in the oven rather than stovetop to ensure even, gentle cooking of bone-in thighs without drying the meat",
+            "Add lemon juice and parsley at the very end to brighten the rich, slightly sweet sauce and prevent it from becoming heavy"
+          ]
+        }
       }
     },
     {
@@ -1489,7 +1498,16 @@
           "1/4 cup raisins",
           "2 tbsp capers, rinsed"
         ],
-        "method": "Mix pine nuts, mint, a quarter of the garlic, and orange zest for serving. Soften onion + celery, add the remaining garlic, thyme, and pepper flakes. Add wine + reserved tomato juice and reduce by half; add tomatoes, clam juice, raisins, and capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min, then off heat covered 3 min. Serve sprinkled with the pine nut mixture."
+        "method": "Mix pine nuts, mint, a quarter of the garlic, and orange zest for serving. Soften onion + celery, add the remaining garlic, thyme, and pepper flakes. Add wine + reserved tomato juice and reduce by half; add tomatoes, clam juice, raisins, and capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min, then off heat covered 3 min. Serve sprinkled with the pine nut mixture.",
+        "ai": {
+          "cliffNotes": "A Sicilian braise that balances sweet (raisins, orange), savory (capers, clam juice), and aromatic (mint, pine nuts) elements, with the pine nut gremolata added raw at the end to preserve brightness and texture.",
+          "keyTips": [
+            "Toast the pine nuts yourself and make the gremolata just before serving—raw mint and nuts lose their snap once they hit warm broth",
+            "Reduce the wine and tomato juice by half before adding the broth to concentrate flavor and avoid a watery stew",
+            "Add swordfish off heat after simmering the sauce 4 minutes, then cover for residual cooking—this prevents tough, overcooked fish",
+            "Drain the canned tomatoes but reserve the juice for the reduction step; the juice carries acidity that balances the raisins and sweet elements"
+          ]
+        }
       }
     },
     {
