@@ -9,427 +9,2215 @@
   "source_format": "Source for any meal cataloged from this book: \"The Complete Mediterranean Cookbook (ATK) - p.NNN\" (no URL).",
   "dislikeFlags": "Broccoli and Feta Frittata flagged (broccoli). White-bean/chickpea mains flagged (keep beans low). No curry dishes.",
   "recipes": [
-    {"title": "Sauteed Chicken Cutlets with Romesco Sauce", "page": 290, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Sauteed Chicken Cutlets with Sun-Dried Tomato Sauce", "page": 290, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Sauteed Chicken Breasts with Cherry Tomatoes, Zucchini, and Yellow Squash", "page": 292, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Pan-Seared Chicken Breasts with Chickpea Salad", "page": 293, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "flag": "chickpeas (keep beans low)"},
-    {"title": "Chicken in Turkish Walnut Sauce", "page": 294, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Spanish-Style Braised Chicken and Almonds", "page": 295, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "4 servings", "captured": {"ingredients": ["8 (5- to 7-oz) bone-in chicken thighs, trimmed", "salt and pepper", "1 tbsp extra-virgin olive oil", "2 onions, chopped fine", "4 garlic cloves, minced", "1 bay leaf", "1/4 tsp ground cinnamon", "1 cup dry white wine", "1 (14.5-oz) can whole peeled tomatoes, drained and chopped", "1/2 cup blanched slivered almonds, toasted", "2 tbsp chopped fresh parsley", "1 1/2 tsp lemon juice"], "method": "Brown the seasoned thighs; set aside. Soften onions, then add garlic, bay leaf, and cinnamon. Add wine and tomatoes, return the chicken, and braise in the oven until tender. Grind some toasted almonds to thicken the sauce; finish with parsley, lemon juice, and the remaining almonds."}},
-    {"title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce", "page": 296, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Roasted Chicken with Fennel, Olive, and Orange Sauce", "page": 296, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Za'atar-Rubbed Butterflied Chicken", "page": 298, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Grilled Chicken alla Diavola", "page": 299, "chapter": "Poultry", "fitsMenu": "chicken (favorite); grill"},
-    {"title": "Grilled Chicken Kebabs with Tomato-Feta Salad", "page": 300, "chapter": "Poultry", "fitsMenu": "chicken (favorite); grill"},
-    {"title": "Grilled Chicken Souvlaki", "page": 300, "chapter": "Poultry", "fitsMenu": "chicken (favorite); grill"},
-    {"title": "Chicken Bouillabaisse", "page": 301, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Rouille", "page": 301, "chapter": "Poultry"},
-    {"title": "Chicken Tagine with Chickpeas and Apricots", "page": 303, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "flag": "chickpeas (keep beans low)"},
-    {"title": "Pomegranate-Glazed Roasted Quail", "page": 304, "chapter": "Poultry"},
-    {"title": "Pomegranate Molasses", "page": 304, "chapter": "Poultry"},
-
-    {"title": "Grilled Spiced Pork Skewers with Onion and Caper Relish", "page": 313, "chapter": "Pork", "fitsMenu": "grill"},
-    {"title": "Greek-Style Braised Pork with Leeks", "page": 314, "chapter": "Pork"},
-    {"title": "Spice-Rubbed Pork Tenderloin with Fennel, Tomatoes, Artichokes, and Olives", "page": 315, "chapter": "Pork"},
-    {"title": "Braised Greek Sausages with Peppers", "page": 318, "chapter": "Pork"},
-    {"title": "Sausage and White Beans with Mustard Greens", "page": 319, "chapter": "Pork", "flag": "white beans (keep beans low)"},
-
-    {"title": "Kibbeh", "page": 305, "chapter": "Beef"},
-    {"title": "Grilled Beef Kebabs with Lemon and Rosemary Marinade", "page": 307, "chapter": "Beef", "fitsMenu": "grill"},
-    {"title": "Grilled Beef Kebabs with North African Marinade", "page": 307, "chapter": "Beef", "fitsMenu": "grill"},
-    {"title": "Flank Steak Peperonata", "page": 308, "chapter": "Beef"},
-    {"title": "Grilled Flank Steak with Grilled Vegetables and Salsa Verde", "page": 309, "chapter": "Beef", "fitsMenu": "grill"},
-    {"title": "Italian Salsa Verde", "page": 309, "chapter": "Beef"},
-    {"title": "Braised Oxtails with White Beans, Tomatoes, and Aleppo Pepper", "page": 311, "chapter": "Beef", "flag": "white beans (keep beans low)"},
-    {"title": "Pomegranate-Braised Beef Short Ribs with Prunes and Sesame", "page": 312, "chapter": "Beef"},
-
-    {"title": "Lamb Meatballs with Leeks and Yogurt Sauce", "page": 320, "chapter": "Lamb"},
-    {"title": "Grilled Lamb Kofte", "page": 321, "chapter": "Lamb", "fitsMenu": "grill"},
-    {"title": "Grilled Greek-Style Lamb Pita Sandwiches", "page": 322, "chapter": "Lamb", "fitsMenu": "grill"},
-    {"title": "Grilled Lamb Shish Kebabs", "page": 322, "chapter": "Lamb", "fitsMenu": "grill"},
-    {"title": "Grilled Marinated Lamb Shoulder Chops with Asparagus", "page": 323, "chapter": "Lamb", "fitsMenu": "grill"},
-    {"title": "Roast Butterflied Leg of Lamb with Coriander, Cumin, and Mustard Seeds", "page": 324, "chapter": "Lamb"},
-    {"title": "Roast Butterflied Leg of Lamb with Coriander, Rosemary, and Red Pepper", "page": 325, "chapter": "Lamb"},
-    {"title": "Roast Butterflied Leg of Lamb with Coriander, Fennel, and Black Pepper", "page": 325, "chapter": "Lamb"},
-    {"title": "Braised Lamb Shoulder Chops with Tomatoes and Red Wine", "page": 326, "chapter": "Lamb"},
-    {"title": "Lamb Tagine with Figs and North African Spices", "page": 326, "chapter": "Lamb", "note": "page approx"},
-    {"title": "Braised Lamb Shanks with Bell Peppers and Harissa", "page": 327, "chapter": "Lamb"},
-    {"title": "Lamb Tagine with Olives and Lemon", "page": 328, "chapter": "Lamb", "note": "page approx"},
-
-    {"title": "Green Zhoug", "page": 316, "chapter": "Spice Blends & Pastes"},
-    {"title": "Harissa", "page": 316, "chapter": "Spice Blends & Pastes"},
-    {"title": "Ras el Hanout", "page": 316, "chapter": "Spice Blends & Pastes"},
-    {"title": "Za'atar", "page": 316, "chapter": "Spice Blends & Pastes"},
-    {"title": "Dukkah", "page": 317, "chapter": "Spice Blends & Pastes"},
-    {"title": "Herbes de Provence", "page": 317, "chapter": "Spice Blends & Pastes"},
-
-    {"title": "Shakshuka", "page": 330, "chapter": "Eggs"},
-    {"title": "Ratatouille with Poached Eggs", "page": 331, "chapter": "Eggs"},
-    {"title": "Potato, Swiss Chard, and Lamb Hash with Poached Eggs", "page": 331, "chapter": "Eggs"},
-    {"title": "Fried Eggs with Potato and Parmesan Pancake", "page": 332, "chapter": "Eggs"},
-    {"title": "Israeli Eggplant and Egg Sandwiches", "page": 333, "chapter": "Eggs"},
-    {"title": "Scrambled Eggs with Prosciutto and Asparagus", "page": 334, "chapter": "Eggs"},
-    {"title": "Scrambled Eggs with Potatoes and Harissa", "page": 334, "chapter": "Eggs"},
-    {"title": "Scrambled Eggs with Piperade", "page": 336, "chapter": "Eggs"},
-    {"title": "Spanish Tortilla with Roasted Red Peppers and Peas", "page": 336, "chapter": "Eggs"},
-    {"title": "Egyptian Eggah with Ground Beef and Spinach", "page": 337, "chapter": "Eggs"},
-    {"title": "Broccoli and Feta Frittata", "page": 338, "chapter": "Eggs", "flag": "contains broccoli (dislike)"},
-    {"title": "Asparagus and Goat Cheese Frittata", "page": 339, "chapter": "Eggs"},
-    {"title": "Mushroom and Pecorino Frittata", "page": 339, "chapter": "Eggs"},
-    {"title": "Baked Eggs with Tomatoes, Feta, and Croutons", "page": 340, "chapter": "Eggs"},
-    {"title": "Greek-Style Zucchini and Egg Casserole", "page": 341, "chapter": "Eggs"},
-
-    {"title": "Pita Bread", "page": 344, "chapter": "Breads & Pizzas"},
-    {"title": "Socca", "page": 345, "chapter": "Breads & Pizzas"},
-    {"title": "Socca with Swiss Chard, Pistachios, and Apricots", "page": 345, "chapter": "Breads & Pizzas"},
-    {"title": "Socca with Caramelized Onions and Rosemary", "page": 346, "chapter": "Breads & Pizzas"},
-    {"title": "Lavash with Tomatoes, Spinach, and Green Olives", "page": 346, "chapter": "Breads & Pizzas"},
-    {"title": "Lavash with Cauliflower, Fennel, and Coriander", "page": 346, "chapter": "Breads & Pizzas"},
-    {"title": "Pissaladiere", "page": 346, "chapter": "Breads & Pizzas"},
-    {"title": "Mushroom Musakhan", "page": 348, "chapter": "Breads & Pizzas"},
-    {"title": "Lahmacun", "page": 349, "chapter": "Breads & Pizzas"},
-    {"title": "Za'atar Bread", "page": 350, "chapter": "Breads & Pizzas"},
-    {"title": "Red Pepper Coques", "page": 351, "chapter": "Breads & Pizzas"},
-    {"title": "Rosemary Focaccia", "page": 352, "chapter": "Breads & Pizzas"},
-    {"title": "Thin-Crust Pizza", "page": 354, "chapter": "Breads & Pizzas"},
-    {"title": "Mushroom and Fennel Pizza Topping", "page": 354, "chapter": "Breads & Pizzas"},
-    {"title": "Olive, Caper, and Spicy Garlic Pizza Topping", "page": 354, "chapter": "Breads & Pizzas"},
-    {"title": "Prosciutto and Arugula Pizza Topping", "page": 354, "chapter": "Breads & Pizzas"},
-    {"title": "Whole-Wheat Pizza with Feta, Figs, and Honey", "page": 356, "chapter": "Breads & Pizzas"},
-    {"title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan", "page": 356, "chapter": "Breads & Pizzas"},
-    {"title": "Whole-Wheat Pizza with Pesto and Goat Cheese", "page": 356, "chapter": "Breads & Pizzas"},
-    {"title": "Turkish Pide with Eggplant and Tomatoes", "page": 357, "chapter": "Breads & Pizzas"},
-    {"title": "Fennel, Olive, and Goat Cheese Hand Pies", "page": 359, "chapter": "Breads & Pizzas"},
-    {"title": "Mushroom Tart", "page": 360, "chapter": "Breads & Pizzas"},
-    {"title": "Tomato Tart", "page": 360, "chapter": "Breads & Pizzas"},
-    {"title": "Zucchini Tart", "page": 361, "chapter": "Breads & Pizzas"},
-    {"title": "Spanakopita", "page": 361, "chapter": "Breads & Pizzas"},
-    {"title": "Pumpkin Borek", "page": 363, "chapter": "Breads & Pizzas"},
-    {"title": "Chicken B'stilla", "page": 364, "chapter": "Breads & Pizzas", "fitsMenu": "chicken (favorite)"},
-
-    {"title": "Apricot Spoon Sweets", "page": 368, "chapter": "Fruit & Sweets"},
-    {"title": "Dried Fruit Compote", "page": 368, "chapter": "Fruit & Sweets"},
-    {"title": "Turkish Stuffed Apricots with Rose Water and Pistachios", "page": 369, "chapter": "Fruit & Sweets"},
-    {"title": "Honey-Glazed Peaches with Hazelnuts", "page": 370, "chapter": "Fruit & Sweets"},
-    {"title": "Warm Figs with Goat Cheese and Honey", "page": 371, "chapter": "Fruit & Sweets"},
-    {"title": "Peaches and Cherries Poached in Spiced Red Wine", "page": 372, "chapter": "Fruit & Sweets"},
-    {"title": "Roasted Pears with Dried Apricots and Pistachios", "page": 372, "chapter": "Fruit & Sweets"},
-    {"title": "Roasted Apples with Dried Figs and Walnuts", "page": 372, "chapter": "Fruit & Sweets"},
-    {"title": "Roasted Plums with Dried Cherries and Almonds", "page": 373, "chapter": "Fruit & Sweets"},
-    {"title": "White Wine-Poached Pears with Lemon and Herbs", "page": 373, "chapter": "Fruit & Sweets"},
-    {"title": "Melon, Plums, and Cherries with Mint and Vanilla", "page": 374, "chapter": "Fruit & Sweets"},
-    {"title": "Peaches, Blackberries, and Strawberries with Basil and Pepper", "page": 374, "chapter": "Fruit & Sweets"},
-    {"title": "Strawberries with Balsamic Vinegar", "page": 375, "chapter": "Fruit & Sweets"},
-    {"title": "Nectarines and Berries in Prosecco", "page": 375, "chapter": "Fruit & Sweets"},
-    {"title": "Individual Fresh Berry Gratins", "page": 376, "chapter": "Fruit & Sweets"},
-    {"title": "Greek Sesame-Honey Bars", "page": 377, "chapter": "Fruit & Sweets"},
-    {"title": "Lemon-Anise Biscotti", "page": 378, "chapter": "Fruit & Sweets"},
-    {"title": "Honey-Lavender Biscotti", "page": 378, "chapter": "Fruit & Sweets"},
-    {"title": "Spiced Biscotti", "page": 378, "chapter": "Fruit & Sweets"},
-    {"title": "Pignoli", "page": 380, "chapter": "Fruit & Sweets"},
-    {"title": "Fig Phyllo Cookies", "page": 381, "chapter": "Fruit & Sweets"},
-    {"title": "Baklava", "page": 382, "chapter": "Fruit & Sweets"},
-    {"title": "Almond Cake", "page": 384, "chapter": "Fruit & Sweets"},
-    {"title": "Orange Polenta Cake", "page": 385, "chapter": "Fruit & Sweets"},
-    {"title": "Olive Oil-Yogurt Cake", "page": 386, "chapter": "Fruit & Sweets"},
-    {"title": "Lemon Yogurt Mousse with Blueberry Sauce", "page": 386, "chapter": "Fruit & Sweets"},
-    {"title": "Lemon Yogurt Mousse with Raspberry Sauce", "page": 386, "chapter": "Fruit & Sweets"},
-    {"title": "Lemon Yogurt Mousse with Strawberry Sauce", "page": 386, "chapter": "Fruit & Sweets"},
-    {"title": "Semolina Pudding with Almonds and Dates", "page": 387, "chapter": "Fruit & Sweets"},
-    {"title": "Greek Lemon Rice Pudding", "page": 388, "chapter": "Fruit & Sweets"},
-    {"title": "Raspberry Sorbet", "page": 388, "chapter": "Fruit & Sweets"},
-    {"title": "Lemon Ice", "page": 389, "chapter": "Fruit & Sweets"},
-    {"title": "Minted Lemon Ice", "page": 389, "chapter": "Fruit & Sweets"},
-    {"title": "Orange Ice", "page": 389, "chapter": "Fruit & Sweets"},
-
-    {"title": "Basmati Rice Pilaf with Currants and Toasted Almonds", "page": 102, "chapter": "Rice & Grains"},
-    {"title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon", "page": 102, "chapter": "Rice & Grains"},
-    {"title": "Spiced Basmati Rice with Cauliflower and Pomegranate", "page": 103, "chapter": "Rice & Grains"},
-    {"title": "Herbed Basmati Rice and Pasta Pilaf", "page": 104, "chapter": "Rice & Grains"},
-    {"title": "Spiced Baked Rice with Roasted Sweet Potatoes and Fennel", "page": 105, "chapter": "Rice & Grains"},
-    {"title": "Stovetop White Rice", "page": 105, "chapter": "Rice & Grains"},
-    {"title": "Baked Brown Rice with Roasted Red Peppers and Onions", "page": 106, "chapter": "Rice & Grains"},
-    {"title": "Foolproof Baked Brown Rice", "page": 106, "chapter": "Rice & Grains"},
-    {"title": "Brown Rice with Tomatoes and Chickpeas", "page": 107, "chapter": "Rice & Grains", "flag": "chickpeas (keep beans low)"},
-    {"title": "Rice Salad with Oranges, Olives, and Almonds", "page": 107, "chapter": "Rice & Grains"},
-    {"title": "Brown Rice Salad with Asparagus, Goat Cheese, and Lemon", "page": 108, "chapter": "Rice & Grains"},
-    {"title": "Seafood Risotto", "page": 109, "chapter": "Rice & Grains", "fitsMenu": "seafood"},
-    {"title": "Panissa", "page": 110, "chapter": "Rice & Grains"},
-    {"title": "Spanish-Style Brothy Rice with Clams and Salsa Verde", "page": 111, "chapter": "Rice & Grains", "fitsMenu": "seafood"},
-    {"title": "Indoor Paella", "page": 112, "chapter": "Rice & Grains", "fitsMenu": "seafood"},
-    {"title": "Grilled Paella", "page": 114, "chapter": "Rice & Grains", "fitsMenu": "seafood; grill"},
-    {"title": "Vegetable Paella", "page": 116, "chapter": "Rice & Grains"},
-    {"title": "Creamy Parmesan Polenta", "page": 118, "chapter": "Rice & Grains"},
-    {"title": "Herbed Barley Pilaf", "page": 120, "chapter": "Rice & Grains"},
-    {"title": "Barley with Roasted Carrots, Snow Peas, and Lemon-Yogurt Sauce", "page": 120, "chapter": "Rice & Grains"},
-    {"title": "Barley with Lentils, Mushrooms, and Tahini-Yogurt Sauce", "page": 122, "chapter": "Rice & Grains", "flag": "lentils (keep beans low)"},
-    {"title": "Egyptian Barley Salad", "page": 123, "chapter": "Rice & Grains"},
-    {"title": "Barley Risotto", "page": 123, "chapter": "Rice & Grains"},
-    {"title": "Barley Risotto with Mushrooms and Red Wine", "page": 123, "chapter": "Rice & Grains"},
-    {"title": "Bulgur Salad with Carrots and Almonds", "page": 124, "chapter": "Rice & Grains"},
-    {"title": "Bulgur Pilaf with Cremini Mushrooms", "page": 125, "chapter": "Rice & Grains"},
-    {"title": "Bulgur with Chickpeas, Spinach, and Za'atar", "page": 126, "chapter": "Rice & Grains", "flag": "chickpeas (keep beans low)"},
-    {"title": "Bulgur with Herbed Lamb and Roasted Red Peppers", "page": 126, "chapter": "Rice & Grains"},
-    {"title": "Tabbouleh", "page": 127, "chapter": "Rice & Grains"},
-    {"title": "Warm Farro with Lemon and Herbs", "page": 128, "chapter": "Rice & Grains"},
-    {"title": "Farro Salad with Asparagus, Snap Peas, and Tomatoes", "page": 129, "chapter": "Rice & Grains"},
-    {"title": "Parmesan Farrotto", "page": 130, "chapter": "Rice & Grains"},
-    {"title": "Farrotto with Pancetta, Asparagus, and Peas", "page": 130, "chapter": "Rice & Grains"},
-    {"title": "Freekeh Salad with Butternut Squash, Walnuts, and Raisins", "page": 132, "chapter": "Rice & Grains"},
-    {"title": "Freekeh Pilaf with Dates and Cauliflower", "page": 133, "chapter": "Rice & Grains"},
-    {"title": "Warm Wheat Berries with Zucchini, Red Pepper, and Oregano", "page": 133, "chapter": "Rice & Grains"},
-    {"title": "Wheat Berry Salad with Orange and Carrots", "page": 134, "chapter": "Rice & Grains"},
-    {"title": "Wheat Berry Salad with Figs, Pine Nuts, and Goat Cheese", "page": 135, "chapter": "Rice & Grains"},
-
-    {"title": "Penne with Roasted Cherry Tomato Sauce", "page": 138, "chapter": "Pasta & Couscous"},
-    {"title": "Penne and Fresh Tomato Sauce with Fennel and Orange", "page": 139, "chapter": "Pasta & Couscous"},
-    {"title": "Farfalle with Zucchini, Tomatoes, and Pine Nuts", "page": 140, "chapter": "Pasta & Couscous"},
-    {"title": "Spaghetti al Limone", "page": 142, "chapter": "Pasta & Couscous"},
-    {"title": "Tagliatelle with Artichokes and Parmesan", "page": 143, "chapter": "Pasta & Couscous"},
-    {"title": "Orecchiette with Broccoli Rabe and White Beans", "page": 144, "chapter": "Pasta & Couscous", "flag": "broccoli rabe (rapini) + white beans - check"},
-    {"title": "Whole-Wheat Spaghetti with Greens, Beans, and Pancetta", "page": 145, "chapter": "Pasta & Couscous", "flag": "beans (keep beans low)"},
-    {"title": "Whole-Wheat Spaghetti with Lentils, Pancetta, and Escarole", "page": 147, "chapter": "Pasta & Couscous", "flag": "lentils (keep beans low)"},
-    {"title": "Spanish-Style Toasted Pasta with Shrimp", "page": 150, "chapter": "Pasta & Couscous", "fitsMenu": "shrimp (favorite)"},
-    {"title": "Spaghetti with Mussels, Lemon, and White Wine", "page": 151, "chapter": "Pasta & Couscous", "fitsMenu": "seafood"},
-    {"title": "Spaghetti with Clams and Roasted Tomatoes", "page": 154, "chapter": "Pasta & Couscous", "fitsMenu": "seafood"},
-    {"title": "Linguine ai Frutti di Mare", "page": 155, "chapter": "Pasta & Couscous", "fitsMenu": "seafood"},
-    {"title": "Rigatoni with Warm-Spiced Beef Ragu", "page": 156, "chapter": "Pasta & Couscous"},
-    {"title": "Orzo Salad with Arugula and Sun-Dried Tomatoes", "page": 157, "chapter": "Pasta & Couscous"},
-    {"title": "Toasted Orzo with Fennel, Orange, and Olives", "page": 158, "chapter": "Pasta & Couscous"},
-    {"title": "Orzo with Shrimp, Feta, and Lemon", "page": 158, "chapter": "Pasta & Couscous", "fitsMenu": "shrimp (favorite)"},
-    {"title": "Orzo with Greek Sausage and Spiced Yogurt", "page": 159, "chapter": "Pasta & Couscous"},
-    {"title": "Baked Orzo with Eggplant and Tomatoes", "page": 160, "chapter": "Pasta & Couscous"},
-    {"title": "No-Cook Fresh Tomato Sauce", "page": 148, "chapter": "Pasta & Couscous"},
-    {"title": "Quick Tomato Sauce", "page": 148, "chapter": "Pasta & Couscous"},
-    {"title": "Classic Marinara Sauce", "page": 148, "chapter": "Pasta & Couscous"},
-    {"title": "Classic Basil Pesto", "page": 149, "chapter": "Pasta & Couscous"},
-    {"title": "Roasted Red Pepper Pesto", "page": 149, "chapter": "Pasta & Couscous"},
-    {"title": "Tomato and Almond Pesto", "page": 149, "chapter": "Pasta & Couscous"},
-    {"title": "Green Olive and Orange Pesto", "page": 149, "chapter": "Pasta & Couscous"},
-    {"title": "Simple Couscous with Dates and Pistachios", "page": 161, "chapter": "Pasta & Couscous"},
-    {"title": "Spiced Vegetable Couscous", "page": 162, "chapter": "Pasta & Couscous"},
-    {"title": "Moroccan-Style Couscous with Chickpeas", "page": 163, "chapter": "Pasta & Couscous", "flag": "chickpeas (keep beans low)"},
-    {"title": "Couscous with Turkish Sausage and Preserved Lemon", "page": 163, "chapter": "Pasta & Couscous"},
-    {"title": "Couscous with Lamb, Chickpeas, and Orange", "page": 164, "chapter": "Pasta & Couscous", "flag": "chickpeas (keep beans low)"},
-    {"title": "Simple Pearl Couscous with Tomatoes, Olives, and Ricotta Salata", "page": 165, "chapter": "Pasta & Couscous"},
-    {"title": "Hearty Pearl Couscous with Eggplant, Spinach, and Beans", "page": 167, "chapter": "Pasta & Couscous", "flag": "beans (keep beans low)"},
-
-    {"title": "Roasted Artichokes with Lemon Vinaigrette", "page": 196, "chapter": "Vegetables"},
-    {"title": "Braised Artichokes with Tomatoes and Thyme", "page": 197, "chapter": "Vegetables"},
-    {"title": "Artichoke, Pepper, and Chickpea Tagine", "page": 198, "chapter": "Vegetables", "flag": "chickpeas (keep beans low)"},
-    {"title": "Pan-Roasted Asparagus with Cherry Tomatoes and Kalamata Olives", "page": 199, "chapter": "Vegetables"},
-    {"title": "Roasted Asparagus with Toasted Garlic and Parmesan", "page": 201, "chapter": "Vegetables"},
-    {"title": "Braised Asparagus, Peas, and Radishes with Tarragon", "page": 202, "chapter": "Vegetables"},
-    {"title": "Stuffed Bell Peppers with Spiced Beef, Currants, and Feta", "page": 202, "chapter": "Vegetables"},
-    {"title": "Broccoli Rabe with Garlic and Red Pepper Flakes", "page": 204, "chapter": "Vegetables", "flag": "broccoli rabe (rapini) - check"},
-    {"title": "Sauteed Cabbage with Parsley and Lemon", "page": 205, "chapter": "Vegetables"},
-    {"title": "Spicy Roasted Carrots with Cilantro", "page": 206, "chapter": "Vegetables"},
-    {"title": "Slow-Cooked Whole Carrots", "page": 206, "chapter": "Vegetables"},
-    {"title": "Skillet-Roasted Cauliflower", "page": 207, "chapter": "Vegetables"},
-    {"title": "Skillet-Roasted Spiced Cauliflower with Pistachios", "page": 207, "chapter": "Vegetables"},
-    {"title": "Braised Cauliflower with Garlic and White Wine", "page": 208, "chapter": "Vegetables"},
-    {"title": "Cauliflower Cakes", "page": 209, "chapter": "Vegetables"},
-    {"title": "Roasted Celery Root with Yogurt and Sesame Seeds", "page": 210, "chapter": "Vegetables"},
-    {"title": "Marinated Eggplant with Capers and Mint", "page": 210, "chapter": "Vegetables"},
-    {"title": "Broiled Eggplant with Basil", "page": 211, "chapter": "Vegetables"},
-    {"title": "Grilled Eggplant with Yogurt Sauce", "page": 212, "chapter": "Vegetables"},
-    {"title": "Stuffed Eggplant with Bulgur", "page": 213, "chapter": "Vegetables"},
-    {"title": "Braised Fennel with Radicchio and Parmesan", "page": 214, "chapter": "Vegetables"},
-    {"title": "Fava Beans with Artichokes, Asparagus, and Peas", "page": 215, "chapter": "Vegetables", "flag": "fava beans (keep beans low)"},
-    {"title": "Roasted Green Beans with Pecorino and Pine Nuts", "page": 216, "chapter": "Vegetables"},
-    {"title": "Braised Green Beans with Potatoes and Basil", "page": 217, "chapter": "Vegetables"},
-    {"title": "Garlicky Braised Kale", "page": 218, "chapter": "Vegetables"},
-    {"title": "Roasted Mushrooms with Parmesan and Pine Nuts", "page": 221, "chapter": "Vegetables"},
-    {"title": "Grilled Portobello Mushrooms and Shallots with Rosemary-Dijon Vinaigrette", "page": 222, "chapter": "Vegetables", "fitsMenu": "grill"},
-    {"title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta", "page": 222, "chapter": "Vegetables"},
-    {"title": "Roasted Root Vegetables with Lemon-Caper Sauce", "page": 223, "chapter": "Vegetables"},
-    {"title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce", "page": 223, "chapter": "Vegetables"},
-    {"title": "Grilled Radicchio with Garlic and Rosemary-Infused Oil", "page": 224, "chapter": "Vegetables", "fitsMenu": "grill"},
-    {"title": "Sauteed Spinach with Yogurt and Dukkah", "page": 225, "chapter": "Vegetables"},
-    {"title": "Sauteed Swiss Chard with Garlic", "page": 226, "chapter": "Vegetables"},
-    {"title": "Roasted Winter Squash with Tahini and Feta", "page": 226, "chapter": "Vegetables"},
-    {"title": "Roasted Tomatoes", "page": 228, "chapter": "Vegetables"},
-    {"title": "Sauteed Cherry Tomatoes with Capers and Anchovies", "page": 228, "chapter": "Vegetables"},
-    {"title": "Stuffed Tomatoes with Couscous, Olives, and Orange", "page": 229, "chapter": "Vegetables"},
-    {"title": "Sauteed Zucchini Ribbons with Mint and Pistachios", "page": 230, "chapter": "Vegetables"},
-    {"title": "Grilled Zucchini and Red Onion with Lemon-Basil Dressing", "page": 231, "chapter": "Vegetables", "fitsMenu": "grill"},
-    {"title": "Zucchini and Feta Fritters", "page": 232, "chapter": "Vegetables"},
-    {"title": "Stuffed Zucchini with Spiced Lamb, Dried Apricots, and Pine Nuts", "page": 234, "chapter": "Vegetables"},
-    {"title": "Greek Stewed Zucchini", "page": 235, "chapter": "Vegetables"},
-    {"title": "Summer Vegetable Gratin", "page": 236, "chapter": "Vegetables"},
-    {"title": "Grilled Vegetable Kebabs with Grilled Lemon", "page": 237, "chapter": "Vegetables", "fitsMenu": "grill"},
-    {"title": "Mechouia", "page": 238, "chapter": "Vegetables"},
-    {"title": "Ratatouille", "page": 239, "chapter": "Vegetables"},
-    {"title": "Ciambotta", "page": 240, "chapter": "Vegetables"},
-    {"title": "Tahini Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-    {"title": "Tahini-Yogurt Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-    {"title": "Yogurt-Herb Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-    {"title": "Lemon-Yogurt Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-    {"title": "Cucumber-Yogurt Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-    {"title": "Garlic Aioli", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-
-    {"title": "Broiled Bluefish with Preserved Lemon and Zhoug", "page": 244, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Broiled Grape Leaf-Wrapped Grouper", "page": 244, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Lemon-Herb Hake Fillets with Garlic Potatoes", "page": 246, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Hake in Saffron Broth with Chorizo and Potatoes", "page": 246, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Provencal Braised Hake", "page": 247, "chapter": "Seafood", "fitsMenu": "fish (favorite); french"},
-    {"title": "Pan-Roasted Halibut with Chermoula", "page": 247, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Braised Halibut with Leeks and Mustard", "page": 250, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Baked Stuffed Mackerel with Red Pepper and Preserved Lemon", "page": 251, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Grilled Whole Mackerel with Lemon and Marjoram", "page": 252, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Pan-Roasted Monkfish with Oregano-Black Olive Relish", "page": 253, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Grilled Whole Sardines", "page": 254, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Pan-Roasted Sea Bass with Green Olive, Almond, and Orange Relish", "page": 255, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Pan-Roasted Sea Bass with Wild Mushrooms", "page": 256, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Grilled Sea Bass with Citrus and Black Olive Salad", "page": 256, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Grilled Whole Sea Bass with Salmoriglio Sauce", "page": 257, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Poached Snapper with Crispy Artichokes and Sherry-Tomato Vinaigrette", "page": 258, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Whole Roasted Snapper with Citrus Vinaigrette", "page": 260, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Sauteed Sole with Fresh Tomato Relish", "page": 260, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Swordfish en Cocotte with Shallots, Cucumber, and Mint", "page": 261, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Grilled Swordfish Skewers with Tomato-Scallion Caponata", "page": 262, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Grilled Swordfish with Italian Salsa Verde", "page": 263, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Grilled Swordfish with Eggplant, Tomato, and Chickpea Salad", "page": 264, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill", "flag": "chickpeas (keep beans low)"},
-    {"title": "Grilled Tuna Steaks with Romesco", "page": 265, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
-    {"title": "Bouillabaisse", "page": 266, "chapter": "Seafood", "fitsMenu": "seafood; french"},
-    {"title": "Sicilian Fish Stew", "page": 267, "chapter": "Seafood", "fitsMenu": "fish (favorite)", "scanned": true, "makes": "4 to 6 servings", "captured": {"ingredients": ["2 lb skinless swordfish steaks, cut into 1-inch pieces", "salt and pepper", "1/2 cup pine nuts, toasted", "1/2 cup chopped fresh mint", "4 garlic cloves, minced", "1 tsp grated orange zest", "2 tbsp extra-virgin olive oil", "2 onions, chopped fine", "1 celery rib, minced", "1 tsp minced fresh thyme", "pinch red pepper flakes", "1/2 cup dry white wine", "1 (28-oz) can whole peeled tomatoes, drained (juice reserved) and chopped", "1 (8-oz) bottle clam juice", "1/4 cup raisins", "2 tbsp capers, rinsed"], "method": "Mix pine nuts, mint, a quarter of the garlic, and orange zest for serving. Soften onion + celery, add the remaining garlic, thyme, and pepper flakes. Add wine + reserved tomato juice and reduce by half; add tomatoes, clam juice, raisins, and capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min, then off heat covered 3 min. Serve sprinkled with the pine nut mixture."}},
-    {"title": "Monkfish Tagine", "page": 268, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
-    {"title": "Greek-Style Shrimp with Tomatoes and Feta", "page": 269, "chapter": "Seafood", "fitsMenu": "shrimp (favorite)"},
-    {"title": "Shrimp with White Beans", "page": 270, "chapter": "Seafood", "fitsMenu": "shrimp (favorite)", "flag": "white beans (keep beans low)"},
-    {"title": "Garlicky Roasted Shrimp with Parsley and Anise", "page": 271, "chapter": "Seafood", "fitsMenu": "shrimp (favorite)"},
-    {"title": "Grilled Marinated Shrimp Skewers", "page": 272, "chapter": "Seafood", "fitsMenu": "shrimp (favorite); grill"},
-    {"title": "Seared Scallops with Orange-Lime Dressing", "page": 273, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Grilled Scallop and Zucchini Skewers with Basil Vinaigrette", "page": 274, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
-    {"title": "Oven-Steamed Mussels with Leeks and Pernod", "page": 278, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Clams Steamed in White Wine", "page": 279, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Clams with Pearl Couscous, Chorizo, and Leeks", "page": 280, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Spanish Shellfish Stew", "page": 280, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Calamari Stew with Garlic and Tomatoes", "page": 282, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Stuffed Squid", "page": 282, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Grilled Squid with Lemon and Garlic", "page": 284, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
-    {"title": "Red Wine-Braised Octopus", "page": 285, "chapter": "Seafood", "fitsMenu": "seafood"},
-    {"title": "Spanish Grilled Octopus Salad with Orange and Fennel", "page": 285, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
-    {"title": "Greek Grilled Octopus Salad with Celery and Fennel", "page": 286, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
-
-    {"title": "Classic Hummus", "page": 16, "chapter": "Meze & Small Plates"},
-    {"title": "Hummus with Smoked Paprika", "page": 16, "chapter": "Meze & Small Plates"},
-    {"title": "Roasted Red Pepper Hummus", "page": 16, "chapter": "Meze & Small Plates"},
-    {"title": "Artichoke-Lemon Hummus", "page": 16, "chapter": "Meze & Small Plates"},
-    {"title": "Roasted Garlic Hummus", "page": 16, "chapter": "Meze & Small Plates"},
-    {"title": "Quick Toasted Almonds", "page": 17, "chapter": "Meze & Small Plates"},
-    {"title": "Rosemary Almonds", "page": 17, "chapter": "Meze & Small Plates"},
-    {"title": "Orange-Fennel Almonds", "page": 17, "chapter": "Meze & Small Plates"},
-    {"title": "Spiced Almonds", "page": 17, "chapter": "Meze & Small Plates"},
-    {"title": "Lemon-Garlic Almonds", "page": 17, "chapter": "Meze & Small Plates"},
-    {"title": "Garlic and Rosemary White Bean Dip", "page": 18, "chapter": "Meze & Small Plates", "flag": "white beans (keep beans low)"},
-    {"title": "Caper and Tarragon White Bean Dip", "page": 18, "chapter": "Meze & Small Plates", "flag": "white beans (keep beans low)"},
-    {"title": "Sun-Dried Tomato and Feta White Bean Dip", "page": 18, "chapter": "Meze & Small Plates", "flag": "white beans (keep beans low)"},
-    {"title": "Tzatziki", "page": 19, "chapter": "Meze & Small Plates"},
-    {"title": "Beet Tzatziki", "page": 19, "chapter": "Meze & Small Plates"},
-    {"title": "Caponata", "page": 19, "chapter": "Meze & Small Plates"},
-    {"title": "Creamy Turkish Nut Dip", "page": 20, "chapter": "Meze & Small Plates"},
-    {"title": "Baba Ghanoush", "page": 20, "chapter": "Meze & Small Plates"},
-    {"title": "Muhammara", "page": 22, "chapter": "Meze & Small Plates"},
-    {"title": "Provencal-Style Anchovy Dip", "page": 22, "chapter": "Meze & Small Plates"},
-    {"title": "Skordalia", "page": 24, "chapter": "Meze & Small Plates"},
-    {"title": "Olive Oil-Sea Salt Pita Chips", "page": 25, "chapter": "Meze & Small Plates"},
-    {"title": "Rosemary-Parmesan Pita Chips", "page": 25, "chapter": "Meze & Small Plates"},
-    {"title": "Lavash Crackers", "page": 25, "chapter": "Meze & Small Plates"},
-    {"title": "Marinated Green and Black Olives", "page": 26, "chapter": "Meze & Small Plates"},
-    {"title": "Marinated Olives with Baby Mozzarella", "page": 26, "chapter": "Meze & Small Plates"},
-    {"title": "Marinated Green Olives with Feta", "page": 26, "chapter": "Meze & Small Plates"},
-    {"title": "Marinated Cauliflower and Chickpeas with Saffron", "page": 27, "chapter": "Meze & Small Plates", "flag": "chickpeas (keep beans low)"},
-    {"title": "Marinated Artichokes", "page": 28, "chapter": "Meze & Small Plates"},
-    {"title": "Giardiniera", "page": 29, "chapter": "Meze & Small Plates"},
-    {"title": "Yogurt Cheese", "page": 30, "chapter": "Meze & Small Plates"},
-    {"title": "Lemon-Dill Yogurt Cheese", "page": 30, "chapter": "Meze & Small Plates"},
-    {"title": "Honey-Walnut Yogurt Cheese", "page": 30, "chapter": "Meze & Small Plates"},
-    {"title": "Spicy Whipped Feta with Roasted Red Peppers", "page": 31, "chapter": "Meze & Small Plates"},
-    {"title": "Broiled Feta with Olive Oil and Parsley", "page": 31, "chapter": "Meze & Small Plates"},
-    {"title": "Pan-Fried Halloumi with Garlic-Parsley Sauce", "page": 32, "chapter": "Meze & Small Plates"},
-    {"title": "Bruschetta with Arugula Pesto and Goat Cheese", "page": 33, "chapter": "Meze & Small Plates"},
-    {"title": "Bruschetta with Ricotta, Tomatoes, and Basil", "page": 33, "chapter": "Meze & Small Plates"},
-    {"title": "Bruschetta with Black Olive Pesto, Ricotta, and Basil", "page": 33, "chapter": "Meze & Small Plates"},
-    {"title": "Bruschetta with Artichoke Hearts and Parmesan", "page": 33, "chapter": "Meze & Small Plates"},
-    {"title": "Prosciutto-Wrapped Stuffed Dates with Pistachios and Balsamic Vinegar", "page": 34, "chapter": "Meze & Small Plates"},
-    {"title": "Stuffed Grape Leaves with Currants and Pine Nuts", "page": 35, "chapter": "Meze & Small Plates"},
-    {"title": "Sizzling Garlic Shrimp", "page": 36, "chapter": "Meze & Small Plates", "fitsMenu": "shrimp (favorite)"},
-    {"title": "Mussels Escabeche", "page": 37, "chapter": "Meze & Small Plates", "fitsMenu": "seafood"},
-    {"title": "Chili-Marinated Calamari with Oranges", "page": 38, "chapter": "Meze & Small Plates", "fitsMenu": "seafood"},
-    {"title": "Stuffed Sardines", "page": 39, "chapter": "Meze & Small Plates", "fitsMenu": "fish (favorite)"},
-
-    {"title": "Classic Gazpacho", "page": 42, "chapter": "Soups"},
-    {"title": "White Gazpacho", "page": 43, "chapter": "Soups"},
-    {"title": "Chilled Cucumber and Yogurt Soup", "page": 44, "chapter": "Soups"},
-    {"title": "Classic Chicken Broth", "page": 45, "chapter": "Soups"},
-    {"title": "Vegetable Broth Base", "page": 45, "chapter": "Soups"},
-    {"title": "Provencal Vegetable Soup", "page": 46, "chapter": "Soups"},
-    {"title": "Roasted Eggplant and Tomato Soup", "page": 48, "chapter": "Soups"},
-    {"title": "Roasted Red Pepper Soup with Smoked Paprika and Cilantro Yogurt", "page": 49, "chapter": "Soups"},
-    {"title": "Turkish Tomato, Bulgur, and Red Pepper Soup", "page": 50, "chapter": "Soups"},
-    {"title": "Artichoke Soup a la Barigoule", "page": 51, "chapter": "Soups"},
-    {"title": "Risi e Bisi", "page": 52, "chapter": "Soups"},
-    {"title": "French Lentil Soup", "page": 52, "chapter": "Soups", "flag": "lentils (keep beans low)"},
-    {"title": "Spanish-Style Lentil and Chorizo Soup", "page": 53, "chapter": "Soups", "flag": "lentils (keep beans low)"},
-    {"title": "Red Lentil Soup with North African Spices", "page": 54, "chapter": "Soups", "flag": "lentils (keep beans low)"},
-    {"title": "Moroccan-Style Chickpea Soup", "page": 55, "chapter": "Soups", "flag": "chickpeas (keep beans low)"},
-    {"title": "Sicilian Chickpea and Escarole Soup", "page": 55, "chapter": "Soups", "flag": "chickpeas (keep beans low)"},
-    {"title": "Greek White Bean Soup", "page": 56, "chapter": "Soups", "flag": "white beans (keep beans low)"},
-    {"title": "Pasta e Fagioli with Orange and Fennel", "page": 57, "chapter": "Soups", "flag": "beans (keep beans low)"},
-    {"title": "Spiced Fava Bean Soup", "page": 58, "chapter": "Soups", "flag": "fava beans (keep beans low)"},
-    {"title": "Avgolemono", "page": 59, "chapter": "Soups", "fitsMenu": "chicken (favorite)"},
-    {"title": "Spicy Moroccan-Style Chicken and Lentil Soup", "page": 59, "chapter": "Soups", "fitsMenu": "chicken (favorite)", "flag": "lentils (keep beans low)"},
-    {"title": "Spicy Moroccan-Style Lamb and Lentil Soup", "page": 59, "chapter": "Soups", "flag": "lentils (keep beans low)"},
-    {"title": "Lamb and Mint Sharba", "page": 61, "chapter": "Soups"},
-    {"title": "Spanish-Style Meatball Soup with Saffron", "page": 62, "chapter": "Soups"},
-    {"title": "Provencal Fish Soup", "page": 63, "chapter": "Soups", "fitsMenu": "fish (favorite)"},
-    {"title": "Shellfish Soup with Leeks and Turmeric", "page": 64, "chapter": "Soups", "fitsMenu": "seafood"},
-
-    {"title": "Basic Green Salad", "page": 68, "chapter": "Salads"},
-    {"title": "Tricolor Salad with Balsamic Vinaigrette", "page": 68, "chapter": "Salads"},
-    {"title": "Green Salad with Marcona Almonds and Manchego Cheese", "page": 68, "chapter": "Salads"},
-    {"title": "Arugula Salad with Fennel and Shaved Parmesan", "page": 69, "chapter": "Salads"},
-    {"title": "Green Salad with Artichokes and Olives", "page": 69, "chapter": "Salads"},
-    {"title": "Arugula Salad with Figs, Prosciutto, Walnuts, and Parmesan", "page": 73, "chapter": "Salads"},
-    {"title": "Asparagus and Arugula Salad with Cannellini Beans", "page": 74, "chapter": "Salads", "flag": "cannellini beans (keep beans low)"},
-    {"title": "Asparagus, Red Pepper, and Spinach Salad with Goat Cheese", "page": 74, "chapter": "Salads"},
-    {"title": "Citrus Salad with Radicchio, Dates, and Smoked Almonds", "page": 75, "chapter": "Salads"},
-    {"title": "Bitter Greens Salad with Olives and Feta", "page": 76, "chapter": "Salads"},
-    {"title": "Kale Salad with Sweet Potatoes and Pomegranate Vinaigrette", "page": 77, "chapter": "Salads"},
-    {"title": "Mache with Cucumber and Mint", "page": 78, "chapter": "Salads"},
-    {"title": "Salade Nicoise", "page": 78, "chapter": "Salads", "fitsMenu": "fish (favorite)"},
-    {"title": "Warm Spinach Salad with Feta and Pistachios", "page": 79, "chapter": "Salads"},
-    {"title": "Seared Tuna Salad with Olive Dressing", "page": 80, "chapter": "Salads", "fitsMenu": "fish (favorite)"},
-    {"title": "Classic Vinaigrette", "page": 72, "chapter": "Salads"},
-    {"title": "Lemon Vinaigrette", "page": 72, "chapter": "Salads"},
-    {"title": "Balsamic-Mustard Vinaigrette", "page": 72, "chapter": "Salads"},
-    {"title": "Walnut Vinaigrette", "page": 72, "chapter": "Salads"},
-    {"title": "Herb Vinaigrette", "page": 72, "chapter": "Salads"},
-    {"title": "Tahini-Lemon Dressing", "page": 72, "chapter": "Salads"},
-    {"title": "Asparagus Salad with Oranges, Feta, and Hazelnuts", "page": 81, "chapter": "Salads"},
-    {"title": "Roasted Beet Salad with Blood Oranges and Almonds", "page": 82, "chapter": "Salads"},
-    {"title": "Roasted Beet and Carrot Salad with Cumin and Pistachios", "page": 82, "chapter": "Salads"},
-    {"title": "Fava Bean and Radish Salad", "page": 83, "chapter": "Salads", "flag": "fava beans (keep beans low)"},
-    {"title": "Green Bean Salad with Cilantro Sauce", "page": 84, "chapter": "Salads"},
-    {"title": "Green Bean and Potato Salad with Cilantro Sauce", "page": 84, "chapter": "Salads"},
-    {"title": "Brussels Sprout Salad with Pecorino and Pine Nuts", "page": 85, "chapter": "Salads"},
-    {"title": "Moroccan-Style Carrot Salad with Harissa and Feta", "page": 85, "chapter": "Salads"},
-    {"title": "North African Cauliflower Salad with Chermoula", "page": 86, "chapter": "Salads"},
-    {"title": "Mediterranean Chopped Salad", "page": 87, "chapter": "Salads"},
-    {"title": "Sesame-Lemon Cucumber Salad", "page": 88, "chapter": "Salads"},
-    {"title": "Yogurt-Mint Cucumber Salad", "page": 88, "chapter": "Salads"},
-    {"title": "Algerian-Style Fennel, Orange, and Olive Salad", "page": 88, "chapter": "Salads"},
-    {"title": "Fennel and Apple Salad with Smoked Mackerel", "page": 89, "chapter": "Salads", "fitsMenu": "fish (favorite)"},
-    {"title": "Country-Style Greek Salad", "page": 90, "chapter": "Salads"},
-    {"title": "Shaved Mushroom and Celery Salad", "page": 90, "chapter": "Salads"},
-    {"title": "Panzanella Salad with White Beans and Arugula", "page": 91, "chapter": "Salads", "flag": "white beans (keep beans low)"},
-    {"title": "Fattoush", "page": 92, "chapter": "Salads"},
-    {"title": "French Potato Salad with Dijon and Fines Herbes", "page": 92, "chapter": "Salads"},
-    {"title": "Roasted Winter Squash Salad with Za'atar and Parsley", "page": 94, "chapter": "Salads"},
-    {"title": "Tomato Salad with Feta and Cumin-Yogurt Dressing", "page": 95, "chapter": "Salads"},
-    {"title": "Tomato Salad with Tuna, Capers, and Black Olives", "page": 96, "chapter": "Salads", "fitsMenu": "fish (favorite)"},
-    {"title": "Cherry Tomato Salad with Feta and Olives", "page": 97, "chapter": "Salads"},
-    {"title": "Tomato and Burrata Salad with Pangrattato and Basil", "page": 98, "chapter": "Salads"},
-    {"title": "Grilled Vegetable and Halloumi Salad", "page": 98, "chapter": "Salads"},
-    {"title": "Zucchini Ribbon Salad with Shaved Parmesan", "page": 99, "chapter": "Salads"}
+    {
+      "title": "Sauteed Chicken Cutlets with Romesco Sauce",
+      "page": 290,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Sauteed Chicken Cutlets with Sun-Dried Tomato Sauce",
+      "page": 290,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Sauteed Chicken Breasts with Cherry Tomatoes, Zucchini, and Yellow Squash",
+      "page": 292,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Pan-Seared Chicken Breasts with Chickpea Salad",
+      "page": 293,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Chicken in Turkish Walnut Sauce",
+      "page": 294,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Spanish-Style Braised Chicken and Almonds",
+      "page": 295,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)",
+      "scanned": true,
+      "makes": "4 servings",
+      "captured": {
+        "ingredients": [
+          "8 (5- to 7-oz) bone-in chicken thighs, trimmed",
+          "salt and pepper",
+          "1 tbsp extra-virgin olive oil",
+          "2 onions, chopped fine",
+          "4 garlic cloves, minced",
+          "1 bay leaf",
+          "1/4 tsp ground cinnamon",
+          "1 cup dry white wine",
+          "1 (14.5-oz) can whole peeled tomatoes, drained and chopped",
+          "1/2 cup blanched slivered almonds, toasted",
+          "2 tbsp chopped fresh parsley",
+          "1 1/2 tsp lemon juice"
+        ],
+        "method": "Brown the seasoned thighs; set aside. Soften onions, then add garlic, bay leaf, and cinnamon. Add wine and tomatoes, return the chicken, and braise in the oven until tender. Grind some toasted almonds to thicken the sauce; finish with parsley, lemon juice, and the remaining almonds."
+      }
+    },
+    {
+      "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+      "page": 296,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Roasted Chicken with Fennel, Olive, and Orange Sauce",
+      "page": 296,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Za'atar-Rubbed Butterflied Chicken",
+      "page": 298,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Grilled Chicken alla Diavola",
+      "page": 299,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite); grill"
+    },
+    {
+      "title": "Grilled Chicken Kebabs with Tomato-Feta Salad",
+      "page": 300,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite); grill"
+    },
+    {
+      "title": "Grilled Chicken Souvlaki",
+      "page": 300,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite); grill"
+    },
+    {
+      "title": "Chicken Bouillabaisse",
+      "page": 301,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Rouille",
+      "page": 301,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Chicken Tagine with Chickpeas and Apricots",
+      "page": 303,
+      "chapter": "Poultry",
+      "fitsMenu": "chicken (favorite)",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Pomegranate-Glazed Roasted Quail",
+      "page": 304,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Pomegranate Molasses",
+      "page": 304,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Grilled Spiced Pork Skewers with Onion and Caper Relish",
+      "page": 313,
+      "chapter": "Pork",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Greek-Style Braised Pork with Leeks",
+      "page": 314,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Spice-Rubbed Pork Tenderloin with Fennel, Tomatoes, Artichokes, and Olives",
+      "page": 315,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Braised Greek Sausages with Peppers",
+      "page": 318,
+      "chapter": "Pork"
+    },
+    {
+      "title": "Sausage and White Beans with Mustard Greens",
+      "page": 319,
+      "chapter": "Pork",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Kibbeh",
+      "page": 305,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Grilled Beef Kebabs with Lemon and Rosemary Marinade",
+      "page": 307,
+      "chapter": "Beef",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Grilled Beef Kebabs with North African Marinade",
+      "page": 307,
+      "chapter": "Beef",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Flank Steak Peperonata",
+      "page": 308,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Grilled Flank Steak with Grilled Vegetables and Salsa Verde",
+      "page": 309,
+      "chapter": "Beef",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Italian Salsa Verde",
+      "page": 309,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Braised Oxtails with White Beans, Tomatoes, and Aleppo Pepper",
+      "page": 311,
+      "chapter": "Beef",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Pomegranate-Braised Beef Short Ribs with Prunes and Sesame",
+      "page": 312,
+      "chapter": "Beef"
+    },
+    {
+      "title": "Lamb Meatballs with Leeks and Yogurt Sauce",
+      "page": 320,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Grilled Lamb Kofte",
+      "page": 321,
+      "chapter": "Lamb",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Grilled Greek-Style Lamb Pita Sandwiches",
+      "page": 322,
+      "chapter": "Lamb",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Grilled Lamb Shish Kebabs",
+      "page": 322,
+      "chapter": "Lamb",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Grilled Marinated Lamb Shoulder Chops with Asparagus",
+      "page": 323,
+      "chapter": "Lamb",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Roast Butterflied Leg of Lamb with Coriander, Cumin, and Mustard Seeds",
+      "page": 324,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Roast Butterflied Leg of Lamb with Coriander, Rosemary, and Red Pepper",
+      "page": 325,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Roast Butterflied Leg of Lamb with Coriander, Fennel, and Black Pepper",
+      "page": 325,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Braised Lamb Shoulder Chops with Tomatoes and Red Wine",
+      "page": 326,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Lamb Tagine with Figs and North African Spices",
+      "page": 326,
+      "chapter": "Lamb",
+      "note": "page approx"
+    },
+    {
+      "title": "Braised Lamb Shanks with Bell Peppers and Harissa",
+      "page": 327,
+      "chapter": "Lamb"
+    },
+    {
+      "title": "Lamb Tagine with Olives and Lemon",
+      "page": 328,
+      "chapter": "Lamb",
+      "note": "page approx"
+    },
+    {
+      "title": "Green Zhoug",
+      "page": 316,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Harissa",
+      "page": 316,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Ras el Hanout",
+      "page": 316,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Za'atar",
+      "page": 316,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Dukkah",
+      "page": 317,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Herbes de Provence",
+      "page": 317,
+      "chapter": "Spice Blends & Pastes"
+    },
+    {
+      "title": "Shakshuka",
+      "page": 330,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Ratatouille with Poached Eggs",
+      "page": 331,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Potato, Swiss Chard, and Lamb Hash with Poached Eggs",
+      "page": 331,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Fried Eggs with Potato and Parmesan Pancake",
+      "page": 332,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Israeli Eggplant and Egg Sandwiches",
+      "page": 333,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Scrambled Eggs with Prosciutto and Asparagus",
+      "page": 334,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Scrambled Eggs with Potatoes and Harissa",
+      "page": 334,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Scrambled Eggs with Piperade",
+      "page": 336,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Spanish Tortilla with Roasted Red Peppers and Peas",
+      "page": 336,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Egyptian Eggah with Ground Beef and Spinach",
+      "page": 337,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Broccoli and Feta Frittata",
+      "page": 338,
+      "chapter": "Eggs",
+      "flag": "contains broccoli (dislike)"
+    },
+    {
+      "title": "Asparagus and Goat Cheese Frittata",
+      "page": 339,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Mushroom and Pecorino Frittata",
+      "page": 339,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Baked Eggs with Tomatoes, Feta, and Croutons",
+      "page": 340,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Greek-Style Zucchini and Egg Casserole",
+      "page": 341,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Pita Bread",
+      "page": 344,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Socca",
+      "page": 345,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Socca with Swiss Chard, Pistachios, and Apricots",
+      "page": 345,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Socca with Caramelized Onions and Rosemary",
+      "page": 346,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Lavash with Tomatoes, Spinach, and Green Olives",
+      "page": 346,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Lavash with Cauliflower, Fennel, and Coriander",
+      "page": 346,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Pissaladiere",
+      "page": 346,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Mushroom Musakhan",
+      "page": 348,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Lahmacun",
+      "page": 349,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Za'atar Bread",
+      "page": 350,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Red Pepper Coques",
+      "page": 351,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Rosemary Focaccia",
+      "page": 352,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Thin-Crust Pizza",
+      "page": 354,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Mushroom and Fennel Pizza Topping",
+      "page": 354,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Olive, Caper, and Spicy Garlic Pizza Topping",
+      "page": 354,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Prosciutto and Arugula Pizza Topping",
+      "page": 354,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Whole-Wheat Pizza with Feta, Figs, and Honey",
+      "page": 356,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan",
+      "page": 356,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Whole-Wheat Pizza with Pesto and Goat Cheese",
+      "page": 356,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Turkish Pide with Eggplant and Tomatoes",
+      "page": 357,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Fennel, Olive, and Goat Cheese Hand Pies",
+      "page": 359,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Mushroom Tart",
+      "page": 360,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Tomato Tart",
+      "page": 360,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Zucchini Tart",
+      "page": 361,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Spanakopita",
+      "page": 361,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Pumpkin Borek",
+      "page": 363,
+      "chapter": "Breads & Pizzas"
+    },
+    {
+      "title": "Chicken B'stilla",
+      "page": 364,
+      "chapter": "Breads & Pizzas",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Apricot Spoon Sweets",
+      "page": 368,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Dried Fruit Compote",
+      "page": 368,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Turkish Stuffed Apricots with Rose Water and Pistachios",
+      "page": 369,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Honey-Glazed Peaches with Hazelnuts",
+      "page": 370,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Warm Figs with Goat Cheese and Honey",
+      "page": 371,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Peaches and Cherries Poached in Spiced Red Wine",
+      "page": 372,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Roasted Pears with Dried Apricots and Pistachios",
+      "page": 372,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Roasted Apples with Dried Figs and Walnuts",
+      "page": 372,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Roasted Plums with Dried Cherries and Almonds",
+      "page": 373,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "White Wine-Poached Pears with Lemon and Herbs",
+      "page": 373,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Melon, Plums, and Cherries with Mint and Vanilla",
+      "page": 374,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Peaches, Blackberries, and Strawberries with Basil and Pepper",
+      "page": 374,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Strawberries with Balsamic Vinegar",
+      "page": 375,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Nectarines and Berries in Prosecco",
+      "page": 375,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Individual Fresh Berry Gratins",
+      "page": 376,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Greek Sesame-Honey Bars",
+      "page": 377,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Lemon-Anise Biscotti",
+      "page": 378,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Honey-Lavender Biscotti",
+      "page": 378,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Spiced Biscotti",
+      "page": 378,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Pignoli",
+      "page": 380,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Fig Phyllo Cookies",
+      "page": 381,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Baklava",
+      "page": 382,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Almond Cake",
+      "page": 384,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Orange Polenta Cake",
+      "page": 385,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Olive Oil-Yogurt Cake",
+      "page": 386,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Lemon Yogurt Mousse with Blueberry Sauce",
+      "page": 386,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Lemon Yogurt Mousse with Raspberry Sauce",
+      "page": 386,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Lemon Yogurt Mousse with Strawberry Sauce",
+      "page": 386,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Semolina Pudding with Almonds and Dates",
+      "page": 387,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Greek Lemon Rice Pudding",
+      "page": 388,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Raspberry Sorbet",
+      "page": 388,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Lemon Ice",
+      "page": 389,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Minted Lemon Ice",
+      "page": 389,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Orange Ice",
+      "page": 389,
+      "chapter": "Fruit & Sweets"
+    },
+    {
+      "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
+      "page": 102,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "page": 102,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Spiced Basmati Rice with Cauliflower and Pomegranate",
+      "page": 103,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Herbed Basmati Rice and Pasta Pilaf",
+      "page": 104,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Spiced Baked Rice with Roasted Sweet Potatoes and Fennel",
+      "page": 105,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Stovetop White Rice",
+      "page": 105,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Baked Brown Rice with Roasted Red Peppers and Onions",
+      "page": 106,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Foolproof Baked Brown Rice",
+      "page": 106,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Brown Rice with Tomatoes and Chickpeas",
+      "page": 107,
+      "chapter": "Rice & Grains",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Rice Salad with Oranges, Olives, and Almonds",
+      "page": 107,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Brown Rice Salad with Asparagus, Goat Cheese, and Lemon",
+      "page": 108,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Seafood Risotto",
+      "page": 109,
+      "chapter": "Rice & Grains",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Panissa",
+      "page": 110,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Spanish-Style Brothy Rice with Clams and Salsa Verde",
+      "page": 111,
+      "chapter": "Rice & Grains",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Indoor Paella",
+      "page": 112,
+      "chapter": "Rice & Grains",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Grilled Paella",
+      "page": 114,
+      "chapter": "Rice & Grains",
+      "fitsMenu": "seafood; grill"
+    },
+    {
+      "title": "Vegetable Paella",
+      "page": 116,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Creamy Parmesan Polenta",
+      "page": 118,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Herbed Barley Pilaf",
+      "page": 120,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Barley with Roasted Carrots, Snow Peas, and Lemon-Yogurt Sauce",
+      "page": 120,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Barley with Lentils, Mushrooms, and Tahini-Yogurt Sauce",
+      "page": 122,
+      "chapter": "Rice & Grains",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Egyptian Barley Salad",
+      "page": 123,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Barley Risotto",
+      "page": 123,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Barley Risotto with Mushrooms and Red Wine",
+      "page": 123,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Bulgur Salad with Carrots and Almonds",
+      "page": 124,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Bulgur Pilaf with Cremini Mushrooms",
+      "page": 125,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Bulgur with Chickpeas, Spinach, and Za'atar",
+      "page": 126,
+      "chapter": "Rice & Grains",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Bulgur with Herbed Lamb and Roasted Red Peppers",
+      "page": 126,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Tabbouleh",
+      "page": 127,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Warm Farro with Lemon and Herbs",
+      "page": 128,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Farro Salad with Asparagus, Snap Peas, and Tomatoes",
+      "page": 129,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Parmesan Farrotto",
+      "page": 130,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Farrotto with Pancetta, Asparagus, and Peas",
+      "page": 130,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Freekeh Salad with Butternut Squash, Walnuts, and Raisins",
+      "page": 132,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Freekeh Pilaf with Dates and Cauliflower",
+      "page": 133,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Warm Wheat Berries with Zucchini, Red Pepper, and Oregano",
+      "page": 133,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Wheat Berry Salad with Orange and Carrots",
+      "page": 134,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Wheat Berry Salad with Figs, Pine Nuts, and Goat Cheese",
+      "page": 135,
+      "chapter": "Rice & Grains"
+    },
+    {
+      "title": "Penne with Roasted Cherry Tomato Sauce",
+      "page": 138,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Penne and Fresh Tomato Sauce with Fennel and Orange",
+      "page": 139,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Farfalle with Zucchini, Tomatoes, and Pine Nuts",
+      "page": 140,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Spaghetti al Limone",
+      "page": 142,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Tagliatelle with Artichokes and Parmesan",
+      "page": 143,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Orecchiette with Broccoli Rabe and White Beans",
+      "page": 144,
+      "chapter": "Pasta & Couscous",
+      "flag": "broccoli rabe (rapini) + white beans - check"
+    },
+    {
+      "title": "Whole-Wheat Spaghetti with Greens, Beans, and Pancetta",
+      "page": 145,
+      "chapter": "Pasta & Couscous",
+      "flag": "beans (keep beans low)"
+    },
+    {
+      "title": "Whole-Wheat Spaghetti with Lentils, Pancetta, and Escarole",
+      "page": 147,
+      "chapter": "Pasta & Couscous",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Spanish-Style Toasted Pasta with Shrimp",
+      "page": 150,
+      "chapter": "Pasta & Couscous",
+      "fitsMenu": "shrimp (favorite)"
+    },
+    {
+      "title": "Spaghetti with Mussels, Lemon, and White Wine",
+      "page": 151,
+      "chapter": "Pasta & Couscous",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Spaghetti with Clams and Roasted Tomatoes",
+      "page": 154,
+      "chapter": "Pasta & Couscous",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Linguine ai Frutti di Mare",
+      "page": 155,
+      "chapter": "Pasta & Couscous",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Rigatoni with Warm-Spiced Beef Ragu",
+      "page": 156,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Orzo Salad with Arugula and Sun-Dried Tomatoes",
+      "page": 157,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Toasted Orzo with Fennel, Orange, and Olives",
+      "page": 158,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Orzo with Shrimp, Feta, and Lemon",
+      "page": 158,
+      "chapter": "Pasta & Couscous",
+      "fitsMenu": "shrimp (favorite)"
+    },
+    {
+      "title": "Orzo with Greek Sausage and Spiced Yogurt",
+      "page": 159,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Baked Orzo with Eggplant and Tomatoes",
+      "page": 160,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "No-Cook Fresh Tomato Sauce",
+      "page": 148,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Quick Tomato Sauce",
+      "page": 148,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Classic Marinara Sauce",
+      "page": 148,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Classic Basil Pesto",
+      "page": 149,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Roasted Red Pepper Pesto",
+      "page": 149,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Tomato and Almond Pesto",
+      "page": 149,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Green Olive and Orange Pesto",
+      "page": 149,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Simple Couscous with Dates and Pistachios",
+      "page": 161,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Spiced Vegetable Couscous",
+      "page": 162,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Moroccan-Style Couscous with Chickpeas",
+      "page": 163,
+      "chapter": "Pasta & Couscous",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Couscous with Turkish Sausage and Preserved Lemon",
+      "page": 163,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Couscous with Lamb, Chickpeas, and Orange",
+      "page": 164,
+      "chapter": "Pasta & Couscous",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Simple Pearl Couscous with Tomatoes, Olives, and Ricotta Salata",
+      "page": 165,
+      "chapter": "Pasta & Couscous"
+    },
+    {
+      "title": "Hearty Pearl Couscous with Eggplant, Spinach, and Beans",
+      "page": 167,
+      "chapter": "Pasta & Couscous",
+      "flag": "beans (keep beans low)"
+    },
+    {
+      "title": "Roasted Artichokes with Lemon Vinaigrette",
+      "page": 196,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Braised Artichokes with Tomatoes and Thyme",
+      "page": 197,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Artichoke, Pepper, and Chickpea Tagine",
+      "page": 198,
+      "chapter": "Vegetables",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Pan-Roasted Asparagus with Cherry Tomatoes and Kalamata Olives",
+      "page": 199,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Asparagus with Toasted Garlic and Parmesan",
+      "page": 201,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Braised Asparagus, Peas, and Radishes with Tarragon",
+      "page": 202,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Stuffed Bell Peppers with Spiced Beef, Currants, and Feta",
+      "page": 202,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Broccoli Rabe with Garlic and Red Pepper Flakes",
+      "page": 204,
+      "chapter": "Vegetables",
+      "flag": "broccoli rabe (rapini) - check"
+    },
+    {
+      "title": "Sauteed Cabbage with Parsley and Lemon",
+      "page": 205,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Spicy Roasted Carrots with Cilantro",
+      "page": 206,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Slow-Cooked Whole Carrots",
+      "page": 206,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Skillet-Roasted Cauliflower",
+      "page": 207,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Skillet-Roasted Spiced Cauliflower with Pistachios",
+      "page": 207,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Braised Cauliflower with Garlic and White Wine",
+      "page": 208,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Cauliflower Cakes",
+      "page": 209,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Celery Root with Yogurt and Sesame Seeds",
+      "page": 210,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Marinated Eggplant with Capers and Mint",
+      "page": 210,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Broiled Eggplant with Basil",
+      "page": 211,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Grilled Eggplant with Yogurt Sauce",
+      "page": 212,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Stuffed Eggplant with Bulgur",
+      "page": 213,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Braised Fennel with Radicchio and Parmesan",
+      "page": 214,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Fava Beans with Artichokes, Asparagus, and Peas",
+      "page": 215,
+      "chapter": "Vegetables",
+      "flag": "fava beans (keep beans low)"
+    },
+    {
+      "title": "Roasted Green Beans with Pecorino and Pine Nuts",
+      "page": 216,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Braised Green Beans with Potatoes and Basil",
+      "page": 217,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Garlicky Braised Kale",
+      "page": 218,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Mushrooms with Parmesan and Pine Nuts",
+      "page": 221,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Grilled Portobello Mushrooms and Shallots with Rosemary-Dijon Vinaigrette",
+      "page": 222,
+      "chapter": "Vegetables",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
+      "page": 222,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
+      "page": 223,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+      "page": 223,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Grilled Radicchio with Garlic and Rosemary-Infused Oil",
+      "page": 224,
+      "chapter": "Vegetables",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Sauteed Spinach with Yogurt and Dukkah",
+      "page": 225,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Sauteed Swiss Chard with Garlic",
+      "page": 226,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Winter Squash with Tahini and Feta",
+      "page": 226,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Roasted Tomatoes",
+      "page": 228,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Sauteed Cherry Tomatoes with Capers and Anchovies",
+      "page": 228,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Stuffed Tomatoes with Couscous, Olives, and Orange",
+      "page": 229,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
+      "page": 230,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Grilled Zucchini and Red Onion with Lemon-Basil Dressing",
+      "page": 231,
+      "chapter": "Vegetables",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Zucchini and Feta Fritters",
+      "page": 232,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Stuffed Zucchini with Spiced Lamb, Dried Apricots, and Pine Nuts",
+      "page": 234,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Greek Stewed Zucchini",
+      "page": 235,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Summer Vegetable Gratin",
+      "page": 236,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
+      "page": 237,
+      "chapter": "Vegetables",
+      "fitsMenu": "grill"
+    },
+    {
+      "title": "Mechouia",
+      "page": 238,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Ratatouille",
+      "page": 239,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Ciambotta",
+      "page": 240,
+      "chapter": "Vegetables"
+    },
+    {
+      "title": "Tahini Sauce",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Tahini-Yogurt Sauce",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Yogurt-Herb Sauce",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Lemon-Yogurt Sauce",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Cucumber-Yogurt Sauce",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Garlic Aioli",
+      "page": 233,
+      "chapter": "Easy Mediterranean Sauces"
+    },
+    {
+      "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
+      "page": 244,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Broiled Grape Leaf-Wrapped Grouper",
+      "page": 244,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Lemon-Herb Hake Fillets with Garlic Potatoes",
+      "page": 246,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Hake in Saffron Broth with Chorizo and Potatoes",
+      "page": 246,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Provencal Braised Hake",
+      "page": 247,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); french"
+    },
+    {
+      "title": "Pan-Roasted Halibut with Chermoula",
+      "page": 247,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Braised Halibut with Leeks and Mustard",
+      "page": 250,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Baked Stuffed Mackerel with Red Pepper and Preserved Lemon",
+      "page": 251,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Grilled Whole Mackerel with Lemon and Marjoram",
+      "page": 252,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Pan-Roasted Monkfish with Oregano-Black Olive Relish",
+      "page": 253,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Grilled Whole Sardines",
+      "page": 254,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Pan-Roasted Sea Bass with Green Olive, Almond, and Orange Relish",
+      "page": 255,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Pan-Roasted Sea Bass with Wild Mushrooms",
+      "page": 256,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Grilled Sea Bass with Citrus and Black Olive Salad",
+      "page": 256,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Grilled Whole Sea Bass with Salmoriglio Sauce",
+      "page": 257,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Poached Snapper with Crispy Artichokes and Sherry-Tomato Vinaigrette",
+      "page": 258,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Whole Roasted Snapper with Citrus Vinaigrette",
+      "page": 260,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Sauteed Sole with Fresh Tomato Relish",
+      "page": 260,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Swordfish en Cocotte with Shallots, Cucumber, and Mint",
+      "page": 261,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Grilled Swordfish Skewers with Tomato-Scallion Caponata",
+      "page": 262,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Grilled Swordfish with Italian Salsa Verde",
+      "page": 263,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Grilled Swordfish with Eggplant, Tomato, and Chickpea Salad",
+      "page": 264,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Grilled Tuna Steaks with Romesco",
+      "page": 265,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite); grill"
+    },
+    {
+      "title": "Bouillabaisse",
+      "page": 266,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood; french"
+    },
+    {
+      "title": "Sicilian Fish Stew",
+      "page": 267,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "2 lb skinless swordfish steaks, cut into 1-inch pieces",
+          "salt and pepper",
+          "1/2 cup pine nuts, toasted",
+          "1/2 cup chopped fresh mint",
+          "4 garlic cloves, minced",
+          "1 tsp grated orange zest",
+          "2 tbsp extra-virgin olive oil",
+          "2 onions, chopped fine",
+          "1 celery rib, minced",
+          "1 tsp minced fresh thyme",
+          "pinch red pepper flakes",
+          "1/2 cup dry white wine",
+          "1 (28-oz) can whole peeled tomatoes, drained (juice reserved) and chopped",
+          "1 (8-oz) bottle clam juice",
+          "1/4 cup raisins",
+          "2 tbsp capers, rinsed"
+        ],
+        "method": "Mix pine nuts, mint, a quarter of the garlic, and orange zest for serving. Soften onion + celery, add the remaining garlic, thyme, and pepper flakes. Add wine + reserved tomato juice and reduce by half; add tomatoes, clam juice, raisins, and capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min, then off heat covered 3 min. Serve sprinkled with the pine nut mixture."
+      }
+    },
+    {
+      "title": "Monkfish Tagine",
+      "page": 268,
+      "chapter": "Seafood",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "page": 269,
+      "chapter": "Seafood",
+      "fitsMenu": "shrimp (favorite)"
+    },
+    {
+      "title": "Shrimp with White Beans",
+      "page": 270,
+      "chapter": "Seafood",
+      "fitsMenu": "shrimp (favorite)",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Garlicky Roasted Shrimp with Parsley and Anise",
+      "page": 271,
+      "chapter": "Seafood",
+      "fitsMenu": "shrimp (favorite)"
+    },
+    {
+      "title": "Grilled Marinated Shrimp Skewers",
+      "page": 272,
+      "chapter": "Seafood",
+      "fitsMenu": "shrimp (favorite); grill"
+    },
+    {
+      "title": "Seared Scallops with Orange-Lime Dressing",
+      "page": 273,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Grilled Scallop and Zucchini Skewers with Basil Vinaigrette",
+      "page": 274,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood; grill"
+    },
+    {
+      "title": "Oven-Steamed Mussels with Leeks and Pernod",
+      "page": 278,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Clams Steamed in White Wine",
+      "page": 279,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Clams with Pearl Couscous, Chorizo, and Leeks",
+      "page": 280,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Spanish Shellfish Stew",
+      "page": 280,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Calamari Stew with Garlic and Tomatoes",
+      "page": 282,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Stuffed Squid",
+      "page": 282,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Grilled Squid with Lemon and Garlic",
+      "page": 284,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood; grill"
+    },
+    {
+      "title": "Red Wine-Braised Octopus",
+      "page": 285,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Spanish Grilled Octopus Salad with Orange and Fennel",
+      "page": 285,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood; grill"
+    },
+    {
+      "title": "Greek Grilled Octopus Salad with Celery and Fennel",
+      "page": 286,
+      "chapter": "Seafood",
+      "fitsMenu": "seafood; grill"
+    },
+    {
+      "title": "Classic Hummus",
+      "page": 16,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Hummus with Smoked Paprika",
+      "page": 16,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Roasted Red Pepper Hummus",
+      "page": 16,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Artichoke-Lemon Hummus",
+      "page": 16,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Roasted Garlic Hummus",
+      "page": 16,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Quick Toasted Almonds",
+      "page": 17,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Rosemary Almonds",
+      "page": 17,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Orange-Fennel Almonds",
+      "page": 17,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Spiced Almonds",
+      "page": 17,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Lemon-Garlic Almonds",
+      "page": 17,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Garlic and Rosemary White Bean Dip",
+      "page": 18,
+      "chapter": "Meze & Small Plates",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Caper and Tarragon White Bean Dip",
+      "page": 18,
+      "chapter": "Meze & Small Plates",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Sun-Dried Tomato and Feta White Bean Dip",
+      "page": 18,
+      "chapter": "Meze & Small Plates",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Tzatziki",
+      "page": 19,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Beet Tzatziki",
+      "page": 19,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Caponata",
+      "page": 19,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Creamy Turkish Nut Dip",
+      "page": 20,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Baba Ghanoush",
+      "page": 20,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Muhammara",
+      "page": 22,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Provencal-Style Anchovy Dip",
+      "page": 22,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Skordalia",
+      "page": 24,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Olive Oil-Sea Salt Pita Chips",
+      "page": 25,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Rosemary-Parmesan Pita Chips",
+      "page": 25,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Lavash Crackers",
+      "page": 25,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Marinated Green and Black Olives",
+      "page": 26,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Marinated Olives with Baby Mozzarella",
+      "page": 26,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Marinated Green Olives with Feta",
+      "page": 26,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Marinated Cauliflower and Chickpeas with Saffron",
+      "page": 27,
+      "chapter": "Meze & Small Plates",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Marinated Artichokes",
+      "page": 28,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Giardiniera",
+      "page": 29,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Yogurt Cheese",
+      "page": 30,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Lemon-Dill Yogurt Cheese",
+      "page": 30,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Honey-Walnut Yogurt Cheese",
+      "page": 30,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Spicy Whipped Feta with Roasted Red Peppers",
+      "page": 31,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Broiled Feta with Olive Oil and Parsley",
+      "page": 31,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Pan-Fried Halloumi with Garlic-Parsley Sauce",
+      "page": 32,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Bruschetta with Arugula Pesto and Goat Cheese",
+      "page": 33,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Bruschetta with Ricotta, Tomatoes, and Basil",
+      "page": 33,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Bruschetta with Black Olive Pesto, Ricotta, and Basil",
+      "page": 33,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Bruschetta with Artichoke Hearts and Parmesan",
+      "page": 33,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Prosciutto-Wrapped Stuffed Dates with Pistachios and Balsamic Vinegar",
+      "page": 34,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Stuffed Grape Leaves with Currants and Pine Nuts",
+      "page": 35,
+      "chapter": "Meze & Small Plates"
+    },
+    {
+      "title": "Sizzling Garlic Shrimp",
+      "page": 36,
+      "chapter": "Meze & Small Plates",
+      "fitsMenu": "shrimp (favorite)"
+    },
+    {
+      "title": "Mussels Escabeche",
+      "page": 37,
+      "chapter": "Meze & Small Plates",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Chili-Marinated Calamari with Oranges",
+      "page": 38,
+      "chapter": "Meze & Small Plates",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Stuffed Sardines",
+      "page": 39,
+      "chapter": "Meze & Small Plates",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Classic Gazpacho",
+      "page": 42,
+      "chapter": "Soups"
+    },
+    {
+      "title": "White Gazpacho",
+      "page": 43,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Chilled Cucumber and Yogurt Soup",
+      "page": 44,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Classic Chicken Broth",
+      "page": 45,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Vegetable Broth Base",
+      "page": 45,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Provencal Vegetable Soup",
+      "page": 46,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Roasted Eggplant and Tomato Soup",
+      "page": 48,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Roasted Red Pepper Soup with Smoked Paprika and Cilantro Yogurt",
+      "page": 49,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Turkish Tomato, Bulgur, and Red Pepper Soup",
+      "page": 50,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Artichoke Soup a la Barigoule",
+      "page": 51,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Risi e Bisi",
+      "page": 52,
+      "chapter": "Soups"
+    },
+    {
+      "title": "French Lentil Soup",
+      "page": 52,
+      "chapter": "Soups",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Spanish-Style Lentil and Chorizo Soup",
+      "page": 53,
+      "chapter": "Soups",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Red Lentil Soup with North African Spices",
+      "page": 54,
+      "chapter": "Soups",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Moroccan-Style Chickpea Soup",
+      "page": 55,
+      "chapter": "Soups",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Sicilian Chickpea and Escarole Soup",
+      "page": 55,
+      "chapter": "Soups",
+      "flag": "chickpeas (keep beans low)"
+    },
+    {
+      "title": "Greek White Bean Soup",
+      "page": 56,
+      "chapter": "Soups",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Pasta e Fagioli with Orange and Fennel",
+      "page": 57,
+      "chapter": "Soups",
+      "flag": "beans (keep beans low)"
+    },
+    {
+      "title": "Spiced Fava Bean Soup",
+      "page": 58,
+      "chapter": "Soups",
+      "flag": "fava beans (keep beans low)"
+    },
+    {
+      "title": "Avgolemono",
+      "page": 59,
+      "chapter": "Soups",
+      "fitsMenu": "chicken (favorite)"
+    },
+    {
+      "title": "Spicy Moroccan-Style Chicken and Lentil Soup",
+      "page": 59,
+      "chapter": "Soups",
+      "fitsMenu": "chicken (favorite)",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Spicy Moroccan-Style Lamb and Lentil Soup",
+      "page": 59,
+      "chapter": "Soups",
+      "flag": "lentils (keep beans low)"
+    },
+    {
+      "title": "Lamb and Mint Sharba",
+      "page": 61,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Spanish-Style Meatball Soup with Saffron",
+      "page": 62,
+      "chapter": "Soups"
+    },
+    {
+      "title": "Provencal Fish Soup",
+      "page": 63,
+      "chapter": "Soups",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Shellfish Soup with Leeks and Turmeric",
+      "page": 64,
+      "chapter": "Soups",
+      "fitsMenu": "seafood"
+    },
+    {
+      "title": "Basic Green Salad",
+      "page": 68,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Tricolor Salad with Balsamic Vinaigrette",
+      "page": 68,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Green Salad with Marcona Almonds and Manchego Cheese",
+      "page": 68,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Arugula Salad with Fennel and Shaved Parmesan",
+      "page": 69,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Green Salad with Artichokes and Olives",
+      "page": 69,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Arugula Salad with Figs, Prosciutto, Walnuts, and Parmesan",
+      "page": 73,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Asparagus and Arugula Salad with Cannellini Beans",
+      "page": 74,
+      "chapter": "Salads",
+      "flag": "cannellini beans (keep beans low)"
+    },
+    {
+      "title": "Asparagus, Red Pepper, and Spinach Salad with Goat Cheese",
+      "page": 74,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Citrus Salad with Radicchio, Dates, and Smoked Almonds",
+      "page": 75,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Bitter Greens Salad with Olives and Feta",
+      "page": 76,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Kale Salad with Sweet Potatoes and Pomegranate Vinaigrette",
+      "page": 77,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Mache with Cucumber and Mint",
+      "page": 78,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Salade Nicoise",
+      "page": 78,
+      "chapter": "Salads",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Warm Spinach Salad with Feta and Pistachios",
+      "page": 79,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Seared Tuna Salad with Olive Dressing",
+      "page": 80,
+      "chapter": "Salads",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Classic Vinaigrette",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Lemon Vinaigrette",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Balsamic-Mustard Vinaigrette",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Walnut Vinaigrette",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Herb Vinaigrette",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Tahini-Lemon Dressing",
+      "page": 72,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Asparagus Salad with Oranges, Feta, and Hazelnuts",
+      "page": 81,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Roasted Beet Salad with Blood Oranges and Almonds",
+      "page": 82,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Roasted Beet and Carrot Salad with Cumin and Pistachios",
+      "page": 82,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Fava Bean and Radish Salad",
+      "page": 83,
+      "chapter": "Salads",
+      "flag": "fava beans (keep beans low)"
+    },
+    {
+      "title": "Green Bean Salad with Cilantro Sauce",
+      "page": 84,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Green Bean and Potato Salad with Cilantro Sauce",
+      "page": 84,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Brussels Sprout Salad with Pecorino and Pine Nuts",
+      "page": 85,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Moroccan-Style Carrot Salad with Harissa and Feta",
+      "page": 85,
+      "chapter": "Salads"
+    },
+    {
+      "title": "North African Cauliflower Salad with Chermoula",
+      "page": 86,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Mediterranean Chopped Salad",
+      "page": 87,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Sesame-Lemon Cucumber Salad",
+      "page": 88,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Yogurt-Mint Cucumber Salad",
+      "page": 88,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Algerian-Style Fennel, Orange, and Olive Salad",
+      "page": 88,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Fennel and Apple Salad with Smoked Mackerel",
+      "page": 89,
+      "chapter": "Salads",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Country-Style Greek Salad",
+      "page": 90,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Shaved Mushroom and Celery Salad",
+      "page": 90,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Panzanella Salad with White Beans and Arugula",
+      "page": 91,
+      "chapter": "Salads",
+      "flag": "white beans (keep beans low)"
+    },
+    {
+      "title": "Fattoush",
+      "page": 92,
+      "chapter": "Salads"
+    },
+    {
+      "title": "French Potato Salad with Dijon and Fines Herbes",
+      "page": 92,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Roasted Winter Squash Salad with Za'atar and Parsley",
+      "page": 94,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Tomato Salad with Feta and Cumin-Yogurt Dressing",
+      "page": 95,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Tomato Salad with Tuna, Capers, and Black Olives",
+      "page": 96,
+      "chapter": "Salads",
+      "fitsMenu": "fish (favorite)"
+    },
+    {
+      "title": "Cherry Tomato Salad with Feta and Olives",
+      "page": 97,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Tomato and Burrata Salad with Pangrattato and Basil",
+      "page": 98,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Grilled Vegetable and Halloumi Salad",
+      "page": 98,
+      "chapter": "Salads"
+    },
+    {
+      "title": "Zucchini Ribbon Salad with Shaved Parmesan",
+      "page": 99,
+      "chapter": "Salads"
+    }
   ]
 }

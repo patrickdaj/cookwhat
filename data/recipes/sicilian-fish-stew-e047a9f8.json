@@ -37,5 +37,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "Build a tomato-based broth with wine reduction and clam juice, then gently poach swordfish in it while finishing with a bright pine nut-mint gremolata for textural and flavor contrast.",
+    "keyTips": [
+      "Reduce wine and tomato juice by half before adding the broth to concentrate flavor and cook off alcohol",
+      "Drain canned tomatoes and reserve juice separately—this gives you control over liquid concentration rather than adding watery tomato liquid",
+      "Toast pine nuts and keep the gremolata separate until serving; this preserves their crunch and the mint's brightness",
+      "Pull the pan off heat and cover after 4 minutes of simmering the fish—residual heat finishes cooking without overcooking delicate swordfish"
+    ]
+  }
 }

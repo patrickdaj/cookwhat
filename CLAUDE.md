@@ -236,6 +236,13 @@ Scanning every book up front is a ton of work, so don't. Two stages:
    the specific page(s), capture the real `ingredients`/`method` into the meal,
    **and** store the `captured` block back in the catalog (reusable forever). Then
    re-run `cookwhat shopping` so the list is complete.
+   - **Also generate the `ai` block** (cliffNotes + keyTips) just like a web
+     fetch does — book recipes were coming through with `ai: null` and looked
+     thin next to fetched ones. Run `analyzeWithAI` (from `src/recipe-fetch.js`,
+     it works on any name+ingredients+steps) and save it onto the detail. The
+     book's *full* step-by-step lives in the physical book; the captured `method`
+     is a faithful summary for shopping/planning, and the AI tips add the
+     technique guidance — don't pad the steps with invented detail.
 
 Rules for the workflow:
 - **Never fabricate ingredients** from a title or memory — a placeholder carries

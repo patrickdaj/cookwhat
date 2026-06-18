@@ -29,5 +29,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "A flavored butter paste rubbed under the skin and an overnight uncovered dry-brine creates both crispy skin and deeply seasoned meat throughout the chicken.",
+    "keyTips": [
+      "Separate the skin carefully from the breasts before applying the herb paste to ensure seasoning penetrates directly between skin and meat",
+      "Leave the chicken uncovered in the fridge overnight after rubbing—the air circulation dries the skin, which is essential for crispiness when roasted",
+      "Process the herbs and aromatics into a fine paste with butter so it adheres well under the skin rather than falling off during roasting",
+      "Position potatoes underneath the chicken so they catch flavorful drippings while roasting"
+    ]
+  }
 }

@@ -32,5 +32,13 @@
   "recipeYield": "4 servings",
   "image": null,
   "author": null,
-  "ai": null
+  "ai": {
+    "cliffNotes": "Ground almonds thicken and enrich the braising liquid while toasted whole almonds add textural contrast and nutty depth at the end.",
+    "keyTips": [
+      "Brown chicken thighs thoroughly on both sides to build fond for deeper sauce flavor",
+      "Grind almonds to a fine powder before adding to sauce so they incorporate smoothly and thicken evenly",
+      "Don't skip toasting the almonds—it amplifies their nutty flavor and makes a noticeable difference in the final dish",
+      "Add lemon juice and fresh parsley at the very end to brighten the rich, spiced sauce"
+    ]
+  }
 }
