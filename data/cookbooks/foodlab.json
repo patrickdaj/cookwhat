@@ -34,7 +34,7 @@
     {"title": "Roasted Butterflied Chicken", "page": 591, "chapter": "Roasts", "fitsMenu": "Kenji's flagship fast roast chicken"},
     {"title": "Quick Jus for Roasted Butterflied Chicken", "page": 592, "chapter": "Roasts"},
     {"title": "Simple Whole Roast Chicken", "page": 594, "chapter": "Roasts"},
-    {"title": "Buttery Lemon-Herb-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts"},
+    {"title": "Buttery Lemon-Herb-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "3 or 4 servings", "captured": {"ingredients": ["1/4 cup fresh parsley leaves", "6 fresh sage leaves", "1 tbsp fresh rosemary leaves", "1 scallion, roughly chopped", "1 medium garlic clove, minced (~1 tsp)", "2 tsp kosher salt", "1 tsp freshly ground black pepper", "1 tbsp grated lemon zest (from 1 lemon)", "2 tbsp unsalted butter", "1 whole chicken, 3.5 to 4 lb"], "method": "Process the parsley, sage, rosemary, scallion, garlic, salt, pepper, lemon zest, and butter into a paste. Separate the skin from the breasts and rub the paste all over and under the skin; dry-brine uncovered overnight for crisp skin. Roast per the Simple Whole Roast Chicken recipe (p.594)."}},
     {"title": "Jamaican-Jerk-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts"},
     {"title": "Spicy Lemongrass-and-Turmeric-Rubbed Roast Chicken", "page": 597, "chapter": "Roasts", "fitsMenu": "thai-leaning"},
     {"title": "Thai-Style Sweet Chile Sauce", "page": 598, "chapter": "Roasts"},
