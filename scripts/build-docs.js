@@ -558,7 +558,7 @@ function buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle) {
 
 // ---- mkdocs.yml ------------------------------------------------------------
 
-function buildMkdocsYml(menus, navWeeks, books = []) {
+function buildMkdocsYml(menus, navWeeks, books = [], cookbookDocPaths = []) {
   // navWeeks: [{ label: 'This Week', week: '2026-06-14' }, ...] — quick-access
   // tabs that jump straight to a week's menu. Browse sections are single
   // landing pages so the bar stays tidy as weeks accumulate.
@@ -575,7 +575,7 @@ function buildMkdocsYml(menus, navWeeks, books = []) {
     '  days/*.md',
     '  shopping/2*.md',
     '  recipes/*-*.md',
-    ...books.map(b => `  cookbooks/${b.id}.md`),
+    ...cookbookDocPaths.map(p => `  ${p}`),
   ].join('\n');
 
   return `site_name: cookwhat
@@ -662,6 +662,20 @@ function buildCookbooksIndex(books) {
   return out.join('\n');
 }
 
+function slugify(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+// A recipe has a detail page only once its full recipe has been scanned in.
+function hasCaptured(r) {
+  return !!(r.captured && (r.captured.ingredients?.length || r.captured.method));
+}
+
+// Filename (within docs/cookbooks/) for a scanned recipe's detail page.
+function cookbookRecipeSlug(book, r) {
+  return `${book.id}-${slugify(r.title)}`;
+}
+
 function buildCookbookPage(book) {
   const out = [`# ${book.title}\n`];
   const meta = [];
@@ -682,27 +696,43 @@ function buildCookbookPage(book) {
   for (const ch of chapters) {
     out.push(`## ${ch}\n`);
     for (const r of byChapter.get(ch)) {
-      let line = `- **${r.title}**`;
+      // Scanned recipes link to their own detail page; the rest are plain
+      // catalog entries (no captured recipe to show yet — scan to add one).
+      const name = hasCaptured(r)
+        ? `[**${r.title}**](${cookbookRecipeSlug(book, r)}.md)`
+        : `**${r.title}**`;
+      let line = `- ${name}`;
       if (r.page != null) line += ` — p.${r.page}`;
       if (r.scanned) line += ' · ✓ scanned';
       if (r.flag) line += ` · ⚠ ${r.flag}`;
       out.push(line);
-
-      // Scanned recipes get a collapsible block with the captured details.
-      if (r.captured && (r.captured.ingredients?.length || r.captured.method)) {
-        const label = `${r.title}${r.makes ? ` — makes ${r.makes}` : ''}`.replace(/"/g, "'");
-        out.push('');
-        out.push(`??? note "${label}"`);
-        for (const ing of r.captured.ingredients || []) out.push(`    - ${ing}`);
-        if (r.captured.method) {
-          out.push('');
-          out.push(`    **Method:** ${r.captured.method}`);
-        }
-        out.push('');
-      }
     }
     out.push('');
   }
+  return out.join('\n');
+}
+
+// Detail page for a single scanned cookbook recipe.
+function buildCookbookRecipePage(book, r) {
+  const out = [`# ${r.title}\n`];
+  const meta = [`*${book.title}*`];
+  if (r.page != null) meta.push(`p.${r.page}`);
+  if (r.makes) meta.push(`makes ${r.makes}`);
+  out.push(meta.join(' · ') + '\n');
+  out.push(`[← ${book.title}](${book.id}.md)\n`);
+  if (r.flag) out.push(`!!! warning "Heads up"\n    ${r.flag}\n`);
+  if (r.captured?.ingredients?.length) {
+    out.push('## Ingredients\n');
+    for (const ing of r.captured.ingredients) out.push(`- ${ing}`);
+    out.push('');
+  }
+  if (r.captured?.method) {
+    out.push('## Method\n');
+    out.push(r.captured.method + '\n');
+  }
+  if (r.captured?.serveWith) out.push(`**Serve with:** ${r.captured.serveWith}\n`);
+  const src = `${book.title}${book.author ? ` (${book.author})` : ''}${r.page != null ? ` — p.${r.page}` : ''}`;
+  out.push(`*Source: ${src}*\n`);
   return out.join('\n');
 }
 
@@ -829,11 +859,19 @@ function main() {
   write(join(DOCS, 'shopping', 'index.md'), buildShoppingIndex(shoppingWeeks));
   write(join(DOCS, 'recipes', 'index.md'), buildRecipesIndex(recipesByMealId, mealLookup, ratingsByTitle));
 
-  // Cookbook library
+  // Cookbook library: index + a page per book + a detail page per scanned recipe
+  const cookbookDocPaths = [];
   if (books.length) {
     write(join(DOCS, 'cookbooks', 'index.md'), buildCookbooksIndex(books));
     for (const b of books) {
       write(join(DOCS, 'cookbooks', `${b.id}.md`), buildCookbookPage(b));
+      cookbookDocPaths.push(`cookbooks/${b.id}.md`);
+      for (const r of b.recipes) {
+        if (!hasCaptured(r)) continue;
+        const slug = cookbookRecipeSlug(b, r);
+        write(join(DOCS, 'cookbooks', `${slug}.md`), buildCookbookRecipePage(b, r));
+        cookbookDocPaths.push(`cookbooks/${slug}.md`);
+      }
     }
   }
 
@@ -846,7 +884,7 @@ function main() {
   }));
 
   // mkdocs.yml
-  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, navWeeks, books));
+  write(join(ROOT, 'mkdocs.yml'), buildMkdocsYml(menus, navWeeks, books, cookbookDocPaths));
 
   const cookbookRecipes = books.reduce((n, b) => n + b.recipes.length, 0);
   console.log(
