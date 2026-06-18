@@ -1,0 +1,563 @@
+{
+  "id": "gabriela-camara-mexican-cooking",
+  "title": "Gabriela Cámara Teaches Mexican Cooking (MasterClass)",
+  "author": "Gabriela Cámara",
+  "owned": true,
+  "addedOn": "2026-06-18",
+  "cuisine": "mexican",
+  "note": "MasterClass workbook (54 pp). Unlike a TOC-style cookbook, every recipe prints full ingredients + ordered method inline, so all recipes here are fully `captured` (scanned:true) with no scan-on-demand needed. Tips are mined from the workbook's surrounding prose. Gabriela is the chef behind Contramar (Mexico City), Cala (SF), and Onda (LA). Heavy on fresh masa, seafood, and salsas. Source PDF lives in pdfs/ (gitignored).",
+  "source_format": "pdf (MasterClass workbook)",
+  "dislikeFlags": [],
+  "recipes": [
+    {
+      "title": "Tortillas de Maíz / Corn Tortillas",
+      "page": 8,
+      "chapter": "Tortillas & Masa",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "8 6-inch tortillas",
+      "fitsMenu": "staple/side; the base for tacos, tostadas, quesadillas",
+      "captured": {
+        "makes": "8 6-inch tortillas",
+        "ingredients": [
+          "260g fresh masa or masa harina"
+        ],
+        "steps": [
+          "TO GRIND CORN INTO MASA (if starting from nixtamalized corn): Set up a hand grinder over a bowl. Add corn to the hopper with 1 to 2 teaspoons of water and grind, gently pressing the corn down. Test the texture; adjust grind or add a spoonful of water. Ideal masa is finely ground, smooth, thick, slightly sticky, and holds together in a uniform dough when pressed.",
+          "IF USING FRESH MASA: Roll into 1-ounce balls and set aside on a tray under a damp towel so they don't dry out.",
+          "IF USING MASA HARINA: Combine masa harina with 1 cup water and mix well; keep adding water 1 tablespoon at a time until the dough is smooth, thick, slightly sticky, and holds together. Roll into 1-ounce balls and keep under a damp towel.",
+          "Place a nonstick griddle or clay comal over medium heat.",
+          "PRESS: Lay a sheet of nonstick plastic on the bottom of a tortilla press (not Saran wrap — it sticks; plastic bags or banana leaves work). Place one masa ball in the middle, cover with a second sheet, and press down firmly and evenly. Open, remove, flip, and press again for evenness. Ideal tortilla is about 1/8 inch (3mm) thick.",
+          "COOK: Gently peel the tortilla off the plastic and place on the hot griddle. Flip as soon as the edges dry and turn opaque (~30 sec). When it starts blistering and rising slightly, flip again (~45 sec). It should puff up after 10 to 15 seconds — the sign that all the water has evaporated and it's done.",
+          "Keep warm wrapped in a clean towel inside a pot or tortillero. Store refrigerated up to 3 days, or freeze."
+        ],
+        "tips": [
+          "The puff is the doneness cue: a finished tortilla puffs up 10–15 seconds after the final flip — that means all the water has cooked out.",
+          "Use a nonstick plastic sheet (plastic bag or banana leaf), never Saran wrap — it sticks to the masa.",
+          "Tortillas are a repetition-based art; don't be discouraged if your first few are imperfect.",
+          "Freeze cooked tortillas and reheat straight from frozen (no defrost). Reheating from the fridge instead? Sprinkle a few drops of water on first."
+        ]
+      }
+    },
+    {
+      "title": "Salsa Verde Cruda / Raw Green Salsa",
+      "page": 12,
+      "chapter": "Salsas",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "about 1,200g",
+      "fitsMenu": "condiment; called for across the book's tacos, fish, and eggs",
+      "captured": {
+        "makes": "about 1,200g",
+        "ingredients": [
+          "860g small tomatillos",
+          "20g white onion, roughly chopped",
+          "35g cilantro leaves",
+          "2g garlic cloves, cut in half",
+          "20g chiles serranos, destemmed",
+          "20g little gem lettuce",
+          "165g avocado",
+          "140ml water",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Add all ingredients to a blender and blend on high speed until smooth and combined.",
+          "Taste for seasoning and add more salt if necessary.",
+          "Serve immediately."
+        ],
+        "tips": [
+          "Seek out a very ripe avocado — it should offer no resistance when pressed and be soft enough to press a spoon into.",
+          "You can swap hearts of romaine for the little gem lettuce; the lettuce is there to add freshness and crispness.",
+          "This is a raw salsa — make it close to serving."
+        ]
+      }
+    },
+    {
+      "title": "Salsa Brava / Fierce Habanero Salsa",
+      "page": 12,
+      "chapter": "Salsas",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "about 1,100g",
+      "flag": "very spicy — raw habaneros; handle with gloves",
+      "fitsMenu": "condiment; pairs with seafood, tostadas, sopes",
+      "captured": {
+        "makes": "about 1,100g",
+        "ingredients": [
+          "800g white onion",
+          "150g habanero chiles",
+          "6g salt",
+          "18g dry oregano",
+          "80ml fresh lime juice",
+          "50ml extra virgin olive oil"
+        ],
+        "steps": [
+          "SLICE THE ONIONS: Remove the outer skin, place cut side down, and slice into thin half-moons. Separate the pieces with your fingers so they marinate evenly. Place in a mixing bowl.",
+          "SLICE THE CHILES: Put on plastic gloves and slice the habaneros perpendicularly — stems, seeds, and all — into thin slices that resemble flowers. Add to the bowl with the onion and mix by hand (gloves on).",
+          "Remove the gloves. Add the salt, oregano, lime juice, and olive oil. Stir with a spoon to combine.",
+          "Let sit at room temperature about 20 minutes before serving. Store in an airtight container in the refrigerator up to 2 weeks."
+        ],
+        "tips": [
+          "Raw habaneros are super spicy — wear plastic gloves the whole time you handle and mix them.",
+          "Slice the chiles perpendicularly so the rounds look like little flowers.",
+          "Try colored habaneros or onions for a more festive result.",
+          "It's quick-pickled and keeps refrigerated up to 2 weeks."
+        ]
+      }
+    },
+    {
+      "title": "Salsa Tatemada / Charred Salsa",
+      "page": 33,
+      "chapter": "Salsas",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "about 760g",
+      "fitsMenu": "smoky condiment; called for with Pescado a la Talla and more",
+      "captured": {
+        "makes": "about 760g",
+        "ingredients": [
+          "8g chile morita, destemmed",
+          "20g garlic, roughly chopped",
+          "150g white onion, roughly chopped",
+          "12g chile serrano, sliced in half lengthwise and deseeded",
+          "200g tomatillo, husks discarded",
+          "530g plum tomatoes, halved, stems removed",
+          "Salt to taste",
+          "14g cilantro"
+        ],
+        "steps": [
+          "Place a comal or cast iron skillet over high heat. Char the dried morita chiles and garlic until the skin softens slightly, about 2 to 3 minutes, then move the chiles to a bowl of warm water to rehydrate for at least 10 to 15 minutes. Leave the garlic on the comal and add the onion.",
+          "After 3 to 4 minutes, remove the garlic to a molcajete or blender. Keep roasting the onion; add the serrano cut side down, the whole tomatillos, and the sliced tomatoes flesh side down. Flip the serranos so both sides char. Keep roasting, flipping occasionally, until everything is cooked through and charred, about 10 to 15 minutes. Turn off the heat.",
+          "IF USING A BLENDER: Add all roasted ingredients, salt, and cilantro; pulse to the desired consistency (chunky or smooth).",
+          "IF USING A MOLCAJETE: Grind the garlic, onion, and 1 tomatillo into a rough paste, then add remaining tomatillo and tomatoes with salt and grind mostly smooth (pull out large tomato skins). Add the softened chiles and keep grinding, breaking down the skins; add salt and the fresh cilantro and stir to incorporate.",
+          "Serve immediately. Keeps covered in the refrigerator up to 4 days."
+        ],
+        "tips": [
+          "The whole point of this salsa is the flavor of the charring — blister every ingredient on a hot comal first.",
+          "A molcajete makes a more rustic sauce than a blender; if you use a blender, pulse rather than purée smooth.",
+          "Morita veins hold more heat than the seeds — trim the veins if you're sensitive to spice.",
+          "Open a window and/or run the exhaust fan while charring."
+        ]
+      }
+    },
+    {
+      "title": "Tacos al Pastor / Achiote-Marinated Pork Tacos",
+      "page": 15,
+      "chapter": "Tacos & Antojitos",
+      "protein": "pork",
+      "scanned": true,
+      "makes": "16 tacos",
+      "fitsMenu": "pork; dinner main; marinate the pork 24h ahead (plan ahead)",
+      "captured": {
+        "makes": "16 tacos",
+        "ingredients": [
+          "— For the Adobo Rojo de Chiles sauce (makes ~760g):",
+          "30g chile cascabel, destemmed and seeded",
+          "12g chile ancho, destemmed and seeded",
+          "9g chile guajillo, destemmed and seeded",
+          "9g chile pasilla, destemmed and seeded",
+          "1g chile de árbol, destemmed and seeded",
+          "450g roma tomatoes, roughly chopped",
+          "70g white onion, roughly chopped",
+          "12g garlic cloves, roughly chopped",
+          "3g achiote paste",
+          "12g freshly squeezed orange juice",
+          "36g grapeseed oil",
+          "Pinch of cumin",
+          "Pinch of oregano",
+          "18g sea salt, plus more for seasoning",
+          "— For the pork:",
+          "910g to 1.4kg pork tenderloin, cut into bite-size pieces",
+          "240ml Adobo Rojo de Chiles",
+          "17g sea salt",
+          "10g grapeseed oil",
+          "— For the pineapple:",
+          "1 large pineapple",
+          "35g unsalted butter",
+          "0.5g sea salt",
+          "— To assemble:",
+          "8 corn tortillas",
+          "100g white onion, finely minced",
+          "10g cilantro leaves, minced",
+          "Lime wedges, for serving",
+          "250g Salsa Verde Cruda (recipe in this catalog)"
+        ],
+        "steps": [
+          "MAKE THE ADOBO: Turn on the exhaust fan or open a window. Heat a large nonstick pan or clay comal over medium-high and toast the dried chiles in the dry pan, flipping once, until lightly toasted and aromatic, about 1 to 2 minutes.",
+          "Put the toasted chiles in a blender with the tomatoes, onion, and garlic. Put the achiote paste in a small bowl, squeeze in one orange half, stir, and add to the blender along with the juice of the other half. Add grapeseed oil, cumin, and oregano. Blend on high until thick but smooth, about 1 minute. Salt to taste.",
+          "MARINATE THE PORK: Place pork in a large bowl with 3 tablespoons of the adobo; mix to combine. Cover and refrigerate at least 24 hours. (Store the remaining adobo airtight, refrigerated up to 3 weeks — it can marinate other meats, fish, or vegetables.)",
+          "COOK THE PINEAPPLE: Trim, peel, and core the pineapple, then cut into bite-size chunks. Melt the butter in a large skillet over medium heat; add the pineapple and a pinch of salt and cook, stirring often, until slightly softened and translucent and all the butter is absorbed, about 15 to 20 minutes. Set aside to cool.",
+          "COOK THE PORK: Season the pork with additional salt. Heat oil in a large heavy-bottomed pan over medium-high until shimmering, add the pork, reduce to medium, and cook, stirring often, until cooked through and most of the marinade has cooked off, about 5 to 7 minutes.",
+          "ASSEMBLE: Heat the tortillas a few seconds per side. Fill each with warm pork and pineapple, top with minced white onion and cilantro, and serve with lime wedges and Salsa Verde Cruda."
+        ],
+        "tips": [
+          "Plan ahead — the pork needs at least 24 hours in the adobo to soak up the smoky, acidic flavor.",
+          "The recipe makes far more adobo than you need; it keeps refrigerated up to 3 weeks and works as a marinade for other meats, fish, or vegetables.",
+          "Caramelize the pineapple in butter low and slow until translucent and the butter is fully absorbed — that sweet edge balances the chiles.",
+          "Al pastor is a Lebanese-Mexican mashup (shawarma technique + local ingredients); the home-stovetop version stands in for the spit (trompo)."
+        ]
+      }
+    },
+    {
+      "title": "Cactus and Watercress Salad / Salad Tacos",
+      "page": 21,
+      "chapter": "Salads",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "serves 4 to 6",
+      "fitsMenu": "veg side or light salad; can be wrapped in a tortilla as a 'salad taco'",
+      "captured": {
+        "makes": "serves 4 to 6",
+        "ingredients": [
+          "455g cactus paddles (nopales), dethorned",
+          "130g sea salt",
+          "100g radishes, sliced on a mandoline",
+          "120g red onion, slivered",
+          "120g watercress, rinsed, dried, and torn into bite-size pieces",
+          "12g chopped cilantro leaves",
+          "120ml extra-virgin olive oil",
+          "120ml freshly squeezed lime juice",
+          "3g Maldon sea salt or another finishing salt",
+          "20g to 30g grated ricotta salata",
+          "4 to 6 fresh corn tortillas, for serving"
+        ],
+        "steps": [
+          "PREPARE THE SALAD: Combine the cactus with sea salt in a large mixing bowl and set aside 1 hour to draw out excess moisture. Rinse in a colander to remove any sliminess, then cut each paddle into 1/2-inch-wide (12mm) strips. Transfer to a serving bowl and add the radishes, onion, watercress, and cilantro.",
+          "MAKE THE DRESSING: In a jar or small bowl, mix the oil, lime juice, and finishing salt. Dress the salad and toss to coat.",
+          "Spoon salad into each tortilla and top with ricotta salata. Serve within 1 hour of dressing the salad."
+        ],
+        "tips": [
+          "Salt the cactus and rest it 1 hour to pull out moisture, then rinse to remove the sliminess nopales are known for.",
+          "Can't find nopales? Substitute summer squash.",
+          "Dress it just before serving — it's best within an hour of dressing."
+        ]
+      }
+    },
+    {
+      "title": "Quesadillas Doradas / Golden (Fried) Quesadillas",
+      "page": 41,
+      "chapter": "Tacos & Antojitos",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "6 to 8 quesadillas",
+      "flag": "filled with huitlacoche (corn fungus / 'Mexican truffle') — acquired taste; sub ricotta, chicken tinga, braised greens, squash blossoms, or chorizo",
+      "fitsMenu": "antojito/appetizer; vegetarian; fried masa turnovers",
+      "captured": {
+        "makes": "6 to 8 quesadillas",
+        "ingredients": [
+          "— For the tortillas:",
+          "260g fresh masa",
+          "— For the filling:",
+          "12g grapeseed oil",
+          "95g white onion, minced",
+          "12g garlic, minced",
+          "3g chile serrano, deseeded and minced",
+          "325g fresh huitlacoche (or sub ricotta, chicken tinga, braised greens, squash blossoms, or crumbled chorizo)",
+          "Salt to taste",
+          "7g epazote, finely chopped",
+          "— For frying:",
+          "960ml grapeseed oil",
+          "— For serving:",
+          "200g Salsa Verde Cruda (recipe in this catalog)"
+        ],
+        "steps": [
+          "PREPARE THE HUITLACOCHE: Slice the kernels off the cob from top to bottom with a sharp knife.",
+          "In a medium sauté pan over medium heat, heat the grapeseed oil. Sweat the onion until translucent, about 2 minutes. Add garlic and serrano, stir, then add the huitlacoche. Reduce to medium-low and add more oil if needed; cook, stirring often, until all vegetables are softened, 3 to 5 minutes. The huitlacoche darkens as it cooks. Season with salt, stir in the epazote, turn off the heat, cover, and set aside.",
+          "MAKE THE TORTILLAS: Roll golf-ball-size masa balls and press (per the Corn Tortillas method). Leave the pressed tortilla on the bottom sheet of plastic. Spoon 2 scant tablespoons of filling in the center — don't overfill.",
+          "SEAL: Lift both sides of the plastic and bring the bottom edge up to meet the top. With your fingers, gently pinch the edges together through the plastic, pushing out any air before closing. They should resemble empanadas or ravioli. Repeat until the filling is gone.",
+          "FRY: Heat the grapeseed oil in a large heavy pot or Dutch oven over medium-high until a thermometer reads 180°C (350°F). Line a plate with paper towels. Working in batches, carefully add 2 to 3 quesadillas; use a spatula or skimmer so they don't stick, and cook, rotating occasionally, until golden brown all over, about 8 to 10 minutes.",
+          "Transfer to the paper-towel-lined plate to drain. Serve hot with Salsa Verde Cruda."
+        ],
+        "tips": [
+          "Press out all the air when sealing so the quesadillas don't burst open in the hot oil.",
+          "If the masa cracks, patch it: press a small ball of masa into a thin tortilla and lay it over the broken part.",
+          "Huitlacoche is corn fungus — a Mexican delicacy ('Mexican truffle'), earthy and mild, but an acquired taste. Swap in ricotta, chicken tinga, braised greens, squash blossoms, or crumbled chorizo if you prefer.",
+          "Season mushroom-y fillings with epazote, the pungent Mexican herb."
+        ]
+      }
+    },
+    {
+      "title": "Pescado a la Talla / Red and Green Roasted Fish",
+      "page": 23,
+      "chapter": "Seafood Mains",
+      "protein": "fish",
+      "scanned": true,
+      "makes": "serves 4 to 6",
+      "fitsMenu": "fish (favorite seafood); dinner main; Contramar's signature two-tone fish",
+      "captured": {
+        "makes": "serves 4 to 6",
+        "ingredients": [
+          "1 whole 1kg to 2kg whitefish (snapper-like; whatever is available locally), butterflied and deboned",
+          "Sea salt",
+          "240ml Green Sauce (below)",
+          "240ml Adobo Rojo de Chiles (see Tacos al Pastor)",
+          "— For the Frijoles Aguados / Soupy Beans (makes ~720g):",
+          "240g dried black beans, soaked overnight",
+          "10g garlic cloves",
+          "1 sprig epazote or 2 avocado leaves",
+          "Salt to taste",
+          "— For the Green Sauce (makes ~760g):",
+          "10g garlic cloves",
+          "40g parsley leaves",
+          "120ml safflower oil or grapeseed oil",
+          "Pinch of cumin",
+          "Sea salt to taste",
+          "— For the Frijoles Refritos / Refried Beans (makes ~480g):",
+          "20g vegetable oil or lard",
+          "150g white onion, finely diced",
+          "240g Frijoles Aguados, strained",
+          "240ml reserved bean cooking liquid",
+          "— To assemble:",
+          "Salsa Verde Cruda (recipe in this catalog)",
+          "Salsa Tatemada (recipe in this catalog)",
+          "Fresh corn tortillas, warmed",
+          "80g Ocosingo cheese (or queso fresco / cotija), for serving",
+          "Lime wedges, for serving"
+        ],
+        "steps": [
+          "MAKE THE SOUPY BEANS: Soak beans overnight in cold water. Rinse, place in a pot, and cover with water (10cm above the beans). Add garlic and epazote (or avocado leaves); discard any floaters. Bring to a boil, reduce to a low simmer, cover. After ~30 min stir and top up water; simmer another 15 min, then check every 10 min, adding water as needed, until soft but whole with skins intact. Season with salt and set aside. (Keeps refrigerated 1 week / frozen 6 months.)",
+          "MAKE THE GREEN SAUCE: Combine garlic, parsley, oil, cumin, and salt in a blender (or tall vessel for an immersion blender). Blend until smooth, 2 to 3 minutes — parsley is fibrous, so pulse until emulsified.",
+          "MAKE THE REFRIED BEANS: In a cast-iron skillet, heat the oil/lard over medium; add onion and cook until soft and translucent, 2 to 3 minutes. Blend 240g Frijoles Aguados with the reserved bean liquid until smooth (light, watery paste). Pour into the skillet with the onions and stir until silky — it should coat a spoon but still drip off. Taste for salt; set aside.",
+          "PREP THE FISH: Preheat the oven to 200°C (375°F). Liberally grease a baking sheet with olive oil. Place the butterflied fish skin side down. Use a serving spoon to coat one side of the fish with an even layer of Adobo Rojo de Chiles; use a fresh spoon to coat the other side with the Green Sauce.",
+          "Roast until the flesh is white and slightly visible from beneath the sauce, about 15 to 20 minutes. Check after 15 to avoid overcooking.",
+          "ASSEMBLE: Transfer the fish to a platter (or leave on the sheet). Serve with warm tortillas, a bowl of Frijoles Refritos topped with Ocosingo (or queso fresco/cotija), Salsa Verde Cruda, Salsa Tatemada, and fresh lime."
+        ],
+        "tips": [
+          "Ask your fishmonger for the freshest snapper-like catch of the day and have them butterfly it.",
+          "Judging a whole fish: no noticeably 'fishy'/'off' smell, firm flesh, and clear (not cloudy) eyes — develop a relationship with a trustworthy fishmonger.",
+          "Use dried heirloom beans (e.g., Rancho Gordo); to check freshness, drop them in cold water — fresh beans sink, discard any that float.",
+          "Coat one side of the fish red (adobo), the other green (parsley) — the two sauces nod to Gabriela's Mexican and Italian heritage. Don't overcook; check at 15 minutes.",
+          "Ocosingo cheese is hard to find outside Mexico — cotija or queso fresco substitute well."
+        ]
+      }
+    },
+    {
+      "title": "Tostadas de Atún / Tuna Tostadas",
+      "page": 36,
+      "chapter": "Seafood Mains",
+      "protein": "tuna",
+      "scanned": true,
+      "makes": "8 tostadas",
+      "fitsMenu": "tuna or trout; light dinner / appetizer; Contramar's most iconic dish (Mexican-Japanese-Italian)",
+      "captured": {
+        "makes": "8 tostadas",
+        "ingredients": [
+          "— For the Mayonesa Con Chipotle (makes 216g):",
+          "1 egg",
+          "6g freshly squeezed lime juice",
+          "5g sea salt",
+          "20g chipotle in adobo, canned, seeds removed",
+          "180ml grapeseed oil",
+          "— For the tostadas:",
+          "140g (about 1) leek, white part only, thoroughly washed and sliced into 3mm-thick rounds",
+          "60ml freshly squeezed orange juice (from about 2 oranges)",
+          "60ml soy sauce",
+          "18ml lime juice (optional)",
+          "480ml rice bran oil, safflower oil, or any high-smoke-point oil",
+          "8 day-old corn tortillas",
+          "340g sashimi-grade tuna, trout, or other fatty fish, thinly sliced against the grain",
+          "30g Mayonesa Con Chipotle",
+          "1 avocado, halved, pitted, peeled, and cut into 8 slices",
+          "Lime wedges, for serving"
+        ],
+        "steps": [
+          "MAKE THE CHIPOTLE MAYO: In a food processor or blender, pulse the egg, lime juice, salt, and chipotle until combined. With the motor running, slowly add the oil in a thin stream until the mayo emulsifies and turns creamy, 4 to 5 minutes (scrape down partway). Set aside. (Or stir 1 to 2 tablespoons puréed canned chipotles into premade mayo.)",
+          "PREPARE THE LEEKS: Place the sliced leeks in cold water and gently separate the rings; transfer to a clean towel to dry completely.",
+          "MAKE THE TUNA MARINADE: Stir together the orange juice and soy sauce; taste. If not acidic enough, add the juice of 1 to 2 limes — it should be a little sweet, salty, and acidic.",
+          "FRY THE TORTILLAS: Heat the oil in a large heavy saucepan to 180°C (350°F), at least 2 inches deep. Working in batches, fry the tortillas, flipping occasionally, until golden and firm, about 1 minute. Drain on paper towels. Don't discard the oil — you'll fry the leeks in it.",
+          "MARINATE THE TUNA: While the tostadas cool, place the sliced fish in the soy–orange marinade. Set aside.",
+          "FRY THE LEEKS: With the oil at 180°C (350°F), drop in the leeks and stir constantly so they cook evenly and don't stick. The instant they turn golden (2 to 3 minutes), remove with a slotted spoon to paper towels — they'll crisp as they cool.",
+          "ASSEMBLE: Spread a thin layer of mayo on each cool tostada, distribute the sliced fish, sprinkle with the fried leeks, and add a slice of avocado. Serve with lime wedges."
+        ],
+        "tips": [
+          "Use the freshest sashimi-grade tuna from a responsible source — for sustainability, Gabriela substitutes farmed trout at her SF restaurant (Cala). Trout works great here.",
+          "Taste your oranges and balance the marinade with lime juice or more soy as needed; it should read sweet, salty, and acidic.",
+          "Fry the crispy leeks in the same oil right after the tortillas — and use day-old tortillas, which fry up crisper.",
+          "The dish is a 1998 Mexican-Japanese-Italian mashup born when tuna was a cheap, underused fish; the recipe hasn't changed since."
+        ]
+      }
+    },
+    {
+      "title": "Aguachile con Camarón / Raw Shrimp in Lime and Chile",
+      "page": 45,
+      "chapter": "Seafood Mains",
+      "protein": "shrimp",
+      "scanned": true,
+      "makes": "serves 4 to 6",
+      "fitsMenu": "shrimp; raw/ceviche-style appetizer or light summer dish; make and eat same day",
+      "captured": {
+        "makes": "serves 4 to 6",
+        "ingredients": [
+          "575g medium, head-on, peel-on shrimp, raw",
+          "2 tsp sea salt, plus more as needed",
+          "240ml freshly squeezed lime juice (from about 8 limes), plus 1 to 2 additional limes",
+          "60ml shrimp stock (below)",
+          "120g red onion, julienned",
+          "10g parsley leaves",
+          "10g cilantro leaves, packed",
+          "8g chile serrano",
+          "300g cucumber, cut into thin rounds",
+          "1 tsp chiltepin or chile piquín",
+          "Maldon sea salt or another finishing salt",
+          "25g cold-pressed olive oil",
+          "Totopos (deep-fried tortilla chips), for serving",
+          "— For the shrimp stock:",
+          "Heads and shells of shrimp (all from your recipe)",
+          "470ml water",
+          "50g onion",
+          "40g celery",
+          "8g parsley",
+          "1 bay leaf"
+        ],
+        "steps": [
+          "PREPARE THE SHRIMP: Remove the heads and set aside (for stock). Peel off the shells (reserve with the heads). Devein by making a shallow incision down the back; discard the vein. Butterfly the shrimp and make sure the meat is white and clean. Set the meat in a small bowl.",
+          "Sprinkle 1 teaspoon of the salt over the shrimp and stir. Add enough lime juice to cover and set aside to cure 4 to 5 minutes while you prep everything else.",
+          "MAKE THE SHRIMP STOCK: Rinse the scraps. Simmer with ~470ml water, the onion, celery, parsley, and bay leaf (plus any vegetable scraps) for 20 to 30 minutes, skimming occasionally. Strain through a fine-mesh sieve. Set 1/4 cup aside; refrigerate the rest up to 5 days or freeze up to 3 months.",
+          "PICKLE THE ONIONS: Place onions in a small bowl, sprinkle with 1/2 teaspoon salt, add enough lime juice to barely cover, and quick-pickle — the juice should turn pink.",
+          "MAKE THE AGUACHILE: In a blender, combine the 60ml shrimp stock, parsley, cilantro, and 1/2 of a serrano with the remaining lime juice and the curing juice from the shrimp. Taste and add 1 to 2 more limes' juice if needed. Blend until you have a smooth liquid; taste for seasoning.",
+          "ASSEMBLE: Arrange the shrimp on a plate skin side down so they absorb the juices. Season with a pinch of salt and spoon the aguachile over until covered. Arrange cucumbers on top and garnish with pickled onion. Sprinkle with ground chiltepin or chile piquín and finishing salt, drizzle with olive oil, and serve immediately with totopos."
+        ],
+        "tips": [
+          "Cure the butterflied shrimp in lime juice only 4 to 5 minutes — the citrus 'cooks' it; you never need a stove for the shrimp itself.",
+          "Don't waste the heads and shells — simmer them into a quick shrimp stock that goes into the aguachile.",
+          "Quick-pickle the red onion in salt + lime; it turns bright pink.",
+          "Aguachile is at its prime the day it's made — don't make more than you'll serve and eat, and dress/serve it immediately (unlike ceviche, which sits in its marinade)."
+        ]
+      }
+    },
+    {
+      "title": "Huevos Rancheros Divorciados / Fried Eggs with Two Salsas",
+      "page": 29,
+      "chapter": "Breakfast",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "serves 4 to 6",
+      "fitsMenu": "eggs; breakfast/brunch; reference for the household's Sunday Huevos Rancheros staple",
+      "captured": {
+        "makes": "serves 4 to 6",
+        "ingredients": [
+          "— For the Salsa Roja Ranchera (makes 800g):",
+          "170g white onion",
+          "30g garlic",
+          "16g chile serrano",
+          "800g plum tomato",
+          "200ml water",
+          "3g epazote",
+          "Sea salt to taste",
+          "— For the Salsa Verde Ranchera (makes 625g):",
+          "170g white onion",
+          "30g garlic",
+          "16g chile serrano",
+          "550g tomatillos",
+          "200ml water",
+          "10g cilantro",
+          "3g epazote",
+          "Sea salt to taste",
+          "— For the Huevos Rancheros:",
+          "10g grapeseed oil",
+          "8 to 12 corn tortillas, leftover or already cooked",
+          "200g refried beans (see Pescado a la Talla / Frijoles Refritos)",
+          "10g olive oil",
+          "8 to 12 eggs",
+          "Salsa Roja Ranchera",
+          "Salsa Verde Ranchera",
+          "Sea salt",
+          "120g crumbled cheese such as cotija, panela, or queso fresco"
+        ],
+        "steps": [
+          "MAKE THE SALSA ROJA RANCHERA: Roughly chop the onion; halve the garlic and serranos. Place tomatoes, onion, garlic, serranos, and water in a covered pot over medium-low and cook until softened, 20 to 25 minutes (or sheet-pan: sprinkle with water, cover with foil, roast at 180°C/275°F ~30 min). Cool 10 minutes, then blend with the juices and the epazote until smooth, 1 to 2 minutes. Season with salt.",
+          "MAKE THE SALSA VERDE RANCHERA: Same method with the tomatillos in place of tomatoes; add cilantro and epazote when blending.",
+          "MAKE THE HUEVOS: Heat grapeseed oil in a large skillet over medium. Working in batches, toast the tortillas on both sides, flipping once, until slightly crispy but not hard, about 1 minute total. Drain on paper towels. Spoon refried beans across the surface of each.",
+          "In a separate skillet, heat the olive oil over medium. Crack one egg at a time into a bowl, then pour into the hot pan; fry until the whites are set but the yolks still a little runny, about 1 minute (baste the whites with hot oil if needed).",
+          "ASSEMBLE (divorciados): Place one egg on each of two separate tortillas. Spoon salsa verde over one (leaving the yolk exposed) and salsa roja over the other. Season with salt and garnish with crumbled cheese. Serve immediately."
+        ],
+        "tips": [
+          "'Divorciados' means the two eggs are 'divorced' by two different salsas — one red, one green — on the same plate.",
+          "For salsa verde, the tomatillos must be fresh, not canned (canned lacks the bright acidity). If you can't get fresh tomatillos, make salsa roja instead.",
+          "Toast the tortillas until slightly crispy but not hard, then top with refried beans.",
+          "Cook the eggs to order and serve immediately while everything is warm; for a crowd, keep a stack of fried tortillas warm in a low oven."
+        ]
+      }
+    },
+    {
+      "title": "Tamales de Guayaba / Guava Tamales",
+      "page": 49,
+      "chapter": "Tamales & Sweets",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "12 to 15 tamales",
+      "flag": "dessert/sweet — guava-filled sweet tamales, not a savory main",
+      "fitsMenu": "dessert/snack; self-contained sweet tamales",
+      "captured": {
+        "makes": "12 to 15 tamales",
+        "ingredients": [
+          "20 corn husks, for wrapping the tamales",
+          "— For the guava filling:",
+          "70g piloncillo (or sub 220g brown sugar + 40g molasses, scaled)",
+          "1 cinnamon stick",
+          "350ml water",
+          "500g guava",
+          "— For the masa:",
+          "300g unsalted butter, softened",
+          "75g granulated sugar",
+          "1 tsp baking powder",
+          "1 tsp baking soda",
+          "2 tsp ground star anise",
+          "700g fresh masa",
+          "— For the fresh whipped cream:",
+          "240ml heavy cream",
+          "13g granulated sugar"
+        ],
+        "steps": [
+          "Place the corn husks in a large bowl of warm water to soften while you prepare the filling.",
+          "PREPARE THE FILLING: Combine piloncillo, cinnamon, and water in a saucepan over medium heat. Halve the guavas and scoop the flesh and seeds into the pot. Boil, then reduce and simmer until thickened to a viscous syrup, 10 to 12 minutes; slice the guava peels into 1/4-inch strips and set aside. Remove the cinnamon, blend the filling smooth with an immersion blender, then strain through a fine-mesh strainer, pressing to remove seeds; discard the seeds. Stir the sliced guava rinds back in. Set aside.",
+          "MAKE THE MASA: In a stand mixer with the whisk, beat the butter on high until very fluffy, about 5 minutes. Add sugar, baking powder, baking soda, and star anise. On medium, slowly add golf-ball-size chunks of fresh masa, waiting for each to incorporate before the next. Increase to high and whisk until the mixture resembles heavy whipped cream, 2 to 3 minutes.",
+          "ASSEMBLE: Blot the soaked husks dry. Spread two generous spoonfuls of masa into a husk, forming a well in the center for the filling — the masa should completely envelop the filling or it leaks. Add a spoonful of guava filling into the well. Squeeze the masa and filling toward the back of the husk, push out air, and fold the bottom underneath ('closed' at the bottom, 'open' at the top). Repeat.",
+          "STEAM: Fill a deep stockpot with 2 to 3 inches of water and set a steamer basket inside (water shouldn't touch the tamales). Arrange the tamales upright, sealed side down, side by side so they hold each other up. Cover and steam over medium for 1 hour, checking that the water hasn't evaporated. They're done when a sliced-open tamal feels firm. Let sit in the steamer until ready to serve.",
+          "MAKE THE WHIPPED CREAM: Whip the cream and sugar to soft peaks. Serve the tamales (eaten from the husk, or transferred to a plate) with whipped cream or extra guava filling."
+        ],
+        "tips": [
+          "The trick to a good tamal is air: whip the butter until very fluffy before adding the masa so the tamal stays light when cooked.",
+          "Wrap them well so they hold together in the steamer; corn husks suit firm/dry fillings, banana leaves suit very wet/soupy ones.",
+          "Don't overfill — the masa must completely envelop the filling or it leaks while cooking.",
+          "No piloncillo? Mix 220g brown sugar with 40g molasses. High-pectin fruits (plums, apples, pineapple, berries) make the most jam-like fillings.",
+          "They freeze well and steam straight from frozen."
+        ]
+      }
+    },
+    {
+      "title": "Blackberry Atole",
+      "page": 53,
+      "chapter": "Tamales & Sweets",
+      "protein": "vegetarian",
+      "scanned": true,
+      "makes": "about 220g",
+      "flag": "sweet warm drink, not a savory dish",
+      "fitsMenu": "warm masa-based drink; cozy/winter; sub raspberries for a variation",
+      "captured": {
+        "makes": "about 220g (a warm drink)",
+        "ingredients": [
+          "— For the fruit jam:",
+          "360g blackberries",
+          "40g sugar",
+          "200ml water",
+          "— For the masa mixture:",
+          "1.5L water",
+          "125g piloncillo",
+          "8g cinnamon sticks",
+          "220g fresh masa"
+        ],
+        "steps": [
+          "MAKE THE FRUIT JAM: In a small saucepan over medium heat, combine the blackberries, sugar, and water. Cook, stirring occasionally, until the blackberries break down and release their juices, 5 to 6 minutes. Blend into a smooth purée and set aside.",
+          "MAKE THE MASA MIXTURE: In a medium pot over medium heat, combine the water, piloncillo, and cinnamon. Simmer 2 to 3 minutes, stirring, to dissolve the piloncillo. Remove the cinnamon stick. Add the masa and whisk to incorporate until thick and smooth with no lumps.",
+          "Reduce the heat to low and stir in the blackberry purée until the mixtures meld, 3 to 4 minutes. Pour into a blender and blend smooth, then strain through a fine-mesh sieve to remove blackberry seeds. Serve hot."
+        ],
+        "tips": [
+          "Atole is a warm, traditional drink of ground masa, sweetened with piloncillo and scented with cinnamon.",
+          "Strain the finished atole through a fine-mesh sieve to catch the blackberry seeds.",
+          "Swap raspberries for the blackberries for an easy variation."
+        ]
+      }
+    }
+  ]
+}

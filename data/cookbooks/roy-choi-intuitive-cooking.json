@@ -1,0 +1,779 @@
+{
+  "id": "roy-choi-intuitive-cooking",
+  "title": "Roy Choi Teaches Intuitive Cooking (MasterClass)",
+  "author": "Roy Choi",
+  "owned": true,
+  "addedOn": "2026-06-18",
+  "cuisine": "korean",
+  "note": "MasterClass workbook (57 pp). Like the Gabriela Cámara workbook, every recipe prints full ingredients + ordered method inline, so all recipes here are fully `captured` (scanned:true) with tips mined from the prose. Roy Choi = godfather of the gourmet food-truck movement (Kogi), Korean / Korean-Mexican / Korean-American fusion. STRONG fit for the 'more Asian food' goal: kalbi, kimchi, dumplings, fried rice, mung bean pancakes, whole grilled fish. Source PDF lives in pdfs/ (gitignored). NOTE: All-Purpose Kimchi Paste (and anything built on it) contains fish sauce/oyster sauce/fermented shrimp — not vegetarian. The book's Namul base uses broccoli (a household dislike); catalogued here steered to the spinach/bean-sprout variation.",
+  "source_format": "pdf (MasterClass workbook)",
+  "dislikeFlags": [
+    "Blanched Vegetables (Namul) — the book's BASE version uses broccoli (a dislike). Catalogued toward the bean-sprout/spinach variation; never plan the broccoli version."
+  ],
+  "recipes": [
+    {
+      "title": "Salsa Verde (Roy Choi / charred)",
+      "page": 16,
+      "chapter": "Mother Sauces",
+      "protein": "vegetarian",
+      "cuisine": "mexican",
+      "scanned": true,
+      "makes": "about 2 cups",
+      "fitsMenu": "condiment; for tacos, rice bowls, burritos, grilled veg",
+      "captured": {
+        "makes": "about 2 cups",
+        "ingredients": [
+          "1 tbsp cooking oil, plus more as needed",
+          "2 large tomatillos, peeled and rinsed",
+          "3 garlic cloves, peeled",
+          "6 scallions",
+          "2 jalapeños",
+          "2 serrano chilies",
+          "1 bunch cilantro, with stems, roughly chopped (about 1 1/2 cups)",
+          "2 limes",
+          "1/2 cup rice vinegar",
+          "3 large pinches kosher salt",
+          "2 large pinches freshly ground black pepper"
+        ],
+        "steps": [
+          "Drizzle the oil in a large skillet or on a griddle over medium-high heat. Add the tomatillos, garlic, scallions, jalapeños, and serranos. Slowly char on all sides, turning often, until blistered and blackened in spots, 10 to 15 minutes. Not everything chars at the same rate — pull pieces as they soften but before they totally burn. Transfer to a board/sheet pan and cool slightly.",
+          "Once the chiles are cool enough to handle, remove the stems (for a milder salsa, slice open and scrape out the seeds). Add the chiles and the rest of the charred ingredients to a clean blender jar; pack the cilantro on top. Roll the limes on a hard surface, halve, and squeeze them in. Add the rice vinegar, salt, and pepper.",
+          "Blend on high just until a smooth salsa forms, about 15 seconds. If too thick, add small amounts of water or oil with the blender on low. Season with more salt and pepper to taste. Store refrigerated up to 1 week."
+        ],
+        "tips": [
+          "Char the tomatillos and aromatics on a dry griddle first — that softens them and adds a complex smoky flavor before they ever hit the blender.",
+          "Roll the limes against a hard surface before squeezing to get more juice.",
+          "For a milder salsa, slice the chiles open and scrape out the seeds.",
+          "Don't pigeonhole it: Roy spoons this over rice bowls, tosses it with grilled vegetables, even adds it to a Bloody Mary. Keeps a week."
+        ]
+      }
+    },
+    {
+      "title": "Kalbi Marinade",
+      "page": 17,
+      "chapter": "Mother Sauces",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "about 8 cups",
+      "fitsMenu": "marinade/sauce base; for BBQ Kalbi, grilled veg, braises, dressings",
+      "captured": {
+        "makes": "about 8 cups",
+        "ingredients": [
+          "1 large onion, peeled and roughly chopped",
+          "1 cup peeled garlic cloves",
+          "1 bunch scallions (about 8 scallions), roughly chopped",
+          "5 tbsp toasted sesame seeds",
+          "1 cup sugar",
+          "2 large kiwifruits",
+          "2 cups soy sauce",
+          "1 cup mirin, apple juice, or water",
+          "2 cups fresh orange juice",
+          "1 cup toasted sesame oil"
+        ],
+        "steps": [
+          "Add the onion, garlic, scallions, sesame seeds, and sugar to a clean blender jar.",
+          "Halve the kiwifruits and scoop the flesh into the blender (discard the skins).",
+          "Add the remaining ingredients and purée on high until a smooth sauce forms, about 10 seconds.",
+          "Pour into a sealable jar or container and store refrigerated up to 1 week."
+        ],
+        "tips": [
+          "It's a 'mother sauce' — use it as a marinade, a braising liquid, or a salad dressing, not just for kalbi.",
+          "Roy blends in kiwifruit as a natural meat tenderizer; you can swap pears or pineapple.",
+          "No mirin? Use apple juice (or water). Keeps refrigerated 1 week."
+        ]
+      }
+    },
+    {
+      "title": "Scallion Dipping Sauce",
+      "page": 18,
+      "chapter": "Mother Sauces",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "about 4 cups",
+      "fitsMenu": "condiment; for dumplings, pancakes, fried rice, noodles, potatoes",
+      "captured": {
+        "makes": "about 4 cups",
+        "ingredients": [
+          "2 tbsp crushed toasted sesame seeds",
+          "2 cups soy sauce",
+          "3 tbsp gochugaru (Korean chili flakes)",
+          "1/2 cup toasted sesame oil",
+          "3/4 cup rice vinegar",
+          "2 tbsp sugar",
+          "1 bunch scallions (about 8 scallions), trimmed and thinly sliced"
+        ],
+        "steps": [
+          "Combine all ingredients in a large mixing bowl. Whisk or stir until well mixed.",
+          "Adjust the seasoning to taste, and add a little water if you want a mellower sauce.",
+          "Pour into a sealable jar and refrigerate up to 3 months."
+        ],
+        "tips": [
+          "If you make only one sauce from this section, make this one — an easy soy-based seasoning that keeps for ages (up to 3 months).",
+          "Spoon it over anything crispy or starchy: dumplings, pancakes, fried chicken, fried rice, potatoes — or stir into broths and noodles.",
+          "Add a splash of water to soften the flavor if it's too intense."
+        ]
+      }
+    },
+    {
+      "title": "Kogi Vinaigrette",
+      "page": 18,
+      "chapter": "Mother Sauces",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "about 6 cups",
+      "fitsMenu": "dressing; for slaws, salads, cold noodles, grilled meats/veg",
+      "captured": {
+        "makes": "about 6 cups",
+        "ingredients": [
+          "1 2-inch knob of ginger",
+          "4 garlic cloves, peeled",
+          "3 scallions, roughly chopped",
+          "1/4 cup gochugaru (Korean chili flakes)",
+          "1/4 cup sugar",
+          "1 tbsp kosher salt",
+          "2 tsp black pepper",
+          "1 cup soy sauce",
+          "2 cups rice vinegar (unseasoned)",
+          "1/2 cup toasted sesame oil",
+          "1 cup neutral oil (canola, grapeseed, etc.)"
+        ],
+        "steps": [
+          "Use the side of a spoon to scrape the skin from the ginger, then roughly chop the knob into thin discs.",
+          "Add the ginger and all remaining ingredients to a clean blender jar.",
+          "Purée on high until a smooth dressing forms, about 15 seconds.",
+          "Pour into a sealable jar and refrigerate up to 3 months."
+        ],
+        "tips": [
+          "This is the signature Kogi-truck sauce — garlic and ginger sing through, gochugaru adds just enough spice; Roy calls it 'really pungent, kind of acidic, sweet.'",
+          "Slaws and salads are the obvious use, but drizzle it over vegetables, grains, or proteins as a finishing sauce.",
+          "Keeps refrigerated up to 3 months."
+        ]
+      }
+    },
+    {
+      "title": "BBQ Kalbi (Korean Grilled Short Ribs)",
+      "page": 20,
+      "chapter": "Kalbi (Korean BBQ)",
+      "protein": "beef",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 6 to 8",
+      "fitsMenu": "beef (RED MEAT — counts toward redMeatMaxPerWeek 1); dinner main; the heart of Korean BBQ",
+      "captured": {
+        "makes": "serves 6 to 8",
+        "ingredients": [
+          "For the kalbi:",
+          "2 cups Kalbi Marinade (recipe in this catalog)",
+          "4 lb boneless or bone-in flanken short ribs, sliced 1/2-inch thick",
+          "To serve:",
+          "1 large white onion, thinly sliced"
+        ],
+        "steps": [
+          "Prepare the Kalbi Marinade. Add the ribs to a large container and cover with the marinade. Gently massage the marinade into the meat with your hands. Refrigerate and marinate at least 2 hours and up to 1 day.",
+          "When the meat has marinated, prepare a grill or grill pan for medium-high heat. Let it heat 5 to 10 minutes, then brush or spray the grates with oil.",
+          "Remove the ribs from the marinade. Grill, turning once, until charred all over, about 4 minutes per side. When done, they should glisten with beautiful char marks.",
+          "Arrange the sliced onions in a heated cast-iron pan, then stack the grilled ribs on top of the onions. Eat immediately."
+        ],
+        "tips": [
+          "Look for flanken-style (a.k.a. L.A.-style) short ribs — thinly cut across the bones, about 1/2 inch. If you don't see them, ask the butcher for 'Korean-style short ribs.'",
+          "The marinade cures and slightly tenderizes the meat — massage it in and rest overnight (or at least a couple of hours).",
+          "It's a thin cut, so it cooks fast on a hot grill (~4 min/side). Keep it charred but still moist; watch it closely.",
+          "For the full KBBQ experience, serve on a heated cast-iron sizzle plate over raw onions, with panchan, mung bean pancakes, and plenty of rice. Or chop the meat for Kogi Short Rib Tacos."
+        ]
+      }
+    },
+    {
+      "title": "BBQ Mixed Vegetables (Korean grilled veg)",
+      "page": 21,
+      "chapter": "Kalbi (Korean BBQ)",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 6 to 8",
+      "fitsMenu": "veg side or vegetarian KBBQ main; the meat-free kalbi",
+      "captured": {
+        "makes": "serves 6 to 8",
+        "ingredients": [
+          "For the vegetables:",
+          "2 cups Kalbi Marinade and/or Kogi Vinaigrette (recipes in this catalog), or a mixture of the two",
+          "4 lb seasonal young vegetables (asparagus, carrots, baby bok choy, fennel, onion, gem lettuce, etc.)",
+          "To serve:",
+          "1 large white onion, thinly sliced"
+        ],
+        "steps": [
+          "Prepare the Kalbi Marinade and/or Kogi Vinaigrette.",
+          "Trim the vegetables and cut them into halves or quarters depending on size — they should all be roughly the same size so they cook at the same rate. Add them to a large bowl and gently toss with the marinade, vinaigrette, or a mixture. Let sit 20 to 30 minutes while you heat the grill.",
+          "Prepare a grill or grill pan for medium-high heat. Let it heat 5 to 10 minutes, then brush or spray the grates with a high-heat oil (Roy recommends grapeseed).",
+          "Remove the vegetables from the marinade. Working in batches, grill them, turning once, until charred all over, about 6 minutes per side. When done, they should be slightly tender but not soft, with distinct char marks.",
+          "Arrange the sliced onions in a heated cast-iron pan and lay the veggies on top. Eat immediately."
+        ],
+        "tips": [
+          "This is the meat-free version of kalbi: marinate seasonal young vegetables in the Kalbi Marinade and/or Kogi Vinaigrette, then grill.",
+          "Cut everything roughly the same size so it cooks evenly; let it marinate 20–30 minutes.",
+          "Grill until slightly tender with distinct char marks — not soft. Use these to make a vegetarian version of the Kogi Short Rib Tacos."
+        ]
+      }
+    },
+    {
+      "title": "Kogi Short Rib Tacos",
+      "page": 23,
+      "chapter": "Kalbi (Korean BBQ)",
+      "protein": "beef",
+      "cuisine": "korean-mexican",
+      "scanned": true,
+      "makes": "4 tacos",
+      "fitsMenu": "beef (RED MEAT) — the quintessential Roy Choi / Kogi dish; easy veg version swaps in BBQ Mixed Veggies",
+      "captured": {
+        "makes": "4 tacos",
+        "ingredients": [
+          "For the Cilantro-Onion Relish:",
+          "1/2 medium white onion, finely chopped",
+          "1/4 cup cilantro, finely chopped",
+          "Juice from 1/2 of a lime (about 1 tbsp)",
+          "Kosher salt or coarse salt, to taste",
+          "Freshly ground black pepper, to taste",
+          "For the Scallion Slaw:",
+          "Kogi Vinaigrette (recipe in this catalog), to taste",
+          "6 scallions, trimmed and sliced into thin strips on the diagonal",
+          "1/2 cup thinly sliced green cabbage",
+          "1/2 cup thinly sliced romaine lettuce",
+          "Pinch of kosher salt or coarse salt",
+          "Pinch of freshly ground black pepper",
+          "For the tacos:",
+          "Salsa Verde (recipe in this catalog), to taste",
+          "Neutral oil (canola, grapeseed, etc.), to coat the pan",
+          "8 corn tortillas (4 1/2 inches each)",
+          "1 lb cooked BBQ Kalbi (recipe in this catalog), chopped into small chunks — or 1 lb grilled BBQ Mixed Vegetables, roughly chopped",
+          "Lime wedges, for serving"
+        ],
+        "steps": [
+          "Make the Cilantro-Onion Relish: combine the onion, cilantro, and lime juice in a bowl; season with salt and pepper. Set aside.",
+          "Make the Scallion Slaw: combine the scallions, cabbage, and lettuce in a bowl, season with salt and pepper, add a few big spoonfuls of Kogi Vinaigrette, and gently toss. It should be generously dressed, with a small pool of dressing at the bottom of the bowl.",
+          "Prepare the Salsa Verde and set aside.",
+          "Make the tacos: lightly coat a skillet or griddle with oil over medium heat. Add the tortillas (in batches if needed) and cook ~30 seconds per side until soft and just starting to crisp; flip and repeat. Stack two-high on the edge of the skillet (or keep warm under a towel).",
+          "Add the chopped BBQ Kalbi or BBQ Mixed Vegetables to the griddle and cook ~2 minutes until they caramelize and brown lightly at the edges ('double-caramelized').",
+          "To serve: stack 2 tortillas per taco, top with the meat or veg, spoon over Salsa Verde, layer on the Cilantro-Onion Relish, and top with the Scallion Slaw. Serve with lime wedges and eat immediately."
+        ],
+        "tips": [
+          "This is the quintessential Roy Choi dish — the World Famous Short Rib Taco that made Kogi.",
+          "'Double-caramelized': the short ribs get seared once on the grill and again on the griddle with the tortillas — that second sear is the flavor secret.",
+          "Build order matters: hot tortilla → seared kalbi → cilantro-onion relish → salsa verde → scallion slaw → squeeze of lime.",
+          "Easy vegetarian version: swap the chopped BBQ Kalbi for chopped BBQ Mixed Vegetables; everything else stays the same."
+        ]
+      }
+    },
+    {
+      "title": "All-Purpose Kimchi Paste",
+      "page": 26,
+      "chapter": "Kimchi",
+      "protein": "n/a",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "about 4 cups",
+      "flag": "NOT vegetarian — contains fish sauce, oyster sauce, and (optional) salted fermented shrimp",
+      "fitsMenu": "seasoning base for all the kimchi recipes",
+      "captured": {
+        "makes": "about 4 cups",
+        "ingredients": [
+          "15 garlic cloves, peeled",
+          "1/4 cup peeled and roughly chopped ginger (from a 4-inch knob)",
+          "1 tbsp salted fermented shrimp (optional; store-bought is fine)",
+          "2 tbsp kosher salt or coarse sea salt",
+          "2 tbsp sugar",
+          "1 cup gochugaru (Korean chili flakes)",
+          "1 large white or yellow onion, peeled and roughly chopped",
+          "1/4 cup fish sauce",
+          "1 tbsp soy sauce",
+          "2 tbsp rice vinegar (unseasoned)",
+          "2 tbsp oyster sauce",
+          "1/2 cup water"
+        ],
+        "steps": [
+          "Add all of the ingredients to a clean blender jar.",
+          "Purée until a smooth paste forms (if too thick to blend, add more water a few spoonfuls at a time).",
+          "Use immediately, or transfer to a tight-sealing container — it keeps indefinitely in the refrigerator."
+        ],
+        "tips": [
+          "'Kimchi is a verb' — this one paste turns almost any vegetable or fruit into kimchi (cabbage, radish, pears, watermelon, tomatoes...).",
+          "Make it far in advance; it keeps indefinitely refrigerated.",
+          "Can't find salted fermented shrimp? The fish sauce + oyster sauce combo still delivers the umami-rich brininess. (This paste is not vegetarian.)"
+        ]
+      }
+    },
+    {
+      "title": "Napa Cabbage Kimchi",
+      "page": 27,
+      "chapter": "Kimchi",
+      "protein": "n/a",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "1 gallon-size jar",
+      "fitsMenu": "fermented side/condiment; the base for Kimchi Fried Rice & Kimchi Tuna Melt",
+      "captured": {
+        "makes": "1 gallon-size jar",
+        "ingredients": [
+          "All-Purpose Kimchi Paste, as needed (recipe in this catalog)",
+          "2 tbsp kosher salt or coarse sea salt",
+          "2 quarts water",
+          "1 large napa cabbage (about 3 lb), split lengthwise in quarters",
+          "1/2 bunch fresh Asian chives or 6 scallions, trimmed and cut into 2-inch segments"
+        ],
+        "steps": [
+          "Prepare the All-Purpose Kimchi Paste and set aside.",
+          "In a large tub or bowl, dissolve the salt in the water. Add the cabbage quarters and soak at least 3 hours at room temperature (overnight is fine).",
+          "When the cabbage is slightly wilted, remove it from the brine and drain well.",
+          "Place the cabbage quarters on a board or sheet pan. With a spoon, rub the kimchi paste inside each layer, getting deep between the leaves; coat completely, then massage more paste over the outside. Don't be shy.",
+          "Tuck a few pieces of chive/scallion between each layer, then roll each cabbage quarter into a log. Pack the quarters stem side down into a gallon jar, pressing firmly; jam any remaining pieces on top. Leave a few inches of headroom (fermentation produces gas) and seal tightly.",
+          "Let the kimchi sit at room temperature out of direct sunlight for 2 days, then refrigerate. It's ready in 1 to 2 weeks and keeps indefinitely refrigerated."
+        ],
+        "tips": [
+          "Two steps: brine the raw cabbage in salt water (changes the texture and helps it soak up paste), then massage paste all over every layer (gloves + apron strongly recommended).",
+          "Pack it tightly in the jar but leave a few inches of headroom — fermentation makes gas, and you don't want it bubbling over.",
+          "Ferment 2 days at room temp out of sunlight, then refrigerate; sample along the way (young kimchi is a crisp pickle, older kimchi is sour and great for stew or fried rice).",
+          "Too much kimchi? Use it for Kimchi Fried Rice (p.29) and the Kimchi Tuna Melt (p.31)."
+        ]
+      }
+    },
+    {
+      "title": "Quick Kimchi & Radish Kimchi (Khakgugi)",
+      "page": 28,
+      "chapter": "Kimchi",
+      "protein": "n/a",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "varies",
+      "fitsMenu": "fast panchan/condiment; same paste, two shortcuts",
+      "captured": {
+        "makes": "varies",
+        "ingredients": [
+          "About 2 cups All-Purpose Kimchi Paste (recipe in this catalog)",
+          "For Quick Kimchi: 1 large napa cabbage, cut into 2-inch pieces; salt water for brining; chives or scallions",
+          "For Radish Kimchi: 1 large daikon radish, peeled and cut into 1-inch cubes (in place of the cabbage)"
+        ],
+        "steps": [
+          "QUICK KIMCHI: Cut the quartered cabbage into 2-inch pieces and soak in the salt water 1 to 2 hours. When slightly wilted, drain well and toss with about 2 cups All-Purpose Kimchi Paste plus the chives or scallions; massage the paste in. Eat immediately, or jar and ferment a few days in the fridge. Keeps indefinitely.",
+          "RADISH KIMCHI (KHAKGUGI): Substitute 1 large daikon radish, peeled and cut into 1-inch cubes, for the cabbage; prepare the same way. Eat immediately or ferment a few days. Radish kimchi keeps refrigerated up to 1 year."
+        ],
+        "tips": [
+          "Quick kimchi skips the long ferment — brine the cut cabbage 1–2 hours, massage in paste, and eat right away (or ferment a few days).",
+          "Radish kimchi (khakgugi) is the same method with daikon cubes and keeps up to a year.",
+          "Both are perfect fast panchan when you want kimchi flavor without committing to a whole fermented jar."
+        ]
+      }
+    },
+    {
+      "title": "Kimchi Fried Rice",
+      "page": 29,
+      "chapter": "Mains (Korean comfort food)",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 2 to 4",
+      "flag": "uses kimchi (made with fish-sauce paste) — not strictly vegetarian; topped with a fried egg",
+      "fitsMenu": "Asian weeknight comfort main; uses up leftover kimchi + day-old rice",
+      "captured": {
+        "makes": "serves 2 to 4",
+        "ingredients": [
+          "2 tsp All-Purpose Kimchi Paste (optional; recipe in this catalog)",
+          "3 tbsp Scallion Dipping Sauce (recipe in this catalog), plus more to taste",
+          "4 tbsp neutral oil (canola, grapeseed, etc.), divided",
+          "1 1/2 cups roughly chopped Napa Cabbage Kimchi, divided",
+          "Pinch of kosher salt or coarse sea salt",
+          "1/4 cup butter, divided, plus 2 tsp",
+          "Large pinch of crushed toasted sesame seeds, plus more for garnish",
+          "1/4 cup water, soju, sake, or dry white wine",
+          "3 1/2 cups cooked short-grain rice (day-old rice is best)",
+          "6 scallions, cut into 2-inch segments, plus 2 scallions thinly sliced",
+          "4 eggs",
+          "Furikake seasoning, for garnish",
+          "Handful of shredded nori, for garnish"
+        ],
+        "steps": [
+          "Make the All-Purpose Kimchi Paste (if using) and the Scallion Dipping Sauce; set aside.",
+          "Caramelize the kimchi: heat 1 tbsp oil in a skillet over medium-high. Add 3/4 cup of the kimchi and a pinch of salt; stir-fry just until the liquid evaporates. Lower to medium, stir in 2 tbsp butter and the crushed sesame seeds, and cook 2 to 3 minutes more until the kimchi caramelizes and browns at the edges.",
+          "Add 1/4 cup water/soju/sake/wine to deglaze, scraping up the browned bits; once most of the liquid evaporates and the kimchi is nicely browned, transfer to a bowl and set aside.",
+          "Make the fried rice: in the same skillet over medium heat, add 2 tbsp oil and swirl. When shimmering, crumble in the rice and spread to an even layer. Cook without stirring 2 to 3 minutes until a light golden crust forms on the bottom. Flip and break it up, cooking 1 to 2 minutes more until heated through with crispy bits.",
+          "Add the reserved caramelized kimchi plus the remaining fresh kimchi and any leftover kimchi juice. Stir and toss until evenly mixed and the liquid evaporates. Stir in the scallion segments, the All-Purpose Kimchi Paste (if using), 2 tbsp butter, and the Scallion Dipping Sauce; stir until combined, then drop to low heat.",
+          "Make the eggs: in a separate skillet over medium-high, add 1 tbsp oil; when shimmering add 2 tsp butter, crack in the eggs, season each with salt, and cook until whites are just set and bottoms are crispy but yolks still runny.",
+          "Divide the fried rice among bowls (get the crispy stuff from the bottom of the pan). Top each with a fried egg, then sprinkle sliced scallions, furikake, crushed sesame seeds, and shredded nori. Eat immediately."
+        ],
+        "tips": [
+          "Use day-old rice, and fry the rice alone first so it develops a crispy-crunchy brown crust before the kimchi goes in.",
+          "Caramelize the kimchi in butter + sesame until it browns at the edges — that's a layer of deep flavor against the bright, fresh kimchi you add later.",
+          "Deglaze with a splash of water, soju, sake, or white wine to lift all the browned bits off the pan.",
+          "Be patient — don't flip the rice too quickly; listen for the crackle and sizzle. (Kimchi fried rice actually tastes better made with leftover kimchi and rice.)"
+        ]
+      }
+    },
+    {
+      "title": "Kimchi Tuna Melt",
+      "page": 31,
+      "chapter": "Mains (Korean comfort food)",
+      "protein": "tuna",
+      "cuisine": "korean-american",
+      "scanned": true,
+      "makes": "serves 2",
+      "fitsMenu": "tuna; quick lunch / light dinner; diner classic + kimchi",
+      "captured": {
+        "makes": "serves 2",
+        "ingredients": [
+          "For the tuna salad:",
+          "2 cans flaked tuna in water, drained",
+          "1 stalk celery, diced",
+          "2 scallions, thinly sliced",
+          "Japanese mayonnaise, to taste (non-Japanese varieties work too)",
+          "Yellow mustard, to taste",
+          "Tabasco hot sauce, to taste",
+          "Kosher salt or coarse sea salt, to taste",
+          "Freshly ground black pepper, to taste",
+          "For the sandwich:",
+          "2 large spoonfuls Napa Cabbage Kimchi (recipe in this catalog), chopped",
+          "4 slices sourdough or white bread",
+          "Butter, softened, for spreading",
+          "Neutral oil (canola, grapeseed, etc.), to coat the pan",
+          "4 large spoonfuls tuna salad",
+          "8 slices sharp cheddar cheese"
+        ],
+        "steps": [
+          "Make the tuna salad: in a bowl, combine the tuna, celery, and scallions. Add a few big spoonfuls of mayo, a small squirt of mustard, and a few shakes of hot sauce. Add more mayo as needed — it should be reasonably moist. Season with salt and pepper and adjust to taste.",
+          "Prepare the Napa Cabbage Kimchi, chop it, and set aside. Generously butter one side of each bread slice, all the way to the crust.",
+          "In a skillet over medium heat, drizzle just enough oil to coat. Add the tuna salad and cook, stirring, no more than 1 minute until heated through and beginning to clump. Add the chopped kimchi and toss; remove from heat.",
+          "In a large skillet or on a griddle over medium heat, drizzle oil. Place the bread butter side down. Working quickly, top each slice with two slices of cheese, then spoon the kimchi-tuna equally between two of the slices (aim for about a 1-inch layer). Top with the remaining bread to form two sandwiches and press down gently with a spatula.",
+          "Cook 1 to 2 minutes more, flipping and moving the sandwiches so both sides develop a deep, well-browned crust. Transfer to a board, cool slightly, and slice diagonally with a serrated knife. Eat immediately."
+        ],
+        "tips": [
+          "Make the tuna salad by feel — taste as you mix to get the mayo/mustard/hot-sauce balance where you like it.",
+          "Warm the tuna salad in a pan first; that marries the flavors and keeps you from biting into cold filling inside a hot sandwich.",
+          "The secret to a killer hot sandwich is butter — spread it corner to corner for a golden crust and a gooey cheese pull."
+        ]
+      }
+    },
+    {
+      "title": "Savory Mung Bean Pancakes",
+      "page": 39,
+      "chapter": "Mains and Sides",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 4",
+      "fitsMenu": "vegetarian Korean main or side; one-pan; pairs with Scallion Dipping Sauce",
+      "captured": {
+        "makes": "serves 4",
+        "ingredients": [
+          "Scallion Dipping Sauce (recipe in this catalog)",
+          "1/2 cup split yellow mung beans, soaked overnight in 1 1/2 cups water (soaking water reserved)",
+          "1/2 cup thinly sliced chives",
+          "1 cup tempura flour mix or self-rising flour",
+          "1 tsp kosher salt or coarse sea salt, plus more to taste",
+          "1/2 white onion, roughly chopped",
+          "1/4 cup water",
+          "1 large russet potato, peeled and submerged in cold water (to keep it crisp)",
+          "2 scallions, thinly sliced",
+          "Neutral oil (canola, grapeseed, etc.), to coat the cooking surface",
+          "Freshly ground black pepper, to taste"
+        ],
+        "steps": [
+          "Prepare the Scallion Dipping Sauce and set aside.",
+          "Add the soaked mung beans, soaking liquid, chives, tempura/self-rising flour, salt, onion, and water to a clean blender. Purée on high until a smooth pancake batter forms, about 5 seconds.",
+          "Finely grate the potato into a large mixing bowl, then add the sliced scallions. Pour in the pancake batter and stir until combined.",
+          "In a skillet or on a nonstick griddle over medium heat, drizzle enough oil to coat (a few large spoonfuls). When shimmering, add a small dollop of batter as a test pancake; cook until browned on both sides, then taste and adjust the batter's seasoning.",
+          "Pour about 1/3 cup batter per pancake onto the hot surface, fitting as many as possible. Cook a few minutes until tiny bubbles appear along the edges, then flip and cook 1 to 2 minutes more until crisp and golden brown on both sides. Drain on paper towels and repeat, adjusting the heat as needed.",
+          "Serve with a side of Scallion Dipping Sauce. Eat immediately."
+        ],
+        "tips": [
+          "Roy's version is a 'mutant' hybrid of gamjajeon (potato pancake) and bindaetteok (mung bean pancake) — the potato adds crunch, the mung beans add a tender texture.",
+          "Soak the mung beans overnight, and keep the grated potato in cold water until use so it stays crisp.",
+          "Always cook one small 'test pancake' first to check the seasoning before committing the whole batter.",
+          "Flip when tiny bubbles appear along the edges; serve immediately. Add chopped meats or veg to the batter for a one-pan meal."
+        ]
+      }
+    },
+    {
+      "title": "3 p.m. Dumplings (meat or mushroom)",
+      "page": 41,
+      "chapter": "Mains and Sides",
+      "protein": "pork",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 4 to 6 (50–60 dumplings)",
+      "fitsMenu": "Asian main, side, or snack; meat filling (pork+beef+tofu) OR vegetarian mushroom; boil or fry; freezes well",
+      "captured": {
+        "makes": "serves 4 to 6 (50–60 dumplings)",
+        "ingredients": [
+          "— MEAT FILLING:",
+          "Scallion Dipping Sauce (optional; recipe in this catalog)",
+          "1/2 cup finely chopped napa or green cabbage",
+          "1 bunch scallions, thinly sliced",
+          "2 tbsp minced ginger (from about a 2-inch knob)",
+          "2 tbsp minced garlic",
+          "1 tsp gochugaru (Korean chili flakes)",
+          "1 tbsp crushed toasted sesame seeds",
+          "2 tbsp oyster sauce",
+          "2 tsp toasted sesame oil",
+          "1 tbsp soy sauce",
+          "1 tbsp rice vinegar (unseasoned)",
+          "1 egg",
+          "4 oz (1/4 lb) ground pork",
+          "4 oz (1/4 lb) ground beef",
+          "4 oz firm tofu, finely crumbled",
+          "Kosher salt & pepper, to taste",
+          "Thinly sliced scallions, for garnish; chili oil (optional), for serving",
+          "— MUSHROOM (VEGGIE DUXELLES) FILLING:",
+          "8 oz button mushrooms + 5 oz shiitake mushrooms (finely chopped)",
+          "1/4 cup neutral oil",
+          "1 large shallot (about 3 oz), finely chopped",
+          "1/2 cup dry white wine",
+          "(plus the same cabbage, scallions, ginger, garlic, gochugaru, sesame seeds, oyster sauce, sesame oil, soy sauce, rice vinegar, egg base as the meat filling)",
+          "— FOR WRAPPING:",
+          "1 cup all-purpose flour, for dusting",
+          "50 to 60 round dumpling wrappers, about 3 inches wide",
+          "1 beaten egg or a small dish of water",
+          "— FOR COOKING:",
+          "2 to 3 inches neutral oil (for frying), or a large pot of salted water (for boiling)"
+        ],
+        "steps": [
+          "MEAT FILLING: In a bowl, combine the cabbage, scallions, ginger, garlic, gochugaru, sesame seeds, oyster sauce, sesame oil, soy sauce, vinegar, and egg with the pork, beef, and tofu. Season with salt and pepper and mix until evenly combined.",
+          "MUSHROOM FILLING: Pulse the mushrooms in a food processor until finely chopped. Cook the shallot in oil over medium ~1 minute until translucent, add the mushrooms, and cook 2 to 3 minutes until most of the moisture cooks out and edges brown. Add the white wine and deglaze, cooking until absorbed; stir in the chives, season, and cool. Combine the cooled mushrooms with the same cabbage/aromatic base.",
+          "WRAP: Dust a surface with flour and lay out the wrappers. Spoon a heaping teaspoon of filling into each center, dab the edges with egg wash or water, and seal — half-fold (best for boiling), crimped, or beggar's purse (best for frying). Press out air pockets and pinch-seal. Keep finished dumplings under a damp towel.",
+          "BOIL: Bring a large pot of salted water to a boil, then reduce to a simmer. Add dumplings in batches of ~10 and cook without stirring until they float and the skins tighten, 3 to 5 minutes. Remove with a spider and drain.",
+          "FRY: Heat 2 to 3 inches of oil to medium-high (a chopstick tip should sizzle steadily). Fry in batches of 4 or 5, turning halfway, 2 to 3 minutes until crispy and golden. Drain on paper towels.",
+          "Serve drizzled with Scallion Dipping Sauce and/or chili oil, topped with sliced scallions. Eat immediately."
+        ],
+        "tips": [
+          "Make them in big batches with friends/family ('basically talking shit,' as Roy puts it) and freeze the surplus — they last several months.",
+          "Two fillings share a base: meat (pork + beef + tofu) or a vegetarian mushroom 'duxelles' — cook the mushrooms until the moisture's gone and the edges brown so the filling isn't watery.",
+          "Shape to the cooking method: half-fold dumplings are best for boiling; crimped or beggar's-purse are best for frying (but experiment).",
+          "Keep the wrappers under a damp towel so they don't dry out, and press out air pockets when sealing so they don't burst."
+        ]
+      }
+    },
+    {
+      "title": "Large-Format Carnitas with Pork-Fat Cilantro Rice",
+      "page": 45,
+      "chapter": "Mains and Sides",
+      "protein": "pork",
+      "cuisine": "mexican",
+      "scanned": true,
+      "makes": "serves 8 or more",
+      "fitsMenu": "pork; weekend/project main (low-and-slow 5–6 hrs); crowd-pleaser; leftovers → burrito",
+      "captured": {
+        "makes": "serves 8 or more",
+        "ingredients": [
+          "For the carnitas:",
+          "Salsa Verde (recipe in this catalog)",
+          "1 boneless pork shoulder (about 5 lb)",
+          "3 tbsp kosher salt or coarse sea salt",
+          "1 1/2 tbsp freshly ground black pepper",
+          "4 whole garlic cloves, peeled",
+          "1/4 cup neutral oil (canola, grapeseed, etc.)",
+          "3 red radishes, trimmed and quartered, for serving",
+          "4 lime wedges, for serving",
+          "For the cilantro rice:",
+          "3 cups short-grain white rice",
+          "Ice water (for blanching)",
+          "6 medium tomatillos (about 6 oz)",
+          "1 whole garlic clove, peeled",
+          "Juice of 3 limes (about 1/3 cup)",
+          "Kosher salt & pepper, to taste",
+          "1 bunch cilantro (reserve a couple sprigs for garnish)",
+          "1 bunch flat-leaf parsley (reserve a couple sprigs for garnish)",
+          "1/2 cup water",
+          "1 cup rendered pork fat (reserved from the carnitas), plus more to taste"
+        ],
+        "steps": [
+          "Prepare the Salsa Verde and set aside.",
+          "Preheat the oven to 225°F. Generously season the pork shoulder with salt and pepper on all sides, working it into the nooks. Stuff the garlic cloves into crevices and drizzle with the oil. Transfer to a Dutch oven (or seal with foil), cover tightly, and cook undisturbed 5 to 6 hours, until the meat collapses under a spoon and a good amount of fat renders at the bottom.",
+          "While the pork roasts, make the rice. Rinse the rice in cold water 5+ times until the water runs clear, then cook in a rice cooker or pot per package instructions.",
+          "Blanch the tomatillos and garlic clove in boiling water 1 to 2 minutes until they soften and change color, then shock in ice water. Blend the cooled tomatillos and garlic with the lime juice, salt/pepper, most of the cilantro and parsley, and 1/2 cup cold water until smooth (~20 seconds). Refrigerate until the pork is done.",
+          "When the carnitas are ready, rest 20 minutes. Transfer ~6 cups cooked rice to a bowl, add 1/2 cup of the chilled cilantro sauce plus 1 cup of the rendered pork fat, and stir; season with salt and pepper.",
+          "To plate: spread the rice on a platter, top with large chunks of carnitas, spoon the remaining cilantro sauce around the edges, drizzle Salsa Verde over the top, scatter chopped reserved cilantro/parsley, and garnish with radishes and lime wedges. Eat immediately. (Leftovers → Carnitas + Pork-Fat Cilantro Rice Burrito, p.48.)"
+        ],
+        "tips": [
+          "Use a whole boneless pork shoulder (a.k.a. pork butt — not actually the butt); season, stud with garlic, and seal in a foil-covered Dutch oven.",
+          "Low and slow is the secret: 225°F for 5–6 hours until the meat collapses and renders a good amount of fat — that low temp locks in moisture and flavor.",
+          "Don't waste the rendered pork fat — Roy stirs it into fresh rice with a bright cilantro-tomatillo blender sauce; it turns a basic pot of rice into a spectacular side.",
+          "Rinse the rice 5+ times until the water runs clear before cooking. Leftovers roll into a great burrito — warm the tortilla first, tuck the flaps with your pinkies, and wrap in foil ('covers a multitude of sins')."
+        ]
+      }
+    },
+    {
+      "title": "Whole Grilled Fish with Ponzu Sauce",
+      "page": 49,
+      "chapter": "Mains and Sides",
+      "protein": "branzino",
+      "cuisine": "korean-japanese",
+      "scanned": true,
+      "makes": "serves 2 to 4",
+      "fitsMenu": "whole fish (branzino/snapper/tilapia/sea bass); impressive dinner main; pairs with Scallion Slaw + ponzu",
+      "captured": {
+        "makes": "serves 2 to 4",
+        "ingredients": [
+          "For the grilled fish:",
+          "Scallion Slaw (from Kogi Short Rib Tacos, in this catalog)",
+          "1 whole branzino, about 1 1/2 to 2 lb, scaled, gutted, and cleaned (or another firm-flesh whitefish such as snapper, tilapia, or sea bass)",
+          "Kosher salt or coarse sea salt, enough for coating the fish well",
+          "Freshly ground black pepper, enough for coating the fish well",
+          "1 lemon, halved lengthwise",
+          "Handful of fresh herbs (basil, cilantro, thyme, chives, scallions, mint, oregano, dill, parsley, etc.), plus more for garnish",
+          "Neutral oil or cooking spray, for grilling",
+          "For the ponzu:",
+          "1/4 cup soy sauce",
+          "1/4 cup rice vinegar",
+          "Juice plus the zest of 1 lime",
+          "1 tbsp grated ginger",
+          "1 jalapeño, thinly sliced",
+          "1/4 cup water",
+          "Kosher salt & pepper, to taste"
+        ],
+        "steps": [
+          "Prepare the Scallion Slaw and set aside.",
+          "Pat the fish thoroughly dry inside and out. Cut 3 long, 1-inch-deep slashes along the length of the fish, holding the knife at a 45-degree angle. Season generously with salt and pepper inside and out, including the cavity and slashes. Thinly slice half the lemon into half-moons and firmly stuff them into the cavity along with as many herb sprigs as fit (use several varieties for max flavor).",
+          "Prepare an outdoor grill or set a grill pan over medium-high heat.",
+          "Make the ponzu: combine the soy sauce, rice vinegar, lime juice + zest, ginger, jalapeño, and water; season with salt and pepper and set aside.",
+          "When the grill is hot, brush/spray the grates with oil and generously coat the fish with oil (skin, head, tail). Place the fish on the grill and cook undisturbed 6 to 8 minutes, until the underside is nicely charred and the fish no longer clings to the grate. Gently flip with two spatulas/spoons and cook 4 to 6 minutes more until the flesh near the gills is translucent and the underside is charred.",
+          "To serve whole: lay the fish on a bed of herb sprigs, surround with lemon slices, and serve with ponzu and Scallion Slaw. To serve as fillets: use a serving spoon to separate the top fillet from the back, lift it off, then lift the spine off the bottom fillet; drizzle with ponzu and top with Scallion Slaw. Eat immediately."
+        ],
+        "tips": [
+          "Many supermarkets sell whole fish already cleaned and ready — just check freshness (clear eyes, no fishy smell).",
+          "Pat the fish very dry, then cut 3 deep diagonal slashes per side and stuff the cavity + slashes with herbs and lemon; that infuses flavor and keeps the flesh moist.",
+          "Oil the grates well (and the skin) so the fish doesn't stick, and grill undisturbed ~6–8 min before the first flip — when the underside releases on its own, it's ready.",
+          "To fillet at the table, slide a spoon between the top fillet and the dorsal back, lift it off, then lift the whole spine off the bottom fillet. Ponzu = Japanese citrus-soy, brightened with ginger + jalapeño."
+        ]
+      }
+    },
+    {
+      "title": "Asian Pear and Watermelon Kimchis",
+      "page": 52,
+      "chapter": "Panchan",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 2 to 4",
+      "flag": "uses fish-sauce kimchi paste — not strictly vegetarian",
+      "fitsMenu": "fruit panchan/side; bright, fast, summery",
+      "captured": {
+        "makes": "serves 2 to 4",
+        "ingredients": [
+          "2 tbsp All-Purpose Kimchi Paste (recipe in this catalog), plus more to taste",
+          "2 large Asian pears or 1 small seedless watermelon (or a mix of both), peeled and cut into 1 1/2-inch cubes",
+          "Kosher salt or coarse sea salt, to taste",
+          "Freshly ground black pepper, to taste",
+          "Crushed toasted sesame seeds, for serving"
+        ],
+        "steps": [
+          "Prepare the All-Purpose Kimchi Paste and set aside.",
+          "Add the pear and/or watermelon to a large mixing bowl. Toss with the kimchi paste, tasting and adding more as needed. Season with salt and pepper.",
+          "Garnish with a big pinch of crushed toasted sesame seeds before serving. This kimchi is best eaten right away."
+        ],
+        "tips": [
+          "Fruit + kimchi paste: the juicy sweetness and crunch mimic a traditional radish kimchi.",
+          "Fruit is delicate — don't marinate it; just toss in paste, season, and eat right away.",
+          "Garnish with crushed toasted sesame seeds for textural contrast. Experiment with oranges, apples, peaches, plums, apricots, or cherries."
+        ]
+      }
+    },
+    {
+      "title": "Spinach or Bean Sprout Namul (Korean Blanched Vegetables)",
+      "page": 53,
+      "chapter": "Panchan",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 2 to 4",
+      "flag": "The book's BASE recipe uses broccoli (a household dislike). Use this spinach/bean-sprout (or carrot/zucchini) variation — never the broccoli version.",
+      "fitsMenu": "light Korean veg side (namul); pairs with everything",
+      "captured": {
+        "makes": "serves 2 to 4",
+        "ingredients": [
+          "Ice water (for blanching)",
+          "4 quarts water",
+          "2 big pinches kosher salt or coarse sea salt, plus more to taste",
+          "4 cups fresh spinach OR 2 cups bean sprouts (the book's base uses 1 lb broccoli florets — a dislike; substitute spinach, bean sprouts, carrots, or zucchini)",
+          "Freshly ground black pepper, to taste",
+          "1 tbsp toasted sesame oil",
+          "1 tsp rice vinegar",
+          "1 tbsp crushed toasted sesame seeds",
+          "Pinch of gochugaru (Korean chili flakes)"
+        ],
+        "steps": [
+          "Fill a large bowl with ice and cold water; set aside.",
+          "In a large pot over high heat, bring 4 quarts water to a boil and season with 2 big pinches of salt. Add the vegetable and blanch just until vibrant green and barely tender — about 2 minutes for sturdier veg, 1 minute at most for bean sprouts, and only a brief dunk for spinach.",
+          "Quickly remove the vegetable with a spider and plunge into the ice water. After about 1 minute, drain well (for spinach, squeeze out the excess water).",
+          "Transfer to a mixing bowl. Season generously with salt and pepper, then stir in the sesame oil, rice vinegar, crushed sesame seeds, and gochugaru. Taste and adjust. Serve immediately or refrigerate until ready to eat."
+        ],
+        "tips": [
+          "The blanching step is the whole game: boil briefly until vibrant green, then shock in ice water to lock in crisp texture and bright color.",
+          "The book's base recipe uses broccoli — skip it (household dislike) and use this bean-sprout (shock 1 min) or spinach (squeeze out water after cooking) version, or carrots/zucchini.",
+          "Season with sesame oil, rice vinegar, crushed sesame seeds, and a pinch of gochugaru for a light, flavorful panchan that pairs with everything."
+        ]
+      }
+    },
+    {
+      "title": "Quick-Pickled Cucumbers",
+      "page": 55,
+      "chapter": "Panchan",
+      "protein": "vegetarian",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 2 to 4",
+      "fitsMenu": "fast pickle; snack, side, or rice-bowl topping",
+      "captured": {
+        "makes": "serves 2 to 4",
+        "ingredients": [
+          "2 dried star anise pods (optional)",
+          "1 tbsp sesame oil",
+          "4 Persian cucumbers, sliced into 1/2-inch-thick rounds",
+          "1 tbsp crushed toasted sesame seeds",
+          "2 tsp gochugaru (Korean chili flakes)",
+          "2 tsp sugar",
+          "1 tsp freshly ground black pepper",
+          "2 tsp kosher salt",
+          "2 tbsp rice vinegar",
+          "1/4 cup water"
+        ],
+        "steps": [
+          "In a sauté pan over medium heat, add the star anise (if using) and toast a few minutes until fragrant.",
+          "Add the sesame oil. Once shimmering, add the cucumbers. Stir in the crushed sesame seeds, gochugaru, sugar, pepper, salt, rice vinegar, and water. Bring to a boil and cook 1 to 2 minutes more, until the cucumbers just start to soften and absorb the sauce.",
+          "Remove from heat and transfer to a jar or heatproof container. Chill at least 30 minutes before serving — it gets better the longer it sits. Keeps refrigerated up to 2 weeks."
+        ],
+        "tips": [
+          "A shortcut pickle: toss sliced cucumbers in a hot pan with vinegar and spices to kick-start the pickling, then jar and chill — no long brine.",
+          "Use Persian cucumbers sliced 1/2-inch thick; chill at least 30 minutes (better the longer it sits) and it keeps 2 weeks.",
+          "Toast the star anise in the sesame oil first to release its fragrance. These do triple duty as a snack, side, or rice-bowl topping."
+        ]
+      }
+    },
+    {
+      "title": "Next-Day Rice Bowls (Korean bibimbap-style)",
+      "page": 57,
+      "chapter": "Panchan / Mains",
+      "protein": "varies",
+      "cuisine": "korean",
+      "scanned": true,
+      "makes": "serves 1 to 100",
+      "fitsMenu": "flexible leftover bowl concept; great for using up kalbi, kimchi, grilled veg, pickles + an egg",
+      "captured": {
+        "makes": "serves 1 to 100",
+        "ingredients": [
+          "A base of rice + whatever leftovers taste good reheated (starches, proteins, vegetables) — no set recipe.",
+          "THE PINEAPPLE PIZZA BOWL: spicy rice cakes (duk boki), Spam teriyaki, canned lychees, canned pineapple, Kogi Vinaigrette, sesame seeds, cotija cheese, chives, salt and pepper.",
+          "THE K-DRAMA BOWL: rice, pork and beans, bacon, BBQ Kalbi, grilled vegetables, Scallion Dipping Sauce, Salsa Verde, sesame seeds, furikake, chives."
+        ],
+        "steps": [
+          "Identify which of your leftovers taste better heated up (usually starches, proteins, and vegetables) — there's no right or wrong answer.",
+          "Reheat proteins/vegetables in a grill pan or skillet on low heat; reheat rice in the microwave or on the stove.",
+          "Assemble in an oversize bowl (more room for toppings, more fun) — build a base of rice, arrange the warm and cold components on top, finish with a sauce (Kogi Vinaigrette / Scallion Dipping Sauce / Salsa Verde), and garnishes (sesame, furikake, chives). Crown with a fried egg if you like.",
+          "Two ready-made templates: the Pineapple Pizza Bowl and the K-Drama Bowl (see ingredients)."
+        ],
+        "tips": [
+          "It's a flexible bibimbap-style assembly for leftovers — there's no set recipe, just layers.",
+          "Figure out which leftovers improve reheated (starches, proteins, veg) and reheat those; leftover rice goes in the microwave or a skillet.",
+          "Use an oversize bowl so toppings don't crowd — and it's just more fun to dig into. Quick-Pickled Cucumbers make a great stealth topping."
+        ]
+      }
+    }
+  ]
+}
