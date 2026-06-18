@@ -436,14 +436,26 @@
       "cuisine": "italian",
       "protein": "beef",
       "tags": [
-        "weeknight",
-        "needs-scan"
+        "weeknight"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Featured cookbook of the week (My Italian Kitchen). Title placeholder — scan p.156 before cooking to capture the real ingredients. Plate will be meatballs + spaghetti (carb) + a green salad (veg), finalized on scan."
+      "ingredients": [
+        {"item": "ciabatta roll, cut into cubes", "qty": 1, "unit": "", "category": "bakery", "note": ""},
+        {"item": "milk", "qty": 1, "unit": "cup", "category": "dairy", "note": "for soaking the bread"},
+        {"item": "ground beef", "qty": 1, "unit": "lb", "category": "meat-seafood", "note": ""},
+        {"item": "Grana Padano, freshly grated", "qty": 0.5, "unit": "cup", "category": "dairy", "note": ""},
+        {"item": "white onion, minced", "qty": 0.5, "unit": "cup", "category": "produce", "note": ""},
+        {"item": "garlic, minced", "qty": 4, "unit": "tsp", "category": "produce", "note": ""},
+        {"item": "dry white wine", "qty": 2, "unit": "tbsp", "category": "beverages", "note": ""},
+        {"item": "large egg", "qty": 1, "unit": "", "category": "dairy", "note": ""},
+        {"item": "large egg yolks", "qty": 2, "unit": "", "category": "dairy", "note": ""},
+        {"item": "fresh parsley, chopped", "qty": 0.33, "unit": "cup", "category": "produce", "note": ""},
+        {"item": "lemon zest", "qty": 1.5, "unit": "tsp", "category": "produce", "note": ""},
+        {"item": "fresh rosemary", "qty": 4, "unit": "sprig", "category": "produce", "note": ""}
+      ],
+      "notes": "Le Polpette della Mamma (My Italian Kitchen, p.156). Makes 8 large meatballs (~4 servings). Soak cubed ciabatta in milk 30 min; mix beef with cheese, onion, garlic, wine, egg+yolks, parsley, lemon zest, salt, pepper, then the squeezed bread. Form 8 patties; sear in very hot oil with rosemary 3 min/side, then cover and cook 8-10 min, basting. Plate = meatballs + spaghetti (carb) + green salad (veg)."
     },
     {
       "id": "baked-chicken-with-potatoes-cherry-tomatoes-and-herbs-5061ee99",
