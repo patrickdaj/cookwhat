@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-18T04:30:25.565Z",
+  "generatedAt": "2026-06-18T05:12:41.162Z",
   "targetServings": 4,
   "sections": [
     {
@@ -429,6 +429,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "hard-cooked eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Spanish-Style Braised Chicken and Almonds"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "heavy cream",
           "qty": 0.75,
           "unit": "cup",
@@ -495,16 +505,6 @@
           "category": "pantry",
           "fromMeals": [
             "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "blanched slivered almonds, toasted",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
         },
@@ -658,6 +658,16 @@
             "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "whole blanched almonds, toasted",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Spanish-Style Braised Chicken and Almonds"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -677,7 +687,7 @@
         {
           "item": "canned whole peeled tomatoes",
           "qty": 1,
-          "unit": "can (14.5 oz)",
+          "unit": "can (14 oz)",
           "category": "canned",
           "fromMeals": [
             "Spanish-Style Braised Chicken and Almonds"
@@ -829,5 +839,5 @@
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 76
+  "totalItems": 77
 }

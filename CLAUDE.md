@@ -214,8 +214,8 @@ The user owns physical cookbooks, catalogued in `data/cookbooks/*.json` (e.g.
 `meathead.json`, `foodlab.json`). These are **a reference layer for you** — the
 CLI does *not* read them. Each file lists the book's recipes as
 `{title, page, chapter}`, sometimes with `fitsMenu`/`flag` hints, and — once a
-page has been scanned — a `captured` block (`ingredients`, `method`, `makes`)
-and `scanned: true`.
+page has been scanned — a `captured` block (`ingredients`, ordered `steps`,
+mined `tips`, `makes`) and `scanned: true`.
 
 Use them as a **third sourcing pool** alongside redos/history and web search.
 When designing a week, scan the catalogs for recipes that fit the user's config
@@ -233,9 +233,15 @@ Scanning every book up front is a ton of work, so don't. Two stages:
    ingredients. Leave `ingredients: []` and add the tag **`"needs-scan"`**. If the
    catalog already has a `captured` block, use it and skip the placeholder.
 2. **Scan on demand, before that week's shopping/cooking.** Ask the user to scan
-   the specific page(s), capture the real `ingredients`/`method` into the meal,
-   **and** store the `captured` block back in the catalog (reusable forever). Then
-   re-run `cookwhat shopping` so the list is complete.
+   the specific page(s), capture the real `ingredients` into the meal, **and**
+   store a `captured` block back in the catalog (reusable forever). When you
+   capture, **don't just grab ingredients + a method blob** — also:
+   - record the method as **ordered `steps[]`** (an array, in sequence), not one
+     run-on paragraph; and
+   - **mine `tips[]`** — the technique gold in the headnote/sidebar/why-this-works
+     (dry-brine timing, doneness cues, why-it-works notes, make-ahead). The site
+     renders Steps and a "Tips & Tricks" section from these.
+   Then re-run `cookwhat shopping` so the list is complete.
 
 Rules for the workflow:
 - **Never fabricate ingredients** from a title or memory — a placeholder carries

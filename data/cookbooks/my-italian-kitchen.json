@@ -15,14 +15,12 @@
     {"title": "Gorgonzola, Roasted Pepper, and Balsamic Glaze Crostini", "page": 27, "chapter": "Crostini"},
     {"title": "Sausage, Stracchino, and Radicchio Crostini", "page": 30, "chapter": "Crostini"},
     {"title": "Tomato, Mozzarella, and Spicy Salame Bruschetta", "page": 31, "chapter": "Crostini"},
-
     {"title": "Egg and Cheese Tramezzino", "page": 34, "chapter": "Tramezzini"},
     {"title": "Tuna, Caper, and Olive Tramezzino", "page": 38, "chapter": "Tramezzini", "fitsMenu": "fish (favorite)"},
     {"title": "Shrimp in Pink Sauce Tramezzino", "page": 39, "chapter": "Tramezzini", "fitsMenu": "shrimp (favorite)"},
     {"title": "Bresaola, Arugula, and Grana Padano Tramezzino", "page": 41, "chapter": "Tramezzini"},
     {"title": "Turkey, Gorgonzola, and Walnut Tramezzino", "page": 42, "chapter": "Tramezzini"},
     {"title": "Prosciutto and Mushroom Tramezzino", "page": 43, "chapter": "Tramezzini"},
-
     {"title": "Arugula, Pear, and Grana Padano Salad", "page": 46, "chapter": "Antipasti"},
     {"title": "Asparagus and Goat Cheese Frittata with Arugula Salad", "page": 47, "chapter": "Antipasti"},
     {"title": "Cheese-Filled Artichoke Bottoms", "page": 51, "chapter": "Antipasti"},
@@ -32,7 +30,6 @@
     {"title": "Sweet-and-Sour Sardines", "page": 60, "chapter": "Antipasti", "fitsMenu": "fish (favorite)"},
     {"title": "Clams and Mussels with Cherry Tomatoes in White Wine Broth", "page": 63, "chapter": "Antipasti", "fitsMenu": "seafood"},
     {"title": "Fried Mixed Seafood with Marinara Sauce", "page": 66, "chapter": "Antipasti", "fitsMenu": "seafood"},
-
     {"title": "Butternut Squash Soup with Mascarpone and Lemon-Honey Walnuts", "page": 70, "chapter": "Primi"},
     {"title": "Bean, Pancetta, and Radicchio Soup", "page": 74, "chapter": "Primi", "flag": "bean-heavy (keep beans low)"},
     {"title": "Salmon, Robiola, and Grape Risotto", "page": 77, "chapter": "Primi", "fitsMenu": "salmon/fish (favorite)"},
@@ -40,7 +37,6 @@
     {"title": "Asparagus and Lemon Risotto", "page": 82, "chapter": "Primi"},
     {"title": "Mushroom and Black Truffle Risotto", "page": 86, "chapter": "Primi"},
     {"title": "Sausage and Radicchio Risotto", "page": 88, "chapter": "Primi"},
-
     {"title": "Fresh Pasta Dough", "page": 93, "chapter": "Pasta"},
     {"title": "Broccoli Rabe Girasoli", "page": 96, "chapter": "Pasta", "flag": "broccoli rabe (rapini) - different from broccoli, but check"},
     {"title": "Butternut Squash and Amaretti Mezzelune", "page": 101, "chapter": "Pasta"},
@@ -51,7 +47,6 @@
     {"title": "Orecchiette with Zucchini, Ricotta, and Mint", "page": 118, "chapter": "Pasta"},
     {"title": "Linguine with Langoustines", "page": 119, "chapter": "Pasta", "fitsMenu": "seafood"},
     {"title": "My Mother's Lasagna", "page": 122, "chapter": "Pasta", "note": "signature family lasagna"},
-
     {"title": "Frico", "page": 129, "chapter": "Secondi"},
     {"title": "Pancetta-Wrapped Shrimp with Zucchini Puree", "page": 132, "chapter": "Secondi", "fitsMenu": "shrimp (favorite)"},
     {"title": "Seafood Soup", "page": 134, "chapter": "Secondi", "fitsMenu": "seafood"},
@@ -61,17 +56,15 @@
     {"title": "Venetian-Style Calf's Liver", "page": 147, "chapter": "Secondi", "flag": "LIVER (dislike) - exclude"},
     {"title": "Pancetta-Wrapped Veal Cutlet with Radicchio, Apples, and White-Wine Sauce", "page": 150, "chapter": "Secondi"},
     {"title": "Cotechino with Sauerkraut", "page": 155, "chapter": "Secondi"},
-    {"title": "My Mother's Meatballs", "page": 156, "chapter": "Secondi", "note": "signature family meatballs (Le Polpette della Mamma)", "protein": "beef", "scanned": true, "makes": "8 large meatballs", "captured": {"ingredients": ["1 ciabatta roll, cut into small cubes", "about 1 cup (240 ml) milk", "1 lb (455 g) ground beef", "1/2 cup (50 g) freshly grated Grana Padano", "1/2 cup (30 g) minced white onion", "4 tsp minced garlic", "2 tbsp white wine", "1 large egg", "2 large egg yolks", "1/3 cup (13 g) finely chopped fresh parsley", "1 1/2 tsp freshly grated lemon zest", "2 tsp salt", "1 tsp freshly ground black pepper", "1/4 cup (60 ml) extra-virgin olive oil", "3-4 sprigs fresh rosemary"], "method": "Soak the cubed bread in milk ~30 min until soggy. Combine beef, Grana Padano, onion, garlic, wine, egg, yolks, parsley, lemon zest, salt, and pepper; mix well. Squeeze milk from the bread and mix it in. Form into 8 large ~4 oz patties (round, then flatten slightly). Heat the oil very hot with the rosemary; add meatballs and cook 3 min undisturbed for a crust, flip and cook 3 min more (basting), then reduce heat, cover, and cook 8-10 min until done, basting often. Serve family-style.", "serveWith": "salad, roasted potatoes (p.171), grilled vegetables (p.174), or polenta (p.172)"}},
+    {"title": "My Mother's Meatballs", "page": 156, "chapter": "Secondi", "note": "signature family meatballs (Le Polpette della Mamma)", "protein": "beef", "scanned": true, "makes": "8 large meatballs", "captured": {"ingredients":["1 ciabatta roll, cut into small cubes","about 1 cup (240 ml) milk","1 lb (455 g) ground beef","1/2 cup (50 g) freshly grated Grana Padano","1/2 cup (30 g) minced white onion","4 tsp minced garlic","2 tbsp white wine","1 large egg","2 large egg yolks","1/3 cup (13 g) finely chopped fresh parsley","1 1/2 tsp freshly grated lemon zest","2 tsp salt","1 tsp freshly ground black pepper","1/4 cup (60 ml) extra-virgin olive oil","3-4 sprigs fresh rosemary"],"steps":["Soak the cubed ciabatta in milk ~30 min until completely soggy.","Mix the beef with the Grana Padano, onion, garlic, wine, egg, egg yolks, parsley, lemon zest, salt, and pepper.","Squeeze the milk from the bread and mix it into the meat.","Form 8 large (~4 oz) meatballs - roll round, then press to flatten slightly.","Sear in very hot oil with the rosemary, 3 min undisturbed for a crust, then flip and cook 3 min, basting.","Reduce heat to low, cover, and cook 8-10 min more until done, basting frequently. Serve family-style."],"tips":["The milk-soaked bread (panade) keeps the meatballs tender - let it get fully soggy.","Don't move them for the first 3 minutes or they'll fall apart; let the crust set first.","Baste frequently with the rendered juices and finish covered on low so they cook through without drying."],"serveWith":"salad, roasted potatoes (p.171), grilled vegetables (p.174), or polenta (p.172)"}},
     {"title": "Rack of Lamb with Potato Puree", "page": 160, "chapter": "Secondi"},
     {"title": "New York Strip Steak with Vanilla Sauce", "page": 162, "chapter": "Secondi"},
     {"title": "Braised Beef Short Ribs with Chanterelles and Sunchoke Puree", "page": 164, "chapter": "Secondi"},
-
     {"title": "Sauteed Mixed Mushrooms", "page": 170, "chapter": "Contorni"},
     {"title": "Roasted Potatoes", "page": 171, "chapter": "Contorni"},
     {"title": "Polenta", "page": 172, "chapter": "Contorni"},
     {"title": "Grilled Vegetables with Parsley-Garlic Pesto", "page": 174, "chapter": "Contorni"},
     {"title": "Roasted Brussels Sprouts with Bacon", "page": 177, "chapter": "Contorni", "fitsMenu": "bacon (favorite)"},
-
     {"title": "Zabaglione with Mixed Berries", "page": 180, "chapter": "Dolci"},
     {"title": "Caprese Panna Cotta", "page": 182, "chapter": "Dolci"},
     {"title": "Tiramisu", "page": 187, "chapter": "Dolci"},

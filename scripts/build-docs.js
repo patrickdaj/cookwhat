@@ -726,9 +726,18 @@ function buildCookbookRecipePage(book, r) {
     for (const ing of r.captured.ingredients) out.push(`- ${ing}`);
     out.push('');
   }
-  if (r.captured?.method) {
+  if (r.captured?.steps?.length) {
+    out.push('## Steps\n');
+    r.captured.steps.forEach((s, i) => out.push(`${i + 1}. ${s}`));
+    out.push('');
+  } else if (r.captured?.method) {
     out.push('## Method\n');
     out.push(r.captured.method + '\n');
+  }
+  if (r.captured?.tips?.length) {
+    out.push('## Tips & Tricks\n');
+    for (const t of r.captured.tips) out.push(`- ${t}`);
+    out.push('');
   }
   if (r.captured?.serveWith) out.push(`**Serve with:** ${r.captured.serveWith}\n`);
   const src = `${book.title}${book.author ? ` (${book.author})` : ''}${r.page != null ? ` — p.${r.page}` : ''}`;

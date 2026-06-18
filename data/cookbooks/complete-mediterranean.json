@@ -14,7 +14,7 @@
     {"title": "Sauteed Chicken Breasts with Cherry Tomatoes, Zucchini, and Yellow Squash", "page": 292, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
     {"title": "Pan-Seared Chicken Breasts with Chickpea Salad", "page": 293, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "flag": "chickpeas (keep beans low)"},
     {"title": "Chicken in Turkish Walnut Sauce", "page": 294, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
-    {"title": "Spanish-Style Braised Chicken and Almonds", "page": 295, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "4 servings", "captured": {"ingredients": ["8 (5- to 7-oz) bone-in chicken thighs, trimmed", "salt and pepper", "1 tbsp extra-virgin olive oil", "2 onions, chopped fine", "4 garlic cloves, minced", "1 bay leaf", "1/4 tsp ground cinnamon", "1 cup dry white wine", "1 (14.5-oz) can whole peeled tomatoes, drained and chopped", "1/2 cup blanched slivered almonds, toasted", "2 tbsp chopped fresh parsley", "1 1/2 tsp lemon juice"], "method": "Brown the seasoned thighs; set aside. Soften onions, then add garlic, bay leaf, and cinnamon. Add wine and tomatoes, return the chicken, and braise in the oven until tender. Grind some toasted almonds to thicken the sauce; finish with parsley, lemon juice, and the remaining almonds."}},
+    {"title": "Spanish-Style Braised Chicken and Almonds", "page": 295, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "4 servings", "captured": {"ingredients":["8 (5- to 7-oz) bone-in chicken thighs, trimmed","salt and pepper","1 tbsp extra-virgin olive oil","2 onions, chopped fine","4 garlic cloves, minced","1 bay leaf","1/4 tsp ground cinnamon","1 cup dry white wine","1 (14-oz) can whole peeled tomatoes, drained and chopped","1/2 cup whole blanched almonds, toasted","2 hard-cooked large eggs, whites and yolks separated","2 tbsp chopped fresh parsley","1 1/2 tsp lemon juice"],"steps":["Heat oven to 300F. Pat the chicken dry, season, and brown in the oil ~3-4 min per side; transfer to a plate.","Soften the onions in the fat, then add garlic, bay leaf, and cinnamon ~30 sec. Add wine and tomatoes, return the chicken skin-side up, and braise in the oven until tender.","Make the picada: process the toasted almonds and the hard-cooked egg yolks with a little braising liquid into a paste.","Off heat, discard the bay leaf and stir the almond-yolk picada into the sauce to thicken; finish with lemon juice and half the parsley.","Chop the egg whites and sprinkle over the chicken with the remaining parsley."],"tips":["This is pollo en pepitoria - the sauce is thickened with a picada of ground toasted almonds + hard-cooked egg yolks, not flour.","Toast the almonds first for deeper flavor and grind the picada fine so the sauce is silky, not gritty.","It's rich and nutty - brighten at the end with lemon and parsley, and use the chopped egg whites as garnish."]}},
     {"title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce", "page": 296, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
     {"title": "Roasted Chicken with Fennel, Olive, and Orange Sauce", "page": 296, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
     {"title": "Za'atar-Rubbed Butterflied Chicken", "page": 298, "chapter": "Poultry", "fitsMenu": "chicken (favorite)"},
@@ -26,13 +26,11 @@
     {"title": "Chicken Tagine with Chickpeas and Apricots", "page": 303, "chapter": "Poultry", "fitsMenu": "chicken (favorite)", "flag": "chickpeas (keep beans low)"},
     {"title": "Pomegranate-Glazed Roasted Quail", "page": 304, "chapter": "Poultry"},
     {"title": "Pomegranate Molasses", "page": 304, "chapter": "Poultry"},
-
     {"title": "Grilled Spiced Pork Skewers with Onion and Caper Relish", "page": 313, "chapter": "Pork", "fitsMenu": "grill"},
     {"title": "Greek-Style Braised Pork with Leeks", "page": 314, "chapter": "Pork"},
     {"title": "Spice-Rubbed Pork Tenderloin with Fennel, Tomatoes, Artichokes, and Olives", "page": 315, "chapter": "Pork"},
     {"title": "Braised Greek Sausages with Peppers", "page": 318, "chapter": "Pork"},
     {"title": "Sausage and White Beans with Mustard Greens", "page": 319, "chapter": "Pork", "flag": "white beans (keep beans low)"},
-
     {"title": "Kibbeh", "page": 305, "chapter": "Beef"},
     {"title": "Grilled Beef Kebabs with Lemon and Rosemary Marinade", "page": 307, "chapter": "Beef", "fitsMenu": "grill"},
     {"title": "Grilled Beef Kebabs with North African Marinade", "page": 307, "chapter": "Beef", "fitsMenu": "grill"},
@@ -41,7 +39,6 @@
     {"title": "Italian Salsa Verde", "page": 309, "chapter": "Beef"},
     {"title": "Braised Oxtails with White Beans, Tomatoes, and Aleppo Pepper", "page": 311, "chapter": "Beef", "flag": "white beans (keep beans low)"},
     {"title": "Pomegranate-Braised Beef Short Ribs with Prunes and Sesame", "page": 312, "chapter": "Beef"},
-
     {"title": "Lamb Meatballs with Leeks and Yogurt Sauce", "page": 320, "chapter": "Lamb"},
     {"title": "Grilled Lamb Kofte", "page": 321, "chapter": "Lamb", "fitsMenu": "grill"},
     {"title": "Grilled Greek-Style Lamb Pita Sandwiches", "page": 322, "chapter": "Lamb", "fitsMenu": "grill"},
@@ -54,14 +51,12 @@
     {"title": "Lamb Tagine with Figs and North African Spices", "page": 326, "chapter": "Lamb", "note": "page approx"},
     {"title": "Braised Lamb Shanks with Bell Peppers and Harissa", "page": 327, "chapter": "Lamb"},
     {"title": "Lamb Tagine with Olives and Lemon", "page": 328, "chapter": "Lamb", "note": "page approx"},
-
     {"title": "Green Zhoug", "page": 316, "chapter": "Spice Blends & Pastes"},
     {"title": "Harissa", "page": 316, "chapter": "Spice Blends & Pastes"},
     {"title": "Ras el Hanout", "page": 316, "chapter": "Spice Blends & Pastes"},
     {"title": "Za'atar", "page": 316, "chapter": "Spice Blends & Pastes"},
     {"title": "Dukkah", "page": 317, "chapter": "Spice Blends & Pastes"},
     {"title": "Herbes de Provence", "page": 317, "chapter": "Spice Blends & Pastes"},
-
     {"title": "Shakshuka", "page": 330, "chapter": "Eggs"},
     {"title": "Ratatouille with Poached Eggs", "page": 331, "chapter": "Eggs"},
     {"title": "Potato, Swiss Chard, and Lamb Hash with Poached Eggs", "page": 331, "chapter": "Eggs"},
@@ -77,7 +72,6 @@
     {"title": "Mushroom and Pecorino Frittata", "page": 339, "chapter": "Eggs"},
     {"title": "Baked Eggs with Tomatoes, Feta, and Croutons", "page": 340, "chapter": "Eggs"},
     {"title": "Greek-Style Zucchini and Egg Casserole", "page": 341, "chapter": "Eggs"},
-
     {"title": "Pita Bread", "page": 344, "chapter": "Breads & Pizzas"},
     {"title": "Socca", "page": 345, "chapter": "Breads & Pizzas"},
     {"title": "Socca with Swiss Chard, Pistachios, and Apricots", "page": 345, "chapter": "Breads & Pizzas"},
@@ -105,7 +99,6 @@
     {"title": "Spanakopita", "page": 361, "chapter": "Breads & Pizzas"},
     {"title": "Pumpkin Borek", "page": 363, "chapter": "Breads & Pizzas"},
     {"title": "Chicken B'stilla", "page": 364, "chapter": "Breads & Pizzas", "fitsMenu": "chicken (favorite)"},
-
     {"title": "Apricot Spoon Sweets", "page": 368, "chapter": "Fruit & Sweets"},
     {"title": "Dried Fruit Compote", "page": 368, "chapter": "Fruit & Sweets"},
     {"title": "Turkish Stuffed Apricots with Rose Water and Pistachios", "page": 369, "chapter": "Fruit & Sweets"},
@@ -140,7 +133,6 @@
     {"title": "Lemon Ice", "page": 389, "chapter": "Fruit & Sweets"},
     {"title": "Minted Lemon Ice", "page": 389, "chapter": "Fruit & Sweets"},
     {"title": "Orange Ice", "page": 389, "chapter": "Fruit & Sweets"},
-
     {"title": "Basmati Rice Pilaf with Currants and Toasted Almonds", "page": 102, "chapter": "Rice & Grains"},
     {"title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon", "page": 102, "chapter": "Rice & Grains"},
     {"title": "Spiced Basmati Rice with Cauliflower and Pomegranate", "page": 103, "chapter": "Rice & Grains"},
@@ -179,7 +171,6 @@
     {"title": "Warm Wheat Berries with Zucchini, Red Pepper, and Oregano", "page": 133, "chapter": "Rice & Grains"},
     {"title": "Wheat Berry Salad with Orange and Carrots", "page": 134, "chapter": "Rice & Grains"},
     {"title": "Wheat Berry Salad with Figs, Pine Nuts, and Goat Cheese", "page": 135, "chapter": "Rice & Grains"},
-
     {"title": "Penne with Roasted Cherry Tomato Sauce", "page": 138, "chapter": "Pasta & Couscous"},
     {"title": "Penne and Fresh Tomato Sauce with Fennel and Orange", "page": 139, "chapter": "Pasta & Couscous"},
     {"title": "Farfalle with Zucchini, Tomatoes, and Pine Nuts", "page": 140, "chapter": "Pasta & Couscous"},
@@ -212,7 +203,6 @@
     {"title": "Couscous with Lamb, Chickpeas, and Orange", "page": 164, "chapter": "Pasta & Couscous", "flag": "chickpeas (keep beans low)"},
     {"title": "Simple Pearl Couscous with Tomatoes, Olives, and Ricotta Salata", "page": 165, "chapter": "Pasta & Couscous"},
     {"title": "Hearty Pearl Couscous with Eggplant, Spinach, and Beans", "page": 167, "chapter": "Pasta & Couscous", "flag": "beans (keep beans low)"},
-
     {"title": "Roasted Artichokes with Lemon Vinaigrette", "page": 196, "chapter": "Vegetables"},
     {"title": "Braised Artichokes with Tomatoes and Thyme", "page": 197, "chapter": "Vegetables"},
     {"title": "Artichoke, Pepper, and Chickpea Tagine", "page": 198, "chapter": "Vegetables", "flag": "chickpeas (keep beans low)"},
@@ -266,7 +256,6 @@
     {"title": "Lemon-Yogurt Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
     {"title": "Cucumber-Yogurt Sauce", "page": 233, "chapter": "Easy Mediterranean Sauces"},
     {"title": "Garlic Aioli", "page": 233, "chapter": "Easy Mediterranean Sauces"},
-
     {"title": "Broiled Bluefish with Preserved Lemon and Zhoug", "page": 244, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
     {"title": "Broiled Grape Leaf-Wrapped Grouper", "page": 244, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
     {"title": "Lemon-Herb Hake Fillets with Garlic Potatoes", "page": 246, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
@@ -291,7 +280,7 @@
     {"title": "Grilled Swordfish with Eggplant, Tomato, and Chickpea Salad", "page": 264, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill", "flag": "chickpeas (keep beans low)"},
     {"title": "Grilled Tuna Steaks with Romesco", "page": 265, "chapter": "Seafood", "fitsMenu": "fish (favorite); grill"},
     {"title": "Bouillabaisse", "page": 266, "chapter": "Seafood", "fitsMenu": "seafood; french"},
-    {"title": "Sicilian Fish Stew", "page": 267, "chapter": "Seafood", "fitsMenu": "fish (favorite)", "scanned": true, "makes": "4 to 6 servings", "captured": {"ingredients": ["2 lb skinless swordfish steaks, cut into 1-inch pieces", "salt and pepper", "1/2 cup pine nuts, toasted", "1/2 cup chopped fresh mint", "4 garlic cloves, minced", "1 tsp grated orange zest", "2 tbsp extra-virgin olive oil", "2 onions, chopped fine", "1 celery rib, minced", "1 tsp minced fresh thyme", "pinch red pepper flakes", "1/2 cup dry white wine", "1 (28-oz) can whole peeled tomatoes, drained (juice reserved) and chopped", "1 (8-oz) bottle clam juice", "1/4 cup raisins", "2 tbsp capers, rinsed"], "method": "Mix pine nuts, mint, a quarter of the garlic, and orange zest for serving. Soften onion + celery, add the remaining garlic, thyme, and pepper flakes. Add wine + reserved tomato juice and reduce by half; add tomatoes, clam juice, raisins, and capers; simmer ~15 min. Nestle in the seasoned swordfish, simmer 4 min, then off heat covered 3 min. Serve sprinkled with the pine nut mixture."}},
+    {"title": "Sicilian Fish Stew", "page": 267, "chapter": "Seafood", "fitsMenu": "fish (favorite)", "scanned": true, "makes": "4 to 6 servings", "captured": {"ingredients":["2 lb skinless swordfish steaks, cut into 1-inch pieces","salt and pepper","1/2 cup pine nuts, toasted","1/2 cup chopped fresh mint","4 garlic cloves, minced","1 tsp grated orange zest","2 tbsp extra-virgin olive oil","2 onions, chopped fine","1 celery rib, minced","1 tsp minced fresh thyme","pinch red pepper flakes","1/2 cup dry white wine","1 (28-oz) can whole peeled tomatoes, drained (juice reserved) and chopped","1 (8-oz) bottle clam juice","1/4 cup raisins","2 tbsp capers, rinsed"],"steps":["Combine the pine nuts, mint, a quarter of the garlic, and the orange zest; set aside for serving.","Cook the onion + celery with salt and pepper ~5 min; add the remaining garlic, thyme, and pepper flakes ~30 sec.","Add the wine and reserved tomato juice and reduce by half (~4 min).","Stir in the tomatoes, clam juice, raisins, and capers; simmer ~15 min to meld.","Pat the swordfish dry, season, nestle in; simmer 4 min, then off heat, cover, and sit 3 min until it flakes.","Serve sprinkled with the pine nut-mint mixture (crusty bread to dip)."],"tips":["Swordfish is meaty and holds its shape - finish it off the heat so it stays just-cooked, not rubbery.","Reduce the wine + tomato juice by half to concentrate the base before adding the rest.","Sicilian sweet-savory balance: raisins + capers + pine nuts. Don't skip the raw pine nut-mint-orange-garlic topping - it brightens the bowl."]}},
     {"title": "Monkfish Tagine", "page": 268, "chapter": "Seafood", "fitsMenu": "fish (favorite)"},
     {"title": "Greek-Style Shrimp with Tomatoes and Feta", "page": 269, "chapter": "Seafood", "fitsMenu": "shrimp (favorite)"},
     {"title": "Shrimp with White Beans", "page": 270, "chapter": "Seafood", "fitsMenu": "shrimp (favorite)", "flag": "white beans (keep beans low)"},
@@ -309,7 +298,6 @@
     {"title": "Red Wine-Braised Octopus", "page": 285, "chapter": "Seafood", "fitsMenu": "seafood"},
     {"title": "Spanish Grilled Octopus Salad with Orange and Fennel", "page": 285, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
     {"title": "Greek Grilled Octopus Salad with Celery and Fennel", "page": 286, "chapter": "Seafood", "fitsMenu": "seafood; grill"},
-
     {"title": "Classic Hummus", "page": 16, "chapter": "Meze & Small Plates"},
     {"title": "Hummus with Smoked Paprika", "page": 16, "chapter": "Meze & Small Plates"},
     {"title": "Roasted Red Pepper Hummus", "page": 16, "chapter": "Meze & Small Plates"},
@@ -356,7 +344,6 @@
     {"title": "Mussels Escabeche", "page": 37, "chapter": "Meze & Small Plates", "fitsMenu": "seafood"},
     {"title": "Chili-Marinated Calamari with Oranges", "page": 38, "chapter": "Meze & Small Plates", "fitsMenu": "seafood"},
     {"title": "Stuffed Sardines", "page": 39, "chapter": "Meze & Small Plates", "fitsMenu": "fish (favorite)"},
-
     {"title": "Classic Gazpacho", "page": 42, "chapter": "Soups"},
     {"title": "White Gazpacho", "page": 43, "chapter": "Soups"},
     {"title": "Chilled Cucumber and Yogurt Soup", "page": 44, "chapter": "Soups"},
@@ -383,7 +370,6 @@
     {"title": "Spanish-Style Meatball Soup with Saffron", "page": 62, "chapter": "Soups"},
     {"title": "Provencal Fish Soup", "page": 63, "chapter": "Soups", "fitsMenu": "fish (favorite)"},
     {"title": "Shellfish Soup with Leeks and Turmeric", "page": 64, "chapter": "Soups", "fitsMenu": "seafood"},
-
     {"title": "Basic Green Salad", "page": 68, "chapter": "Salads"},
     {"title": "Tricolor Salad with Balsamic Vinaigrette", "page": 68, "chapter": "Salads"},
     {"title": "Green Salad with Marcona Almonds and Manchego Cheese", "page": 68, "chapter": "Salads"},

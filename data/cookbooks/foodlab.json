@@ -30,11 +30,10 @@
     {"title": "Classic Diner-Style Smashed Cheeseburgers", "page": 552, "chapter": "Ground Meat", "note": "the famous smashburger"},
     {"title": "Fry Sauce", "page": 553, "chapter": "Ground Meat"},
     {"title": "Pub-Style Thick and Juicy Cheeseburgers", "page": 558, "chapter": "Ground Meat"},
-
     {"title": "Roasted Butterflied Chicken", "page": 591, "chapter": "Roasts", "fitsMenu": "Kenji's flagship fast roast chicken"},
     {"title": "Quick Jus for Roasted Butterflied Chicken", "page": 592, "chapter": "Roasts"},
     {"title": "Simple Whole Roast Chicken", "page": 594, "chapter": "Roasts"},
-    {"title": "Buttery Lemon-Herb-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "3 or 4 servings", "captured": {"ingredients": ["1/4 cup fresh parsley leaves", "6 fresh sage leaves", "1 tbsp fresh rosemary leaves", "1 scallion, roughly chopped", "1 medium garlic clove, minced (~1 tsp)", "2 tsp kosher salt", "1 tsp freshly ground black pepper", "1 tbsp grated lemon zest (from 1 lemon)", "2 tbsp unsalted butter", "1 whole chicken, 3.5 to 4 lb"], "method": "Process the parsley, sage, rosemary, scallion, garlic, salt, pepper, lemon zest, and butter into a paste. Separate the skin from the breasts and rub the paste all over and under the skin; dry-brine uncovered overnight for crisp skin. Roast per the Simple Whole Roast Chicken recipe (p.594)."}},
+    {"title": "Buttery Lemon-Herb-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts", "fitsMenu": "chicken (favorite)", "scanned": true, "makes": "3 or 4 servings", "captured": {"ingredients":["1/4 cup fresh parsley leaves","6 fresh sage leaves","1 tbsp fresh rosemary leaves","1 scallion, roughly chopped","1 medium garlic clove, minced (~1 tsp)","2 tsp kosher salt","1 tsp freshly ground black pepper","1 tbsp grated lemon zest (from 1 lemon)","2 tbsp unsalted butter","1 whole chicken, 3.5 to 4 lb"],"steps":["Process the parsley, sage, rosemary, scallion, garlic, salt, pepper, lemon zest, and butter into a smooth paste.","Loosen the skin from the breasts and thighs and rub the herb-butter paste all over and under the skin.","Roast following the Simple Whole Roast Chicken method (p.594), skipping its step 2."],"tips":["Butter under the skin trades a little crispness for big flavor - compensate by dry-brining and air-drying the bird uncovered overnight (p.579) for the juiciest meat and crispest skin.","Get the paste under the skin, not just on top, so it seasons the meat directly."]}},
     {"title": "Jamaican-Jerk-Rubbed Roast Chicken", "page": 595, "chapter": "Roasts"},
     {"title": "Spicy Lemongrass-and-Turmeric-Rubbed Roast Chicken", "page": 597, "chapter": "Roasts", "fitsMenu": "thai-leaning"},
     {"title": "Thai-Style Sweet Chile Sauce", "page": 598, "chapter": "Roasts"},
@@ -65,7 +64,6 @@
     {"title": "Apricot-Glazed Roast Pork Tenderloin with Prunes and Figs", "page": 662, "chapter": "Roasts"},
     {"title": "Maple-Mustard-Glazed Roast Pork Tenderloin", "page": 662, "chapter": "Roasts"},
     {"title": "All-Belly Porchetta with Pork-Fat-Roasted Potatoes", "page": 664, "chapter": "Roasts"},
-
     {"title": "Pasta with Olive Oil and Three Flavors of Garlic", "page": 684, "chapter": "Pasta", "fitsMenu": "italian; quick weeknight"},
     {"title": "Pasta with Garlicky Broccoli, Anchovies, and Bacon", "page": 685, "chapter": "Pasta", "flag": "contains broccoli (dislike)"},
     {"title": "Pasta with Garlic and Lots of Vegetables", "page": 686, "chapter": "Pasta"},
@@ -106,7 +104,6 @@
     {"title": "Almost-No-Stir Risotto with Chorizo and Brussels Sprout Leaves", "page": 755, "chapter": "Pasta"},
     {"title": "Spring Vegetable Risotto", "page": 755, "chapter": "Pasta"},
     {"title": "Green Risotto with Mushrooms", "page": 758, "chapter": "Pasta"},
-
     {"title": "Mild Lemon- or Red Wine-Olive Oil Vinaigrette", "page": 780, "chapter": "Salads"},
     {"title": "Basic Mixed Green Salad", "page": 782, "chapter": "Salads"},
     {"title": "Asparagus Salad with Toasted Almonds and Goat Cheese", "page": 782, "chapter": "Salads"},
@@ -142,7 +139,6 @@
     {"title": "Creamy Italian Dressing", "page": 841, "chapter": "Salads"},
     {"title": "Chopped Ranch Cobb Salad", "page": 841, "chapter": "Salads"},
     {"title": "Buttermilk Ranch Dressing", "page": 843, "chapter": "Salads"},
-
     {"title": "Extra-Crunchy Southern Fried Chicken", "page": 871, "chapter": "Frying", "fitsMenu": "chicken (favorite)"},
     {"title": "Extra-Crunchy Chicken-Fried Steak with Cream Gravy", "page": 873, "chapter": "Frying"},
     {"title": "Extra-Crunchy Fried Chicken Sandwiches", "page": 876, "chapter": "Frying"},
@@ -156,7 +152,6 @@
     {"title": "Thin and Crispy French Fries", "page": 910, "chapter": "Frying"},
     {"title": "The Ultimate Quintuple-Cooked Thick and Crisp Steak Fries", "page": 911, "chapter": "Frying"},
     {"title": "Crunchy Oven Fries", "page": 914, "chapter": "Frying"},
-
     {"title": "Foolproof Soft-Boiled Eggs", "page": 101, "chapter": "Breakfast"},
     {"title": "Foolproof Hard-Boiled Eggs", "page": 102, "chapter": "Breakfast"},
     {"title": "Perfect Poached Eggs", "page": 107, "chapter": "Breakfast"},
@@ -195,7 +190,6 @@
     {"title": "Cream Scones", "page": 165, "chapter": "Breakfast"},
     {"title": "The World's Most Awesome Sticky Buns", "page": 167, "chapter": "Breakfast"},
     {"title": "Homemade Hot Chocolate Mix", "page": 171, "chapter": "Breakfast"},
-
     {"title": "Quick Chicken Stock", "page": 187, "chapter": "Soups & Stews"},
     {"title": "Basic Vegetable Stock", "page": 188, "chapter": "Soups & Stews"},
     {"title": "The Ultimate Chicken Vegetable Soup with Rice (or Noodles)", "page": 191, "chapter": "Soups & Stews", "fitsMenu": "chicken (favorite)"},
@@ -225,7 +219,6 @@
     {"title": "Real Texas Chili con Carne", "page": 269, "chapter": "Soups & Stews"},
     {"title": "Chile Verde with Pork", "page": 273, "chapter": "Soups & Stews"},
     {"title": "Easy Ham, Bean, and Kale Stew", "page": 275, "chapter": "Soups & Stews", "flag": "bean-heavy (keep beans low)"},
-
     {"title": "Quick and Easy Pan-Seared Steaks", "page": 311, "chapter": "Fast-Cooking"},
     {"title": "Butter-Basted Pan-Seared Thick-Cut Steaks", "page": 312, "chapter": "Fast-Cooking"},
     {"title": "Perfect Tenderloin Steaks", "page": 316, "chapter": "Fast-Cooking"},
@@ -273,7 +266,6 @@
     {"title": "Cooler-Cooked Olive Oil-Poached Salmon", "page": 399, "chapter": "Fast-Cooking", "fitsMenu": "salmon/fish (favorite)"},
     {"title": "Grapefruit Vinaigrette", "page": 400, "chapter": "Fast-Cooking"},
     {"title": "Sous-Vide Cheeseburgers", "page": 401, "chapter": "Fast-Cooking"},
-
     {"title": "Hot Buttered Snap Peas with Lemon and Mint", "page": 412, "chapter": "Vegetables"},
     {"title": "Hot Buttered Snap Peas with Scallions", "page": 412, "chapter": "Vegetables"},
     {"title": "Hot Buttered Snap Peas with Leeks and Basil", "page": 413, "chapter": "Vegetables"},
