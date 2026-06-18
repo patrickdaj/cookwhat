@@ -1,12 +1,7 @@
 {
   "weekOf": "2026-06-21",
-<<<<<<< HEAD
-  "generatedAt": "2026-06-18T05:12:41.162Z",
+  "generatedAt": "2026-06-18T05:20:42.183Z",
   "targetServings": 4,
-=======
-  "generatedAt": "2026-06-18T04:41:50.414Z",
-  "targetServings": null,
->>>>>>> origin/main
   "sections": [
     {
       "category": "produce",
@@ -34,7 +29,7 @@
         },
         {
           "item": "avocado",
-          "qty": 2,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -64,7 +59,7 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.5,
+          "qty": 0.25,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
@@ -145,7 +140,7 @@
         },
         {
           "item": "garlic",
-          "qty": 8,
+          "qty": 7,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
@@ -188,7 +183,7 @@
         },
         {
           "item": "jalapeño",
-          "qty": 5,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -211,7 +206,7 @@
         },
         {
           "item": "lemon juice",
-          "qty": 4,
+          "qty": 2,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
@@ -252,7 +247,7 @@
         },
         {
           "item": "ripe tomatoes",
-          "qty": 4,
+          "qty": 2,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
@@ -273,7 +268,7 @@
         },
         {
           "item": "shishito peppers",
-          "qty": 4,
+          "qty": 8,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -293,7 +288,7 @@
         },
         {
           "item": "Tokyo negi (long green onion)",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -303,7 +298,7 @@
         },
         {
           "item": "white onion",
-          "qty": 1,
+          "qty": 0.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -399,7 +394,7 @@
         },
         {
           "item": "yellowtail (hamachi/buri) fillets",
-          "qty": 2,
+          "qty": 4,
           "unit": "fillet",
           "category": "meat-seafood",
           "fromMeals": [
@@ -424,7 +419,7 @@
         },
         {
           "item": "eggs",
-          "qty": 18,
+          "qty": 10,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
@@ -470,21 +465,11 @@
       "items": [
         {
           "item": "corn tortillas",
-          "qty": 16,
+          "qty": 8,
           "unit": "",
           "category": "bakery",
           "fromMeals": [
             "Huevos Rancheros"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "crusty bread (or rice), for serving",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
         },
@@ -596,7 +581,7 @@
         },
         {
           "item": "mirin",
-          "qty": 2,
+          "qty": 4,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -606,7 +591,7 @@
         },
         {
           "item": "neutral oil",
-          "qty": 0.5,
+          "qty": 0.25,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
@@ -616,7 +601,7 @@
         },
         {
           "item": "neutral oil",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -636,7 +621,7 @@
         },
         {
           "item": "steamed Japanese short-grain rice",
-          "qty": 3,
+          "qty": 6,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
@@ -691,7 +676,7 @@
       "items": [
         {
           "item": "black beans",
-          "qty": 4,
+          "qty": 2,
           "unit": "can",
           "category": "canned",
           "fromMeals": [
@@ -767,7 +752,7 @@
         },
         {
           "item": "ground cumin",
-          "qty": 1.5,
+          "qty": 0.75,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -797,7 +782,7 @@
         },
         {
           "item": "smoked paprika",
-          "qty": 0.5,
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -832,7 +817,7 @@
         },
         {
           "item": "sake",
-          "qty": 2,
+          "qty": 4,
           "unit": "tbsp",
           "category": "beverages",
           "fromMeals": [

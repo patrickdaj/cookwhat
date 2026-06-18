@@ -233,20 +233,14 @@ Scanning every book up front is a ton of work, so don't. Two stages:
    ingredients. Leave `ingredients: []` and add the tag **`"needs-scan"`**. If the
    catalog already has a `captured` block, use it and skip the placeholder.
 2. **Scan on demand, before that week's shopping/cooking.** Ask the user to scan
-<<<<<<< HEAD
-   the specific page(s), capture the real `ingredients` into the meal, **and**
-   store a `captured` block back in the catalog (reusable forever). When you
-   capture, **don't just grab ingredients + a method blob** — also:
-   - record the method as **ordered `steps[]`** (an array, in sequence), not one
-     run-on paragraph; and
-   - **mine `tips[]`** — the technique gold in the headnote/sidebar/why-this-works
-     (dry-brine timing, doneness cues, why-it-works notes, make-ahead). The site
-     renders Steps and a "Tips & Tricks" section from these.
-   Then re-run `cookwhat shopping` so the list is complete.
-=======
    the specific page(s), capture the real `ingredients`/`method` into the meal,
    **and** store the `captured` block back in the catalog (reusable forever). Then
    re-run `cookwhat shopping` so the list is complete.
+   - **Capture the method as ordered `steps[]` (in sequence), not a run-on
+     blob, and mine `tips[]`** from the book's own headnote/sidebar/why-it-works
+     (dry-brine timing, doneness cues, technique). The cookbook page renders
+     numbered Steps + a "Tips & Tricks" section from these. These are mined from
+     real content — distinct from the auto-generated `ai` block below.
    - **Also generate the `ai` block** (cliffNotes + keyTips) just like a web
      fetch does — book recipes were coming through with `ai: null` and looked
      thin next to fetched ones. Run `analyzeWithAI` (from `src/recipe-fetch.js`,
@@ -254,7 +248,6 @@ Scanning every book up front is a ton of work, so don't. Two stages:
      book's *full* step-by-step lives in the physical book; the captured `method`
      is a faithful summary for shopping/planning, and the AI tips add the
      technique guidance — don't pad the steps with invented detail.
->>>>>>> origin/main
 
 Rules for the workflow:
 - **Never fabricate ingredients** from a title or memory — a placeholder carries

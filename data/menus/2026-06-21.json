@@ -944,19 +944,9 @@
           "unit": "",
           "category": "produce",
           "note": "for juice"
-        },
-        {
-          "item": "crusty bread (or rice), for serving",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery"
         }
       ],
-<<<<<<< HEAD
-      "notes": "Spanish-Style Braised Chicken and Almonds / pollo en pepitoria (Complete Mediterranean, ATK p.295). Brown thighs; soften onions then garlic+bay+cinnamon; braise in wine + tomatoes until tender. Thicken with a picada of ground toasted almonds + hard-cooked egg yolks; finish with parsley + lemon, garnish with chopped egg whites."
-=======
-      "notes": "From the Complete Mediterranean (ATK p.295), scanned. Carb: serve with crusty bread or rice to soak up the almond-tomato sauce. Veg: the arugula-fennel-orange salad on this day."
->>>>>>> origin/main
+      "notes": "Spanish-Style Braised Chicken and Almonds / pollo en pepitoria (Complete Mediterranean, ATK p.295). Brown thighs; soften onions then garlic+bay+cinnamon; braise in wine + tomatoes. Thicken with a picada of ground toasted almonds + hard-cooked egg yolks; finish with parsley + lemon, garnish with chopped egg whites."
     },
     {
       "id": "arugula-fennel-and-orange-salad-6e1d0edb",
