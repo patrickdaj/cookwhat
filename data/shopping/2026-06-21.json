@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T21:10:15.151Z",
+  "generatedAt": "2026-06-19T21:40:42.168Z",
   "targetServings": null,
   "sections": [
     {
@@ -68,6 +68,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Lemon-Herb Orzo"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh ginger",
           "qty": 1,
           "unit": "knob",
@@ -84,6 +94,16 @@
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Lemon-Herb Orzo"
           ],
           "hasUnquantified": false
         },
@@ -110,14 +130,16 @@
         },
         {
           "item": "garlic",
-          "qty": 9,
+          "qty": 15,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Cashew Chicken"
+            "Cashew Chicken",
+            "Lemon-Herb Orzo",
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -173,12 +195,13 @@
         },
         {
           "item": "lemon",
-          "qty": 2.5,
+          "qty": 3.5,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Haricots Verts with Butter and Shallots",
             "Pork Chops Milanese with Amatriciana",
+            "Lemon-Herb Orzo",
             "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
@@ -190,6 +213,16 @@
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -322,6 +355,16 @@
           "category": "produce",
           "fromMeals": [
             "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "small",
+          "category": "produce",
+          "fromMeals": [
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -482,16 +525,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "crusty bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "crusty Italian bread",
           "qty": 1,
           "unit": "loaf",
@@ -506,6 +539,16 @@
     {
       "category": "pantry",
       "items": [
+        {
+          "item": "basmati rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Saffron Rice"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "canola oil",
           "qty": 2,
@@ -629,6 +672,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "orzo pasta",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Lemon-Herb Orzo"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "ouzo",
           "qty": 3,
           "unit": "tbsp",
@@ -645,6 +698,16 @@
           "category": "pantry",
           "fromMeals": [
             "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "saffron threads",
+          "qty": 1,
+          "unit": "pinch",
+          "category": "pantry",
+          "fromMeals": [
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -689,12 +752,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "white rice",
+          "item": "vegetable or chicken broth",
           "qty": 1.5,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Spanish-Style Braised Chicken and Almonds"
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -781,11 +844,12 @@
       "items": [
         {
           "item": "bay leaf",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "spices",
           "fromMeals": [
-            "Spanish-Style Braised Chicken and Almonds"
+            "Spanish-Style Braised Chicken and Almonds",
+            "Saffron Rice"
           ],
           "hasUnquantified": false
         },
@@ -880,5 +944,5 @@
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 81
+  "totalItems": 87
 }

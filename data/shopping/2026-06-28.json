@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-19T21:10:15.216Z",
+  "generatedAt": "2026-06-19T21:40:42.238Z",
   "targetServings": null,
   "sections": [
     {
@@ -73,6 +73,16 @@
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh lemongrass",
+          "qty": 2,
+          "unit": "stalk",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
@@ -158,11 +168,11 @@
         },
         {
           "item": "garlic",
-          "qty": 26,
+          "qty": 24,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Roasted Lemongrass Chicken Thighs",
             "Garlic Green Beans",
             "Spiced Vegetable Couscous",
             "Garlic Baby Bok Choy",
@@ -249,10 +259,11 @@
         },
         {
           "item": "lime",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
@@ -300,31 +311,21 @@
         },
         {
           "item": "shallots",
-          "qty": 3,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "Thai bird or Holland chilies",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Thai or holy basil",
+          "item": "Thai basil",
           "qty": 1,
           "unit": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
@@ -355,21 +356,12 @@
       "items": [
         {
           "item": "bone-in, skin-on chicken thighs",
-          "qty": 8,
+          "qty": 14,
           "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs",
             "Miso Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ground chicken",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false
         },
@@ -540,11 +532,11 @@
         },
         {
           "item": "fish sauce",
-          "qty": 1,
+          "qty": 3,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
@@ -570,11 +562,11 @@
         },
         {
           "item": "jasmine rice",
-          "qty": 2,
+          "qty": 1.5,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
@@ -585,6 +577,16 @@
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs"
           ],
           "hasUnquantified": false
         },
@@ -715,16 +717,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "low-sodium chicken broth",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "white miso",
           "qty": 0.5,
           "unit": "cup",
@@ -798,9 +790,8 @@
     }
   ],
   "excludedStaples": [
-    "soy sauce",
-    "sugar",
     "vegetable oil",
+    "soy sauce",
     "extra-virgin olive oil",
     "salt",
     "extra-virgin olive oil (for fish)",
@@ -812,5 +803,5 @@
     "black pepper"
   ],
   "pendingScans": [],
-  "totalItems": 74
+  "totalItems": 73
 }

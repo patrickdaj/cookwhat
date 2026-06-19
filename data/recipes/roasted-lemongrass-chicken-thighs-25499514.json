@@ -1,0 +1,46 @@
+{
+  "mealId": "roasted-lemongrass-chicken-thighs-25499514",
+  "fetchedAt": "2026-06-19",
+  "source": "The Woks of Life",
+  "url": "https://thewoksoflife.com/lemongrass-chicken/",
+  "name": "Roasted Lemongrass Chicken Thighs (Mild)",
+  "description": "The Woks of Life's one-pan roasted lemongrass chicken thighs — a fragrant Vietnamese-style marinade of lemongrass, shallot, garlic, fish sauce, oyster sauce, and lime, blitzed smooth and roasted with the chicken into a sticky pan sauce. Made MILD here (red pepper flakes omitted) for a guest-friendly dinner.",
+  "recipeIngredient": [
+    "3 tablespoons canola or vegetable oil (for the marinade)",
+    "3 tablespoons fish sauce",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon red pepper flakes — OMIT for a mild version",
+    "1 tablespoon sugar",
+    "2 shallots, peeled",
+    "3 garlic cloves",
+    "2 stalks fresh lemongrass, cut into pieces",
+    "1 lime, zested",
+    "8 chicken thighs, bone-in, skin-on (use ~6 for 4-5 servings)",
+    "2 tablespoons canola or vegetable oil (for cooking)",
+    "Jasmine rice, to serve"
+  ],
+  "recipeInstructions": [
+    "Combine the first 9 marinade ingredients (oil, fish sauce, oyster sauce, red pepper flakes [omit for mild], sugar, shallots, garlic, lemongrass, lime zest) in a food processor until smooth. Coat the chicken thighs, cover, and refrigerate 1-4 hours.",
+    "Preheat the oven to 350F/175C.",
+    "Heat the remaining 2 tablespoons oil in a 12-inch ovenproof skillet over medium-high. Place the chicken skin-side down and cook 4 minutes.",
+    "Flip the chicken, add the reserved marinade to the skillet, transfer to the oven, and roast 25-30 minutes until cooked through.",
+    "Brush the accumulated pan drippings over the chicken. Serve over jasmine rice with lime wedges (and Thai basil if you like)."
+  ],
+  "prepTime": "PT1H25M",
+  "cookTime": "PT35M",
+  "totalTime": "PT2H",
+  "recipeYield": "8 servings (scale down)",
+  "image": "",
+  "author": "The Woks of Life",
+  "ai": {
+    "cliffNotes": "Blitz a lemongrass-shallot-garlic-fish-sauce marinade, soak the thighs 1-4 hrs, then sear skin-side down and roast with the marinade into a sticky pan sauce. Mild when you skip the pepper flakes; spoon the drippings over jasmine rice.",
+    "keyTips": [
+      "For a guest who's heat-averse, just omit the red pepper flakes — that's the only source of heat; the dish is all fragrance (lemongrass, lime, shallot) without it.",
+      "Don't discard the marinade — it goes into the pan with the chicken and roasts down into a sticky, crispy, delicious sauce.",
+      "Sear the thighs skin-side down first to seal in the juices (and render the skin) before they go in the oven, so the meat stays moist.",
+      "The pan drippings are the payoff — brush them back over the chicken and spoon them over steamed jasmine rice (or a noodle salad).",
+      "Marinate ahead (1-4 hrs) so the only weeknight work is the 4-minute sear plus a hands-off roast — active time stays low."
+    ],
+    "source": "Claude (prose-mined from The Woks of Life article)"
+  }
+}

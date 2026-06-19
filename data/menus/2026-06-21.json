@@ -811,16 +811,66 @@
           "qty": 2,
           "unit": "tbsp",
           "category": "produce"
-        },
-        {
-          "item": "crusty bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "to sop the sauce (or serve over orzo/rice)"
         }
       ],
       "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.269. Shrimp braised in a tomato-feta sauce; serve over orzo or with crusty bread (carb). The tomato braise is the vegetable — a complete one-dish Greek meal. (Replaces the American bacon-wrapped shrimp + coleslaw + corn.)"
+    },
+    {
+      "id": "lemon-herb-orzo-71ea35e5",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Lemon-Herb Orzo",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/orzo-pasta-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "quick",
+        "fresh-web"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "orzo pasta",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Replaces the crusty bread under the Greek shrimp — toasted orzo finished with garlic, lemon, parsley & dill. Kept as a plain lemon-herb orzo (HOLD the sun-dried tomatoes & parmesan from the source recipe, since the shrimp is already tomato-feta rich). 15 min."
     },
     {
       "id": "spanish-style-braised-chicken-with-mushrooms-and-tomatoes-ac13382e",
@@ -915,13 +965,6 @@
           "unit": "",
           "category": "produce",
           "note": "for juice"
-        },
-        {
-          "item": "white rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "to serve under the braise"
         }
       ],
       "notes": "Spanish-Style Braised Chicken and Almonds / pollo en pepitoria (Complete Mediterranean, ATK p.295). Brown thighs; soften onions then garlic+bay+cinnamon; braise in wine + tomatoes. Thicken with a picada of ground toasted almonds + hard-cooked egg yolks; finish with parsley + lemon, garnish with chopped egg whites."
@@ -1002,7 +1045,77 @@
         }
       ],
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
+    },
+    {
+      "id": "saffron-rice-c9cbffda",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Saffron Rice",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/saffron-rice/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "fresh-web"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "basmati rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "saffron threads",
+          "qty": 1,
+          "unit": "pinch",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "small",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "vegetable or chicken broth",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Replaces the plain white rice under the Spanish braised chicken — saffron-scented basmati with onion, garlic, and bright lime zest. The natural carb to soak up the pollo en pepitoria almond sauce."
     }
   ],
-  "setAt": "2026-06-19T21:10:15.182Z"
+  "setAt": "2026-06-19T21:40:42.201Z"
 }
