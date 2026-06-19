@@ -113,6 +113,54 @@ export function checkPlan(menu, cfg) {
     }
   }
 
+  // Rice / carb variety (cfg.carbRules). Rice = the carb on a dinner; risotto is
+  // exempt (it's its own beloved dish, not "another night of rice"). Detection is
+  // heuristic — it scans dinner dishes' titles + ingredient items.
+  const cr = cfg.carbRules;
+  if (cr) {
+    const riceRe = /\b(white rice|jasmine rice|basmati rice|short-?grain rice|long-?grain rice|brown rice|fried rice|rice pilaf|sushi rice|steamed rice|rice)\b/i;
+    const notRice = /rice (vinegar|wine|paper|noodle|flour)|risotto|arborio|vermicelli/i;
+    const whiteRe = /\b(white|jasmine|short-?grain|long-?grain|steamed|basmati)\s+rice\b|(^|\|)\s*rice\s*($|\|)/i;
+    const variety = /\b(brown rice|fried rice|rice pilaf|wild rice|sushi rice)\b/i;
+    const byDay = {};
+    for (const m of dishes) {
+      if ((m.slot || "dinner") !== "dinner") continue;
+      const tokens = [m.title, ...(m.ingredients || []).map((i) => i.item)];
+      for (const tok of tokens) {
+        if (!tok || !riceRe.test(tok) || notRice.test(tok)) continue;
+        byDay[m.day] = byDay[m.day] || { white: false, other: false };
+        if (variety.test(tok)) byDay[m.day].other = true;
+        else if (whiteRe.test("|" + tok + "|")) byDay[m.day].white = true;
+        else byDay[m.day].other = true;
+      }
+    }
+    const riceDays = Object.keys(byDay).sort(
+      (a, b) => (DAY_ORDER[a] || 9) - (DAY_ORDER[b] || 9)
+    );
+    const n = riceDays.length;
+    const softMax = cr.riceMaxPerWeek ?? 3;
+    const hardMax = cr.riceHardMaxPerWeek ?? 4;
+    if (n > hardMax) {
+      errors.push(`Rice ${n}× exceeds the hard max ${hardMax}/week — cut some back.`);
+    } else if (n > softMax) {
+      const allWhite = riceDays.every((d) => byDay[d].white && !byDay[d].other);
+      if (allWhite && cr.fourthRiceMustNotBeAllWhite)
+        errors.push(`Rice ${n}× and all plain white rice — vary it (brown/fried/pilaf) or drop one.`);
+      else
+        warnings.push(`Rice ${n}× is over the soft max ${softMax}/week (ok up to ${hardMax} with variety).`);
+    }
+    if (cr.noRiceThreeDaysInRow) {
+      let run = 1;
+      for (let i = 1; i < riceDays.length; i++) {
+        if ((DAY_ORDER[riceDays[i]] || 0) === (DAY_ORDER[riceDays[i - 1]] || 0) + 1) {
+          run++;
+          if (run === 3)
+            warnings.push(`Rice 3 days in a row (${riceDays[i - 2]}–${riceDays[i]}) — break it up (risotto doesn't count).`);
+        } else run = 1;
+      }
+    }
+  }
+
   // Disliked / allergen ingredients (check every dish, including sides)
   const blocked = [
     ...cfg.ingredients.allergies.map((x) => ({ x, kind: "allergy" })),

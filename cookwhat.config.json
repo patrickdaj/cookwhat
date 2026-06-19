@@ -119,6 +119,13 @@
       ]
     }
   },
+  "carbRules": {
+    "riceMaxPerWeek": 3,
+    "riceHardMaxPerWeek": 4,
+    "fourthRiceMustNotBeAllWhite": true,
+    "noRiceThreeDaysInRow": true,
+    "risottoExempt": true
+  },
   "ingredients": {
     "dislikes": [
       "liver",

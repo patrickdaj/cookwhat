@@ -304,6 +304,14 @@ make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
   stew is fine). So don't blanket-ban swordfish; just avoid grilling it.
 - Stay within `proteinRules` (e.g. `redMeatMaxPerWeek`). `plan check` enforces
   these; a failing check blocks `plan set`.
+- **Carb variety — rice (`carbRules`).** Rice as the dinner carb is capped at
+  **3 nights/week** (soft); **4 is allowed only if they're not all plain white
+  rice** — mix in brown/fried/pilaf for the 4th, or 4-all-white is a ✗. **Never
+  rice 3 days in a row.** **Risotto is exempt** — it's its own (loved) dish, not
+  "another night of rice," so it doesn't count toward the cap *or* break-the-run.
+  `plan check` enforces this (rice detection is heuristic, scanning dinner
+  dishes' titles + ingredients); when you design a week, vary the starch so it
+  isn't white rice night after night.
 - Use only `preferredSites` unless the user asks otherwise; never use
   `avoidSites`.
 - Real URLs only — **except** recipes sourced from the user's catalogued
