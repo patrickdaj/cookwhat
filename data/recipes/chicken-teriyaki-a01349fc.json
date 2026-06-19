@@ -1,0 +1,48 @@
+{
+  "mealId": "chicken-teriyaki-a01349fc",
+  "fetchedAt": "2026-06-19",
+  "source": "Just One Cookbook",
+  "url": "https://www.justonecookbook.com/chicken-teriyaki/",
+  "name": "Chicken Teriyaki",
+  "description": "Just One Cookbook's classic Japanese Chicken Teriyaki — pan-seared chicken thighs glazed in a simple 4-ingredient homemade teriyaki sauce that cooks right in the pan and caramelizes to a shiny glaze. No bottled sauce, no cornstarch. Serve over steamed rice.",
+  "recipeIngredient": [
+    "3/4–1 lb boneless chicken thighs (skin-on preferred)",
+    "1/8 tsp Diamond Crystal kosher salt",
+    "1/8 tsp freshly ground black pepper",
+    "1 Tbsp neutral oil",
+    "2 Tbsp soy sauce",
+    "2 Tbsp mirin",
+    "2 Tbsp sake",
+    "1 Tbsp sugar",
+    "Steamed Japanese short-grain rice, to serve"
+  ],
+  "recipeInstructions": [
+    "Combine the sauce ingredients (soy sauce, mirin, sake, sugar) in a microwave-safe bowl; microwave until hot and the sugar dissolves. Set aside.",
+    "Place the thighs smooth side down. Score the meat every 1/2 inch without cutting through (deeper slits on the thick parts), pressing to flatten to an even thickness after each cut.",
+    "Season the chicken lightly with salt and pepper.",
+    "Heat a large frying pan over medium-high. Add the oil; when hot, lay the chicken smooth side down. Cook 5 minutes, pressing firmly with a spatula for a good sear.",
+    "Flip, press again 5–10 seconds, then reduce to low, cover, and steam 3 minutes.",
+    "Remove the lid; wipe excess grease and protein from the pan with a paper towel.",
+    "Raise heat to medium and add the teriyaki sauce. Tilt the pan and spoon the sauce over the chicken repeatedly until well coated and cooked through; transfer the chicken to a board.",
+    "Keep cooking the sauce until thickened to a glaze; pour into a bowl.",
+    "Slice the chicken into bite-size pieces (sear with a torch or under the broiler if you like). Serve over steamed rice, drizzled with the sauce."
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "2 servings",
+  "image": "",
+  "author": "Namiko Chen / Just One Cookbook",
+  "ai": {
+    "cliffNotes": "Pan-seared chicken thighs glazed in a homemade soy-mirin-sake-sugar teriyaki that reduces in the pan to a shiny glaze — under 20 minutes, no bottled sauce. Serve over rice with a simple green.",
+    "keyTips": [
+      "Score and flatten the thighs to an even thickness — uneven thighs cook unevenly and dry out at the thin edges; flattening gives you juicy, evenly-cooked meat.",
+      "Use skin-on thighs if you can: the skin acts as a protective layer that keeps the meat juicy, and the rendered fat helps the glaze cling.",
+      "Pat the chicken dry and sear skin/smooth side down first, pressing with a spatula — dry skin sears crisper and faster.",
+      "After searing, cover and steam 3 minutes to cook through gently without overcooking, then wipe the excess grease so the sauce glazes instead of greasing.",
+      "No cornstarch — let the sauce reduce naturally; the sugar caramelizes into the glossy teriyaki shine. Spoon it over the chicken repeatedly (an extra step, but it's what builds the lacquered finish).",
+      "Balance the richness at the table with steamed rice plus a simple green (blanched green beans) or a cucumber salad."
+    ],
+    "source": "Claude (prose-mined from the Just One Cookbook article)"
+  }
+}

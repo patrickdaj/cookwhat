@@ -1,0 +1,59 @@
+{
+  "mealId": "cashew-chicken-a4b4e723",
+  "fetchedAt": "2026-06-19",
+  "source": "The Woks of Life",
+  "url": "https://thewoksoflife.com/cashew-chicken/",
+  "name": "Cashew Chicken",
+  "description": "The Woks of Life's restaurant-style Cantonese cashew chicken — velveted chicken stir-fried with bell pepper, water chestnuts, scallions, and roasted cashews in a glossy honey-hoisin-soy sauce. Serve over steamed rice.",
+  "recipeIngredient": [
+    "1 lb boneless skinless chicken breast, cut into 1-inch pieces",
+    "1 Tbsp cornstarch",
+    "3 Tbsp water",
+    "1 tsp neutral oil",
+    "2 tsp oyster sauce",
+    "1/2 cup low-sodium chicken stock",
+    "1 1/2 Tbsp honey",
+    "2 Tbsp light soy sauce",
+    "1 tsp hoisin sauce",
+    "1 tsp dark soy sauce",
+    "1/2 tsp rice wine vinegar",
+    "1/2 tsp sesame oil",
+    "1/8 tsp ground white pepper",
+    "3 Tbsp neutral oil, divided",
+    "1 tsp ginger, grated",
+    "2 cloves garlic, minced",
+    "1/2 cup red bell pepper, chopped (bump to 1 whole pepper for more veg)",
+    "1/2 cup scallions, chopped",
+    "1/2 cup water chestnuts, cut into 1/2-inch pieces",
+    "1 1/2 Tbsp Shaoxing wine",
+    "1 cup unsalted cashews, roasted at 350F for 5 minutes",
+    "2 Tbsp cornstarch mixed with 2 Tbsp water (slurry)",
+    "Steamed jasmine rice, to serve"
+  ],
+  "recipeInstructions": [
+    "Velvet the chicken: mix with cornstarch, 3 Tbsp water, oil, and oyster sauce until the liquid is absorbed. Combine all the sauce ingredients in a separate bowl. Have everything ready before firing up the wok.",
+    "Heat a wok over high heat until smoking. Add 2 Tbsp oil around the perimeter. Cook the marinated chicken about 1 minute per side until ~80% cooked; transfer to a bowl.",
+    "Add the remaining 1 Tbsp oil with the ginger; fry 5 seconds. Add garlic, then immediately the bell pepper, scallions, and water chestnuts. Stir-fry 30 seconds.",
+    "Pour the Shaoxing wine around the wok perimeter; stir-fry 10 seconds.",
+    "Pour in the prepared sauce, deglazing the wok sides. Add the cooked chicken and its juices, bring to a simmer, then add the roasted cashews.",
+    "Stir the cornstarch slurry and add about three-quarters; simmer, stirring, until the sauce thickens and coats evenly. Adjust thickness to preference.",
+    "Plate and serve immediately over steamed rice."
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "6 servings",
+  "image": "",
+  "author": "The Woks of Life",
+  "ai": {
+    "cliffNotes": "Velveted chicken + a balanced honey/hoisin/soy sauce + roasted cashews, stir-fried fast in a screaming-hot wok and served over rice. A complete one-pan meal with the pepper, water chestnuts, and scallions as the veg.",
+    "keyTips": [
+      "Velveting is the tenderness secret — work the cornstarch + 3 Tbsp water into the chicken until the liquid is fully absorbed; that extra water keeps the breast moist and tender even after high-heat stir-frying.",
+      "Roast the cashews at 350F for 5 minutes before they go in — toasting deepens their flavor and keeps them crunchy in the sauce.",
+      "The sauce is built on hoisin + honey balanced by a little rice vinegar — the acid cuts the richness so it doesn't read as cloying. Mix it in a bowl ahead so you can pour it in fast.",
+      "Mise en place is everything here: the whole stir-fry is over in a couple of minutes once the wok is hot, so have the chicken, aromatics, veg, sauce, and slurry all prepped and within reach before you start.",
+      "Add the cornstarch slurry gradually (about three-quarters first) and judge the thickness — you can always add more, but you can't thin a gluey sauce."
+    ],
+    "source": "Claude (prose-mined from The Woks of Life article)"
+  }
+}

@@ -509,82 +509,118 @@
       "notes": "Real Japanese veg side for the yellowtail (the shishito were only a garnish): blanched spinach dressed in nutty ground-sesame sauce."
     },
     {
-      "id": "honey-mustard-sheet-pan-chicken-c38aa993",
+      "id": "cashew-chicken-a4b4e723",
       "day": "Wed",
       "slot": "dinner",
       "role": "main",
-      "title": "Honey Mustard Sheet-Pan Chicken",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416",
-      "cuisine": "american",
+      "title": "Cashew Chicken",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/cashew-chicken/",
+      "cuisine": "chinese",
       "protein": "chicken",
       "tags": [
         "weeknight",
-        "sheet-pan",
-        "redo"
+        "asian",
+        "stir-fry",
+        "fresh-web"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "boneless skinless chicken thighs",
+          "item": "boneless skinless chicken breast",
           "qty": 1.5,
           "unit": "lb",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "asparagus",
+          "item": "red bell pepper",
           "qty": 1,
-          "unit": "lb",
+          "unit": "",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "frisée or mixed greens",
+          "item": "scallions",
           "qty": 1,
-          "unit": "head",
+          "unit": "bunch",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "crusty sourdough bread",
-          "qty": 6,
-          "unit": "oz",
-          "category": "bakery",
-          "note": ""
+          "item": "water chestnuts",
+          "qty": 1,
+          "unit": "can",
+          "category": "pantry",
+          "note": "8 oz, drained"
         },
         {
-          "item": "stoneground mustard",
-          "qty": 0.25,
+          "item": "unsalted cashews",
+          "qty": 1,
           "unit": "cup",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "honey",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "red wine vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 2,
+          "qty": 3,
           "unit": "clove",
           "category": "produce",
           "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "steamed, to serve"
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "hoisin sauce",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken stock",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
         }
       ],
-      "notes": "4-star redo (replaces the Thai stir-fry to avoid duplicating next week's Pad Krapow). Sheet-pan chicken thighs roast with asparagus + bread croutons, tossed with honey-mustard greens. Complete meal: chicken + asparagus/greens (veg) + croutons (carb)."
+      "notes": "Restaurant-style Cantonese stir-fry. Complete one-pan meal: chicken + bell pepper/water chestnuts/scallion (veg) over steamed rice (carb). Velvet the chicken (cornstarch + water) for tenderness; roast cashews 350F/5min; have all mise en place ready before the wok gets hot."
     },
     {
       "id": "pork-chops-milanese-with-amatriciana-c8263a73",
@@ -684,172 +720,25 @@
       "notes": "Breaded pork over quick amatriciana. Veg: dressed arugula + lemon on top. Carb: breadcrumb crust + crusty bread."
     },
     {
-      "id": "championship-bacon-wrapped-stuffed-shrimp-15be6c0e",
+      "id": "greek-style-shrimp-with-tomatoes-and-feta-3f21e33b",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Championship Bacon-Wrapped Stuffed Shrimp",
-      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.344",
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
       "sourceUrl": "",
-      "cuisine": "american",
+      "cuisine": "mediterranean",
       "protein": "shrimp",
       "tags": [
-        "weeknight",
-        "grill"
+        "needs-scan",
+        "mediterranean",
+        "seafood"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "large shrimp (16/20), shell-on",
-          "qty": 20,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "bacon (pepper-crusted)",
-          "qty": 20,
-          "unit": "slice",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "jalapeños",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cream cheese",
-          "qty": 8,
-          "unit": "oz",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "Thai sweet chili sauce",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "chives or parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Stuff each shrimp with cream cheese + jalapeño, wrap in bacon, grill two-zone, glaze with sweet chili."
-    },
-    {
-      "id": "classic-coleslaw-ea6b29f4",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Classic Coleslaw",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/creamy-cole-slaw",
-      "cuisine": "american",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "make-ahead"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "green cabbage",
-          "qty": 1,
-          "unit": "small head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "apple cider vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Salt-and-drain the cabbage first for a crisp, non-watery slaw. Veg for Friday's plate."
-    },
-    {
-      "id": "easy-grilled-corn-on-the-cob-08edb2a9",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Easy Grilled Corn on the Cob",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/easiest-grilled-corn-ever/",
-      "cuisine": "american",
-      "protein": "corn",
-      "tags": [
-        "side",
-        "grill"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "corn on the cob",
-          "qty": 4,
-          "unit": "ear",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "butter",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": ""
-        }
-      ],
-      "notes": "Goes on the grill alongside the shrimp. Carb for Friday's plate."
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.269 to capture real ingredients + steps + tips. Shrimp braised in a tomato-feta sauce; serve over orzo or with crusty bread (carb). The tomato braise is the vegetable — a complete one-dish Greek meal. (Replaces the American bacon-wrapped shrimp + coleslaw + corn.)"
     },
     {
       "id": "spanish-style-braised-chicken-with-mushrooms-and-tomatoes-ac13382e",
@@ -1026,5 +915,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-18T04:41:50.374Z"
+  "setAt": "2026-06-19T18:51:58.118Z"
 }

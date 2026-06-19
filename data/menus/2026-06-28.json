@@ -269,115 +269,46 @@
       "notes": "Blister the green beans in a hot wok, toss with lots of garlic + a splash of soy. A real green for the Thai basil chicken plate."
     },
     {
-      "id": "grilled-shrimp-tacos-with-creamy-slaw-559e525e",
+      "id": "pan-roasted-halibut-with-chermoula-178bd7f8",
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Shrimp Tacos with Creamy Slaw",
-      "source": "Isabel Eats",
-      "sourceUrl": "https://www.isabeleats.com/grilled-shrimp-tacos-with-creamy-slaw/",
-      "cuisine": "mexican",
-      "protein": "shrimp",
+      "title": "Pan-Roasted Halibut with Chermoula",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.247",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "halibut",
       "tags": [
-        "weeknight"
+        "needs-scan",
+        "mediterranean",
+        "seafood"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "green cabbage",
-          "qty": 4,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "corn",
-          "qty": 2,
-          "unit": "ear",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cilantro",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "limes",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "corn tortillas",
-          "qty": 8,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "cotija cheese",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "sour cream",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "tequila",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "ancho chili powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.247 (the Halibut-with-Chermoula recipe, not the Provençal Braised Hake on the same page). Pan-roasted halibut with North African chermoula herb sauce. Pair with the Spiced Vegetable Couscous side for carb + veg. (Replaces the Mexican grilled shrimp tacos.)"
+    },
+    {
+      "id": "spiced-vegetable-couscous-71e4d377",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spiced Vegetable Couscous",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "needs-scan",
+        "mediterranean",
+        "side"
       ],
-      "notes": "Quick-marinate and grill the shrimp; pile into tortillas (carb) with creamy cabbage slaw (veg) and grilled corn."
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.162. Carb + veg in one: couscous studded with vegetables, the classic North African pairing for chermoula fish."
     },
     {
       "id": "miso-chicken-4a535807",
@@ -584,158 +515,68 @@
       "notes": "Easy packing-day sheet-pan: salmon + green beans roast together, minimal cleanup. Full plate: salmon + green beans (veg) + rice (carb). Uncooked Paprika pick (new to you)."
     },
     {
-      "id": "cornell-chicken-2d98ccdf",
+      "id": "grilled-chicken-alla-diavola-2af36a14",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Cornell Chicken",
-      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.298",
+      "title": "Grilled Chicken alla Diavola",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
       "sourceUrl": "",
-      "cuisine": "american",
+      "cuisine": "italian",
       "protein": "chicken",
       "tags": [
-        "weeknight",
+        "needs-scan",
+        "mediterranean",
         "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "whole chicken, cut into quarters (3-4 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "egg",
-          "qty": 1,
-          "unit": "",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "apple cider vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "vegetable oil",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Classic upstate-NY grilled chicken. Whisk egg, oil, vinegar, salt, S&G rub, pepper into a marinade; marinate 3-24 hrs (start the night before). Grill indirect ~325F until breasts 160F / thighs 165F. Mountains BBQ night."
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.299. Grilled (spatchcocked) spicy chili-lemon chicken — a summer grill night. Pair with the Greek garlic-lemon potatoes (carb) + grilled vegetable kebabs (veg). (Replaces the American Cornell chicken + coleslaw + corn.)"
     },
     {
-      "id": "classic-coleslaw-6368dd31",
+      "id": "greek-style-garlic-lemon-potatoes-with-olives-and-feta-d817210a",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Classic Coleslaw",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/creamy-cole-slaw",
-      "cuisine": "american",
+      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "potato",
+      "tags": [
+        "needs-scan",
+        "mediterranean",
+        "side"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.222. The carb for the alla Diavola grill night."
+    },
+    {
+      "id": "grilled-vegetable-kebabs-with-grilled-lemon-d3fde77f",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.237",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "side",
-        "make-ahead"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "green cabbage",
-          "qty": 1,
-          "unit": "small head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "apple cider vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Salt-and-drain the cabbage for a crisp slaw. Veg for the BBQ plate."
-    },
-    {
-      "id": "easy-grilled-corn-on-the-cob-fb288d6f",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Easy Grilled Corn on the Cob",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/easiest-grilled-corn-ever/",
-      "cuisine": "american",
-      "protein": "corn",
-      "tags": [
+        "needs-scan",
+        "mediterranean",
         "side",
         "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "corn on the cob",
-          "qty": 4,
-          "unit": "ear",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "butter",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": ""
-        }
-      ],
-      "notes": "Straight on the grill with the chicken. Carb for the BBQ plate."
+      "ingredients": [],
+      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.237. The vegetable for the alla Diavola grill night; cooks alongside the chicken."
     },
     {
       "id": "grilled-ribeye-with-beef-butter-e578dc34",
@@ -939,5 +780,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-18T04:40:16.665Z"
+  "setAt": "2026-06-19T18:51:58.145Z"
 }

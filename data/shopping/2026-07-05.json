@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-18T04:40:16.796Z",
+  "generatedAt": "2026-06-19T18:52:17.082Z",
   "targetServings": null,
   "sections": [
     {
@@ -138,16 +138,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh parsley leaves",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "fresh parsley, chopped",
           "qty": 0.33,
           "unit": "cup",
@@ -164,26 +154,6 @@
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh rosemary leaves",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh sage leaves",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         },
@@ -234,16 +204,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "garlic, minced",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "green beans",
           "qty": 1,
           "unit": "lb",
@@ -275,7 +235,7 @@
         },
         {
           "item": "lemon",
-          "qty": 8,
+          "qty": 7,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -284,7 +244,6 @@
             "Mediterranean Tomato and Cucumber Salad",
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
-            "Buttery Lemon-Herb-Rubbed Roast Chicken",
             "Sautéed Green Beans with Garlic and Herbs",
             "Karaage (Japanese Fried Chicken)"
           ],
@@ -344,14 +303,13 @@
         },
         {
           "item": "scallions",
-          "qty": 7,
+          "qty": 6,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Dakgalbi (Spicy Korean Chicken and Vegetables)",
             "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Skillet Salmon with Quinoa, Feta, and Arugula",
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
+            "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
           "hasUnquantified": false
         },
@@ -394,16 +352,6 @@
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "Yukon Gold potatoes, halved",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -412,10 +360,11 @@
       "items": [
         {
           "item": "boneless skin-on chicken thighs",
-          "qty": 1.5,
+          "qty": 3.25,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
+            "Chicken Teriyaki",
             "Karaage (Japanese Fried Chicken)"
           ],
           "hasUnquantified": false
@@ -457,16 +406,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "whole chicken (3.5-4 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Buttery Lemon-Herb-Rubbed Roast Chicken"
           ],
           "hasUnquantified": false
         },
@@ -627,6 +566,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "mirin",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Teriyaki"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "neutral oil (for frying)",
           "qty": 4,
           "unit": "cup",
@@ -673,6 +622,27 @@
           "category": "pantry",
           "fromMeals": [
             "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sake",
+          "qty": 4.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Teriyaki",
+            "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "short-grain (Japanese) rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Teriyaki"
           ],
           "hasUnquantified": false
         },
@@ -833,16 +803,6 @@
             "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "sake",
-          "qty": 0.5,
-          "unit": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -870,5 +830,5 @@
     "butter"
   ],
   "pendingScans": [],
-  "totalItems": 79
+  "totalItems": 75
 }
