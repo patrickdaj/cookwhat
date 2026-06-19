@@ -1,0 +1,47 @@
+{
+  "mealId": "greek-style-shrimp-with-tomatoes-and-feta-3f21e33b",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+  "url": "",
+  "name": "Greek-Style Shrimp with Tomatoes and Feta",
+  "description": "Plump shrimp baked in a garlicky tomato sauce under crumbled feta — a fast Greek one-dish meal; serve over orzo or with crusty bread to catch the sauce.",
+  "recipeIngredient": [
+    "1.5 lb extra-large shrimp (21 to 25 per pound), peeled and deveined",
+    "3 tbsp ouzo",
+    "0.25 cup extra-virgin olive oil",
+    "3 garlic cloves, minced",
+    "1 tsp grated lemon zest",
+    "1 onion, chopped fine",
+    "1 red or green bell pepper, stemmed, seeded, and chopped",
+    "0.5 tsp red pepper flakes",
+    "1 can diced tomatoes (28 oz), drained with 1/2 cup juice reserved",
+    "0.25 cup dry white wine",
+    "2 tbsp chopped fresh parsley",
+    "6 oz feta cheese, crumbled (1.5 cups)",
+    "2 tbsp chopped fresh dill",
+    "salt and pepper"
+  ],
+  "recipeInstructions": [
+    "Toss shrimp in a bowl with 1 tablespoon oil, 1 tablespoon ouzo, 1 teaspoon of the garlic, the lemon zest, 1/4 teaspoon salt, and 1/8 teaspoon pepper; set aside.",
+    "Heat 2 tablespoons oil in a 12-inch skillet over medium heat until shimmering. Add onion, bell pepper, and 1/4 teaspoon salt; cover and cook, stirring occasionally, until the vegetables release their liquid, 3 to 5 minutes. Uncover and cook until the liquid evaporates and the vegetables soften, about 5 minutes. Stir in the remaining garlic and the pepper flakes and cook until fragrant, about 1 minute.",
+    "Stir in the tomatoes and reserved juice, wine, and remaining 2 tablespoons ouzo. Bring to a simmer and cook, stirring occasionally, until the flavors meld and the sauce is slightly thickened (it should not be completely dry), 5 to 8 minutes. Stir in the parsley and season with salt and pepper to taste.",
+    "Reduce heat to medium-low and add the shrimp with any accumulated juices; stir to coat and distribute evenly. Cover and cook, stirring occasionally, until the shrimp are opaque throughout, 6 to 9 minutes, adjusting heat to maintain a bare simmer. Off heat, sprinkle with feta and dill and drizzle with the remaining 1 tablespoon oil. Serve."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4 to 6",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Plump shrimp baked in a garlicky tomato sauce under crumbled feta — a fast Greek one-dish meal; serve over orzo or with crusty bread to catch the sauce.",
+    "keyTips": [
+      "Toss the shrimp with ouzo, garlic, and lemon zest first — it infuses them with bright anise flavor while you build the sauce.",
+      "Cook the shrimp gently right in the sauce over medium-low at a bare simmer (6 to 9 minutes) so they stay tender instead of turning rubbery.",
+      "Keep the sauce slightly saucy — do not cook it completely dry.",
+      "No ouzo? Substitute Pernod, or vodka plus 1 teaspoon anise seeds.",
+      "Serve over steamed white rice and/or with crusty bread to catch the sauce."
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

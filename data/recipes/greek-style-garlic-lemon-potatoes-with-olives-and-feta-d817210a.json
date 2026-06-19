@@ -1,0 +1,36 @@
+{
+  "mealId": "greek-style-garlic-lemon-potatoes-with-olives-and-feta-d817210a",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
+  "url": "",
+  "name": "Greek-Style Garlic-Lemon Potatoes",
+  "description": "Yukon Golds simmered then roasted in a bright garlic-lemon-olive oil bath until creamy inside and golden — the carb for the grill night.",
+  "recipeIngredient": [
+    "2 lb Yukon Gold potatoes, peeled and cut into 1-inch pieces",
+    "1/3 cup extra-virgin olive oil",
+    "6 garlic cloves, minced",
+    "1 tsp grated lemon zest + 3 tbsp juice (about 2 lemons)",
+    "salt and pepper",
+    "2 tbsp minced fresh parsley"
+  ],
+  "recipeInstructions": [
+    "Heat 2 tbsp of the oil in a 12-inch nonstick skillet over medium-high. Add the potatoes, 1/2 cup water, and 1/2 tsp salt; cover and cook until the edges start to turn translucent.",
+    "Reduce to medium-low and cook, covered, until tender, stirring occasionally.",
+    "Off heat, whisk the remaining oil with the garlic and lemon zest + juice; toss with the potatoes, finish with parsley, salt, and pepper, and serve."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Yukon Golds simmered then roasted in a bright garlic-lemon-olive oil bath until creamy inside and golden — the carb for the grill night.",
+    "keyTips": [
+      "Covered cooking with a little water then finishing uncovered gives tender insides without deep-frying.",
+      "Add the raw garlic + lemon off the heat so they stay bright, not bitter/scorched.",
+      "Variation - Olives & Feta: stir in 1/2 cup crumbled feta + 1/4 cup chopped pitted kalamata olives with the parsley."
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

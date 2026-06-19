@@ -730,15 +730,96 @@
       "cuisine": "mediterranean",
       "protein": "shrimp",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "seafood"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.269 to capture real ingredients + steps + tips. Shrimp braised in a tomato-feta sauce; serve over orzo or with crusty bread (carb). The tomato braise is the vegetable — a complete one-dish Greek meal. (Replaces the American bacon-wrapped shrimp + coleslaw + corn.)"
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21 to 25 per pound), peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic cloves, minced",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "grated lemon zest",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce"
+        },
+        {
+          "item": "onion, chopped fine",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red or green bell pepper, stemmed, seeded, and chopped",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "can diced tomatoes (28 oz), drained with 1/2 cup juice reserved",
+          "qty": 1,
+          "category": "canned"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "chopped fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "feta cheese, crumbled (1.5 cups)",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "chopped fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "to sop the sauce (or serve over orzo/rice)"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.269. Shrimp braised in a tomato-feta sauce; serve over orzo or with crusty bread (carb). The tomato braise is the vegetable — a complete one-dish Greek meal. (Replaces the American bacon-wrapped shrimp + coleslaw + corn.)"
     },
     {
       "id": "spanish-style-braised-chicken-with-mushrooms-and-tomatoes-ac13382e",
@@ -833,6 +914,13 @@
           "unit": "",
           "category": "produce",
           "note": "for juice"
+        },
+        {
+          "item": "white rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "to serve under the braise"
         }
       ],
       "notes": "Spanish-Style Braised Chicken and Almonds / pollo en pepitoria (Complete Mediterranean, ATK p.295). Brown thighs; soften onions then garlic+bay+cinnamon; braise in wine + tomatoes. Thicken with a picada of ground toasted almonds + hard-cooked egg yolks; finish with parsley + lemon, garnish with chopped egg whites."
@@ -915,5 +1003,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-19T18:51:58.118Z"
+  "setAt": "2026-06-19T20:40:44.772Z"
 }

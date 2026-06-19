@@ -1,0 +1,40 @@
+{
+  "mealId": "spiced-vegetable-couscous-71e4d377",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
+  "url": "",
+  "name": "Spiced Vegetable Couscous",
+  "description": "Couscous tossed with ras el hanout–spiced cauliflower and pepper — carb + veg in one bowl, the classic pairing for chermoula fish.",
+  "recipeIngredient": [
+    "1 head cauliflower (~2 lb), cut into 1-inch florets",
+    "6 tbsp extra-virgin olive oil",
+    "salt and pepper",
+    "1 red bell pepper, stemmed/seeded, cut into 1/2-inch pieces",
+    "2 tsp ras el hanout",
+    "1 1/2 cups couscous",
+    "1 garlic clove, minced",
+    "1 tsp grated lemon zest (+ lemon wedges to serve)",
+    "1 cup chicken or vegetable broth"
+  ],
+  "recipeInstructions": [
+    "Toss the cauliflower with 3 tbsp oil, salt, and pepper; cook in a skillet until browned and just tender, then set aside.",
+    "Add 2 tbsp oil and the bell pepper; cook until softened, then stir in the ras el hanout and garlic until fragrant.",
+    "Add the couscous and toast briefly; stir in the broth + lemon zest, cover, and remove from the heat.",
+    "Off heat ~7 min, then fluff, fold the cauliflower back in, season, and serve with lemon wedges."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Couscous tossed with ras el hanout–spiced cauliflower and pepper — carb + veg in one bowl, the classic pairing for chermoula fish.",
+    "keyTips": [
+      "Brown the cauliflower hard for caramelized, nutty flavor; fold it back in at the end so it stays crisp-tender.",
+      "Bloom the ras el hanout (catalog p.316) in oil for warm Moroccan depth.",
+      "(Quantities best-effort from a tight photo - verify on a clearer scan.)"
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "mealId": "grilled-chicken-alla-diavola-2af36a14",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
+  "url": "",
+  "name": "Grilled Chicken alla Diavola",
+  "description": "Spatchcocked chicken grilled under weight with a lemon-garlic-chili rub for crisp skin and 'devil-style' heat. A summer grill main.",
+  "recipeIngredient": [
+    "2 garlic heads",
+    "4 garlic cloves, minced",
+    "3 bay leaves",
+    "1 whole chicken (3.5 to 4 lb), giblets discarded",
+    "0.25 cup extra-virgin olive oil",
+    "2 tsp red pepper flakes",
+    "lemon wedges",
+    "salt and pepper"
+  ],
+  "recipeInstructions": [
+    "Combine the garlic heads, bay leaves, and 1/2 cup salt in a 1-gallon zipper-lock bag and crush gently with a rolling pin; transfer to a large container and stir in 2 quarts water to dissolve the salt. Butterfly the chicken: with it breast side down, use kitchen shears to cut along both sides of the backbone and discard it; trim excess fat and skin around the neck. Flip the chicken, open it up, and press to flatten. Submerge in the brine, cover, and refrigerate 1 hour.",
+    "Meanwhile, cook the oil, minced garlic, pepper flakes, and 2 teaspoons pepper in a small saucepan over medium heat until fragrant, about 3 minutes. Let the oil cool, then reserve 2 tablespoons for serving.",
+    "Remove the chicken from the brine and pat dry. Brush with the seasoned oil and grill, weighted with a foil-wrapped brick or Dutch oven, until the skin is browned and crisp and the meat is cooked through, turning as needed. Rest, then carve and serve drizzled with the reserved oil and lemon wedges."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Spatchcocked chicken grilled under weight with a lemon-garlic-chili rub for crisp skin and 'devil-style' heat. A summer grill main.",
+    "keyTips": [
+      "Butterfly (spatchcock) the chicken — removing the backbone and flattening it lets the bird cook quickly and evenly on the grill.",
+      "Brine for 1 hour for well-seasoned, juicy meat.",
+      "Weight the chicken with a foil-wrapped brick or Dutch oven on the grill for even contact, crisp skin, and good browning.",
+      "Blooming the garlic and pepper flakes in oil infuses the chicken with deep, devilish heat; reserve 2 tablespoons of that oil to drizzle at the table.",
+      "This dish runs very spicy — cut back the red pepper flakes for a milder version."
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

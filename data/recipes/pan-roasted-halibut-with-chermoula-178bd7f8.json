@@ -1,0 +1,44 @@
+{
+  "mealId": "pan-roasted-halibut-with-chermoula-178bd7f8",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.250",
+  "url": "",
+  "name": "Pan-Roasted Halibut with Chermoula",
+  "description": "Meaty halibut fillets pan-roasted and finished with North African chermoula (cilantro-garlic-cumin-paprika herb sauce). Pair with the spiced vegetable couscous.",
+  "recipeIngredient": [
+    "0.5 cup fresh cilantro leaves",
+    "0.33 cup extra-virgin olive oil",
+    "3 tbsp lemon juice",
+    "4 garlic cloves, minced",
+    "1 tsp ground cumin",
+    "0.5 tsp paprika",
+    "0.5 tsp salt",
+    "0.125 tsp cayenne pepper",
+    "2 skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
+    "2 tbsp extra-virgin olive oil (for fish)",
+    "salt and pepper"
+  ],
+  "recipeInstructions": [
+    "For the chermoula: Process cilantro, oil, lemon juice, garlic, cumin, paprika, salt, and cayenne in a food processor until smooth, about 1 minute, scraping down the sides as needed. Set aside for serving.",
+    "For the fish: Adjust oven rack to middle position and heat oven to 325°F. Pat halibut dry and season with salt and pepper. Heat oil in a 12-inch ovensafe nonstick skillet over medium-high heat until just smoking. Add halibut and cook until well browned, about 5 minutes.",
+    "Gently flip the halibut using two spatulas, then transfer the skillet to the oven. Roast until the halibut flakes apart when prodded with a paring knife and registers 140°F, 6 to 9 minutes.",
+    "Carefully transfer halibut to a cutting board, tent loosely with foil, and rest 5 minutes. Remove the skin and separate each quadrant of meat from the bones by slipping a knife between them. Serve with chermoula."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Meaty halibut fillets pan-roasted and finished with North African chermoula (cilantro-garlic-cumin-paprika herb sauce). Pair with the spiced vegetable couscous.",
+    "keyTips": [
+      "Halibut steaks are big and delicate — flip them with two spatulas so they do not break apart.",
+      "Pull the fish at 140°F for moist, just-cooked meat; overcooking is the main risk with lean halibut.",
+      "A 12-inch ovensafe nonstick skillet is essential so the same pan goes from stovetop sear to oven roast.",
+      "Swordfish (1 to 1.5 inches thick) can be substituted for the halibut; adjust the oven time as needed.",
+      "Chermoula is a bright Moroccan herb sauce — make it first so it is ready the moment the fish comes out."
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

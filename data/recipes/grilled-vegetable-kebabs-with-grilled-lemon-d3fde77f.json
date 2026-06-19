@@ -1,0 +1,39 @@
+{
+  "mealId": "grilled-vegetable-kebabs-with-grilled-lemon-d3fde77f",
+  "fetchedAt": "2026-06-19",
+  "source": "The Complete Mediterranean Cookbook (ATK) — p.237",
+  "url": "",
+  "name": "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
+  "description": "Portobello, zucchini, and pepper skewers grilled alongside lemon halves, then dressed with the charred-lemon vinaigrette — the veg for the grill night.",
+  "recipeIngredient": [
+    "1/4 cup extra-virgin olive oil",
+    "1 tsp Dijon mustard",
+    "1 tsp minced fresh rosemary",
+    "1 garlic clove, minced",
+    "salt and pepper",
+    "6 portobello mushroom caps (4-5 in), quartered",
+    "2 zucchini, halved lengthwise and sliced 3/4-inch thick",
+    "2 red bell peppers, stemmed/seeded, cut into 1.5-inch pieces",
+    "2 lemons, quartered"
+  ],
+  "recipeInstructions": [
+    "Whisk the oil, mustard, rosemary, garlic, 1/2 tsp salt, and 1/4 tsp pepper; reserve half the dressing for serving. Toss the mushrooms, zucchini, and peppers with the rest and thread onto eight 12-inch metal skewers.",
+    "Grill the kebabs and the lemon quarters over medium-high, turning, until the vegetables are tender and well browned and the lemons are charred, ~16-18 min.",
+    "Transfer to a platter; squeeze 2 grilled lemon quarters into the reserved dressing, whisk, and drizzle over. Serve with the remaining lemons."
+  ],
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "recipeYield": "Serves 4",
+  "image": "",
+  "author": "America's Test Kitchen",
+  "ai": {
+    "cliffNotes": "Portobello, zucchini, and pepper skewers grilled alongside lemon halves, then dressed with the charred-lemon vinaigrette — the veg for the grill night.",
+    "keyTips": [
+      "Make the vegetables the star - meaty portobello + zucchini + bell pepper give varied textures, not just filler.",
+      "Grill the lemon quarters: charring mellows and concentrates the juice for the finishing dressing.",
+      "Dress lightly before grilling and again after for bold, balanced flavor."
+    ],
+    "source": "Captured from the cookbook (ATK headnote/why-this-works)"
+  }
+}

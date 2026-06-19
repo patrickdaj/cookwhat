@@ -274,20 +274,78 @@
       "slot": "dinner",
       "role": "main",
       "title": "Pan-Roasted Halibut with Chermoula",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.247",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.250",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "halibut",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "seafood"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.247 (the Halibut-with-Chermoula recipe, not the Provençal Braised Hake on the same page). Pan-roasted halibut with North African chermoula herb sauce. Pair with the Spiced Vegetable Couscous side for carb + veg. (Replaces the Mexican grilled shrimp tacos.)"
+      "ingredients": [
+        {
+          "item": "fresh cilantro leaves",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "lemon juice",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "garlic cloves, minced",
+          "qty": 4,
+          "category": "produce"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
+          "qty": 2,
+          "category": "meat-seafood"
+        },
+        {
+          "item": "extra-virgin olive oil (for fish)",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.250. 250 (the Halibut-with-Chermoula recipe, not the Provençal Braised Hake on the same page). Pan-roasted halibut with North African chermoula herb sauce. Pair with the Spiced Vegetable Couscous side for carb + veg. (Replaces the Mexican grilled shrimp tacos.)"
     },
     {
       "id": "spiced-vegetable-couscous-71e4d377",
@@ -300,15 +358,63 @@
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "side"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.162. Carb + veg in one: couscous studded with vegetables, the classic North African pairing for chermoula fish."
+      "ingredients": [
+        {
+          "item": "cauliflower",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "couscous",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "ras el hanout",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 6,
+          "unit": "tbsp",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.162. 162. Carb + veg in one: couscous studded with vegetables, the classic North African pairing for chermoula fish."
     },
     {
       "id": "miso-chicken-4a535807",
@@ -525,49 +631,114 @@
       "cuisine": "italian",
       "protein": "chicken",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "grill"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.299. Grilled (spatchcocked) spicy chili-lemon chicken — a summer grill night. Pair with the Greek garlic-lemon potatoes (carb) + grilled vegetable kebabs (veg). (Replaces the American Cornell chicken + coleslaw + corn.)"
+      "ingredients": [
+        {
+          "item": "garlic heads",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "garlic cloves, minced",
+          "qty": 4,
+          "category": "produce"
+        },
+        {
+          "item": "bay leaves",
+          "qty": 3,
+          "category": "pantry"
+        },
+        {
+          "item": "whole chicken (3.5 to 4 lb), giblets discarded",
+          "qty": 1,
+          "category": "meat-seafood"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "lemon wedges",
+          "category": "produce"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.299. 299. Grilled (spatchcocked) spicy chili-lemon chicken — a summer grill night. Pair with the Greek garlic-lemon potatoes (carb) + grilled vegetable kebabs (veg). (Replaces the American Cornell chicken + coleslaw + corn.)"
     },
     {
       "id": "greek-style-garlic-lemon-potatoes-with-olives-and-feta-d817210a",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
+      "title": "Greek-Style Garlic-Lemon Potatoes",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "potato",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "side"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.222. The carb for the alla Diavola grill night."
+      "ingredients": [
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.222. 222. The carb for the alla Diavola grill night."
     },
     {
       "id": "grilled-vegetable-kebabs-with-grilled-lemon-d3fde77f",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
+      "title": "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.237",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "needs-scan",
         "mediterranean",
         "side",
         "grill"
@@ -575,8 +746,57 @@
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "COOKBOOK PLACEHOLDER — scan Complete Mediterranean p.237. The vegetable for the alla Diavola grill night; cooks alongside the chicken."
+      "ingredients": [
+        {
+          "item": "portobello mushroom caps",
+          "qty": 6,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "red bell peppers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.237. 237. The vegetable for the alla Diavola grill night; cooks alongside the chicken."
     },
     {
       "id": "grilled-ribeye-with-beef-butter-e578dc34",
@@ -780,5 +1000,5 @@
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
     }
   ],
-  "setAt": "2026-06-19T18:51:58.145Z"
+  "setAt": "2026-06-19T20:40:44.839Z"
 }

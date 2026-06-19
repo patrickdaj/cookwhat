@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T18:52:17.010Z",
+  "generatedAt": "2026-06-19T20:40:44.734Z",
   "targetServings": null,
   "sections": [
     {
@@ -24,6 +24,26 @@
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chopped fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chopped fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -102,12 +122,32 @@
           "hasUnquantified": false
         },
         {
+          "item": "garlic cloves, minced",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "garlic, minced",
           "qty": 4,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Spanish-Style Braised Chicken and Almonds"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "grated lemon zest",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -164,11 +204,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "onions, chopped fine",
-          "qty": 2,
+          "item": "onion, chopped fine",
+          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta",
             "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
@@ -190,6 +231,16 @@
           "category": "produce",
           "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red or green bell pepper, stemmed, seeded, and chopped",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -320,6 +371,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "extra-large shrimp (21 to 25 per pound), peeled and deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "pork chops, frenched (3/4-inch)",
           "qty": 4,
           "unit": "",
@@ -362,6 +423,16 @@
           "fromMeals": [
             "Huevos Rancheros",
             "Pork Chops Milanese with Amatriciana"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "feta cheese, crumbled (1.5 cups)",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -411,6 +482,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "crusty Italian bread",
           "qty": 1,
           "unit": "loaf",
@@ -443,6 +524,17 @@
           "fromMeals": [
             "Chicken au Poivre",
             "Arugula, Fennel, and Orange Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dry white wine",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
         },
@@ -537,6 +629,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "ouzo",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "oyster sauce",
           "qty": 1,
           "unit": "",
@@ -587,6 +689,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "white rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Spanish-Style Braised Chicken and Almonds"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "white wine vinegar",
           "qty": 5,
           "unit": "tbsp",
@@ -618,6 +730,16 @@
           "category": "canned",
           "fromMeals": [
             "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "can diced tomatoes (28 oz), drained with 1/2 cup juice reserved",
+          "qty": 1,
+          "unit": "",
+          "category": "canned",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -699,11 +821,12 @@
         },
         {
           "item": "red pepper flakes (peperoncino)",
-          "qty": 0.5,
+          "qty": 1,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Pork Chops Milanese with Amatriciana"
+            "Pork Chops Milanese with Amatriciana",
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -733,16 +856,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "dry white wine",
-          "qty": 1,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Spanish-Style Braised Chicken and Almonds"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "sake",
           "qty": 2,
           "unit": "tbsp",
@@ -763,15 +876,9 @@
     "sugar",
     "all-purpose flour",
     "water chestnuts",
+    "extra-virgin olive oil",
     "extra virgin olive oil"
   ],
-  "pendingScans": [
-    {
-      "title": "Greek-Style Shrimp with Tomatoes and Feta",
-      "day": "Fri",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 70
+  "pendingScans": [],
+  "totalItems": 81
 }

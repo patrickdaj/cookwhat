@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-19T18:52:17.049Z",
+  "generatedAt": "2026-06-19T20:40:44.808Z",
   "targetServings": null,
   "sections": [
     {
@@ -37,6 +37,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "cauliflower",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "celery",
           "qty": 1,
           "unit": "rib",
@@ -57,6 +67,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh cilantro leaves",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh mint, chopped",
           "qty": 0.5,
           "unit": "cup",
@@ -68,11 +88,31 @@
         },
         {
           "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Garlic-Lemon Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
           "qty": 0.5,
           "unit": "tsp",
           "category": "produce",
           "fromMeals": [
             "Grilled Ribeye with Beef Butter"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
           "hasUnquantified": false
         },
@@ -118,15 +158,39 @@
         },
         {
           "item": "garlic",
-          "qty": 18,
+          "qty": 26,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Green Beans",
+            "Spiced Vegetable Couscous",
             "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
+            "Greek-Style Garlic-Lemon Potatoes",
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic cloves, minced",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula",
+            "Grilled Chicken alla Diavola"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic heads",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
           ],
           "hasUnquantified": false
         },
@@ -150,6 +214,38 @@
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous",
+            "Greek-Style Garlic-Lemon Potatoes",
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon juice",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon wedges",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
+          ],
+          "hasUnquantified": true
         },
         {
           "item": "lime",
@@ -182,6 +278,27 @@
           "hasUnquantified": false
         },
         {
+          "item": "portobello mushroom caps",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous",
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "shallots",
           "qty": 3,
           "unit": "",
@@ -208,6 +325,26 @@
           "category": "produce",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Garlic-Lemon Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
           "hasUnquantified": false
         }
@@ -247,6 +384,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "skin-on salmon fillets",
           "qty": 4,
           "unit": "fillet",
@@ -263,6 +410,16 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken (3.5 to 4 lb), giblets discarded",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
           ],
           "hasUnquantified": false
         }
@@ -322,6 +479,36 @@
           "hasUnquantified": false
         },
         {
+          "item": "bay leaves",
+          "qty": 3,
+          "unit": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": 0.13,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "cooked white rice",
           "qty": 3,
           "unit": "cup",
@@ -332,12 +519,42 @@
           "hasUnquantified": false
         },
         {
+          "item": "couscous",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fish sauce",
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
           ],
           "hasUnquantified": false
         },
@@ -372,6 +589,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Pan-Roasted Halibut with Chermoula"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "pine nuts, toasted",
           "qty": 0.5,
           "unit": "cup",
@@ -388,6 +615,26 @@
           "category": "pantry",
           "fromMeals": [
             "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ras el hanout",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
           ],
           "hasUnquantified": false
         },
@@ -554,6 +801,9 @@
     "soy sauce",
     "sugar",
     "vegetable oil",
+    "extra-virgin olive oil",
+    "salt",
+    "extra-virgin olive oil (for fish)",
     "unsalted butter",
     "kosher salt",
     "coarsely ground black pepper",
@@ -561,37 +811,6 @@
     "extra virgin olive oil",
     "black pepper"
   ],
-  "pendingScans": [
-    {
-      "title": "Pan-Roasted Halibut with Chermoula",
-      "day": "Tue",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.247",
-      "cookbook": true
-    },
-    {
-      "title": "Spiced Vegetable Couscous",
-      "day": "Tue",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
-      "cookbook": true
-    },
-    {
-      "title": "Grilled Chicken alla Diavola",
-      "day": "Fri",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
-      "cookbook": true
-    },
-    {
-      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
-      "day": "Fri",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
-      "cookbook": true
-    },
-    {
-      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
-      "day": "Fri",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.237",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 50
+  "pendingScans": [],
+  "totalItems": 74
 }
