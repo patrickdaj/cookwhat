@@ -1808,9 +1808,10 @@
             "category": "pantry"
           },
           {
-            "item": "garlic cloves, minced",
+            "item": "garlic",
             "qty": 3,
-            "category": "produce"
+            "category": "produce",
+            "unit": "clove"
           },
           {
             "item": "grated lemon zest",

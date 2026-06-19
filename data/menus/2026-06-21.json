@@ -757,9 +757,10 @@
           "category": "pantry"
         },
         {
-          "item": "garlic cloves, minced",
+          "item": "garlic",
           "qty": 3,
-          "category": "produce"
+          "category": "produce",
+          "unit": "clove"
         },
         {
           "item": "grated lemon zest",
@@ -857,8 +858,8 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
+          "qty": 3,
+          "unit": "tbsp",
           "category": "produce",
           "note": ""
         },
@@ -1081,7 +1082,7 @@
         {
           "item": "yellow onion",
           "qty": 1,
-          "unit": "small",
+          "unit": "",
           "category": "produce",
           "note": ""
         },

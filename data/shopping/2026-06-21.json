@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T21:49:41.495Z",
+  "generatedAt": "2026-06-19T21:52:33.309Z",
   "targetServings": null,
   "sections": [
     {
@@ -79,23 +79,14 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 5,
+          "qty": 8,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre",
             "Greek-Style Shrimp with Tomatoes and Feta",
+            "Lemon-Herb Orzo",
             "Spanish-Style Braised Chicken and Almonds"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Lemon-Herb Orzo"
           ],
           "hasUnquantified": false
         },
@@ -112,7 +103,7 @@
         },
         {
           "item": "garlic",
-          "qty": 19,
+          "qty": 22,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
@@ -120,19 +111,10 @@
             "Chicken au Poivre",
             "Fondant Potatoes",
             "Cashew Chicken",
+            "Greek-Style Shrimp with Tomatoes and Feta",
             "Lemon-Herb Orzo",
             "Spanish-Style Braised Chicken and Almonds",
             "Saffron Rice"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic cloves, minced",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false
         },
@@ -323,20 +305,11 @@
         },
         {
           "item": "yellow onion",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Pork Chops Milanese with Amatriciana"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "small",
-          "category": "produce",
-          "fromMeals": [
+            "Pork Chops Milanese with Amatriciana",
             "Saffron Rice"
           ],
           "hasUnquantified": false
@@ -917,5 +890,5 @@
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 84
+  "totalItems": 81
 }
