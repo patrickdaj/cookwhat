@@ -1021,14 +1021,61 @@
       "chapter": "Pasta & Couscous"
     },
     {
-      "title": "Simple Couscous with Dates and Pistachios",
+      "title": "Simple Couscous",
       "page": 161,
-      "chapter": "Pasta & Couscous"
+      "chapter": "Pasta & Couscous",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "2 tbsp extra-virgin olive oil (or unsalted butter)",
+          "2 cups couscous",
+          "1 cup chicken or vegetable broth",
+          "1 cup water",
+          "salt and pepper"
+        ],
+        "steps": [
+          "Heat the oil in a saucepan over medium; toast the couscous, stirring, until lightly browned and nutty, ~3-5 min.",
+          "Stir in the broth, water, and 1/2 tsp salt; bring to a simmer, then cover and remove from the heat.",
+          "Let sit until the liquid is absorbed, ~7 min; fluff with a fork and season."
+        ],
+        "tips": [
+          "Toasting the couscous in fat before adding liquid gives nutty flavor and keeps the grains separate and fluffy.",
+          "Variation - Carrots, Raisins & Pine Nuts: cook grated carrot in the oil and stir raisins + toasted pine nuts in at the end.",
+          "Variation - Dates & Pistachios: fold chopped dates + toasted pistachios in after fluffing."
+        ]
+      }
     },
     {
       "title": "Spiced Vegetable Couscous",
       "page": 162,
-      "chapter": "Pasta & Couscous"
+      "chapter": "Pasta & Couscous",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "1 head cauliflower (~2 lb), cut into 1-inch florets",
+          "6 tbsp extra-virgin olive oil",
+          "salt and pepper",
+          "1 red bell pepper, stemmed/seeded, cut into 1/2-inch pieces",
+          "2 tsp ras el hanout",
+          "1 1/2 cups couscous",
+          "1 garlic clove, minced",
+          "1 tsp grated lemon zest (+ lemon wedges to serve)",
+          "1 cup chicken or vegetable broth"
+        ],
+        "steps": [
+          "Toss the cauliflower with 3 tbsp oil, salt, and pepper; cook in a skillet until browned and just tender, then set aside.",
+          "Add 2 tbsp oil and the bell pepper; cook until softened, then stir in the ras el hanout and garlic until fragrant.",
+          "Add the couscous and toast briefly; stir in the broth + lemon zest, cover, and remove from the heat.",
+          "Off heat ~7 min, then fluff, fold the cauliflower back in, season, and serve with lemon wedges."
+        ],
+        "tips": [
+          "Brown the cauliflower hard for caramelized, nutty flavor; fold it back in at the end so it stays crisp-tender.",
+          "Bloom the ras el hanout (catalog p.316) in oil for warm Moroccan depth.",
+          "(Quantities best-effort from a tight photo - verify on a clearer scan.)"
+        ]
+      }
     },
     {
       "title": "Moroccan-Style Couscous with Chickpeas",
@@ -1195,12 +1242,57 @@
       "title": "Grilled Portobello Mushrooms and Shallots with Rosemary-Dijon Vinaigrette",
       "page": 222,
       "chapter": "Vegetables",
-      "fitsMenu": "grill"
+      "fitsMenu": "grill",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "3 tbsp extra-virgin olive oil",
+          "2 tbsp lemon juice",
+          "1 tsp Dijon mustard",
+          "1 tsp minced fresh rosemary",
+          "1 garlic clove, minced",
+          "salt and pepper",
+          "8 portobello mushroom caps (3-5 in)",
+          "shallots, peeled (quantity approx)"
+        ],
+        "steps": [
+          "Whisk the oil, lemon juice, mustard, rosemary, garlic, salt, and pepper into a vinaigrette; reserve some for serving.",
+          "Toss the mushrooms and shallots with the rest and grill over medium-high until tender and well browned.",
+          "Drizzle with the reserved vinaigrette to serve."
+        ],
+        "tips": [
+          "Dress before and after grilling for bold, balanced flavor.",
+          "(Quantities best-effort from a tight photo - verify the shallot amount and exact measures on a clearer scan.)"
+        ]
+      }
     },
     {
-      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
+      "title": "Greek-Style Garlic-Lemon Potatoes",
       "page": 222,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "2 lb Yukon Gold potatoes, peeled and cut into 1-inch pieces",
+          "1/3 cup extra-virgin olive oil",
+          "6 garlic cloves, minced",
+          "1 tsp grated lemon zest + 3 tbsp juice (about 2 lemons)",
+          "salt and pepper",
+          "2 tbsp minced fresh parsley"
+        ],
+        "steps": [
+          "Heat 2 tbsp of the oil in a 12-inch nonstick skillet over medium-high. Add the potatoes, 1/2 cup water, and 1/2 tsp salt; cover and cook until the edges start to turn translucent.",
+          "Reduce to medium-low and cook, covered, until tender, stirring occasionally.",
+          "Off heat, whisk the remaining oil with the garlic and lemon zest + juice; toss with the potatoes, finish with parsley, salt, and pepper, and serve."
+        ],
+        "tips": [
+          "Covered cooking with a little water then finishing uncovered gives tender insides without deep-frying.",
+          "Add the raw garlic + lemon off the heat so they stay bright, not bitter/scorched.",
+          "Variation - Olives & Feta: stir in 1/2 cup crumbled feta + 1/4 cup chopped pitted kalamata olives with the parsley."
+        ]
+      }
     },
     {
       "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
@@ -1280,10 +1372,35 @@
       "chapter": "Vegetables"
     },
     {
-      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
+      "title": "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
       "page": 237,
       "chapter": "Vegetables",
-      "fitsMenu": "grill"
+      "fitsMenu": "grill",
+      "scanned": true,
+      "makes": "4 to 6 servings",
+      "captured": {
+        "ingredients": [
+          "1/4 cup extra-virgin olive oil",
+          "1 tsp Dijon mustard",
+          "1 tsp minced fresh rosemary",
+          "1 garlic clove, minced",
+          "salt and pepper",
+          "6 portobello mushroom caps (4-5 in), quartered",
+          "2 zucchini, halved lengthwise and sliced 3/4-inch thick",
+          "2 red bell peppers, stemmed/seeded, cut into 1.5-inch pieces",
+          "2 lemons, quartered"
+        ],
+        "steps": [
+          "Whisk the oil, mustard, rosemary, garlic, 1/2 tsp salt, and 1/4 tsp pepper; reserve half the dressing for serving. Toss the mushrooms, zucchini, and peppers with the rest and thread onto eight 12-inch metal skewers.",
+          "Grill the kebabs and the lemon quarters over medium-high, turning, until the vegetables are tender and well browned and the lemons are charred, ~16-18 min.",
+          "Transfer to a platter; squeeze 2 grilled lemon quarters into the reserved dressing, whisk, and drizzle over. Serve with the remaining lemons."
+        ],
+        "tips": [
+          "Make the vegetables the star - meaty portobello + zucchini + bell pepper give varied textures, not just filler.",
+          "Grill the lemon quarters: charring mellows and concentrates the juice for the finishing dressing.",
+          "Dress lightly before grilling and again after for bold, balanced flavor."
+        ]
+      }
     },
     {
       "title": "Mechouia",
