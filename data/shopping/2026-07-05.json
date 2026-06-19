@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-19T21:10:15.281Z",
+  "generatedAt": "2026-06-19T21:48:07.223Z",
   "targetServings": null,
   "sections": [
     {
@@ -120,20 +120,11 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 0.25,
+          "qty": 0.58,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley, chopped",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad",
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
@@ -853,5 +844,5 @@
     "light (usukuchi) soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 78
+  "totalItems": 77
 }

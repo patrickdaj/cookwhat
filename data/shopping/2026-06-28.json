@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-19T21:40:42.238Z",
+  "generatedAt": "2026-06-19T21:48:07.156Z",
   "targetServings": null,
   "sections": [
     {
@@ -168,10 +168,11 @@
         },
         {
           "item": "garlic",
-          "qty": 24,
+          "qty": 28,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
+            "Sicilian Fish Stew",
             "Roasted Lemongrass Chicken Thighs",
             "Garlic Green Beans",
             "Spiced Vegetable Couscous",
@@ -201,16 +202,6 @@
           "category": "produce",
           "fromMeals": [
             "Grilled Chicken alla Diavola"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic, minced",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -803,5 +794,5 @@
     "black pepper"
   ],
   "pendingScans": [],
-  "totalItems": 73
+  "totalItems": 72
 }
