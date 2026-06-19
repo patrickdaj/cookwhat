@@ -1,0 +1,54 @@
+{
+  "mealId": "jjimdak-korean-braised-chicken-with-vegetables-and-noodles-0ee76964",
+  "fetchedAt": "2026-06-19",
+  "source": "Korean Bapsang",
+  "url": "https://www.koreanbapsang.com/jjimdakdakjjim-korean-style-braised/",
+  "name": "Jjimdak (Korean Braised Chicken) — Mild",
+  "description": "Korean Bapsang's Andong-style jjimdak — chicken braised with potatoes, carrot, onion, mushrooms, and sweet-potato glass noodles in a savory-sweet soy braising liquid. A complete one-pot family meal. MADE MILD here by omitting the dried + fresh chili peppers (the source notes you can leave them out entirely).",
+  "recipeIngredient": [
+    "1 medium chicken, cut up (2.5 to 3 pounds of cut pieces)",
+    "3 ounces sweet potato starch noodles (dangmyeon)",
+    "2 medium white or yukon gold potatoes (about 10 ounces)",
+    "1 medium carrot",
+    "1/2 medium onion",
+    "3-4 mushroom caps (rehydrated dried shiitake or fresh)",
+    "2 scallions",
+    "2 tablespoons minced garlic",
+    "1 teaspoon grated ginger",
+    "1/2 cup soy sauce",
+    "2 tablespoons oyster sauce",
+    "2 tablespoons rice wine (mirin)",
+    "2 tablespoons dark brown sugar",
+    "3-4 tablespoons corn syrup or 2-3 tablespoons honey",
+    "1/4 teaspoon black pepper",
+    "1 tablespoon sesame oil",
+    "1 teaspoon sesame seeds",
+    "OMITTED for mild version: 2-3 dried whole red chili peppers; 1-2 fresh chili peppers or jalapeños"
+  ],
+  "recipeInstructions": [
+    "Soak the sweet potato starch noodles (dangmyeon) in warm water about 30 minutes while you prep everything else, then drain.",
+    "Clean the chicken, cut into small pieces, and trim excess fat.",
+    "Cut the potatoes into 1.5-inch chunks and soak in water. Cut the carrot, mushrooms, and onion into bite-size pieces.",
+    "Add the chicken to a large pot with 3 cups water and all the sauce ingredients except the sesame oil and sesame seeds. Bring to a boil over high heat, uncovered, about 10 minutes, skimming off the foam.",
+    "Add the potatoes, carrot, mushrooms, onion, garlic, and ginger (skip the dried red chilies for a mild version). Cover and cook 8-10 minutes.",
+    "Gently mix in the scallions and drained glass noodles (skip the fresh chilies for mild). Cook uncovered 3 more minutes. Stir in the sesame oil and garnish with sesame seeds. Serve from the pot or a large platter."
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "4 servings",
+  "image": "",
+  "author": "Hyosun / Korean Bapsang",
+  "ai": {
+    "cliffNotes": "A one-pot Andong-style braise: chicken simmered with potatoes, carrot, onion, mushrooms and chewy sweet-potato glass noodles in a sweet-savory soy liquid. Complete meal in a single pot — and fully mild when you leave the chilies out.",
+    "keyTips": [
+      "To make it mild (no heat at all), simply omit both the dried red chili peppers and the fresh chilies/jalapeños — the source explicitly says you can leave them out entirely. The dish is still rich and flavorful from the soy-garlic-ginger braise.",
+      "Soak the dangmyeon (sweet potato glass noodles) in warm water ~30 min before cooking, and add them only in the last 3 minutes — they finish fast and turn pleasantly chewy without going mushy.",
+      "Boil the chicken uncovered for the first ~10 minutes and skim off the foam/scum that rises — that's what keeps the braising liquid clean-tasting and clear.",
+      "Soak the cut potatoes in water until they go in; it rinses off surface starch so they hold their shape in the braise instead of falling apart.",
+      "Want a deeper mahogany color? Stir in a tablespoon of dark soy sauce (or even instant coffee powder/caramel). Make-ahead: cook through the vegetable stage, then reheat and add noodles + sesame oil just before serving.",
+      "Green cabbage, spinach, or bok choy are common add-ins if you want even more vegetables."
+    ],
+    "source": "Claude (prose-mined from the Korean Bapsang article)"
+  }
+}

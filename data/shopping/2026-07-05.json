@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-19T18:52:17.082Z",
+  "generatedAt": "2026-06-19T19:11:16.548Z",
   "targetServings": null,
   "sections": [
     {
@@ -48,21 +48,12 @@
         },
         {
           "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Japanese Potato Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "cucumbers",
           "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
+            "Japanese Potato Salad"
           ],
           "hasUnquantified": false
         },
@@ -89,10 +80,10 @@
         {
           "item": "fresh ginger",
           "qty": 1,
-          "unit": "tbsp",
+          "unit": "knob",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -179,17 +170,25 @@
         },
         {
           "item": "garlic",
-          "qty": 14,
+          "qty": 9,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Grilled Trout with Parsley-Caper Sauce",
             "Hummus with Warm Pita",
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
             "Sautéed Green Beans with Garlic and Herbs",
             "Brown Butter Scallops with Parmesan Risotto",
             "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -210,16 +209,6 @@
           "category": "produce",
           "fromMeals": [
             "Sautéed Green Beans with Garlic and Herbs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green cabbage",
-          "qty": 0.25,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
           ],
           "hasUnquantified": false
         },
@@ -260,17 +249,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "onion",
-          "qty": 1.25,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "Persian cucumbers",
           "qty": 2,
           "unit": "",
@@ -303,13 +281,22 @@
         },
         {
           "item": "scallions",
-          "qty": 6,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
             "Skillet Salmon with Quinoa, Feta, and Arugula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -320,16 +307,6 @@
           "category": "produce",
           "fromMeals": [
             "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sweet potato",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
           ],
           "hasUnquantified": false
         },
@@ -352,6 +329,26 @@
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "yukon gold potatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -366,16 +363,6 @@
           "fromMeals": [
             "Chicken Teriyaki",
             "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
           ],
           "hasUnquantified": false
         },
@@ -406,6 +393,16 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken, cut into pieces",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -476,11 +473,10 @@
         },
         {
           "item": "milk",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
@@ -556,6 +552,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "mayonnaise",
           "qty": 0.33,
           "unit": "cup",
@@ -567,10 +573,11 @@
         },
         {
           "item": "mirin",
-          "qty": 4,
+          "qty": 6,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
             "Chicken Teriyaki"
           ],
           "hasUnquantified": false
@@ -582,6 +589,16 @@
           "category": "pantry",
           "fromMeals": [
             "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -602,16 +619,6 @@
           "category": "pantry",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "rice syrup or honey",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
           ],
           "hasUnquantified": false
         },
@@ -637,6 +644,26 @@
           "hasUnquantified": false
         },
         {
+          "item": "sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "short-grain (Japanese) rice",
           "qty": 2,
           "unit": "cup",
@@ -648,12 +675,21 @@
         },
         {
           "item": "steamed rice",
-          "qty": 6,
+          "qty": 3,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
             "Karaage (Japanese Fried Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sweet potato glass noodles (dangmyeon)",
+          "qty": 3,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
           "hasUnquantified": false
         },
@@ -664,26 +700,6 @@
           "category": "pantry",
           "fromMeals": [
             "Hummus with Warm Pita"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false
         }
@@ -758,17 +774,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "gochugaru (Korean red pepper flakes)",
-          "qty": 4,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "sumac",
           "qty": 2,
           "unit": "tsp",
@@ -805,29 +810,15 @@
           "hasUnquantified": false
         }
       ]
-    },
-    {
-      "category": "other",
-      "items": [
-        {
-          "item": "Korean rice cakes (tteok)",
-          "qty": 1,
-          "unit": "cup",
-          "category": "other",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
-          ],
-          "hasUnquantified": false
-        }
-      ]
     }
   ],
   "excludedStaples": [
     "extra virgin olive oil",
     "soy sauce",
-    "sugar",
+    "dark brown sugar",
     "unsalted butter",
-    "butter"
+    "butter",
+    "sugar"
   ],
   "pendingScans": [],
   "totalItems": 75
