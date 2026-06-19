@@ -99,7 +99,66 @@
       "title": "Grilled Chicken alla Diavola",
       "page": 299,
       "chapter": "Poultry",
-      "fitsMenu": "chicken (favorite); grill"
+      "fitsMenu": "chicken (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          {
+            "item": "garlic heads",
+            "qty": 2,
+            "category": "produce"
+          },
+          {
+            "item": "garlic cloves, minced",
+            "qty": 4,
+            "category": "produce"
+          },
+          {
+            "item": "bay leaves",
+            "qty": 3,
+            "category": "pantry"
+          },
+          {
+            "item": "whole chicken (3.5 to 4 lb), giblets discarded",
+            "qty": 1,
+            "category": "meat-seafood"
+          },
+          {
+            "item": "extra-virgin olive oil",
+            "qty": 0.25,
+            "unit": "cup",
+            "category": "pantry"
+          },
+          {
+            "item": "red pepper flakes",
+            "qty": 2,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "lemon wedges",
+            "category": "produce"
+          },
+          {
+            "item": "salt and pepper",
+            "category": "pantry"
+          }
+        ],
+        "steps": [
+          "Combine the garlic heads, bay leaves, and 1/2 cup salt in a 1-gallon zipper-lock bag and crush gently with a rolling pin; transfer to a large container and stir in 2 quarts water to dissolve the salt. Butterfly the chicken: with it breast side down, use kitchen shears to cut along both sides of the backbone and discard it; trim excess fat and skin around the neck. Flip the chicken, open it up, and press to flatten. Submerge in the brine, cover, and refrigerate 1 hour.",
+          "Meanwhile, cook the oil, minced garlic, pepper flakes, and 2 teaspoons pepper in a small saucepan over medium heat until fragrant, about 3 minutes. Let the oil cool, then reserve 2 tablespoons for serving.",
+          "Remove the chicken from the brine and pat dry. Brush with the seasoned oil and grill, weighted with a foil-wrapped brick or Dutch oven, until the skin is browned and crisp and the meat is cooked through, turning as needed. Rest, then carve and serve drizzled with the reserved oil and lemon wedges."
+        ],
+        "tips": [
+          "Butterfly (spatchcock) the chicken — removing the backbone and flattening it lets the bird cook quickly and evenly on the grill.",
+          "Brine for 1 hour for well-seasoned, juicy meat.",
+          "Weight the chicken with a foil-wrapped brick or Dutch oven on the grill for even contact, crisp skin, and good browning.",
+          "Blooming the garlic and pepper flakes in oil infuses the chicken with deep, devilish heat; reserve 2 tablespoons of that oil to drizzle at the table.",
+          "This dish runs very spicy — cut back the red pepper flakes for a milder version."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Grilled Chicken Kebabs with Tomato-Feta Salad",
@@ -1479,9 +1538,91 @@
     },
     {
       "title": "Pan-Roasted Halibut with Chermoula",
-      "page": 247,
+      "page": 250,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite)"
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          {
+            "item": "fresh cilantro leaves",
+            "qty": 0.5,
+            "unit": "cup",
+            "category": "produce"
+          },
+          {
+            "item": "extra-virgin olive oil",
+            "qty": 0.33,
+            "unit": "cup",
+            "category": "pantry"
+          },
+          {
+            "item": "lemon juice",
+            "qty": 3,
+            "unit": "tbsp",
+            "category": "produce"
+          },
+          {
+            "item": "garlic cloves, minced",
+            "qty": 4,
+            "category": "produce"
+          },
+          {
+            "item": "ground cumin",
+            "qty": 1,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "paprika",
+            "qty": 0.5,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "salt",
+            "qty": 0.5,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "cayenne pepper",
+            "qty": 0.125,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
+            "qty": 2,
+            "category": "meat-seafood"
+          },
+          {
+            "item": "extra-virgin olive oil (for fish)",
+            "qty": 2,
+            "unit": "tbsp",
+            "category": "pantry"
+          },
+          {
+            "item": "salt and pepper",
+            "category": "pantry"
+          }
+        ],
+        "steps": [
+          "For the chermoula: Process cilantro, oil, lemon juice, garlic, cumin, paprika, salt, and cayenne in a food processor until smooth, about 1 minute, scraping down the sides as needed. Set aside for serving.",
+          "For the fish: Adjust oven rack to middle position and heat oven to 325°F. Pat halibut dry and season with salt and pepper. Heat oil in a 12-inch ovensafe nonstick skillet over medium-high heat until just smoking. Add halibut and cook until well browned, about 5 minutes.",
+          "Gently flip the halibut using two spatulas, then transfer the skillet to the oven. Roast until the halibut flakes apart when prodded with a paring knife and registers 140°F, 6 to 9 minutes.",
+          "Carefully transfer halibut to a cutting board, tent loosely with foil, and rest 5 minutes. Remove the skin and separate each quadrant of meat from the bones by slipping a knife between them. Serve with chermoula."
+        ],
+        "tips": [
+          "Halibut steaks are big and delicate — flip them with two spatulas so they do not break apart.",
+          "Pull the fish at 140°F for moist, just-cooked meat; overcooking is the main risk with lean halibut.",
+          "A 12-inch ovensafe nonstick skillet is essential so the same pan goes from stovetop sear to oven roast.",
+          "Swordfish (1 to 1.5 inches thick) can be substituted for the halibut; adjust the oven time as needed.",
+          "Chermoula is a bright Moroccan herb sauce — make it first so it is ready the moment the fish comes out."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Braised Halibut with Leeks and Mustard",
@@ -1643,7 +1784,106 @@
       "title": "Greek-Style Shrimp with Tomatoes and Feta",
       "page": 269,
       "chapter": "Seafood",
-      "fitsMenu": "shrimp (favorite)"
+      "fitsMenu": "shrimp (favorite)",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          {
+            "item": "extra-large shrimp (21 to 25 per pound), peeled and deveined",
+            "qty": 1.5,
+            "unit": "lb",
+            "category": "meat-seafood"
+          },
+          {
+            "item": "ouzo",
+            "qty": 3,
+            "unit": "tbsp",
+            "category": "pantry"
+          },
+          {
+            "item": "extra-virgin olive oil",
+            "qty": 0.25,
+            "unit": "cup",
+            "category": "pantry"
+          },
+          {
+            "item": "garlic cloves, minced",
+            "qty": 3,
+            "category": "produce"
+          },
+          {
+            "item": "grated lemon zest",
+            "qty": 1,
+            "unit": "tsp",
+            "category": "produce"
+          },
+          {
+            "item": "onion, chopped fine",
+            "qty": 1,
+            "category": "produce"
+          },
+          {
+            "item": "red or green bell pepper, stemmed, seeded, and chopped",
+            "qty": 1,
+            "category": "produce"
+          },
+          {
+            "item": "red pepper flakes",
+            "qty": 0.5,
+            "unit": "tsp",
+            "category": "pantry"
+          },
+          {
+            "item": "can diced tomatoes (28 oz), drained with 1/2 cup juice reserved",
+            "qty": 1,
+            "category": "canned"
+          },
+          {
+            "item": "dry white wine",
+            "qty": 0.25,
+            "unit": "cup",
+            "category": "pantry"
+          },
+          {
+            "item": "chopped fresh parsley",
+            "qty": 2,
+            "unit": "tbsp",
+            "category": "produce"
+          },
+          {
+            "item": "feta cheese, crumbled (1.5 cups)",
+            "qty": 6,
+            "unit": "oz",
+            "category": "dairy"
+          },
+          {
+            "item": "chopped fresh dill",
+            "qty": 2,
+            "unit": "tbsp",
+            "category": "produce"
+          },
+          {
+            "item": "salt and pepper",
+            "category": "pantry"
+          }
+        ],
+        "steps": [
+          "Toss shrimp in a bowl with 1 tablespoon oil, 1 tablespoon ouzo, 1 teaspoon of the garlic, the lemon zest, 1/4 teaspoon salt, and 1/8 teaspoon pepper; set aside.",
+          "Heat 2 tablespoons oil in a 12-inch skillet over medium heat until shimmering. Add onion, bell pepper, and 1/4 teaspoon salt; cover and cook, stirring occasionally, until the vegetables release their liquid, 3 to 5 minutes. Uncover and cook until the liquid evaporates and the vegetables soften, about 5 minutes. Stir in the remaining garlic and the pepper flakes and cook until fragrant, about 1 minute.",
+          "Stir in the tomatoes and reserved juice, wine, and remaining 2 tablespoons ouzo. Bring to a simmer and cook, stirring occasionally, until the flavors meld and the sauce is slightly thickened (it should not be completely dry), 5 to 8 minutes. Stir in the parsley and season with salt and pepper to taste.",
+          "Reduce heat to medium-low and add the shrimp with any accumulated juices; stir to coat and distribute evenly. Cover and cook, stirring occasionally, until the shrimp are opaque throughout, 6 to 9 minutes, adjusting heat to maintain a bare simmer. Off heat, sprinkle with feta and dill and drizzle with the remaining 1 tablespoon oil. Serve."
+        ],
+        "tips": [
+          "Toss the shrimp with ouzo, garlic, and lemon zest first — it infuses them with bright anise flavor while you build the sauce.",
+          "Cook the shrimp gently right in the sauce over medium-low at a bare simmer (6 to 9 minutes) so they stay tender instead of turning rubbery.",
+          "Keep the sauce slightly saucy — do not cook it completely dry.",
+          "No ouzo? Substitute Pernod, or vodka plus 1 teaspoon anise seeds.",
+          "Serve over steamed white rice and/or with crusty bread to catch the sauce."
+        ],
+        "makes": "Serves 4 to 6",
+        "serveWith": "Steamed white rice and/or crusty bread"
+      }
     },
     {
       "title": "Shrimp with White Beans",
