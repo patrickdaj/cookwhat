@@ -241,13 +241,13 @@ Scanning every book up front is a ton of work, so don't. Two stages:
      (dry-brine timing, doneness cues, technique). The cookbook page renders
      numbered Steps + a "Tips & Tricks" section from these. These are mined from
      real content — distinct from the auto-generated `ai` block below.
-   - **Also generate the `ai` block** (cliffNotes + keyTips) just like a web
-     fetch does — book recipes were coming through with `ai: null` and looked
-     thin next to fetched ones. Run `analyzeWithAI` (from `src/recipe-fetch.js`,
-     it works on any name+ingredients+steps) and save it onto the detail. The
-     book's *full* step-by-step lives in the physical book; the captured `method`
-     is a faithful summary for shopping/planning, and the AI tips add the
-     technique guidance — don't pad the steps with invented detail.
+   - **Also generate the `ai` block** (cliffNotes + keyTips) yourself, the same
+     way you now do for web fetches — book recipes were coming through with
+     `ai: null` and looked thin next to fetched ones. Write the block directly
+     onto the detail (no API call — `analyzeWithAI` is the paid Haiku fallback,
+     not your path). The book's *full* step-by-step lives in the physical book;
+     the captured `method` is a faithful summary for shopping/planning, and the
+     tips add the technique guidance — don't pad the steps with invented detail.
 
 Rules for the workflow:
 - **Never fabricate ingredients** from a title or memory — a placeholder carries
@@ -271,10 +271,17 @@ The valuable part of `ai` is **`keyTips`**: the prep/technique details an author
 buries in the **article prose** (headnote, "why this works", notes) that never
 make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
 
-- The CLI's `analyzeWithAI` only sees the recipe's ingredients + steps, so the
-  tips it produces are *inferences from the card* — useful, but **not the
-  author's actual advice**. To get the real thing, read the **source prose**:
-  WebFetch the recipe URL and ask for the tips/notes that aren't in the steps.
+- **You (Claude) write the `ai` block — it's your job, not the CLI's.** A plain
+  `recipe fetch` no longer auto-annotates: it scrapes the card and leaves
+  `ai: null` for you to fill in. To do it well, read the **source prose**:
+  WebFetch the recipe URL and pull the tips/notes that aren't in the steps, then
+  write `{cliffNotes, keyTips}` onto the recipe detail. This is free and better
+  than the fallback.
+- The paid `analyzeWithAI` (a headless Haiku call, `ANTHROPIC_API_KEY`) only
+  sees the recipe's ingredients + steps, so its tips are *inferences from the
+  card* — useful, but **not the author's actual advice**. It now runs *only* on
+  `recipe fetch --all` (headless batch, no Claude in the loop) or an explicit
+  `--ai`. Don't reach for it when you're in the loop — do the prose-mining above.
 - **Paywall/bot reality:** open sites (themediterraneandish, Just One Cookbook, Woks of Life,
   nomnompaleo, Hey Grill Hey, isabeleats, lidiasitaly, pinchofyum) fetch fine;
   **NYT, Serious Eats, Bon Appétit, Epicurious — and also thekitchn, maangchi,
