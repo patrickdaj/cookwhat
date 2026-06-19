@@ -112,6 +112,18 @@ A day can hold several dishes: one `main` plus `side` dishes (`"role": "side"`).
 Add each as its own meal on the same `day`/`slot`
 (`plan add --role side ...`). Hard-won rules:
 
+- **Sides deserve the same creativity and sourcing rigor as mains — don't phone
+  them in.** The user's recurring complaint: the mains are interesting but the
+  sides default to "make some rice" or "eat some bread." Fix it by treating the
+  carb and the veg as real picks from the **four pools** (Paprika, cookbooks,
+  preferred sites, redos), matched to the main's cuisine. **A bare `white rice`
+  or `crusty bread` ingredient line is a last resort, not the go-to** — reach
+  first for an *interesting, named* starch (coconut/saffron/herbed rice or rice
+  pilaf, a grain or orzo salad, crushed/smashed/roasted potatoes with a
+  treatment, polenta, flatbread, farro, etc.) and a *real prepared* vegetable
+  dish, each with its own recipe/source. Vary them across the week — don't reuse
+  the same green or the same plain starch night after night. (And respect the
+  rice `carbRules` while you're at it.)
 - **A side that's a real dish gets its own recipe + real URL.** Don't bury sides
   in the main's *title* — if a title says "… with Fondant Potatoes and Haricots
   Verts", either those components are genuinely in the main recipe, or each is a

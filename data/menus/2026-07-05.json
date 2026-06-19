@@ -79,7 +79,8 @@
           "note": ""
         }
       ],
-      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg) + hummus with warm pita (carb/mezze)."
+      "notes": "Stuff the trout with lemon + thyme, grill hot until skin crisps, finish with a parsley-caper sauce. Full plate: trout + tomato-cucumber salad (veg) + hummus with warm pita (carb/mezze).",
+      "occasion": "Idyllwild trip (7/5)"
     },
     {
       "id": "hummus-with-warm-pita-98633ab5",
@@ -930,16 +931,9 @@
           "unit": "cup",
           "category": "pantry",
           "note": ""
-        },
-        {
-          "item": "steamed rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
         }
       ],
-      "notes": "Japanese fried chicken — fun Saturday project. Marinate thighs, coat in potato starch, twice-fry. Serve with shredded cabbage (veg), rice (carb), and lemon. Asian (JP)."
+      "notes": "Japanese fried chicken — fun Saturday project. Marinate thighs, coat in potato starch, twice-fry. Serve with shredded cabbage (veg), rice (carb), and lemon. Asian (JP). Dropped the steamed rice — Japanese Potato Salad is the carb; paired with Spinach Ohitashi for a bright green."
     },
     {
       "id": "japanese-potato-salad-f446e0c1",
@@ -1010,7 +1004,72 @@
         }
       ],
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
+    },
+    {
+      "id": "spinach-ohitashi-dashi-steeped-spinach-7a280668",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spinach Ohitashi (Dashi-Steeped Spinach)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-ohitashi-japanese-spinach-salad-with-bonito-flakes/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "asian",
+        "side",
+        "make-ahead",
+        "fresh-web"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "spinach",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kombu (dried kelp)",
+          "qty": 1,
+          "unit": "piece",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "katsuobushi (bonito flakes)",
+          "qty": 1,
+          "unit": "pinch",
+          "category": "pantry",
+          "note": "garnish; omit for vegan"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "light (usukuchi) soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Bright, refreshing chilled spinach steeped in dashi — a clean green counterpoint to the fried Karaage. Make ahead (steeps 1-4 hrs)."
     }
   ],
-  "setAt": "2026-06-19T20:40:44.908Z"
+  "setAt": "2026-06-19T21:10:15.310Z"
 }

@@ -295,6 +295,11 @@ function fmtIngQty(line) {
 
 // A single week, styled like the Home dashboard: a clean dishes-by-day table
 // with a "cook →" link per day (the day page holds the recipes + ingredients).
+function dayOccasion(dishes) {
+  const d = dishes.find(x => x.occasion);
+  return d ? d.occasion : null;
+}
+
 function buildMenuPage(menu, shoppingWeeks) {
   const rel = '../';
   const week = menu.weekOf;
@@ -303,7 +308,8 @@ function buildMenuPage(menu, shoppingWeeks) {
   out.push('| Day | Dishes | |');
   out.push('|-----|--------|---|');
   for (const [day, dishes] of dishesByDay(menu)) {
-    const names = dishes
+    const occ = dayOccasion(dishes);
+    const names = (occ ? `🎯 _${occ}_<br>` : '') + dishes
       .map(d => (isSide(d) ? `${d.title} _(side)_` : `**${d.title}**`))
       .join('<br>');
     out.push(`| **${day}** | ${names} | [cook →](${rel}days/${week}-${day}.md) |`);
@@ -323,6 +329,9 @@ function buildDayPage(week, day, dishes, recipesByMealId) {
   const rel = '../';
   const out = [`# ${DAY_FULL[day] || day} · ${fmtDate(dayDate(week, day))}\n`];
   out.push(`[← Back to the week](${rel}menus/${week}.md)\n`);
+
+  const occ = dayOccasion(dishes);
+  if (occ) out.push(`> 🎯 **${occ}**\n`);
 
   out.push('## Dishes\n');
   if (dishes.length > 1) {
@@ -469,7 +478,8 @@ function buildWeekSection(label, week, menu, shoppingWeeks) {
   out.push('| Day | Dishes | |');
   out.push('|-----|--------|---|');
   for (const [day, dishes] of dishesByDay(menu)) {
-    const names = dishes
+    const occ = dayOccasion(dishes);
+    const names = (occ ? `🎯 _${occ}_<br>` : '') + dishes
       .map(d => (isSide(d) ? `${d.title} _(side)_` : `**${d.title}**`))
       .join('<br>');
     out.push(`| **${day}** | ${names} | [cook →](days/${week}-${day}.md) |`);

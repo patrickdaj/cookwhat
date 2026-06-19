@@ -233,7 +233,8 @@
           "note": ""
         }
       ],
-      "notes": "Fondant potatoes: cut into thick cylinders, brown both sides in oil, then braise in chicken broth with thyme and garlic until meltingly tender. Start potatoes first — they take ~30 min. Blanch beans last 5 min."
+      "notes": "Fondant potatoes: cut into thick cylinders, brown both sides in oil, then braise in chicken broth with thyme and garlic until meltingly tender. Start potatoes first — they take ~30 min. Blanch beans last 5 min.",
+      "occasion": "Boss dinner"
     },
     {
       "id": "fondant-potatoes",
@@ -1003,5 +1004,5 @@
       "notes": "Bright, crunchy green to round out Saturday's roast chicken."
     }
   ],
-  "setAt": "2026-06-19T20:40:44.772Z"
+  "setAt": "2026-06-19T21:10:15.182Z"
 }

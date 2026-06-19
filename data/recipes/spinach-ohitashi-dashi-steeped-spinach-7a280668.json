@@ -1,0 +1,46 @@
+{
+  "mealId": "spinach-ohitashi-dashi-steeped-spinach-7a280668",
+  "fetchedAt": "2026-06-19",
+  "source": "Just One Cookbook",
+  "url": "https://www.justonecookbook.com/spinach-ohitashi-japanese-spinach-salad-with-bonito-flakes/",
+  "name": "Spinach Ohitashi (Dashi-Steeped Spinach)",
+  "description": "Just One Cookbook's Spinach Ohitashi — blanched spinach steeped in a lightly seasoned dashi broth and chilled, topped with bonito flakes (or sesame, for vegan). A clean, refreshing Japanese side that cuts the richness of fried karaage.",
+  "recipeIngredient": [
+    "1/2 cup water (or Awase/Vegan Dashi)",
+    "1 piece kombu/dried kelp (5g; 2x2 inches)",
+    "1 Tbsp mirin",
+    "1 Tbsp usukuchi (light-colored) soy sauce",
+    "1 bunch spinach (8 oz/227g)",
+    "1 tsp Diamond Crystal kosher salt",
+    "Katsuobushi (dried bonito flakes) — omit for vegan",
+    "Toasted white sesame seeds"
+  ],
+  "recipeInstructions": [
+    "Combine the water and kombu in a saucepan; slowly bring to a boil, then remove the kombu.",
+    "Add the mirin and soy sauce to the dashi; bring to a boil and set aside to cool.",
+    "Blanch the spinach in salted boiling water: stem side first for ~20 seconds, then push the leafy part down for 30-45 seconds.",
+    "Transfer to an ice bath for 1 minute to cool.",
+    "Gently squeeze out the water from the spinach.",
+    "Cut into 1 1/2-2 inch pieces and squeeze out any remaining water.",
+    "Place the spinach in an airtight container and pour the cooled broth over it.",
+    "Refrigerate at least 1 hour (ideally 3-4 hours) until fully submerged and infused.",
+    "Serve in small bowls with a little of the broth; garnish with sesame seeds or katsuobushi."
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "image": "",
+  "author": "Namiko Chen / Just One Cookbook",
+  "ai": {
+    "cliffNotes": "Blanch spinach, shock it, steep it in seasoned dashi, chill, and top with bonito flakes — an elegant, make-ahead green that's the perfect cool foil to fried karaage.",
+    "keyTips": [
+      "Blanch stem-side first (the stems need a head start), then push the leaves under — it cooks the bunch evenly so the leaves don't turn to mush.",
+      "Shock in ice water and keep it to ~1 minute: the cold bath sets the vivid green and removes much of the oxalic-acid bitterness, but lingering longer leaches out nutrients.",
+      "Squeeze the spinach really well (twice — after cutting too) so it soaks up the dashi instead of staying watery and diluting the broth.",
+      "It's a make-ahead dish — steep at least 1 hour, ideally 3-4, so the dashi fully infuses; keeps 3 days in the fridge.",
+      "Vegan? Use kombu dashi and garnish with toasted sesame seeds instead of bonito flakes."
+    ],
+    "source": "Claude (prose-mined from the Just One Cookbook article)"
+  }
+}

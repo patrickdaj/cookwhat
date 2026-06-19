@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-19T20:40:44.875Z",
+  "generatedAt": "2026-06-19T21:10:15.281Z",
   "targetServings": null,
   "sections": [
     {
@@ -311,6 +311,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "spinach",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Spinach Ohitashi (Dashi-Steeped Spinach)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "tomatoes (vine-ripe or Roma)",
           "qty": 3,
           "unit": "",
@@ -562,6 +572,26 @@
           "hasUnquantified": false
         },
         {
+          "item": "katsuobushi (bonito flakes)",
+          "qty": 1,
+          "unit": "pinch",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Ohitashi (Dashi-Steeped Spinach)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "kombu (dried kelp)",
+          "qty": 1,
+          "unit": "piece",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Ohitashi (Dashi-Steeped Spinach)"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "mayonnaise",
           "qty": 0.33,
           "unit": "cup",
@@ -573,12 +603,13 @@
         },
         {
           "item": "mirin",
-          "qty": 6,
+          "qty": 7,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
-            "Chicken Teriyaki"
+            "Chicken Teriyaki",
+            "Spinach Ohitashi (Dashi-Steeped Spinach)"
           ],
           "hasUnquantified": false
         },
@@ -674,16 +705,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "steamed rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "sweet potato glass noodles (dangmyeon)",
           "qty": 3,
           "unit": "oz",
@@ -700,6 +721,16 @@
           "category": "pantry",
           "fromMeals": [
             "Hummus with Warm Pita"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Ohitashi (Dashi-Steeped Spinach)"
           ],
           "hasUnquantified": false
         }
@@ -818,8 +849,9 @@
     "dark brown sugar",
     "unsalted butter",
     "butter",
-    "sugar"
+    "sugar",
+    "light (usukuchi) soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 75
+  "totalItems": 78
 }
