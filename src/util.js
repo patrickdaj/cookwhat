@@ -115,11 +115,21 @@ const PREP_WORDS = new Set([
   "wedges", "rings", "strips", "zested", "juiced", "of",
 ]);
 
+// Leading cut-prep adverbs safe to drop from the front of an item
+// ("chopped fresh parsley" -> "fresh parsley"). Deliberately excludes "fresh",
+// "ground", and colors, which distinguish what you buy ("ground beef" must not
+// merge into "beef", "fresh mozzarella" not into "mozzarella").
+const LEADING_PREP = new Set([
+  "chopped", "minced", "diced", "sliced", "grated", "shredded", "crushed",
+  "crumbled", "cubed", "julienned", "finely", "coarsely", "thinly", "roughly",
+]);
+
 // Merge key for the shopping list: drop a trailing prep clause that is *only*
-// prep words ("garlic, minced" -> "garlic") so it consolidates with the plain
-// form, while leaving compositional descriptors alone ("bone-in, skin-on
-// chicken thighs" keeps its comma because "skin-on chicken thighs" isn't all
-// prep words, so it won't collapse into the boneless version).
+// prep words ("garlic, minced" -> "garlic") and any leading cut-prep adverbs
+// ("chopped fresh parsley" -> "fresh parsley"), so variants of the same buy
+// consolidate, while leaving compositional descriptors alone ("bone-in,
+// skin-on chicken thighs" keeps its comma because "skin-on chicken thighs"
+// isn't all prep words, so it won't collapse into the boneless version).
 export function coreItemName(name) {
   let core = String(name);
   const ci = core.indexOf(",");
@@ -134,7 +144,9 @@ export function coreItemName(name) {
       core = core.slice(0, ci);
     }
   }
-  return normalizeItem(core);
+  const tokens = normalizeItem(core).split(" ").filter(Boolean);
+  while (tokens.length > 1 && LEADING_PREP.has(tokens[0])) tokens.shift();
+  return tokens.join(" ");
 }
 
 // Color helpers (disabled if not a TTY or NO_COLOR set).

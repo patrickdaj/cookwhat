@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T21:48:07.092Z",
+  "generatedAt": "2026-06-19T21:49:41.495Z",
   "targetServings": null,
   "sections": [
     {
@@ -29,16 +29,6 @@
         },
         {
           "item": "chopped fresh dill",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "chopped fresh parsley",
           "qty": 2,
           "unit": "tbsp",
           "category": "produce",
@@ -89,11 +79,12 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 3,
+          "qty": 5,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre",
+            "Greek-Style Shrimp with Tomatoes and Feta",
             "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
@@ -926,5 +917,5 @@
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 85
+  "totalItems": 84
 }
