@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-19T18:52:17.082Z",
+  "generatedAt": "2026-06-19T21:46:56.056Z",
   "targetServings": null,
   "sections": [
     {
@@ -129,20 +129,11 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 0.25,
+          "qty": 0.58,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley, chopped",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
+            "Mediterranean Tomato and Cucumber Salad",
             "My Mother's Meatballs"
           ],
           "hasUnquantified": false
@@ -302,7 +293,7 @@
           "hasUnquantified": false
         },
         {
-          "item": "scallions",
+          "item": "scallion",
           "qty": 6,
           "unit": "",
           "category": "produce",
@@ -830,5 +821,5 @@
     "butter"
   ],
   "pendingScans": [],
-  "totalItems": 75
+  "totalItems": 74
 }

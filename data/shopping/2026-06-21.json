@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T18:52:17.010Z",
+  "generatedAt": "2026-06-19T21:46:40.515Z",
   "targetServings": null,
   "sections": [
     {
@@ -59,20 +59,11 @@
         },
         {
           "item": "fresh parsley",
-          "qty": 1,
+          "qty": 3,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
-            "Chicken au Poivre"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley, chopped",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
+            "Chicken au Poivre",
             "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
@@ -90,23 +81,14 @@
         },
         {
           "item": "garlic",
-          "qty": 9,
+          "qty": 13,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Cashew Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic, minced",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "fromMeals": [
+            "Cashew Chicken",
             "Spanish-Style Braised Chicken and Almonds"
           ],
           "hasUnquantified": false
@@ -773,5 +755,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 70
+  "totalItems": 68
 }

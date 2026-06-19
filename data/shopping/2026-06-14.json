@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-14",
-  "generatedAt": "2026-06-16T13:36:42.021Z",
+  "generatedAt": "2026-06-19T21:46:56.133Z",
   "targetServings": null,
   "sections": [
     {
@@ -474,5 +474,6 @@
     }
   ],
   "excludedStaples": [],
+  "pendingScans": [],
   "totalItems": 42
 }

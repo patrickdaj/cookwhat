@@ -99,6 +99,36 @@ test("buildShoppingList consolidates like items without double counting", () => 
   assert.equal(garlic.qty, 7, "garlic should sum to 7, got " + garlic.qty);
 });
 
+test("buildShoppingList merges prep-descriptor variants but not real distinctions", () => {
+  const menu = {
+    weekOf: "2026-06-15",
+    servingsDefault: 4,
+    meals: [
+      makeMeal(
+        { day: "Mon", title: "A", servings: 4, ingredients: [
+          { item: "garlic", qty: 9, unit: "clove" },
+          { item: "bone-in, skin-on chicken thighs", qty: 8, unit: "" },
+        ] },
+        cfg
+      ),
+      makeMeal(
+        { day: "Tue", title: "B", servings: 4, ingredients: [
+          { item: "garlic, minced", qty: 4, unit: "clove" },
+          { item: "boneless skinless chicken thighs", qty: 2, unit: "lb" },
+        ] },
+        cfg
+      ),
+    ],
+  };
+  const list = buildShoppingList(menu, cfg);
+  const items = list.sections.flatMap((s) => s.items);
+  const garlic = items.filter((i) => i.item === "garlic");
+  assert.equal(garlic.length, 1, "garlic + garlic, minced should be one line");
+  assert.equal(garlic[0].qty, 13, "garlic should sum to 13 clove");
+  const thighs = items.filter((i) => /chicken thighs/.test(i.item));
+  assert.equal(thighs.length, 2, "bone-in vs boneless thighs must stay separate");
+});
+
 test("buildShoppingList scales to target servings", () => {
   const menu = {
     weekOf: "2026-06-15",

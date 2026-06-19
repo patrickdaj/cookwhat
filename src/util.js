@@ -100,6 +100,43 @@ export function normalizeItem(name) {
     .trim();
 }
 
+// Prep/state words that recipes tack onto an ingredient ("garlic, minced";
+// "parsley, chopped"). They describe how to cut it, not what to buy, so they
+// must not split the same ingredient into two shopping lines.
+const PREP_WORDS = new Set([
+  "minced", "chopped", "diced", "sliced", "grated", "shredded", "crushed",
+  "ground", "crumbled", "cubed", "julienned", "halved", "quartered", "fine",
+  "finely", "coarse", "coarsely", "thin", "thinly", "thick", "thickly",
+  "rough", "roughly", "fresh", "freshly", "peeled", "deveined", "trimmed",
+  "seeded", "stemmed", "cored", "drained", "rinsed", "softened", "melted",
+  "divided", "beaten", "separated", "cooked", "toasted", "room",
+  "temperature", "to", "taste", "for", "serving", "garnish", "and", "or",
+  "well", "lightly", "patted", "dry", "washed", "cut", "into", "pieces",
+  "wedges", "rings", "strips", "zested", "juiced", "of",
+]);
+
+// Merge key for the shopping list: drop a trailing prep clause that is *only*
+// prep words ("garlic, minced" -> "garlic") so it consolidates with the plain
+// form, while leaving compositional descriptors alone ("bone-in, skin-on
+// chicken thighs" keeps its comma because "skin-on chicken thighs" isn't all
+// prep words, so it won't collapse into the boneless version).
+export function coreItemName(name) {
+  let core = String(name);
+  const ci = core.indexOf(",");
+  if (ci !== -1) {
+    const after = core
+      .slice(ci + 1)
+      .toLowerCase()
+      .replace(/[^a-z ]/g, " ")
+      .split(/\s+/)
+      .filter(Boolean);
+    if (after.length && after.every((t) => PREP_WORDS.has(t))) {
+      core = core.slice(0, ci);
+    }
+  }
+  return normalizeItem(core);
+}
+
 // Color helpers (disabled if not a TTY or NO_COLOR set).
 const useColor = process.stdout.isTTY && !process.env.NO_COLOR;
 const wrap = (code) => (s) => (useColor ? `\x1b[${code}m${s}\x1b[0m` : String(s));

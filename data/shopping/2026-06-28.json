@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-19T18:52:17.049Z",
+  "generatedAt": "2026-06-19T21:46:55.972Z",
   "targetServings": null,
   "sections": [
     {
@@ -118,25 +118,16 @@
         },
         {
           "item": "garlic",
-          "qty": 18,
+          "qty": 22,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
+            "Sicilian Fish Stew",
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Green Beans",
             "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic, minced",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -593,5 +584,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 50
+  "totalItems": 49
 }

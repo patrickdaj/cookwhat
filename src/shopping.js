@@ -1,4 +1,4 @@
-import { round, normalizeItem } from "./util.js";
+import { round, normalizeItem, coreItemName } from "./util.js";
 
 // Lightweight category guesser used only when a meal ingredient has no category.
 const CATEGORY_HINTS = {
@@ -50,9 +50,9 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
         excluded.push(ing.item);
         continue;
       }
-      const norm = normalizeItem(ing.item);
+      const core = coreItemName(ing.item);
       const unit = (ing.unit || "").toLowerCase().trim();
-      const key = `${norm}|${unit}`;
+      const key = `${core}|${unit}`;
       const category = ing.category || guessCategory(ing.item);
       if (!merged.has(key)) {
         merged.set(key, {
@@ -65,6 +65,11 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
         });
       }
       const line = merged.get(key);
+      // Prefer the cleanest display name: when variants merge ("garlic" +
+      // "garlic, minced"), show the plain form (no prep clause / shortest).
+      if (normalizeItem(ing.item) === core && line.item.length > ing.item.length) {
+        line.item = ing.item;
+      }
       if (ing.qty != null) {
         line.qty = (line.qty || 0) + ing.qty * scale;
       } else {
