@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-18T04:40:16.702Z",
+  "generatedAt": "2026-06-19T18:52:17.049Z",
   "targetServings": null,
   "sections": [
     {
@@ -37,16 +37,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "celery",
           "qty": 1,
           "unit": "rib",
@@ -58,32 +48,11 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.75,
+          "qty": 0.25,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "corn",
-          "qty": 2,
-          "unit": "ear",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "corn on the cob",
-          "qty": 4,
-          "unit": "ear",
-          "category": "produce",
-          "fromMeals": [
-            "Easy Grilled Corn on the Cob"
           ],
           "hasUnquantified": false
         },
@@ -149,13 +118,12 @@
         },
         {
           "item": "garlic",
-          "qty": 21,
+          "qty": 18,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Green Beans",
-            "Grilled Shrimp Tacos with Creamy Slaw",
             "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
@@ -184,32 +152,11 @@
           "hasUnquantified": false
         },
         {
-          "item": "green cabbage",
-          "qty": 4,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green cabbage",
+          "item": "lime",
           "qty": 1,
-          "unit": "small head",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "limes",
-          "qty": 3,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
@@ -231,16 +178,6 @@
           "category": "produce",
           "fromMeals": [
             "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "red onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -300,16 +237,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "large shrimp, peeled and deveined",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "ribeye steaks",
           "qty": 4,
           "unit": "steak",
@@ -338,42 +265,12 @@
             "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "whole chicken, cut into quarters (3-4 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Cornell Chicken"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "dairy",
       "items": [
-        {
-          "item": "cotija cheese",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "egg",
-          "qty": 1,
-          "unit": "",
-          "category": "dairy",
-          "fromMeals": [
-            "Cornell Chicken"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "grated Parmesan",
           "qty": 0.5,
@@ -393,32 +290,12 @@
             "Grilled Asparagus"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "sour cream",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "dairy",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "bakery",
       "items": [
-        {
-          "item": "corn tortillas",
-          "qty": 8,
-          "unit": "",
-          "category": "bakery",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "crusty bread, for serving",
           "qty": 1,
@@ -434,26 +311,6 @@
     {
       "category": "pantry",
       "items": [
-        {
-          "item": "apple cider vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Cornell Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "apple cider vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "balsamic condimento or reduction",
           "qty": 1,
@@ -471,16 +328,6 @@
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -521,26 +368,6 @@
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -676,26 +503,6 @@
       "category": "spices",
       "items": [
         {
-          "item": "ancho chili powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "red pepper flakes",
           "qty": null,
           "unit": "pinch",
@@ -707,11 +514,10 @@
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 2.25,
+          "qty": 1.25,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Cornell Chicken",
             "Grilled Asparagus"
           ],
           "hasUnquantified": false
@@ -740,16 +546,6 @@
             "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "tequila",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Grilled Shrimp Tacos with Creamy Slaw"
-          ],
-          "hasUnquantified": false
         }
       ]
     }
@@ -759,13 +555,43 @@
     "sugar",
     "vegetable oil",
     "unsalted butter",
-    "butter",
     "kosher salt",
     "coarsely ground black pepper",
     "salted butter",
     "extra virgin olive oil",
     "black pepper"
   ],
-  "pendingScans": [],
-  "totalItems": 70
+  "pendingScans": [
+    {
+      "title": "Pan-Roasted Halibut with Chermoula",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.247",
+      "cookbook": true
+    },
+    {
+      "title": "Spiced Vegetable Couscous",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
+      "cookbook": true
+    },
+    {
+      "title": "Grilled Chicken alla Diavola",
+      "day": "Fri",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
+      "cookbook": true
+    },
+    {
+      "title": "Greek-Style Garlic-Lemon Potatoes with Olives and Feta",
+      "day": "Fri",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
+      "cookbook": true
+    },
+    {
+      "title": "Grilled Vegetable Kebabs with Grilled Lemon",
+      "day": "Fri",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.237",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 50
 }

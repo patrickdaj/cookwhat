@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-18T05:20:42.183Z",
-  "targetServings": 4,
+  "generatedAt": "2026-06-19T18:52:17.010Z",
+  "targetServings": null,
   "sections": [
     {
       "category": "produce",
@@ -18,62 +18,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "asparagus",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "avocado",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "chives or parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Championship Bacon-Wrapped Stuffed Shrimp"
           ],
           "hasUnquantified": false
         },
         {
           "item": "cilantro",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "cup",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "corn on the cob",
-          "qty": 4,
-          "unit": "ear",
-          "category": "produce",
-          "fromMeals": [
-            "Easy Grilled Corn on the Cob"
           ],
           "hasUnquantified": false
         },
@@ -88,22 +48,22 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
             "Chicken au Poivre"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -129,25 +89,15 @@
           "hasUnquantified": false
         },
         {
-          "item": "frisée or mixed greens",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "garlic",
-          "qty": 7,
+          "qty": 9,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros",
             "Chicken au Poivre",
             "Fondant Potatoes",
-            "Honey Mustard Sheet-Pan Chicken"
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
@@ -158,16 +108,6 @@
           "category": "produce",
           "fromMeals": [
             "Spanish-Style Braised Chicken and Almonds"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "green cabbage",
-          "qty": 1,
-          "unit": "small head",
-          "category": "produce",
-          "fromMeals": [
-            "Classic Coleslaw"
           ],
           "hasUnquantified": false
         },
@@ -183,12 +123,11 @@
         },
         {
           "item": "jalapeño",
-          "qty": 4,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Huevos Rancheros",
-            "Championship Bacon-Wrapped Stuffed Shrimp"
+            "Huevos Rancheros"
           ],
           "hasUnquantified": false
         },
@@ -206,7 +145,7 @@
         },
         {
           "item": "lemon juice",
-          "qty": 2,
+          "qty": 4,
           "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
@@ -235,23 +174,42 @@
           "hasUnquantified": false
         },
         {
-          "item": "red onion",
-          "qty": 0.75,
+          "item": "red bell pepper",
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Classic Coleslaw",
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
             "Arugula, Fennel, and Orange Salad"
           ],
           "hasUnquantified": false
         },
         {
           "item": "ripe tomatoes",
-          "qty": 2,
+          "qty": 4,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
             "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
@@ -268,7 +226,7 @@
         },
         {
           "item": "shishito peppers",
-          "qty": 8,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -288,7 +246,7 @@
         },
         {
           "item": "Tokyo negi (long green onion)",
-          "qty": 2,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -298,7 +256,7 @@
         },
         {
           "item": "white onion",
-          "qty": 0.5,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
@@ -332,16 +290,6 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "bacon (pepper-crusted)",
-          "qty": 20,
-          "unit": "slice",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Championship Bacon-Wrapped Stuffed Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "bone-in, skin-on chicken thighs",
           "qty": 8,
           "unit": "",
@@ -352,23 +300,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 3.5,
+          "item": "boneless skinless chicken breast",
+          "qty": 1.5,
           "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken au Poivre",
-            "Honey Mustard Sheet-Pan Chicken"
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "large shrimp (16/20), shell-on",
-          "qty": 20,
-          "unit": "",
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Championship Bacon-Wrapped Stuffed Shrimp"
+            "Chicken au Poivre"
           ],
           "hasUnquantified": false
         },
@@ -394,7 +341,7 @@
         },
         {
           "item": "yellowtail (hamachi/buri) fillets",
-          "qty": 4,
+          "qty": 2,
           "unit": "fillet",
           "category": "meat-seafood",
           "fromMeals": [
@@ -408,18 +355,8 @@
       "category": "dairy",
       "items": [
         {
-          "item": "cream cheese",
-          "qty": 8,
-          "unit": "oz",
-          "category": "dairy",
-          "fromMeals": [
-            "Championship Bacon-Wrapped Stuffed Shrimp"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "eggs",
-          "qty": 10,
+          "qty": 18,
           "unit": "",
           "category": "dairy",
           "fromMeals": [
@@ -465,7 +402,7 @@
       "items": [
         {
           "item": "corn tortillas",
-          "qty": 8,
+          "qty": 16,
           "unit": "",
           "category": "bakery",
           "fromMeals": [
@@ -482,32 +419,12 @@
             "Pork Chops Milanese with Amatriciana"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "crusty sourdough bread",
-          "qty": 6,
-          "unit": "oz",
-          "category": "bakery",
-          "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
     {
       "category": "pantry",
       "items": [
-        {
-          "item": "apple cider vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
         {
           "item": "canola oil",
           "qty": 2,
@@ -530,16 +447,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Classic Coleslaw"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "fine dried breadcrumbs",
           "qty": 1,
           "unit": "cup",
@@ -550,12 +457,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "honey",
-          "qty": 3,
-          "unit": "tbsp",
+          "item": "hoisin sauce",
+          "qty": 1,
+          "unit": "",
           "category": "pantry",
           "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
@@ -570,18 +487,28 @@
           "hasUnquantified": false
         },
         {
-          "item": "mayonnaise",
-          "qty": 0.33,
+          "item": "jasmine rice",
+          "qty": 2,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Classic Coleslaw"
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "low-sodium chicken stock",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
         {
           "item": "mirin",
-          "qty": 4,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -591,7 +518,7 @@
         },
         {
           "item": "neutral oil",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
@@ -601,7 +528,7 @@
         },
         {
           "item": "neutral oil",
-          "qty": 2,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
@@ -610,32 +537,32 @@
           "hasUnquantified": false
         },
         {
-          "item": "red wine vinegar",
-          "qty": 2,
-          "unit": "tbsp",
+          "item": "oyster sauce",
+          "qty": 1,
+          "unit": "",
           "category": "pantry",
           "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
         {
           "item": "steamed Japanese short-grain rice",
-          "qty": 6,
+          "qty": 3,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
             "Yellowtail Teriyaki (Buri no Teriyaki)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "stoneground mustard",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Honey Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false
         },
@@ -646,6 +573,16 @@
           "category": "pantry",
           "fromMeals": [
             "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "unsalted cashews",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
           ],
           "hasUnquantified": false
         },
@@ -676,7 +613,7 @@
       "items": [
         {
           "item": "black beans",
-          "qty": 2,
+          "qty": 4,
           "unit": "can",
           "category": "canned",
           "fromMeals": [
@@ -714,16 +651,6 @@
             "Fondant Potatoes"
           ],
           "hasUnquantified": false
-        },
-        {
-          "item": "Thai sweet chili sauce",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Championship Bacon-Wrapped Stuffed Shrimp"
-          ],
-          "hasUnquantified": false
         }
       ]
     },
@@ -752,7 +679,7 @@
         },
         {
           "item": "ground cumin",
-          "qty": 0.75,
+          "qty": 1.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -782,7 +709,7 @@
         },
         {
           "item": "smoked paprika",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
@@ -817,7 +744,7 @@
         },
         {
           "item": "sake",
-          "qty": 4,
+          "qty": 2,
           "unit": "tbsp",
           "category": "beverages",
           "fromMeals": [
@@ -835,9 +762,16 @@
     "soy sauce",
     "sugar",
     "all-purpose flour",
-    "butter",
+    "water chestnuts",
     "extra virgin olive oil"
   ],
-  "pendingScans": [],
-  "totalItems": 77
+  "pendingScans": [
+    {
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "day": "Fri",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 70
 }

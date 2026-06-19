@@ -711,86 +711,68 @@
       "notes": "Shave fennel thin, supreme the oranges, toss with oil, lemon, salt; top with toasted hazelnuts + herbs. Bright/bitter foil to the rich meatballs. Quantities best-effort."
     },
     {
-      "id": "buttery-lemon-herb-rubbed-roast-chicken-2939cd07",
+      "id": "chicken-teriyaki-a01349fc",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Buttery Lemon-Herb-Rubbed Roast Chicken",
-      "source": "The Food Lab (Kenji López-Alt) — p.595",
-      "sourceUrl": "",
-      "cuisine": "american",
+      "title": "Chicken Teriyaki",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/chicken-teriyaki/",
+      "cuisine": "japanese",
       "protein": "chicken",
       "tags": [
-        "weeknight"
+        "weeknight",
+        "asian",
+        "fresh-web"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [
         {
-          "item": "whole chicken (3.5-4 lb)",
-          "qty": 1,
-          "unit": "",
+          "item": "boneless skin-on chicken thighs",
+          "qty": 1.75,
+          "unit": "lb",
           "category": "meat-seafood",
           "note": ""
         },
         {
-          "item": "fresh parsley leaves",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh sage leaves",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary leaves",
-          "qty": 1,
+          "item": "soy sauce",
+          "qty": 4,
           "unit": "tbsp",
-          "category": "produce",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "scallion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
+          "item": "mirin",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "garlic, minced",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
+          "item": "sake",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "lemon (for zest)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "unsalted butter",
+          "item": "sugar",
           "qty": 2,
           "unit": "tbsp",
-          "category": "dairy",
+          "category": "pantry",
           "note": ""
         },
         {
-          "item": "Yukon Gold potatoes, halved",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce"
+          "item": "short-grain (Japanese) rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "steamed, to serve"
         }
       ],
-      "notes": "From The Food Lab (p.595), scanned. Carb: roast halved Yukon Golds under the chicken to catch the drippings. Veg: the sautéed green beans side on this day."
+      "notes": "Classic Japanese pan-seared chicken thighs glazed in a 4-ingredient soy-mirin-sake-sugar sauce (no cornstarch — the sugar caramelizes to a shiny glaze). Complete plate: teriyaki chicken + steamed rice (carb) + the sautéed green beans side (veg, kept). Score & flatten the thighs for even thickness; sear skin-side down and press; steam covered 3 min; then add sauce and spoon over to glaze. (Replaces the American lemon-herb roast chicken.)"
     },
     {
       "id": "saut-ed-green-beans-with-garlic-and-herbs-892ea077",
@@ -1088,5 +1070,5 @@
       "notes": "Classic Japanese potato salad — a traditional karaage companion."
     }
   ],
-  "setAt": "2026-06-18T04:40:16.761Z"
+  "setAt": "2026-06-19T18:51:58.172Z"
 }
