@@ -3,6 +3,8 @@ name: Deploy Docs
 on:
   push:
     branches: [main, master, 'claude/**']
+  schedule:
+    - cron: '0 13 * * *'   # ~daily rebuild so This/Next week roll over on their own
   workflow_dispatch:
 
 permissions:
