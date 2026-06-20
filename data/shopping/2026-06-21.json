@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-21",
-  "generatedAt": "2026-06-19T21:52:33.309Z",
+  "generatedAt": "2026-06-20T12:57:43.341Z",
   "targetServings": null,
   "sections": [
     {
@@ -486,6 +486,16 @@
       "category": "pantry",
       "items": [
         {
+          "item": "bacon fat",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Huevos Rancheros"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "basmati rice",
           "qty": 1,
           "unit": "cup",
@@ -890,5 +900,5 @@
     "extra virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 81
+  "totalItems": 82
 }
