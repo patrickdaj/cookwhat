@@ -2644,5 +2644,60 @@
     "sourceUrl": "https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe",
     "source": "seriouseats.com",
     "notes": "Just OK (3). Wife will not like it — skip going forward."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Salmon Bowl",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "japanese",
+    "protein": "salmon",
+    "sourceUrl": "https://www.thekitchn.com/salmon-bowl-recipe-23658423",
+    "source": "thekitchn.com",
+    "notes": "Sauce should be mayo-based, not yogurt next time."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "One-Pan Italian Chicken and Rice",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "italian",
+    "protein": "chicken",
+    "sourceUrl": "https://www.thekitchn.com/one-pan-italian-chicken-and-rice-recipe-23650537",
+    "source": "thekitchn.com",
+    "notes": "Dish was fine; I messed up the rice — nail the rice next time."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Shrimp Fried Rice with Sautéed Garlic Spinach",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "chinese",
+    "protein": "shrimp",
+    "sourceUrl": "https://www.thekitchn.com/shrimp-fried-rice-266999",
+    "source": "thekitchn.com",
+    "notes": "Good but seemed to be missing something."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Easy Korean Beef Bowls",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "korean",
+    "protein": "beef",
+    "sourceUrl": "https://www.thekitchn.com/korean-beef-bowl-recipe-23772102",
+    "source": "thekitchn.com",
+    "notes": "Good but needed a sauce."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Chicken Souvlaki",
+    "rating": 4,
+    "redo": true,
+    "cuisine": "mediterranean",
+    "protein": "chicken",
+    "sourceUrl": "https://www.thekitchn.com/chicken-souvlaki-recipe-23481336",
+    "source": "thekitchn.com",
+    "notes": "Make fresh pitas next time."
   }
 ]
