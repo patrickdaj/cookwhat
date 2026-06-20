@@ -136,6 +136,17 @@ Add each as its own meal on the same `day`/`slot`
 - **Put each side's ingredients on that side dish**, never bundled onto the main.
   The shopping list and the per-day "everything you need" page consolidate across
   dishes, so bundling causes double-counting or wrong attribution.
+- **Black-box sub-components ("store-bought or homemade") must be enumerated.**
+  Recipes often punt on a sauce/condiment — e.g. Kitchn souvlaki lists only
+  *"Tzatziki sauce (store-bought or homemade), for serving"* with no breakdown.
+  If the user makes it from scratch, the shopping list is silently missing a
+  whole sauce (we hit this: tzatziki had `Greek yogurt` + platter cucumber but
+  no dill/mint/garlic-for-the-sauce). When a recipe references such a component,
+  either add it as a **real `side` dish with its own sourced recipe + full
+  ingredients** (preferred — it shows on the list and gets a detail page), or at
+  minimum capture the complete sub-recipe ingredient set onto the dish. Don't
+  leave a half-enumerated sauce. (Tzatziki, pita, pickles, dressings, spice
+  blends, dipping sauces all count.)
 - **Truly trivial accompaniments** (plain rice, couscous) can be a `side` with a
   short recipe, or just left as a shopping ingredient — ask the user. They may
   still want a quick recipe (e.g. couscous).
