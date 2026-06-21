@@ -368,6 +368,22 @@ function buildDayPage(week, day, dishes, recipesByMealId) {
 
 // ---- Recipe pages ----------------------------------------------------------
 
+// Pull a *serving count* out of a scraped recipeYield. Only trust it when the
+// string actually denotes servings ("4 servings", "Serves 4", "6 people",
+// "3-4") — NOT counts of things ("31 baby potatoes", "2 cups", "1 loaf",
+// "Makes 12 cookies"), which would yield a bogus scale factor. Returns the low
+// end of a range, or null when the yield isn't clearly in servings.
+function parseYieldServings(y) {
+  if (y == null) return null;
+  if (Array.isArray(y)) y = y.find(v => /\d/.test(String(v))) ?? y[0];
+  let s = String(y).replace(/^\s*(yield|makes|serves?)\s*:?\s*/i, '').trim();
+  const denotesServings = /serv|people|portion/i.test(String(y));
+  const pureNumberOrRange = /^\d+\s*(?:[-–]|to)?\s*\d*$/.test(s);
+  if (!denotesServings && !pureNumberOrRange) return null;
+  const m = s.match(/\d+/);
+  return m ? parseInt(m[0], 10) : null;
+}
+
 function buildRecipePage(stored, meal, ratings) {
   const out = [];
   const title = decodeEntities(stored.name || meal?.title || 'Recipe');
@@ -403,6 +419,28 @@ function buildRecipePage(stored, meal, ratings) {
     for (const tip of stored.ai.keyTips) {
       out.push(`    - ${tip}`);
     }
+    out.push('');
+  }
+
+  // Batch-scale banner. The card below is the raw scraped recipe at its own
+  // yield; the shopping list, by contrast, scales from the menu's structured
+  // ingredients. When a meal is *deliberately* scaled off the week's baseline
+  // (e.g. a doubled huevos: servings 8 vs the week's default 4), the cook page
+  // would otherwise silently show the original amounts. Flag that mismatch
+  // loudly rather than mis-scaling free-text quantities/instructions. We trigger
+  // only on a deliberate per-meal scale (servings ≠ servingsDefault) to avoid
+  // banner-spam from cards that merely happen to natively serve a different count.
+  const planned = meal?.servings;
+  const baseline = meal?.servingsDefault;
+  const nativeYield = parseYieldServings(stored.recipeYield);
+  // Only flag when (a) the meal is deliberately scaled off the week's baseline,
+  // (b) we actually know the card's yield, and (c) it really differs — so we
+  // never print a bogus "1×" or guess a factor against an unknown card.
+  if (planned && baseline && planned !== baseline && nativeYield && planned !== nativeYield) {
+    const factor = planned / nativeYield;
+    const nice = Number.isInteger(factor) ? `${factor}×` : `${factor.toFixed(2)}×`;
+    out.push(`!!! warning "Cooking a ${nice} batch this week"`);
+    out.push(`    This dish is planned for **${planned} servings** this week, but the recipe below is written for **${nativeYield}**. Multiply every ingredient *and* the in-step amounts (egg counts, pans, plates) by **${nice.replace('×', '')}**.`);
     out.push('');
   }
 
@@ -812,7 +850,7 @@ function main() {
   for (const menu of menus) {
     menusByWeek[menu.weekOf] = menu;
     for (const meal of menu.meals) {
-      mealLookup[meal.id] = { ...meal, weekOf: menu.weekOf };
+      mealLookup[meal.id] = { ...meal, weekOf: menu.weekOf, servingsDefault: menu.servingsDefault };
     }
   }
 
