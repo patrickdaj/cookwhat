@@ -42,5 +42,15 @@
   "rating": 5,
   "notes": null,
   "nutrition": "Trans Fat: 0 grams | Fat: 22 grams | Calories: 368 | Saturated Fat: 3 grams | Unsaturated Fat: 18 grams | Sodium: 309 milligrams | Sugar: 2 grams | Fiber: 2 grams | Carbohydrate: 34 grams | Protein: 8 grams",
-  "ai": null
+  "ai": {
+    "cliffNotes": "Buttermilk- and pickle-brined chicken thighs dredged in a flour-cornstarch coat and shallow/deep fried crisp, stacked on buttered brioche with a pickle-caper mayo and crunchy cabbage.",
+    "keyTips": [
+      "Brine the thighs in pickle brine + buttermilk ahead (a few hours, or overnight) \u2014 the acid seasons and tenderizes; it's the whole point of the sandwich.",
+      "Cornstarch in the dredge (with the flour) is what makes the crust shatter-crisp rather than bready.",
+      "Pat the brined chicken so the dredge grips, and let the coated pieces sit a couple minutes before frying so the coating sets.",
+      "Hold the oil around 350\u00b0F and don't crowd the pot \u2014 too many pieces drop the temp and you get greasy, pale chicken.",
+      "Toast the buns in the 2 Tbsp butter; it waterproofs them against the mayo and adds flavor.",
+      "Build the pickle-caper mayo and slaw while the chicken brines so assembly is fast off the fryer."
+    ]
+  }
 }

@@ -129,291 +129,6 @@
       "notes": "From the Complete Mediterranean (ATK p.267), scanned. Swordfish stays — you like it in a stew (just not grilled). Carb: crusty bread for the broth; the tomato-celery base is the veg."
     },
     {
-      "id": "roasted-lemongrass-chicken-thighs-25499514",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Roasted Lemongrass Chicken Thighs",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/lemongrass-chicken/",
-      "cuisine": "vietnamese",
-      "protein": "chicken",
-      "tags": [
-        "weeknight",
-        "asian",
-        "guest",
-        "fresh-web",
-        "mild"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 6,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "fresh lemongrass",
-          "qty": 2,
-          "unit": "stalk",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "oyster sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "the pan drippings go over it"
-        },
-        {
-          "item": "Thai basil",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": "garnish, optional"
-        }
-      ],
-      "notes": "GUEST DINNER for Jody — swapped in for the spicy Thai Basil Chicken. Mild: OMIT the red pepper flakes from the marinade (no heat). Fragrant one-pan lemongrass thighs — sear skin-side down, then roast with the marinade into a sticky sauce; spoon the drippings over jasmine rice. Pairs with the garlic green beans (veg). Marinate 1-4 hrs ahead so weeknight active time stays low.",
-      "occasion": "Jody over for dinner"
-    },
-    {
-      "id": "garlic-green-beans-aec655d2",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Garlic Green Beans",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/garlic-green-beans/",
-      "cuisine": "chinese",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "green beans",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "vegetable oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "soy sauce",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Blister the green beans in a hot wok, toss with lots of garlic + a splash of soy. A real green for the Thai basil chicken plate."
-    },
-    {
-      "id": "pan-roasted-halibut-with-chermoula-178bd7f8",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Pan-Roasted Halibut with Chermoula",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.250",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "halibut",
-      "tags": [
-        "mediterranean",
-        "seafood"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "fresh cilantro leaves",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "lemon juice",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "produce"
-        },
-        {
-          "item": "garlic cloves, minced",
-          "qty": 4,
-          "category": "produce"
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "paprika",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "salt",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "cayenne pepper",
-          "qty": 0.125,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
-          "qty": 2,
-          "category": "meat-seafood"
-        },
-        {
-          "item": "extra-virgin olive oil (for fish)",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry"
-        }
-      ],
-      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.250. 250 (the Halibut-with-Chermoula recipe, not the Provençal Braised Hake on the same page). Pan-roasted halibut with North African chermoula herb sauce. Pair with the Spiced Vegetable Couscous side for carb + veg. (Replaces the Mexican grilled shrimp tacos.)"
-    },
-    {
-      "id": "spiced-vegetable-couscous-71e4d377",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Spiced Vegetable Couscous",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "mediterranean",
-        "side"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "cauliflower",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce"
-        },
-        {
-          "item": "red bell pepper",
-          "qty": 1,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "couscous",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "ras el hanout",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "chicken or vegetable broth",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 6,
-          "unit": "tbsp",
-          "category": "pantry"
-        }
-      ],
-      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.162. 162. Carb + veg in one: couscous studded with vegetables, the classic North African pairing for chermoula fish."
-    },
-    {
       "id": "miso-chicken-4a535807",
       "day": "Wed",
       "slot": "dinner",
@@ -997,7 +712,441 @@
         }
       ],
       "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
+    },
+    {
+      "id": "pickle-brined-fried-chicken-sandwich-fe27e359",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pickle-Brined Fried Chicken Sandwiches",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1020385-pickle-brined-fried-chicken-sandwich",
+      "cuisine": "american",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "guest",
+        "fried-chicken"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": 90,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "dill pickles (with brine)",
+          "qty": 1,
+          "unit": "jar",
+          "category": "pantry",
+          "note": "need ~24 coins + 1/2 cup brine"
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "capers",
+          "qty": 4,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "buttermilk",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "cornstarch",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices"
+        },
+        {
+          "item": "neutral oil (for frying)",
+          "qty": 6,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy"
+        },
+        {
+          "item": "brioche buns",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery"
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce"
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "optional, for serving"
+        },
+        {
+          "item": "hot sauce",
+          "category": "pantry",
+          "note": "optional, for serving"
+        }
+      ],
+      "notes": "Brine chicken in pickle brine + buttermilk ahead (overnight best)."
+    },
+    {
+      "id": "crispy-sweet-potato-fries-smoky-7a1c2f4e",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/baked-sweet-potato-fries-zaatar/",
+      "cuisine": "american",
+      "protein": "vegetarian",
+      "tags": [
+        "side",
+        "vegetable"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 65,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "sweet potatoes",
+          "qty": 3,
+          "unit": "medium",
+          "category": "produce"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "cornstarch",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toss with fries for extra crisp"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "cayenne pepper",
+          "unit": "pinch",
+          "category": "spices"
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "for chipotle-lime mayo"
+        },
+        {
+          "item": "chipotle peppers in adobo",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "need 1-2 peppers + 1 tsp adobo"
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        }
+      ],
+      "notes": "Soak fries 30 min, dry well, single layer, flip halfway — the anti-sog routine."
+    },
+    {
+      "id": "pistachio-pesto-pizza-with-fresh-mozzarella-and-honey-e6b9e7ce",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pistachio Pesto Pizza with Fresh Mozzarella and Honey",
+      "source": "How Sweet Eats",
+      "sourceUrl": "https://www.howsweeteats.com/2015/07/pistachio-pesto-pizza-with-fresh-mozzarella-and-honey/",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "redo",
+        "comfort",
+        "vegetarian"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": 90,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "active dry yeast",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "honey",
+          "qty": 3.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "dough + finishing drizzle"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "pesto + crushed for topping"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "produce",
+          "note": "plus leaves to garnish"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "pecorino romano cheese",
+          "qty": 3,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.4,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "fresh mozzarella cheese",
+          "qty": 12,
+          "unit": "oz",
+          "category": "dairy"
+        }
+      ],
+      "notes": "Loved redo (5.0★). Your pie (dairy). Wife's is the dairy-free pizza below."
+    },
+    {
+      "id": "dairy-free-veggie-pizza-thekitchn-3c5e8a1f",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Dairy-Free Veggie Pizza (for wife)",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/vegan-pizza-recipe-23775071",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "vegetarian",
+        "dairy-free"
+      ],
+      "activeTimeMin": 35,
+      "totalTimeMin": 90,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "active dry yeast",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "pizza sauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "dairy-free mozzarella",
+          "qty": 4,
+          "unit": "oz",
+          "category": "other",
+          "note": "e.g. Violife or Miyoko's"
+        },
+        {
+          "item": "cremini mushrooms",
+          "qty": 4,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "Italian seasoning",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        }
+      ],
+      "notes": "Low-dairy pizza for wife — same dough, dairy-free toppings."
+    },
+    {
+      "id": "the-best-caesar-salad-7bb78ca9",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "The Best Caesar Salad",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/the-best-caesar-salad-recipe",
+      "cuisine": "american",
+      "protein": "vegetarian",
+      "tags": [
+        "side",
+        "salad"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 20,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 7,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "hearty bread",
+          "qty": 3,
+          "unit": "cup",
+          "category": "bakery",
+          "note": "for croutons"
+        },
+        {
+          "item": "parmesan cheese",
+          "qty": 2,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "egg yolk",
+          "qty": 1,
+          "unit": "",
+          "category": "dairy"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "anchovies",
+          "qty": 1,
+          "unit": "tin",
+          "category": "canned",
+          "note": "2-6 fillets to taste"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "canola oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "romaine lettuce",
+          "qty": 2,
+          "unit": "head",
+          "category": "produce"
+        }
+      ],
+      "notes": "Classic Caesar has parmesan + anchovy (dairy). Wife can skip the cheese for low-dairy."
     }
   ],
-  "setAt": "2026-06-19T21:40:42.268Z"
+  "setAt": "2026-06-24T13:29:32.125Z"
 }

@@ -1,0 +1,42 @@
+{
+  "mealId": "dairy-free-veggie-pizza-thekitchn-3c5e8a1f",
+  "fetchedAt": "2026-06-24",
+  "url": "https://www.thekitchn.com/vegan-pizza-recipe-23775071",
+  "name": "Dairy-Free Veggie Pizza",
+  "description": "A fully dairy-free pizza: homemade crust, marinara, dairy-free mozzarella, and sauteed mushrooms, peppers, and onion. From The Kitchn's vegan pizza (ingredients captured from search; site is fetch-blocked this session — paste the full card to refine).",
+  "recipeIngredient": [
+    "1 1/2 cups all-purpose flour (plus more for shaping)",
+    "1/2 teaspoon active dry yeast",
+    "1/2 cup lukewarm water",
+    "1/2 teaspoon salt",
+    "1 tablespoon extra-virgin olive oil",
+    "1/2 cup pizza/marinara sauce",
+    "1 cup (about 4 oz) shredded dairy-free mozzarella (e.g. Violife or Miyoko's)",
+    "4 oz cremini mushrooms, thinly sliced",
+    "1/2 red bell pepper, thinly sliced",
+    "1/2 small red onion, thinly sliced",
+    "1 teaspoon Italian seasoning"
+  ],
+  "recipeInstructions": [
+    {"text": "Make the dough: stir yeast into the lukewarm water and let sit until foamy, ~5 min. Mix in flour, salt, and olive oil to form a dough; knead briefly, then cover and let rise until puffy, about 1 hour."},
+    {"text": "Preheat the oven as hot as it goes (500°F or higher) with a stone or steel if you have one."},
+    {"text": "Stretch the dough thin on a floured surface or parchment. Spread with pizza sauce, leaving a 1/2-inch border."},
+    {"text": "Top with the dairy-free mozzarella, mushrooms, bell pepper, and red onion; sprinkle with Italian seasoning."},
+    {"text": "Bake until the crust is browned and crisp, 13 to 15 minutes. Slice and serve."}
+  ],
+  "prepTime": "PT1H",
+  "cookTime": "PT15M",
+  "totalTime": "PT1H15M",
+  "recipeYield": "2 servings",
+  "image": "",
+  "author": "The Kitchn",
+  "ai": {
+    "cliffNotes": "A dairy-free pizza that doesn't taste like a compromise: crisp homemade crust, marinara, melty dairy-free mozz, and sauteed veg.",
+    "keyTips": [
+      "Pre-cook watery vegetables (mushrooms especially) for a couple minutes before topping — raw they release liquid and steam the crust soft.",
+      "Dairy-free mozzarella melts better with a thin drizzle of olive oil on top and the hottest oven you have; give it the full bake to brown.",
+      "Stretch the dough thin and don't overload the toppings — a loaded dairy-free pie goes soggy fast.",
+      "Bake on a preheated stone/steel for the crispest bottom; otherwise preheat the sheet pan."
+    ]
+  }
+}
