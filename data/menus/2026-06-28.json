@@ -1072,76 +1072,79 @@
       "notes": "Classic Caesar has parmesan + anchovy (dairy). Wife can skip the cheese for low-dairy."
     },
     {
-      "id": "low-cheese-marinara-pizza-9b2d4f10",
+      "id": "ladenia-greek-pizza-mediterraneandish-7e1c",
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "Low-Cheese Marinara Pizza (for wife)",
-      "source": "Adapted (dough: How Sweet Eats)",
-      "sourceUrl": "https://www.howsweeteats.com/2015/07/pistachio-pesto-pizza-with-fresh-mozzarella-and-honey/",
-      "cuisine": "italian",
+      "title": "Ladenia — Greek Tomato & Onion Pizza (for wife, no cheese)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/greek-pizza/",
+      "cuisine": "greek",
       "protein": "vegetarian",
       "tags": [
         "vegetarian",
-        "low-dairy"
+        "no-cheese",
+        "new-web"
       ],
-      "activeTimeMin": 30,
+      "activeTimeMin": 25,
       "totalTimeMin": 90,
-      "servings": 2,
+      "servings": 4,
       "ingredients": [
         {
           "item": "all-purpose flour",
-          "qty": 1.5,
+          "qty": 2.5,
           "unit": "cup",
           "category": "pantry"
         },
         {
-          "item": "active dry yeast",
-          "qty": 0.5,
+          "item": "instant yeast",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
           "unit": "tsp",
           "category": "pantry"
-        },
-        {
-          "item": "crushed San Marzano tomatoes",
-          "qty": 1,
-          "unit": "cup",
-          "category": "canned"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
         },
         {
           "item": "extra-virgin olive oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry"
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "dough + topping + generous for greasing the pan"
         },
         {
-          "item": "dried oregano",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices"
+          "item": "tomatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "medium, thinly sliced"
         },
         {
-          "item": "fresh basil",
+          "item": "red onion",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "a few leaves"
+          "note": "medium, thinly sliced"
         },
         {
-          "item": "parmesan cheese",
-          "qty": 2,
+          "item": "dried oregano",
+          "qty": 1,
           "unit": "tbsp",
-          "category": "dairy",
-          "note": "light — or omit for no cheese"
+          "category": "spices"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": "pitted, optional"
         }
       ],
-      "notes": "Low-cheese pizza for wife — same pizza-night dough, marinara topping, just a dusting of parm (or none)."
+      "notes": "Traditional cheeseless Greek island pizza for wife (low/no cheese). Skip the feta. Bake in a well-oiled pan at 400F, 30-40 min."
     }
   ],
-  "setAt": "2026-06-24T13:39:26.854Z"
+  "setAt": "2026-06-24T13:51:26.248Z"
 }
