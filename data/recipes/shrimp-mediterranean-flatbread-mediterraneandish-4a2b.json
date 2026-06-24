@@ -1,0 +1,43 @@
+{
+  "mealId": "shrimp-mediterranean-flatbread-mediterraneandish-4a2b",
+  "fetchedAt": "2026-06-24",
+  "url": "https://www.themediterraneandish.com/mediterranean-flatbread-recipe/",
+  "name": "Mediterranean Shrimp Flatbread (light cheese)",
+  "description": "The Mediterranean Dish's quick shrimp flatbread 'pizza' — crisp flatbread topped with shrimp, sun-dried and grape tomatoes, shallot, bell pepper, oregano and parsley. Adapted to low cheese per request: a light feta crumble and the parmesan skipped.",
+  "recipeIngredient": [
+    "2 flatbread crusts (or naan)",
+    "1/4 lb cooked peeled shrimp (thawed, patted dry)",
+    "3 tablespoons sun-dried tomatoes, chopped",
+    "1 small shallot, thinly sliced",
+    "1/4 green bell pepper, chopped",
+    "1/2 cup grape tomatoes, halved",
+    "1 tablespoon flat-leaf parsley, chopped",
+    "1/2 teaspoon dried oregano",
+    "Crushed red pepper flakes (optional)",
+    "Extra-virgin olive oil",
+    "2-3 tablespoons crumbled feta (light — for the low-cheese version; parmesan omitted)",
+    "Lemon, for finishing"
+  ],
+  "recipeInstructions": [
+    {"text": "Preheat oven to 425°F. If you want a sturdier base, crisp the bare flatbreads on a sheet pan for 3–4 minutes first."},
+    {"text": "Pat the cooked shrimp dry. In a bowl, toss the shrimp, sun-dried tomatoes, shallot, bell pepper, grape tomatoes, oregano, and a drizzle of olive oil with a pinch of salt."},
+    {"text": "Brush the flatbreads lightly with olive oil. Scatter the shrimp-vegetable mixture evenly over the top, then add a light crumble of feta (skip the parmesan to keep it low-cheese)."},
+    {"text": "Bake 10–12 minutes, until the flatbread is crisp at the edges and everything is warmed through. Don't overbake — the shrimp are already cooked."},
+    {"text": "Finish with fresh parsley, a squeeze of lemon, red pepper flakes if using, and a drizzle of good olive oil. Cut and serve warm."}
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT12M",
+  "totalTime": "PT22M",
+  "recipeYield": "2 servings",
+  "image": "",
+  "author": "The Mediterranean Dish",
+  "ai": {
+    "cliffNotes": "A fast shrimp flatbread 'pizza' — crisp flatbread under shrimp, sun-dried + grape tomatoes, shallot, pepper and herbs, with just a light feta. Naturally low-cheese and protein-forward, perfect alongside pizza night.",
+    "keyTips": [
+      "Pat the shrimp dry and use already-cooked shrimp added straight onto the bread — they only need to warm through. Overbaking turns them rubbery, so pull as soon as the flatbread crisps.",
+      "Pre-crisp the bare flatbread for a few minutes before topping if you want a sturdier base under the juicy tomatoes.",
+      "Going light on feta (and skipping the parmesan) is no loss here — sun-dried tomatoes, shallot, and oregano bring plenty of savory depth, which is exactly why this works as a low-cheese pizza.",
+      "Finish AFTER baking with fresh parsley, a squeeze of lemon, and good olive oil to keep it bright and Mediterranean."
+    ]
+  }
+}

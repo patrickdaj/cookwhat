@@ -1072,79 +1072,102 @@
       "notes": "Classic Caesar has parmesan + anchovy (dairy). Wife can skip the cheese for low-dairy."
     },
     {
-      "id": "ladenia-greek-pizza-mediterraneandish-7e1c",
+      "id": "shrimp-mediterranean-flatbread-mediterraneandish-4a2b",
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "Ladenia — Greek Tomato & Onion Pizza (for wife, no cheese)",
+      "title": "Mediterranean Shrimp Flatbread (for wife, light cheese)",
       "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/greek-pizza/",
-      "cuisine": "greek",
-      "protein": "vegetarian",
+      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-flatbread-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
       "tags": [
-        "vegetarian",
-        "no-cheese",
+        "seafood",
+        "low-cheese",
         "new-web"
       ],
-      "activeTimeMin": 25,
-      "totalTimeMin": 90,
-      "servings": 4,
+      "activeTimeMin": 15,
+      "totalTimeMin": 22,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "all-purpose flour",
-          "qty": 2.5,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "instant yeast",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "sugar",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "dough + topping + generous for greasing the pan"
-        },
-        {
-          "item": "tomatoes",
+          "item": "flatbread",
           "qty": 2,
           "unit": "",
-          "category": "produce",
-          "note": "medium, thinly sliced"
+          "category": "bakery",
+          "note": "or naan"
         },
         {
-          "item": "red onion",
+          "item": "cooked peeled shrimp",
+          "qty": 0.25,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "thawed, patted dry"
+        },
+        {
+          "item": "sun-dried tomatoes",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "chopped"
+        },
+        {
+          "item": "shallot",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "medium, thinly sliced"
+          "note": "small, thinly sliced"
+        },
+        {
+          "item": "green bell pepper",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "grape tomatoes",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": "halved"
+        },
+        {
+          "item": "flat-leaf parsley",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "chopped"
         },
         {
           "item": "dried oregano",
-          "qty": 1,
-          "unit": "tbsp",
+          "qty": 0.5,
+          "unit": "tsp",
           "category": "spices"
         },
         {
-          "item": "Kalamata olives",
+          "item": "feta cheese",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "light crumble — low-cheese; parmesan omitted"
+        },
+        {
+          "item": "lemon",
           "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": "pitted, optional"
+          "unit": "",
+          "category": "produce",
+          "note": "for finishing"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
         }
       ],
-      "notes": "Traditional cheeseless Greek island pizza for wife (low/no cheese). Skip the feta. Bake in a well-oiled pan at 400F, 30-40 min."
+      "notes": "Real Mediterranean Dish shrimp flatbread, cheese dialed down for wife (light feta, no parmesan). Shrimp are pre-cooked; bake just 10-12 min."
     }
   ],
-  "setAt": "2026-06-24T13:51:26.248Z"
+  "setAt": "2026-06-24T15:17:44.542Z"
 }
