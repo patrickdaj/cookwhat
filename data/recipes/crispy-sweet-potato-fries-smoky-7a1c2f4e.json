@@ -1,0 +1,42 @@
+{
+  "mealId": "crispy-sweet-potato-fries-smoky-7a1c2f4e",
+  "fetchedAt": "2026-06-24",
+  "url": "https://www.themediterraneandish.com/baked-sweet-potato-fries-zaatar/",
+  "name": "Crispy Oven Sweet Potato Fries (Smoky)",
+  "description": "Oven-baked sweet potato fries that actually crisp, seasoned smoky to go with fried chicken and served with a chipotle-lime mayo. Adapted from The Mediterranean Dish (za'atar swapped for a smoked-paprika blend).",
+  "recipeIngredient": [
+    "3 medium sweet potatoes, cut into 1/4-inch sticks",
+    "2 to 3 tablespoons extra-virgin olive oil",
+    "1 tablespoon cornstarch (optional, for extra crunch)",
+    "1 1/2 teaspoons smoked paprika",
+    "1 teaspoon garlic powder",
+    "Pinch of cayenne pepper",
+    "Kosher salt, to finish",
+    "For the chipotle-lime mayo: 1/2 cup mayonnaise; 1-2 chipotle peppers in adobo, minced, plus 1 tsp adobo sauce; juice of 1/2 lime; 1 small garlic clove, grated; pinch of salt"
+  ],
+  "recipeInstructions": [
+    {"text": "Cut the sweet potatoes into even 1/4-inch sticks, place in a large bowl, and cover with cold water. Soak at room temperature 30 minutes (or refrigerate overnight) to draw out surface starch. Drain, then dry the bowl well."},
+    {"text": "Preheat the oven to 425°F and line a large sheet pan with parchment."},
+    {"text": "Pat the fries thoroughly dry. For an extra-crisp shell, toss them with 1 tablespoon cornstarch first. Return to the dry bowl, drizzle with 2-3 tablespoons olive oil, and toss to coat. Combine the smoked paprika, garlic powder, and cayenne; add and toss to coat evenly."},
+    {"text": "Spread the fries on the pan in a single layer, spaced apart and not touching (use two pans if needed — crowding steams them soft). Bake 15 minutes, flip every fry, then bake 15-20 minutes more until crisp and golden."},
+    {"text": "Off the heat, season with kosher salt. Rest 5 minutes on a cooling rack (not the hot pan) so steam escapes."},
+    {"text": "Chipotle-lime mayo: stir together the mayonnaise, minced chipotle plus adobo, lime juice, grated garlic, and a pinch of salt. Serve alongside for dipping."}
+  ],
+  "prepTime": "PT30M",
+  "cookTime": "PT35M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "4 servings",
+  "image": "",
+  "author": "Suzy Karadsheh / The Mediterranean Dish",
+  "ai": {
+    "cliffNotes": "Oven sweet potato fries that crisp instead of flop: a cold-water soak strips surface starch, then high heat and an uncrowded single layer finish the job. Smoky-seasoned for fried chicken, with a chipotle-lime mayo.",
+    "keyTips": [
+      "Soak the cut fries in cold water 30 min (or overnight) to wash off surface starch — the author's testing found this is the single biggest factor for crisp vs. floppy fries. Then dry the fries AND the bowl completely; leftover water turns to steam and sogs them.",
+      "Don't crowd the pan. Fries that touch steam each other limp — spread them in one layer with space between, using two sheet pans if you have to.",
+      "Flip every fry at the 15-minute mark; turning them really does make the difference for even browning.",
+      "For an extra-crunchy crust, toss the dried fries with ~1 Tbsp cornstarch before the oil — it bakes into a thin crisp shell.",
+      "Cut to an even 1/4 inch; thick sticks go tender, not crisp. Salt AFTER baking — salting raw pulls out moisture as they roast.",
+      "Rest 5 minutes on a cooling rack, not the hot pan, so trapped steam escapes instead of softening the bottoms."
+    ]
+  }
+}

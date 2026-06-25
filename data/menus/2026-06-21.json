@@ -139,7 +139,7 @@
     },
     {
       "id": "chicken-au-poivre-with-fondant-potatoes-and-haricots-verts-67136ac8",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "title": "Chicken au Poivre",
       "source": "The Kitchn",
@@ -245,7 +245,7 @@
     },
     {
       "id": "fondant-potatoes",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "side",
       "title": "Fondant Potatoes",
@@ -314,7 +314,7 @@
     },
     {
       "id": "haricots-verts",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "side",
       "title": "Haricots Verts with Butter and Shallots",
@@ -374,147 +374,6 @@
         }
       ],
       "notes": ""
-    },
-    {
-      "id": "yellowtail-teriyaki-buri-no-teriyaki-14ce21d5",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Yellowtail Teriyaki (Buri no Teriyaki)",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/yellowtail-teriyaki/",
-      "cuisine": "japanese",
-      "protein": "fish",
-      "tags": [
-        "weeknight",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "yellowtail (hamachi/buri) fillets",
-          "qty": 2,
-          "unit": "fillet",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "Tokyo negi (long green onion)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shishito peppers",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "sake",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "mirin",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "soy sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sugar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "neutral oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "steamed Japanese short-grain rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Dredge fillets lightly in flour for a glaze that clings. Carb: steamed rice. Veg: pan-blistered shishito + negi."
-    },
-    {
-      "id": "spinach-gomaae-japanese-sesame-spinach-6a800f6c",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
-      "cuisine": "japanese",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "quick",
-        "make-ahead"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "spinach",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "soy sauce",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sugar",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Real Japanese veg side for the yellowtail (the shishito were only a garnish): blanched spinach dressed in nutty ground-sesame sauce."
     },
     {
       "id": "cashew-chicken-a4b4e723",
@@ -1125,5 +984,5 @@
       "notes": "Replaces the plain white rice under the Spanish braised chicken — saffron-scented basmati with onion, garlic, and bright lime zest. The natural carb to soak up the pollo en pepitoria almond sauce."
     }
   ],
-  "setAt": "2026-06-19T21:40:42.201Z"
+  "setAt": "2026-06-22T17:17:16.354Z"
 }
