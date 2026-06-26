@@ -29,6 +29,25 @@ once a week", "I hate liver", favorite cuisines and sites, weeknight time
 budget, etc. Every option is explained in [CONFIG.md](./CONFIG.md). You only do
 this once (and tweak it whenever your tastes change).
 
+### Optional: tap-to-start ⏱ timers on your iPhone
+
+Recipe and cookbook steps render a small **⏱** link after every cooking time
+("Bake **10–12 minutes** ⏱"). Tapping it starts a timer on your iPhone for that
+many minutes. iOS has no direct URL for the stock Timer, so it goes through one
+**Apple Shortcut you set up once** (per device — yours, your partner's, etc.):
+
+1. Open the **Shortcuts** app → **+** → name it exactly **`Cook Timer`**.
+2. Add the action **Start Timer**. Tap the duration, delete it, and instead
+   insert the **Shortcut Input** as the value with the unit set to **minutes**.
+   (Optionally add a **Text** action like "Cooking" and feed it as the timer
+   label.)
+3. Done. Now tapping a ⏱ link in Safari starts that timer. The first tap asks
+   "Open in Shortcuts?" — allow it.
+
+Notes: works on **iPhone/iPad in Safari only** (the links are harmless no-ops on
+desktop/Android). For a range like 10–12 min, the timer uses the **lower** bound
+so you check the food at its earliest doneness point.
+
 ---
 
 ## 2. Build a menu (the AI part)
