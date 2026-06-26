@@ -148,6 +148,39 @@ function addDays(iso, n) {
   return localISO(d);
 }
 
+// ---- Tap-to-start iPhone timers --------------------------------------------
+// iOS has no public URL scheme for the stock Timer, so we route through an
+// Apple Shortcut the user installs once (named exactly TIMER_SHORTCUT, doing a
+// "Start Timer" for its numeric input in minutes). We append a ⏱ link after any
+// cooking duration in a step. On a desktop/Android browser the link is inert;
+// on iOS Safari it starts the timer. Setup lives in docs/HOW_TO_USE.md.
+const TIMER_SHORTCUT = 'Cook Timer';
+
+// "1", "1.5", or "1 1/2" -> minutes (hours converted). Returns 0 if unusable.
+function durationToMinutes(numStr, unit) {
+  let n = 0;
+  for (const p of numStr.trim().split(/\s+/)) {
+    if (p.includes('/')) { const [a, b] = p.split('/').map(Number); if (b) n += a / b; }
+    else n += parseFloat(p) || 0;
+  }
+  if (/^h/i.test(unit)) n *= 60;          // hours/hrs -> minutes
+  return Math.round(n);
+}
+
+// Append a ⏱ tap-to-start-timer link after each duration mentioned in `text`.
+// For a range ("10–12 minutes") we use the LOWER bound so you check the food at
+// the earliest doneness point. Seconds are ignored (too short to bother).
+function withTimerLinks(text) {
+  if (!text) return text;
+  const re = /(\d+(?:\.\d+)?(?:\s+\d\/\d)?)\s*(?:(?:[–-]|to)\s*\d+(?:\.\d+)?\s*)?(hours?|hrs?|minutes?|mins?)\b/gi;
+  return text.replace(re, (m, num, unit) => {
+    const mins = durationToMinutes(num, unit);
+    if (!mins || mins < 1) return m;
+    const url = `shortcuts://run-shortcut?name=${encodeURIComponent(TIMER_SHORTCUT)}&input=text&text=${mins}`;
+    return `${m} [⏱](${url})`;
+  });
+}
+
 function stars(n) {
   return '★'.repeat(n) + '☆'.repeat(5 - n);
 }
@@ -457,7 +490,7 @@ function buildRecipePage(stored, meal, ratings) {
   if (stored.recipeInstructions?.length) {
     out.push('## Instructions\n');
     stored.recipeInstructions.forEach((step, i) => {
-      out.push(`${i + 1}. ${step}`);
+      out.push(`${i + 1}. ${withTimerLinks(step)}`);
     });
     out.push('');
   }
@@ -776,11 +809,11 @@ function buildCookbookRecipePage(book, r) {
   }
   if (r.captured?.steps?.length) {
     out.push('## Steps\n');
-    r.captured.steps.forEach((s, i) => out.push(`${i + 1}. ${s}`));
+    r.captured.steps.forEach((s, i) => out.push(`${i + 1}. ${withTimerLinks(s)}`));
     out.push('');
   } else if (r.captured?.method) {
     out.push('## Method\n');
-    out.push(r.captured.method + '\n');
+    out.push(withTimerLinks(r.captured.method) + '\n');
   }
   if (r.captured?.tips?.length) {
     out.push('## Tips & Tricks\n');
