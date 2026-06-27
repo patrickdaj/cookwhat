@@ -34,6 +34,40 @@ function isPantryStaple(name, cfg) {
   });
 }
 
+// Convertible units, expressed in a base (volume -> tsp, weight -> oz). Lets
+// "0.25 cup" + "1 tbsp" of the same item merge into one line instead of two.
+// Anything not listed (clove, bunch, sprig, "", count) stays as its own unit.
+const VOLUME_IN_TSP = {
+  tsp: 1, teaspoon: 1, teaspoons: 1,
+  tbsp: 3, tbsps: 3, tablespoon: 3, tablespoons: 3,
+  cup: 48, cups: 48,
+};
+// Map a raw unit to a merge "dimension" + factor to its base unit. Only volume
+// is canonicalized (tsp/tbsp/cup interconvert); weight (oz/lb) and counts keep
+// their own unit so "0.5 lb" doesn't get rewritten as "8 oz".
+function unitDimension(unit) {
+  if (unit in VOLUME_IN_TSP) return { dim: "vol", factor: VOLUME_IN_TSP[unit] };
+  return { dim: unit, factor: 1 }; // weight / count / bunch / sprig / unitless
+}
+
+// A value reads cleanly if it lands on a quarter (1, 0.5, 0.25, 1.75, …).
+function isCleanAmount(v) {
+  return Math.abs(v * 4 - Math.round(v * 4)) < 0.01;
+}
+
+// Convert an accumulated volume (in tsp) back to the largest unit that reads
+// cleanly — 36 tsp -> 0.75 cup, 15 tsp -> 5 tbsp, 3.5 tsp -> 3.5 tsp.
+function displayQtyUnit(line) {
+  if (line.qty == null) return { qty: null, unit: line.unitLabel };
+  if (line.dim !== "vol") return { qty: round(line.qty, 2), unit: line.unitLabel };
+  const t = line.qty; // tsp
+  for (const [unit, factor] of [["cup", 48], ["tbsp", 3], ["tsp", 1]]) {
+    const v = t / factor;
+    if (v >= 0.25 && isCleanAmount(v)) return { qty: round(v, 2), unit };
+  }
+  return { qty: round(t, 2), unit: "tsp" }; // fallback: smallest unit
+}
+
 // Build a consolidated shopping list from a menu.
 // `targetServings` (optional) scales every meal to that serving count.
 export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
@@ -52,13 +86,15 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
       }
       const core = coreItemName(ing.item);
       const unit = (ing.unit || "").toLowerCase().trim();
-      const key = `${core}|${unit}`;
+      const { dim, factor } = unitDimension(unit);
+      const key = `${core}|${dim}`;
       const category = ing.category || guessCategory(ing.item);
       if (!merged.has(key)) {
         merged.set(key, {
           item: ing.item,
           qty: null,
-          unit,
+          dim,
+          unitLabel: unit,
           category,
           fromMeals: [],
           hasUnquantified: false,
@@ -71,7 +107,7 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
         line.item = ing.item;
       }
       if (ing.qty != null) {
-        line.qty = (line.qty || 0) + ing.qty * scale;
+        line.qty = (line.qty || 0) + ing.qty * scale * factor; // base units
       } else {
         line.hasUnquantified = true;
       }
@@ -82,7 +118,10 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
   // Group by category, ordered per config.
   const byCat = new Map();
   for (const line of merged.values()) {
-    if (line.qty != null) line.qty = round(line.qty, 2);
+    // Convert accumulated base quantity back to a friendly display unit.
+    const d = displayQtyUnit(line);
+    line.qty = d.qty;
+    line.unit = d.unit;
     if (!byCat.has(line.category)) byCat.set(line.category, []);
     byCat.get(line.category).push(line);
   }

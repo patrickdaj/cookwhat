@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-27T13:50:39.452Z",
+  "generatedAt": "2026-06-27T20:40:45.219Z",
   "targetServings": null,
   "sections": [
     {
@@ -9,300 +9,303 @@
         {
           "item": "asparagus stalks",
           "qty": 16,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "baby red or Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "cilantro",
           "qty": 0.25,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "flat-leaf parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Mediterranean Shrimp Flatbread"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fresh basil",
           "qty": 0.75,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fresh mint",
           "qty": 0.25,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fresh parsley",
           "qty": 1,
-          "unit": "bunch",
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Greek-Style Garlic-Lemon Potatoes"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh parsley",
-          "qty": 0.5,
-          "unit": "tsp",
+          "qty": 6.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Ribeye with Beef Butter"
+            "Grilled Ribeye with Beef Butter",
+            "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "fresh rosemary",
           "qty": 1,
-          "unit": "sprig",
+          "dim": "sprig",
+          "unitLabel": "sprig",
           "category": "produce",
           "fromMeals": [
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "sprig"
         },
         {
           "item": "fresh rosemary",
-          "qty": 0.5,
-          "unit": "tsp",
+          "qty": 3.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "produce",
           "fromMeals": [
-            "Grilled Ribeye with Beef Butter"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
+            "Grilled Ribeye with Beef Butter",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "fresh tarragon",
           "qty": 0.5,
-          "unit": "tsp",
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "produce",
           "fromMeals": [
             "Grilled Ribeye with Beef Butter"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "garlic",
-          "qty": 14,
-          "unit": "clove",
+          "qty": 18,
+          "dim": "clove",
+          "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
+            "Grilled Chicken alla Diavola",
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan",
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo",
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic cloves, minced",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Chicken alla Diavola"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "clove"
         },
         {
           "item": "garlic heads",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Chicken alla Diavola"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "grape tomatoes",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "green beans",
           "qty": 1,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "green bell pepper",
           "qty": 0.5,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "green cabbage",
           "qty": 0.25,
-          "unit": "head",
+          "dim": "head",
+          "unitLabel": "head",
           "category": "produce",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "head"
         },
         {
           "item": "lemon",
-          "qty": 5,
-          "unit": "",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Grilled Chicken alla Diavola",
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "lemon wedges",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Chicken alla Diavola"
-          ],
-          "hasUnquantified": true
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "lime",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "portobello mushroom caps",
           "qty": 6,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "red bell peppers",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "red onion",
           "qty": 1,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "shallot",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "sweet potatoes",
           "qty": 3,
-          "unit": "medium",
+          "dim": "medium",
+          "unitLabel": "medium",
           "category": "produce",
           "fromMeals": [
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "medium"
         },
         {
           "item": "Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
+          "qty": 4,
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Garlic-Lemon Potatoes"
+            "Greek-Style Garlic-Lemon Potatoes",
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "zucchini",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -312,52 +315,62 @@
         {
           "item": "boneless skinless chicken thighs",
           "qty": 4,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "cooked peeled shrimp",
           "qty": 0.5,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "ribeye steaks",
           "qty": 4,
-          "unit": "steak",
+          "dim": "steak",
+          "unitLabel": "steak",
           "category": "meat-seafood",
           "fromMeals": [
             "Grilled Ribeye with Beef Butter"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "steak"
         },
         {
           "item": "skin-on salmon fillets",
           "qty": 4,
-          "unit": "fillet",
+          "dim": "fillet",
+          "unitLabel": "fillet",
           "category": "meat-seafood",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "fillet"
         },
         {
           "item": "whole chicken (3.5 to 4 lb), giblets discarded",
           "qty": 1,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
             "Grilled Chicken alla Diavola"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -367,62 +380,74 @@
         {
           "item": "buttermilk",
           "qty": 0.75,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "feta cheese",
           "qty": 0.25,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fresh mozzarella cheese",
           "qty": 12,
-          "unit": "oz",
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "grated Parmesan",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "Parmigiano-Reggiano",
           "qty": 4,
-          "unit": "oz",
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "pecorino romano cheese",
           "qty": 3,
-          "unit": "oz",
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "oz"
         }
       ]
     },
@@ -432,12 +457,14 @@
         {
           "item": "brioche buns",
           "qty": 4,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "bakery",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -447,193 +474,220 @@
         {
           "item": "balsamic condimento or reduction",
           "qty": 1,
-          "unit": "tbsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "bay leaves",
           "qty": 3,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "pantry",
           "fromMeals": [
             "Grilled Chicken alla Diavola"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "capers",
           "qty": 4,
-          "unit": "tsp",
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "cooked white rice",
           "qty": 3,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "cornstarch",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Pickle-Brined Fried Chicken Sandwiches"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "cornstarch",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dill pickles (with brine)",
-          "qty": 1,
-          "unit": "jar",
-          "category": "pantry",
-          "fromMeals": [
-            "Pickle-Brined Fried Chicken Sandwiches"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "hot sauce",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Pickle-Brined Fried Chicken Sandwiches"
-          ],
-          "hasUnquantified": true
-        },
-        {
-          "item": "instant yeast",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Sourdough Pizza Crust"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "maple syrup",
-          "qty": 4,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 1,
-          "unit": "cup",
+          "qty": 5,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches",
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
-          "item": "neutral oil (for frying)",
-          "qty": 6,
-          "unit": "cup",
+          "item": "Dijon mustard",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "dill pickles (with brine)",
+          "qty": 1,
+          "dim": "jar",
+          "unitLabel": "jar",
           "category": "pantry",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "jar"
         },
         {
-          "item": "red pepper flakes",
+          "item": "honey",
           "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Chicken alla Diavola"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "rice wine vinegar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shelled pistachios",
-          "qty": 1.25,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
-          "item": "sun-dried tomatoes",
-          "qty": 6,
-          "unit": "tbsp",
+          "item": "hot sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
           "category": "pantry",
           "fromMeals": [
-            "Mediterranean Shrimp Flatbread"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": true,
+          "unit": ""
         },
         {
-          "item": "toasted sesame oil",
-          "qty": 0.25,
-          "unit": "tsp",
+          "item": "instant yeast",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sourdough Pizza Crust"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "maple syrup",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches",
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "neutral oil (for frying)",
+          "qty": 6,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "rice wine vinegar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 1.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sun-dried tomatoes",
+          "qty": 6,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         }
       ]
     },
@@ -643,22 +697,26 @@
         {
           "item": "chipotle peppers in adobo",
           "qty": 1,
-          "unit": "can",
+          "dim": "can",
+          "unitLabel": "can",
           "category": "canned",
           "fromMeals": [
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "can"
         },
         {
           "item": "white or brown miso",
           "qty": 1,
-          "unit": "tbsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "canned",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     },
@@ -668,62 +726,135 @@
         {
           "item": "cayenne pepper",
           "qty": null,
-          "unit": "pinch",
+          "dim": "pinch",
+          "unitLabel": "pinch",
           "category": "spices",
           "fromMeals": [
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": true
+          "hasUnquantified": true,
+          "unit": "pinch"
         },
         {
-          "item": "dried oregano",
+          "item": "dried basil",
           "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Mediterranean Shrimp Flatbread"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "onion powder",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Pickle-Brined Fried Chicken Sandwiches"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 1.25,
-          "unit": "tsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "spices",
           "fromMeals": [
             "Grilled Asparagus"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
-          "item": "smoked paprika",
-          "qty": 1.5,
-          "unit": "tsp",
+          "item": "dried bay leaf, crushed",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus",
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "dried parsley",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried rosemary",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried sage",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried thyme",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     },
@@ -733,12 +864,14 @@
         {
           "item": "sourdough starter",
           "qty": 0.75,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "other",
           "fromMeals": [
             "Sourdough Pizza Crust"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     }
@@ -748,11 +881,11 @@
     "kosher salt",
     "coarsely ground black pepper",
     "salted butter",
-    "extra virgin olive oil",
     "black pepper",
+    "sugar",
     "all-purpose flour",
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 69
+  "totalItems": 68
 }
