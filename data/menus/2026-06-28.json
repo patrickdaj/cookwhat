@@ -232,10 +232,11 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "portobello mushroom caps",
-          "qty": 6,
-          "unit": "",
-          "category": "produce"
+          "item": "cremini mushrooms",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "whole, stemmed — easier to skewer than big caps"
         },
         {
           "item": "zucchini",
@@ -280,7 +281,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.237. 237. The vegetable for the alla Diavola grill night; cooks alongside the chicken."
+      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.237. 237. The vegetable for the alla Diavola grill night; cooks alongside the chicken. (Portobello caps swapped for whole cremini — easier to skewer for the trip.)"
     },
     {
       "id": "grilled-ribeye-with-beef-butter-e578dc34",
@@ -955,5 +956,5 @@
       "notes": "On the MasterClass sourdough crust (shares the Monday batch) instead of the original quick dough. Pistachio-herb pesto base, fresh mozzarella, finished with a honey drizzle. The veg main for Jody night."
     }
   ],
-  "setAt": "2026-06-27T21:04:13.495Z"
+  "setAt": "2026-06-27T21:28:55.312Z"
 }

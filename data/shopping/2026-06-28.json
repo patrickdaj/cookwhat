@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-27T21:04:13.641Z",
+  "generatedAt": "2026-06-27T21:28:55.437Z",
   "targetServings": null,
   "sections": [
     {
@@ -29,6 +29,18 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "cremini mushrooms",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "fresh basil",
@@ -196,18 +208,6 @@
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "portobello mushroom caps",
-          "qty": 6,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
           "hasUnquantified": false,
           "unit": ""
