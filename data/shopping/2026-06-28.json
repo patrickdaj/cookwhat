@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-27T20:40:45.219Z",
+  "generatedAt": "2026-06-27T20:44:41.871Z",
   "targetServings": null,
   "sections": [
     {
@@ -20,39 +20,39 @@
         },
         {
           "item": "cilantro",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false,
-          "unit": "cup"
+          "unit": "bunch"
         },
         {
           "item": "fresh basil",
-          "qty": 0.75,
-          "dim": "vol",
-          "unitLabel": "cup",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
           "hasUnquantified": false,
-          "unit": "cup"
+          "unit": "bunch"
         },
         {
           "item": "fresh mint",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
           "hasUnquantified": false,
-          "unit": "cup"
+          "unit": "bunch"
         },
         {
           "item": "fresh parsley",
@@ -61,60 +61,38 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Garlic-Lemon Potatoes"
+            "Greek-Style Garlic-Lemon Potatoes",
+            "Grilled Ribeye with Beef Butter",
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
-          "item": "fresh parsley",
-          "qty": 6.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Ribeye with Beef Butter",
-            "Mediterranean Shrimp Flatbread"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "fresh rosemary",
           "qty": 1,
-          "dim": "sprig",
-          "unitLabel": "sprig",
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": "sprig"
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 3.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "produce",
-          "fromMeals": [
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Grilled Ribeye with Beef Butter",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "bunch"
         },
         {
           "item": "fresh tarragon",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Grilled Ribeye with Beef Butter"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "bunch"
         },
         {
           "item": "garlic",
@@ -887,5 +865,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 68
+  "totalItems": 66
 }
