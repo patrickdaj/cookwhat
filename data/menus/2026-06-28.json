@@ -5,117 +5,6 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "miso-chicken-4a535807",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Miso Chicken",
-      "source": "NYT Cooking",
-      "sourceUrl": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
-      "cuisine": "japanese",
-      "protein": "chicken",
-      "tags": [
-        "weeknight"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 8,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "white miso",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "unsalted butter",
-          "qty": 4,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "steamed rice",
-          "qty": 3,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Broil the miso-butter-glazed thighs until lacquered. Carb: steamed rice. Veg: a real Garlic Baby Bok Choy side (added)."
-    },
-    {
-      "id": "garlic-baby-bok-choy-8812d526",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Garlic Baby Bok Choy",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/garlic-baby-bok-choy/",
-      "cuisine": "chinese",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "baby bok choy",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "white pepper",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "A real garlicky stir-fried bok choy side for the miso chicken (replaces the bare bok-choy ingredient line)."
-    },
-    {
       "id": "maple-miso-sheet-pan-salmon-with-green-beans-e51e3196",
       "day": "Thu",
       "slot": "dinner",
@@ -1045,7 +934,27 @@
         }
       ],
       "notes": "Real Mediterranean Dish shrimp flatbread, cheese dialed down for wife (light feta, no parmesan). Shrimp are pre-cooked; bake just 10-12 min."
+    },
+    {
+      "id": "eating-out-wed-2026-07-01",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Eating out",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "eating-out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 0,
+      "ingredients": [],
+      "notes": "Dinner out — no cooking, nothing to shop for."
     }
   ],
-  "setAt": "2026-06-25T03:00:19.924Z"
+  "setAt": "2026-06-27T01:55:39.513Z"
 }
