@@ -101,9 +101,10 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
 
   // Guard: meals that contributed no ingredients are incomplete — typically a
   // cookbook "needs-scan" placeholder (planned by title, not yet scanned). Their
-  // items are missing from the list until captured.
+  // items are missing from the list until captured. "Eating out" / no-cook
+  // nights are intentionally empty, so they're not pending scans.
   const pendingScans = menu.meals
-    .filter((m) => !(m.ingredients || []).length)
+    .filter((m) => !(m.ingredients || []).length && !(m.tags || []).includes("eating-out"))
     .map((m) => ({
       title: m.title,
       day: m.day || "",
