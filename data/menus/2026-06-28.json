@@ -670,270 +670,102 @@
       "notes": "Soak fries 30 min, dry well, single layer, flip halfway — the anti-sog routine."
     },
     {
-      "id": "pistachio-pesto-pizza-with-fresh-mozzarella-and-honey-e6b9e7ce",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Pistachio Pesto Pizza with Fresh Mozzarella and Honey",
-      "source": "How Sweet Eats",
-      "sourceUrl": "https://www.howsweeteats.com/2015/07/pistachio-pesto-pizza-with-fresh-mozzarella-and-honey/",
-      "cuisine": "italian",
-      "protein": "vegetarian",
-      "tags": [
-        "redo",
-        "comfort",
-        "vegetarian"
-      ],
-      "activeTimeMin": 40,
-      "totalTimeMin": 90,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "all-purpose flour",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "active dry yeast",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "honey",
-          "qty": 3.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "dough + finishing drizzle"
-        },
-        {
-          "item": "shelled pistachios",
-          "qty": 1.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "pesto + crushed for topping"
-        },
-        {
-          "item": "fresh basil",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "produce",
-          "note": "plus leaves to garnish"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "pecorino romano cheese",
-          "qty": 3,
-          "unit": "oz",
-          "category": "dairy"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.4,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "fresh mozzarella cheese",
-          "qty": 12,
-          "unit": "oz",
-          "category": "dairy"
-        }
-      ],
-      "notes": "Loved redo (5.0★). Your pie (dairy). Wife's is the dairy-free pizza below.",
-      "occasion": "Jody over for dinner"
-    },
-    {
-      "id": "the-best-caesar-salad-7bb78ca9",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "The Best Caesar Salad",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/the-best-caesar-salad-recipe",
-      "cuisine": "american",
-      "protein": "vegetarian",
-      "tags": [
-        "side",
-        "salad"
-      ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 20,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 7,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "hearty bread",
-          "qty": 3,
-          "unit": "cup",
-          "category": "bakery",
-          "note": "for croutons"
-        },
-        {
-          "item": "parmesan cheese",
-          "qty": 2,
-          "unit": "oz",
-          "category": "dairy"
-        },
-        {
-          "item": "egg yolk",
-          "qty": 1,
-          "unit": "",
-          "category": "dairy"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "anchovies",
-          "qty": 1,
-          "unit": "tin",
-          "category": "canned",
-          "note": "2-6 fillets to taste"
-        },
-        {
-          "item": "Worcestershire sauce",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "canola oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "romaine lettuce",
-          "qty": 2,
-          "unit": "head",
-          "category": "produce"
-        }
-      ],
-      "notes": "Classic Caesar has parmesan + anchovy (dairy). Wife can skip the cheese for low-dairy."
-    },
-    {
       "id": "shrimp-mediterranean-flatbread-mediterraneandish-4a2b",
       "day": "Mon",
       "slot": "dinner",
-      "role": "side",
-      "title": "Mediterranean Shrimp Flatbread (for wife, light cheese)",
+      "role": "main",
+      "title": "Mediterranean Shrimp Flatbread",
       "source": "The Mediterranean Dish",
       "sourceUrl": "https://www.themediterraneandish.com/mediterranean-flatbread-recipe/",
       "cuisine": "mediterranean",
       "protein": "shrimp",
       "tags": [
         "seafood",
-        "low-cheese",
-        "new-web"
+        "new-web",
+        "low-cheese"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 22,
-      "servings": 2,
+      "servings": 4,
       "ingredients": [
         {
           "item": "flatbread",
-          "qty": 2,
+          "qty": 4,
           "unit": "",
           "category": "bakery",
           "note": "or naan"
         },
         {
           "item": "cooked peeled shrimp",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "lb",
           "category": "meat-seafood",
           "note": "thawed, patted dry"
         },
         {
           "item": "sun-dried tomatoes",
-          "qty": 3,
+          "qty": 6,
           "unit": "tbsp",
           "category": "pantry",
           "note": "chopped"
         },
         {
           "item": "shallot",
-          "qty": 1,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "note": "small, thinly sliced"
         },
         {
           "item": "green bell pepper",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "",
           "category": "produce",
           "note": "chopped"
         },
         {
           "item": "grape tomatoes",
-          "qty": 0.5,
+          "qty": 1,
           "unit": "cup",
           "category": "produce",
           "note": "halved"
         },
         {
           "item": "flat-leaf parsley",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "produce",
           "note": "chopped"
         },
         {
           "item": "dried oregano",
-          "qty": 0.5,
+          "qty": 1,
           "unit": "tsp",
           "category": "spices"
         },
         {
           "item": "feta cheese",
-          "qty": 2,
-          "unit": "tbsp",
+          "qty": 0.25,
+          "unit": "cup",
           "category": "dairy",
-          "note": "light crumble — low-cheese; parmesan omitted"
+          "note": "light crumble"
         },
         {
           "item": "lemon",
-          "qty": 0.5,
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "note": "for finishing"
         },
         {
           "item": "extra-virgin olive oil",
-          "qty": 1,
+          "qty": 2,
           "unit": "tbsp",
           "category": "pantry"
         }
       ],
-      "notes": "Real Mediterranean Dish shrimp flatbread, cheese dialed down for wife (light feta, no parmesan). Shrimp are pre-cooked; bake just 10-12 min."
+      "notes": "Monday dinner with Jody. Crisp flatbread with shrimp, sun-dried + grape tomatoes, shallot, pepper, oregano; light feta + lemon. Scaled to 4 — bump with `--servings` if more guests.",
+      "occasion": "Jody over for dinner"
     },
     {
       "id": "eating-out-wed-2026-07-01",
@@ -956,5 +788,5 @@
       "notes": "Dinner out — no cooking, nothing to shop for."
     }
   ],
-  "setAt": "2026-06-27T01:55:39.513Z"
+  "setAt": "2026-06-27T01:58:06.431Z"
 }
