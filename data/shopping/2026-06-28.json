@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-19T21:49:41.558Z",
+  "generatedAt": "2026-06-27T01:59:05.220Z",
   "targetServings": null,
   "sections": [
     {
@@ -17,42 +17,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "baby bok choy",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Garlic Baby Bok Choy"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "baby red or Yukon Gold potatoes",
           "qty": 2,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "cauliflower",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce",
-          "fromMeals": [
-            "Spiced Vegetable Couscous"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "celery",
-          "qty": 1,
-          "unit": "rib",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -67,32 +37,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh cilantro leaves",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh lemongrass",
+          "item": "flat-leaf parsley",
           "qty": 2,
-          "unit": "stalk",
+          "unit": "tbsp",
           "category": "produce",
           "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh mint, chopped",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         },
@@ -157,40 +107,25 @@
           "hasUnquantified": false
         },
         {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "garlic",
-          "qty": 28,
+          "qty": 13,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
-            "Sicilian Fish Stew",
-            "Roasted Lemongrass Chicken Thighs",
-            "Garlic Green Beans",
-            "Spiced Vegetable Couscous",
-            "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
-            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan"
+            "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan",
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
         {
           "item": "garlic cloves, minced",
-          "qty": 8,
+          "qty": 4,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula",
             "Grilled Chicken alla Diavola"
           ],
           "hasUnquantified": false
@@ -206,13 +141,42 @@
           "hasUnquantified": false
         },
         {
+          "item": "grape tomatoes",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "green beans",
-          "qty": 2,
+          "qty": 1,
           "unit": "lb",
           "category": "produce",
           "fromMeals": [
-            "Garlic Green Beans",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green bell pepper",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": false
         },
@@ -222,19 +186,9 @@
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Spiced Vegetable Couscous",
             "Greek-Style Garlic-Lemon Potatoes",
-            "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "lemon juice",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
+            "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         },
@@ -254,28 +208,8 @@
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs",
-            "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "onions, chopped fine",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "orange (for zest)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
+            "Maple-Miso Sheet-Pan Salmon with Green Beans",
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
@@ -290,33 +224,42 @@
           "hasUnquantified": false
         },
         {
-          "item": "red bell pepper",
-          "qty": 3,
+          "item": "red bell peppers",
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Spiced Vegetable Couscous",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "shallots",
-          "qty": 2,
+          "item": "red onion",
+          "qty": 1,
           "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "Thai basil",
-          "qty": 1,
-          "unit": "bunch",
+          "item": "shallot",
+          "qty": 2,
+          "unit": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sweet potatoes",
+          "qty": 3,
+          "unit": "medium",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
@@ -346,13 +289,22 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 14,
+          "item": "boneless skinless chicken thighs",
+          "qty": 4,
           "unit": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs",
-            "Miso Chicken"
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cooked peeled shrimp",
+          "qty": 0.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         },
@@ -367,32 +319,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "skin-on halibut steaks (1.5 lb each), 1 to 1.5 inches thick, trimmed",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "skin-on salmon fillets",
           "qty": 4,
           "unit": "fillet",
           "category": "meat-seafood",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "skinless swordfish steaks, cut into 1-inch pieces",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Sicilian Fish Stew"
           ],
           "hasUnquantified": false
         },
@@ -411,6 +343,26 @@
     {
       "category": "dairy",
       "items": [
+        {
+          "item": "buttermilk",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "feta cheese",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
         {
           "item": "grated Parmesan",
           "qty": 0.5,
@@ -437,12 +389,22 @@
       "category": "bakery",
       "items": [
         {
-          "item": "crusty bread, for serving",
-          "qty": 1,
-          "unit": "loaf",
+          "item": "brioche buns",
+          "qty": 4,
+          "unit": "",
           "category": "bakery",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "flatbread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         }
@@ -472,22 +434,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "cayenne pepper",
-          "qty": 0.13,
+          "item": "capers",
+          "qty": 4,
           "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "chicken or vegetable broth",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Spiced Vegetable Couscous"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": false
         },
@@ -502,12 +454,22 @@
           "hasUnquantified": false
         },
         {
-          "item": "couscous",
-          "qty": 1.5,
+          "item": "cornstarch",
+          "qty": 0.25,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Spiced Vegetable Couscous"
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cornstarch",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
@@ -522,44 +484,24 @@
           "hasUnquantified": false
         },
         {
-          "item": "fish sauce",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ground cumin",
+          "item": "dill pickles (with brine)",
           "qty": 1,
-          "unit": "tsp",
+          "unit": "jar",
           "category": "pantry",
           "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tbsp",
+          "item": "hot sauce",
+          "qty": null,
+          "unit": "",
           "category": "pantry",
           "fromMeals": [
-            "Miso Chicken"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": true
         },
         {
           "item": "maple syrup",
@@ -572,52 +514,23 @@
           "hasUnquantified": false
         },
         {
-          "item": "oyster sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Lemongrass Chicken Thighs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "paprika",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Pan-Roasted Halibut with Chermoula"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "pine nuts, toasted",
-          "qty": 0.5,
+          "item": "mayonnaise",
+          "qty": 1,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Pickle-Brined Fried Chicken Sandwiches",
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
         {
-          "item": "raisins",
-          "qty": 0.25,
+          "item": "neutral oil (for frying)",
+          "qty": 6,
           "unit": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "ras el hanout",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Spiced Vegetable Couscous"
+            "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": false
         },
@@ -632,16 +545,6 @@
           "hasUnquantified": false
         },
         {
-          "item": "rice vinegar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Miso Chicken"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "rice wine vinegar",
           "qty": 1,
           "unit": "tbsp",
@@ -652,22 +555,21 @@
           "hasUnquantified": false
         },
         {
-          "item": "steamed rice",
-          "qty": 3,
-          "unit": "cup",
+          "item": "sun-dried tomatoes",
+          "qty": 6,
+          "unit": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Miso Chicken"
+            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         },
         {
           "item": "toasted sesame oil",
-          "qty": 1.25,
+          "qty": 0.25,
           "unit": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Garlic Baby Bok Choy",
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
           ],
           "hasUnquantified": false
@@ -678,42 +580,12 @@
       "category": "canned",
       "items": [
         {
-          "item": "canned whole peeled tomatoes",
+          "item": "chipotle peppers in adobo",
           "qty": 1,
-          "unit": "can (28 oz)",
+          "unit": "can",
           "category": "canned",
           "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "capers, rinsed",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "clam juice",
-          "qty": 1,
-          "unit": "bottle (8 oz)",
-          "category": "canned",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "white miso",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Miso Chicken"
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         },
@@ -733,14 +605,44 @@
       "category": "spices",
       "items": [
         {
-          "item": "red pepper flakes",
+          "item": "cayenne pepper",
           "qty": null,
           "unit": "pinch",
           "category": "spices",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": true
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pickle-Brined Fried Chicken Sandwiches"
+          ],
+          "hasUnquantified": false
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
@@ -753,27 +655,12 @@
           "hasUnquantified": false
         },
         {
-          "item": "white pepper",
-          "qty": 0.25,
+          "item": "smoked paprika",
+          "qty": 1.5,
           "unit": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Garlic Baby Bok Choy"
-          ],
-          "hasUnquantified": false
-        }
-      ]
-    },
-    {
-      "category": "beverages",
-      "items": [
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Sicilian Fish Stew"
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
           ],
           "hasUnquantified": false
         }
@@ -781,18 +668,15 @@
     }
   ],
   "excludedStaples": [
-    "vegetable oil",
-    "soy sauce",
     "extra-virgin olive oil",
-    "salt",
-    "extra-virgin olive oil (for fish)",
-    "unsalted butter",
     "kosher salt",
     "coarsely ground black pepper",
     "salted butter",
     "extra virgin olive oil",
-    "black pepper"
+    "black pepper",
+    "all-purpose flour",
+    "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 72
+  "totalItems": 62
 }
