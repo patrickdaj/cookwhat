@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-27T01:59:05.220Z",
+  "generatedAt": "2026-06-27T13:50:39.452Z",
   "targetServings": null,
   "sections": [
     {
@@ -43,6 +43,26 @@
           "category": "produce",
           "fromMeals": [
             "Mediterranean Shrimp Flatbread"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh basil",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
           "hasUnquantified": false
         },
@@ -108,7 +128,7 @@
         },
         {
           "item": "garlic",
-          "qty": 13,
+          "qty": 14,
           "unit": "clove",
           "category": "produce",
           "fromMeals": [
@@ -116,7 +136,8 @@
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan",
-            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo"
+            "Crispy Smoky Sweet Potato Fries with Chipotle-Lime Mayo",
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
           "hasUnquantified": false
         },
@@ -364,6 +385,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "fresh mozzarella cheese",
+          "qty": 12,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "grated Parmesan",
           "qty": 0.5,
           "unit": "cup",
@@ -382,6 +413,16 @@
             "Grilled Asparagus"
           ],
           "hasUnquantified": false
+        },
+        {
+          "item": "pecorino romano cheese",
+          "qty": 3,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
+          ],
+          "hasUnquantified": false
         }
       ]
     },
@@ -395,16 +436,6 @@
           "category": "bakery",
           "fromMeals": [
             "Pickle-Brined Fried Chicken Sandwiches"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "flatbread",
-          "qty": 4,
-          "unit": "",
-          "category": "bakery",
-          "fromMeals": [
-            "Mediterranean Shrimp Flatbread"
           ],
           "hasUnquantified": false
         }
@@ -494,6 +525,16 @@
           "hasUnquantified": false
         },
         {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
+          ],
+          "hasUnquantified": false
+        },
+        {
           "item": "hot sauce",
           "qty": null,
           "unit": "",
@@ -502,6 +543,16 @@
             "Pickle-Brined Fried Chicken Sandwiches"
           ],
           "hasUnquantified": true
+        },
+        {
+          "item": "instant yeast",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sourdough Pizza Crust"
+          ],
+          "hasUnquantified": false
         },
         {
           "item": "maple syrup",
@@ -551,6 +602,16 @@
           "category": "pantry",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Pistachio Pesto Pizza with Fresh Mozzarella and Honey"
           ],
           "hasUnquantified": false
         },
@@ -665,6 +726,21 @@
           "hasUnquantified": false
         }
       ]
+    },
+    {
+      "category": "other",
+      "items": [
+        {
+          "item": "sourdough starter",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "other",
+          "fromMeals": [
+            "Sourdough Pizza Crust"
+          ],
+          "hasUnquantified": false
+        }
+      ]
     }
   ],
   "excludedStaples": [
@@ -678,5 +754,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 62
+  "totalItems": 69
 }

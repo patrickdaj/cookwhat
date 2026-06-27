@@ -673,7 +673,7 @@
       "id": "shrimp-mediterranean-flatbread-mediterraneandish-4a2b",
       "day": "Mon",
       "slot": "dinner",
-      "role": "main",
+      "role": "side",
       "title": "Mediterranean Shrimp Flatbread",
       "source": "The Mediterranean Dish",
       "sourceUrl": "https://www.themediterraneandish.com/mediterranean-flatbread-recipe/",
@@ -688,13 +688,6 @@
       "totalTimeMin": 22,
       "servings": 4,
       "ingredients": [
-        {
-          "item": "flatbread",
-          "qty": 4,
-          "unit": "",
-          "category": "bakery",
-          "note": "or naan"
-        },
         {
           "item": "cooked peeled shrimp",
           "qty": 0.5,
@@ -764,8 +757,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Monday dinner with Jody. Crisp flatbread with shrimp, sun-dried + grape tomatoes, shallot, pepper, oregano; light feta + lemon. Scaled to 4 — bump with `--servings` if more guests.",
-      "occasion": "Jody over for dinner"
+      "notes": "Built on the MasterClass sourdough crust (shares the Monday batch) instead of store-bought flatbread. Shrimp + sun-dried & grape tomatoes, shallot, pepper, oregano; light feta + lemon."
     },
     {
       "id": "eating-out-wed-2026-07-01",
@@ -786,7 +778,120 @@
       "servings": 0,
       "ingredients": [],
       "notes": "Dinner out — no cooking, nothing to shop for."
+    },
+    {
+      "id": "sourdough-pizza-crust-masterclass-1f3c",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sourdough Pizza Crust",
+      "source": "MasterClass",
+      "sourceUrl": "https://www.masterclass.com/articles/sourdough-pizza-crust-recipe",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "component",
+        "pizza-dough"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 300,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "sourdough starter",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "other",
+          "note": "unfed"
+        },
+        {
+          "item": "instant yeast",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        }
+      ],
+      "notes": "One batch makes both Monday pies (1 large or 2 medium). Tangy same-day crust (starter + a little instant yeast). Plan ~5 h inactive rise — start the dough in the early afternoon. Par-bake 10 min at 450F before topping. Double the batch if feeding a crowd. (Water/salt/oil assumed on hand.)"
+    },
+    {
+      "id": "pistachio-pesto-pizza-with-fresh-mozzarella-and-honey-e6b9e7ce",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pistachio Pesto Pizza with Fresh Mozzarella and Honey",
+      "source": "How Sweet Eats",
+      "sourceUrl": "https://www.howsweeteats.com/2015/07/pistachio-pesto-pizza-with-fresh-mozzarella-and-honey/",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "weeknight",
+        "pizza"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": 90,
+      "servings": 4,
+      "occasion": "Jody over for dinner",
+      "ingredients": [
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "finishing drizzle"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "pesto + crushed for topping"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "produce",
+          "note": "plus leaves to garnish"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "pecorino romano cheese",
+          "qty": 3,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "fresh mozzarella cheese",
+          "qty": 12,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.4,
+          "unit": "cup",
+          "category": "pantry"
+        }
+      ],
+      "notes": "On the MasterClass sourdough crust (shares the Monday batch) instead of the original quick dough. Pistachio-herb pesto base, fresh mozzarella, finished with a honey drizzle. The veg main for Jody night."
     }
   ],
-  "setAt": "2026-06-27T01:58:06.431Z"
+  "setAt": "2026-06-27T13:50:29.064Z"
 }

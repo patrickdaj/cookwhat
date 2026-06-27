@@ -1,0 +1,46 @@
+{
+  "mealId": "sourdough-pizza-crust-masterclass-1f3c",
+  "fetchedAt": "2026-06-24",
+  "url": "https://www.masterclass.com/articles/sourdough-pizza-crust-recipe",
+  "name": "Sourdough Pizza Crust",
+  "description": "A tangy sourdough pizza crust leavened with unfed starter plus a little instant yeast for a reliable same-day rise. Par-baked, then topped and finished. Makes 1 large sheet-pan pizza or 2 medium crusts. From MasterClass. (Active ~40 min; plan for ~5 hours of inactive rise/rest.)",
+  "recipeIngredient": [
+    "2 cups all-purpose flour",
+    "3/4 cup sourdough starter, unfed",
+    "1/2 cup warm water",
+    "1 teaspoon instant yeast",
+    "1 teaspoon salt",
+    "Extra-virgin olive oil, for greasing and brushing"
+  ],
+  "recipeInstructions": [
+    "In the bowl of a stand mixer fitted with a dough hook, combine the flour, sourdough starter, water, yeast, and salt. Knead until the dough pulls away from the sides of the bowl, about 5–7 minutes. If the dough seems dry, add an extra tablespoon of warm water at a time.",
+    "Grease a large bowl with a thin layer of olive oil. Transfer the dough ball to the bowl and cover with a clean tea towel.",
+    "Place the dough in a warm spot and let it rise for 30 minutes.",
+    "Remove the towel and stretch the dough: pull the center upwards and push it back down into itself. Repeat about 10 times.",
+    "Cover with the towel and let rest at room temperature until doubled in size, about 2–4 hours.",
+    "When the dough has risen, preheat the oven to 450°F (preheat your pan/stone/steel in it for a crispier bottom).",
+    "Turn the dough onto a lightly floured surface and form into a ball. Leave whole for one large sheet-pan pizza, or divide into 2 equal pieces for two smaller pizzas.",
+    "Lightly grease a large sheet pan or two round pizza pans with olive oil, or line with parchment.",
+    "Place the dough on the pan and use a rolling pin and your hands to shape it to fit, gently stretching to the edges. Cover with plastic wrap and rest 15 minutes.",
+    "After 15 minutes, stretch the dough once more to meet the edges of the pan.",
+    "Bake the bare crust for 10 minutes.",
+    "Remove, add tomato sauce, cheese, and your toppings. Return to the oven and bake until the crust is golden brown and toppings are cooked, 5–10 minutes.",
+    "Let the pizza cool for 5 minutes before slicing and serving."
+  ],
+  "prepTime": "PT25M",
+  "cookTime": "PT15M",
+  "totalTime": "PT40M",
+  "recipeYield": "1 large or 2 medium crust pizzas",
+  "image": "",
+  "author": "MasterClass",
+  "ai": {
+    "cliffNotes": "Tangy sourdough crust using unfed starter + a little instant yeast for a same-day rise. Par-bake the bare crust at 450°F for 10 min, then top and finish 5–10 min. Makes 1 large sheet-pan pizza or 2 medium.",
+    "keyTips": [
+      "Proof time swings with room temperature and your starter — a warm spot rises faster. If the dough turns stiff or unworkable after proofing, re-cover and rest it another 15–30 minutes at a time until it relaxes.",
+      "Handle the dough gently when shaping to preserve the air pockets from fermentation — overworking it gives an uneven, dense rise.",
+      "Preheat your pan in the hot oven before the dough goes on for a crispy bottom. Rimmed sheet pan = thick rectangular pie; baking steel or stone = thin, crisp crust.",
+      "Par-bake the bare crust ~10 min before topping so it sets and won't go soggy under the sauce.",
+      "Make-ahead: after the first rise, the dough keeps airtight 3 days in the fridge (the flavor actually improves) or up to 3 months frozen. From the fridge, let it come to room temp 1 hour; from frozen, thaw ~8 hours before shaping."
+    ]
+  }
+}
