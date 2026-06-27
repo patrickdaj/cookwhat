@@ -68,6 +68,27 @@ function displayQtyUnit(line) {
   return { qty: round(t, 2), unit: "tsp" }; // fallback: smallest unit
 }
 
+// Fresh leafy herbs are bought by the bunch, so spoon/sprig measures across
+// dishes all collapse to a single "1 bunch" line rather than fiddly amounts.
+// (Dried versions live in `spices`, not `produce`, so they're never collapsed.)
+const FRESH_HERBS = new Set([
+  "parsley", "cilantro", "coriander", "basil", "mint", "rosemary", "thyme",
+  "tarragon", "dill", "sage", "oregano", "chive", "marjoram", "chervil",
+]);
+
+// Core herb name, ignoring a leading "fresh" ("fresh basil" -> "basil").
+function herbCore(item) {
+  return coreItemName(item).replace(/^fresh\s+/, "");
+}
+
+function isFreshHerb(line) {
+  return (
+    line.category === "produce" &&
+    !/\bdried\b/i.test(line.item) &&
+    FRESH_HERBS.has(herbCore(line.item))
+  );
+}
+
 // Build a consolidated shopping list from a menu.
 // `targetServings` (optional) scales every meal to that serving count.
 export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
@@ -113,6 +134,31 @@ export function buildShoppingList(menu, cfg, { targetServings = null } = {}) {
       }
       if (!line.fromMeals.includes(meal.title)) line.fromMeals.push(meal.title);
     }
+  }
+
+  // Collapse fresh herbs to one "1 bunch" line each (you buy a bunch, not
+  // 6.5 tsp). Sum any explicit bunch counts; otherwise default to 1.
+  const herbs = new Map(); // core -> merged herb line
+  for (const [key, line] of merged) {
+    if (!isFreshHerb(line)) continue;
+    merged.delete(key);
+    const core = herbCore(line.item);
+    if (!herbs.has(core)) {
+      herbs.set(core, {
+        item: line.item, qty: 0, dim: "bunch", unitLabel: "bunch",
+        category: "produce", fromMeals: [], hasUnquantified: false,
+      });
+    }
+    const h = herbs.get(core);
+    if (line.item.length < h.item.length) h.item = line.item; // cleanest name
+    if (line.unitLabel === "bunch" || line.unitLabel === "bunches") {
+      h.qty += line.qty || 0; // honor an explicit bunch count
+    }
+    for (const mt of line.fromMeals) if (!h.fromMeals.includes(mt)) h.fromMeals.push(mt);
+  }
+  for (const [core, h] of herbs) {
+    h.qty = h.qty > 0 ? round(h.qty, 2) : 1; // at least one bunch
+    merged.set(`${core}|bunch`, h);
   }
 
   // Group by category, ordered per config.
