@@ -121,9 +121,10 @@
           "category": "produce"
         },
         {
-          "item": "garlic cloves, minced",
+          "item": "garlic",
           "qty": 4,
-          "category": "produce"
+          "category": "produce",
+          "unit": "clove"
         },
         {
           "item": "bay leaves",
@@ -148,8 +149,11 @@
           "category": "pantry"
         },
         {
-          "item": "lemon wedges",
-          "category": "produce"
+          "item": "lemon",
+          "category": "produce",
+          "qty": 1,
+          "unit": "",
+          "note": "for serving (wedges)"
         }
       ],
       "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.299. 299. Grilled (spatchcocked) spicy chili-lemon chicken — a summer grill night. Pair with the Greek garlic-lemon potatoes (carb) + grilled vegetable kebabs (veg). (Replaces the American Cornell chicken + coleslaw + corn.)",
@@ -244,7 +248,7 @@
           "category": "produce"
         },
         {
-          "item": "lemons",
+          "item": "lemon",
           "qty": 2,
           "unit": "",
           "category": "produce"
@@ -365,14 +369,14 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "baby red or Yukon Gold potatoes",
+          "item": "Yukon Gold potatoes",
           "qty": 2,
           "unit": "lb",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "extra virgin olive oil",
+          "item": "extra-virgin olive oil",
           "qty": 3,
           "unit": "tbsp",
           "category": "pantry",
@@ -441,17 +445,10 @@
           "note": ""
         },
         {
-          "item": "extra virgin olive oil",
+          "item": "extra-virgin olive oil",
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 1.25,
-          "unit": "tsp",
-          "category": "spices",
           "note": ""
         },
         {
@@ -474,9 +471,72 @@
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
+        },
+        {
+          "item": "dried sage",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried parsley",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried rosemary",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried thyme",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried basil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "dried bay leaf, crushed",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "black pepper",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for the S&G rub"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "for the S&G rub"
         }
       ],
-      "notes": "Snap off the woody bottoms (1-3 in). Coat spears with oil, sprinkle with Simon & Garfunkel Rub and salt. Grill two-zone ~325F on the indirect side; finish with shaved Parmigiano ribbons and a balsamic drizzle. (Meathead/Goldwyn p.350; recipe makes 2, scaled x2 for 4.)"
+      "notes": "Snap off woody bottoms; coat with oil and the Simon & Garfunkel Rub + salt; grill two-zone ~325F indirect; finish with shaved Parmigiano + balsamic. The S&G rub is a make-ahead blend (Meathead p.168 — the dried herbs listed make a small jar; the asparagus needs only ~1.25 tsp). Meathead p.350."
     },
     {
       "id": "pickle-brined-fried-chicken-sandwich-fe27e359",
@@ -724,7 +784,7 @@
           "note": "halved"
         },
         {
-          "item": "flat-leaf parsley",
+          "item": "fresh parsley",
           "qty": 2,
           "unit": "tbsp",
           "category": "produce",
