@@ -102,7 +102,7 @@
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Chicken alla Diavola",
+      "title": "Grilled Chicken alla Diavola (Bone-In Pieces)",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
       "sourceUrl": "",
       "cuisine": "italian",
@@ -132,11 +132,6 @@
           "category": "pantry"
         },
         {
-          "item": "whole chicken (3.5 to 4 lb), giblets discarded",
-          "qty": 1,
-          "category": "meat-seafood"
-        },
-        {
           "item": "extra-virgin olive oil",
           "qty": 0.25,
           "unit": "cup",
@@ -154,9 +149,16 @@
           "qty": 1,
           "unit": "",
           "note": "for serving (wedges)"
+        },
+        {
+          "item": "bone-in, skin-on chicken thighs and drumsticks",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "~3 to 3.5 lb; 2 pieces per person"
         }
       ],
-      "notes": "Scanned from The Complete Mediterranean Cookbook (ATK) p.299. 299. Grilled (spatchcocked) spicy chili-lemon chicken — a summer grill night. Pair with the Greek garlic-lemon potatoes (carb) + grilled vegetable kebabs (veg). (Replaces the American Cornell chicken + coleslaw + corn.)",
+      "notes": "Adapted from ATK Complete Mediterranean p.299 (alla Diavola) for the trip: bone-in, skin-on chicken pieces instead of a whole spatchcocked bird — packs flat in a cooler, no spatchcocking, grills faster. Marinate in the garlic, red pepper flakes, oil + lemon; grill skin-side down over the cooler zone, then sear, to ~175F. Pair with Greek garlic-lemon potatoes (carb) + grilled veg kebabs (veg).",
       "occasion": "Idyllwild trip (7/3)"
     },
     {
@@ -953,5 +955,5 @@
       "notes": "On the MasterClass sourdough crust (shares the Monday batch) instead of the original quick dough. Pistachio-herb pesto base, fresh mozzarella, finished with a honey drizzle. The veg main for Jody night."
     }
   ],
-  "setAt": "2026-06-27T13:50:29.064Z"
+  "setAt": "2026-06-27T21:04:13.495Z"
 }
