@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-06-28",
-  "generatedAt": "2026-06-27T20:44:41.871Z",
+  "generatedAt": "2026-06-27T21:04:13.641Z",
   "targetServings": null,
   "sections": [
     {
@@ -102,7 +102,7 @@
           "category": "produce",
           "fromMeals": [
             "Maple-Miso Sheet-Pan Salmon with Green Beans",
-            "Grilled Chicken alla Diavola",
+            "Grilled Chicken alla Diavola (Bone-In Pieces)",
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Crispy Smashed Potatoes with Garlic, Rosemary & Parmesan",
@@ -119,7 +119,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Chicken alla Diavola"
+            "Grilled Chicken alla Diavola (Bone-In Pieces)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -179,7 +179,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Chicken alla Diavola",
+            "Grilled Chicken alla Diavola (Bone-In Pieces)",
             "Greek-Style Garlic-Lemon Potatoes",
             "Grilled Vegetable Kebabs with Grilled Lemon Dressing",
             "Mediterranean Shrimp Flatbread"
@@ -291,6 +291,18 @@
       "category": "meat-seafood",
       "items": [
         {
+          "item": "bone-in, skin-on chicken thighs and drumsticks",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Chicken alla Diavola (Bone-In Pieces)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "boneless skinless chicken thighs",
           "qty": 4,
           "dim": "",
@@ -337,18 +349,6 @@
           ],
           "hasUnquantified": false,
           "unit": "fillet"
-        },
-        {
-          "item": "whole chicken (3.5 to 4 lb), giblets discarded",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Chicken alla Diavola"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -468,7 +468,7 @@
           "unitLabel": "",
           "category": "pantry",
           "fromMeals": [
-            "Grilled Chicken alla Diavola"
+            "Grilled Chicken alla Diavola (Bone-In Pieces)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -614,7 +614,7 @@
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Grilled Chicken alla Diavola"
+            "Grilled Chicken alla Diavola (Bone-In Pieces)"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
