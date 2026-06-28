@@ -2699,5 +2699,89 @@
     "sourceUrl": "https://www.thekitchn.com/chicken-souvlaki-recipe-23481336",
     "source": "thekitchn.com",
     "notes": "Make fresh pitas next time."
+  },
+  {
+    "date": "2026-06-21",
+    "title": "Huevos Rancheros",
+    "rating": 5,
+    "redo": true,
+    "cuisine": "mexican",
+    "protein": "egg",
+    "sourceUrl": "https://cooking.nytimes.com/recipes/1023168-huevos-rancheros",
+    "source": "NYT Cooking",
+    "notes": "Amazing as usual.",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Chicken au Poivre",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "french",
+    "protein": "chicken",
+    "sourceUrl": "https://www.thekitchn.com/chicken-au-poivre-recipe-23712295",
+    "source": "The Kitchn",
+    "notes": "Was ok.",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Cashew Chicken",
+    "rating": 4,
+    "redo": true,
+    "cuisine": "chinese",
+    "protein": "chicken",
+    "sourceUrl": "https://thewoksoflife.com/cashew-chicken/",
+    "source": "The Woks of Life",
+    "notes": "",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Greek-Style Shrimp with Tomatoes and Feta",
+    "rating": 4,
+    "redo": true,
+    "cuisine": "mediterranean",
+    "protein": "shrimp",
+    "sourceUrl": "",
+    "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+    "notes": "",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Lemon-Herb Orzo",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "mediterranean",
+    "protein": "vegetable",
+    "sourceUrl": "https://www.themediterraneandish.com/orzo-pasta-recipe/",
+    "source": "The Mediterranean Dish",
+    "notes": "",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Pork Chops Milanese with Amatriciana",
+    "rating": 4,
+    "redo": true,
+    "cuisine": "italian",
+    "protein": "pork",
+    "sourceUrl": "https://lidiasitaly.com/recipes/pork-chops-milanese/",
+    "source": "Lidia's Italy",
+    "notes": "Great as usual.",
+    "importedFrom": ""
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Spanish-Style Braised Chicken and Almonds",
+    "rating": 3,
+    "redo": false,
+    "cuisine": "spanish",
+    "protein": "chicken",
+    "sourceUrl": "",
+    "source": "The Complete Mediterranean Cookbook (ATK) — p.295",
+    "notes": "Fun to make (braise troubleshooting); came out well.",
+    "importedFrom": ""
   }
 ]
