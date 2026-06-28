@@ -379,7 +379,9 @@ function buildDayPage(week, day, dishes, recipesByMealId) {
     else if (dish.totalTimeMin) sub.push(`${dish.totalTimeMin} min`);
     if (sub.length) out.push(`*${sub.join(' · ')}*`);
     const links = recipeLinks(dish, recipesByMealId, rel);
-    out.push((links ? '\n' + links : '') + '\n');
+    if (links) out.push('\n' + links);
+    if (dish.notes) out.push(`\n> ${withTimerLinks(dish.notes)}`);
+    out.push('');
   }
 
   out.push('## Everything you need\n');
