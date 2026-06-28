@@ -22,14 +22,14 @@
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
-      "servings": 4,
+      "servings": 3,
       "ingredients": [
         {
-          "item": "skin-on salmon fillets",
-          "qty": 4,
-          "unit": "fillet",
+          "item": "skin-on salmon",
+          "qty": 1,
+          "unit": "lb",
           "category": "meat-seafood",
-          "note": ""
+          "note": "for 3"
         },
         {
           "item": "green beans",
@@ -95,7 +95,7 @@
           "note": ""
         }
       ],
-      "notes": "Easy packing-day sheet-pan: salmon + green beans roast together, minimal cleanup. Full plate: salmon + green beans (veg) + rice (carb). Uncooked Paprika pick (new to you).",
+      "notes": "Jami's mom for dinner (3). Dress up the sheet-pan salmon: reserve a few spoonfuls of the maple-miso, reduce with a splash of rice vinegar to a glaze, and spoon over the plated fillets; finish with toasted sesame, scallion, and a squeeze of lime. Carb = miso-butter rice (stir butter + a little miso into the steamed rice). Veg = blistered sesame green beans (sear hard, then toss with garlic, sesame oil, a pinch of chili flakes, and lemon). 1 lb skin-on salmon for 3. No starter or dessert.",
       "occasion": "Jami's mom over for dinner"
     },
     {
@@ -957,5 +957,5 @@
       "notes": "On the MasterClass sourdough crust (shares the Monday batch) instead of the original quick dough. Pistachio-herb pesto base, fresh mozzarella, finished with a honey drizzle. The veg main for Jody night."
     }
   ],
-  "setAt": "2026-06-28T03:22:46.702Z"
+  "setAt": "2026-06-28T03:28:37.794Z"
 }
