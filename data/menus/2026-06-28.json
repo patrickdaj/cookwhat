@@ -955,7 +955,41 @@
         }
       ],
       "notes": "On the MasterClass sourdough crust (shares the Monday batch) instead of the original quick dough. Pistachio-herb pesto base, fresh mozzarella, finished with a honey drizzle. The veg main for Jody night."
+    },
+    {
+      "id": "ken-forkish-same-day-pizza-dough-cookingofjoy-7f2a",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Ken Forkish Same-Day Dough (A/B vs sourdough)",
+      "source": "Ken Forkish (FWSY), via The Cooking of Joy",
+      "sourceUrl": "https://the-cooking-of-joy.blogspot.com/2013/06/ken-forkishs-same-day-straight-pizza.html",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "component",
+        "pizza-dough",
+        "experiment"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 360,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "qty": 250,
+          "unit": "g",
+          "category": "pantry"
+        },
+        {
+          "item": "instant yeast",
+          "qty": 0.5,
+          "unit": "g",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Second crust for the A/B against the sourdough on Jody night — make both, compare. 70% hydration, fold-built. Autolyse flour+water 20-30 min, then add salt+yeast; fold; bulk ~6 h; divide into 2 balls; room temp 30-60 min then fridge 30+ min to shape. For best flavor, ball it a day ahead and cold-rest 1-2 days in the fridge. Makes two 8 oz balls (two ~10\" pizzas). Bake on a screaming-hot stone high in the oven: 5 min bake + 2 min broil. (Water/salt/oil assumed on hand.)"
     }
   ],
-  "setAt": "2026-06-28T03:29:59.569Z"
+  "setAt": "2026-06-29T14:02:35.284Z"
 }
