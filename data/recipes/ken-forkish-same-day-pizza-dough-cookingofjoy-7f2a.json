@@ -1,0 +1,38 @@
+{
+  "mealId": "ken-forkish-same-day-pizza-dough-cookingofjoy-7f2a",
+  "fetchedAt": "2026-06-28",
+  "url": "https://the-cooking-of-joy.blogspot.com/2013/06/ken-forkishs-same-day-straight-pizza.html",
+  "name": "Ken Forkish Same-Day Straight Pizza Dough",
+  "description": "Ken Forkish's same-day straight pizza dough (from Flour Water Salt Yeast), via The Cooking of Joy. A no-knead, fold-built 70% hydration dough that mixes in the morning and bakes that evening — crisp, blistered, airy crust, no oil. Small batch makes two ~10-inch pizzas; scale linearly for more.",
+  "recipeIngredient": [
+    "250 g (about 2 cups) all-purpose flour",
+    "175 g (about 3/4 cup) warm water, 90-95°F (70% hydration)",
+    "5 g (about 1 tsp) fine sea salt or kosher salt",
+    "0.5 g (about 1/8 tsp) instant dried yeast",
+    "(no oil)"
+  ],
+  "recipeInstructions": [
+    "Combine the flour, salt, and instant yeast in a tub or large bowl. Add the warm water (90-95°F). Mix by hand — squeezing and folding — until no dry flour remains and you have a sticky, cohesive dough, about 3-5 minutes. Cover.",
+    "In the first hour or so, give the dough 2-3 stretch-and-folds: wet your hand, lift one side of the dough up, stretch it, and fold it over onto itself; rotate and repeat a few times. Cover between folds.",
+    "Bulk-rise at warm room temperature (~70°F) until roughly doubled to tripled and full of bubbles, about 5-6 hours (faster in a warmer kitchen).",
+    "Flour the counter, turn the dough out, and divide into 2 equal pieces. Shape each into a tight ball, tucking the edges underneath to build surface tension.",
+    "Rest the balls, covered and lightly floured, 20-60 minutes before shaping (or refrigerate and bring back to room temp later).",
+    "Stretch each ball by hand to about 10 inches, top, and bake on a stone or steel as hot as your oven goes (550°F+), or in a pizza oven, until the crust is browned and blistered."
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT6H",
+  "recipeYield": "2 dough balls (two ~10-inch pizzas)",
+  "image": "",
+  "author": "Ken Forkish (Flour Water Salt Yeast), via The Cooking of Joy",
+  "ai": {
+    "cliffNotes": "No-knead, fold-built same-day pizza dough at 70% hydration. Mix in ~5 min, do a few folds in the first hour, bulk-rise 5-6 h, ball, rest, and bake screaming hot. Two ~10-inch pizzas; no oil.",
+    "keyTips": [
+      "The warm 90-95°F water is the engine of the same-day timeline — it keeps the dough warm enough to ferment fully in 5-6 hours. In a cool kitchen, find a warm spot or expect it to take longer.",
+      "Don't skip the early stretch-and-folds — they build gluten strength without kneading (the whole point of Forkish's method) and give you an open, airy crumb.",
+      "It's a wet 70% dough and will be sticky — keep your hands and counter floured or damp, and resist working in lots of extra flour, which makes a denser, tougher crust.",
+      "No oil + a long ferment = crisp, flavorful, blistered crust. Bake as hot as possible on a fully preheated stone or steel.",
+      "To scale up, keep the ratios (flour 100% / water 70% / salt 2% / yeast 0.2%); Forkish's full book recipe is ~1000 g flour for five larger dough balls."
+    ]
+  }
+}
