@@ -3,36 +3,42 @@
   "fetchedAt": "2026-06-28",
   "url": "https://the-cooking-of-joy.blogspot.com/2013/06/ken-forkishs-same-day-straight-pizza.html",
   "name": "Ken Forkish Same-Day Straight Pizza Dough",
-  "description": "Ken Forkish's same-day straight pizza dough (from Flour Water Salt Yeast), via The Cooking of Joy. A no-knead, fold-built 70% hydration dough that mixes in the morning and bakes that evening — crisp, blistered, airy crust, no oil. Small batch makes two ~10-inch pizzas; scale linearly for more.",
+  "description": "Ken Forkish's same-day straight pizza dough (from Flour Water Salt Yeast), via The Cooking of Joy. A fold-built 70% hydration dough with a short autolyse: mix in the morning, shape in the afternoon, bake by evening — super-thin crust with a chewy, poofy rim. A 1-2 day cold rest in the fridge deepens the flavor. Makes two 8 oz balls (two ~10-inch pizzas).",
   "recipeIngredient": [
-    "250 g (about 2 cups) all-purpose flour",
-    "175 g (about 3/4 cup) warm water, 90-95°F (70% hydration)",
-    "5 g (about 1 tsp) fine sea salt or kosher salt",
-    "0.5 g (about 1/8 tsp) instant dried yeast",
-    "(no oil)"
+    "250 g (about 1 1/2 cups) all-purpose flour",
+    "175 g (about 3/4 cup) warm water, 90-95°F",
+    "5 g (about 2 teaspoons) kosher salt",
+    "0.5 g (about 1/8 teaspoon) instant dried yeast",
+    "Olive oil, for coating the dough/bowl and the proofing bags"
   ],
   "recipeInstructions": [
-    "Combine the flour, salt, and instant yeast in a tub or large bowl. Add the warm water (90-95°F). Mix by hand — squeezing and folding — until no dry flour remains and you have a sticky, cohesive dough, about 3-5 minutes. Cover.",
-    "In the first hour or so, give the dough 2-3 stretch-and-folds: wet your hand, lift one side of the dough up, stretch it, and fold it over onto itself; rotate and repeat a few times. Cover between folds.",
-    "Bulk-rise at warm room temperature (~70°F) until roughly doubled to tripled and full of bubbles, about 5-6 hours (faster in a warmer kitchen).",
-    "Flour the counter, turn the dough out, and divide into 2 equal pieces. Shape each into a tight ball, tucking the edges underneath to build surface tension.",
-    "Rest the balls, covered and lightly floured, 20-60 minutes before shaping (or refrigerate and bring back to room temp later).",
-    "Stretch each ball by hand to about 10 inches, top, and bake on a stone or steel as hot as your oven goes (550°F+), or in a pizza oven, until the crust is browned and blistered."
+    "Put the yeast and 1 tablespoon of the warm water in a small bowl; set aside.",
+    "In a large bowl, combine the flour and the remaining warm water. Mix by hand until just incorporated. Cover and rest 20-30 minutes (this autolyse makes the dough easier to mix).",
+    "Sprinkle the salt over the rested dough. Stir the yeast mixture with a finger and pour it over the dough; wipe the last yeast from the small bowl with a piece of dough and return it. Mix by hand, wetting your working hand so the dough doesn't stick (re-wet 3-4 times as needed).",
+    "Apply a fold: reach under the dough, grab about one-quarter, gently stretch it and fold it over the top. Repeat 3 more times to fully enclose the salt and yeast. Then keep folding and pinching (mimicking a dough hook) until the ingredients are incorporated and you can no longer feel salt grains. Cover and rest.",
+    "After 30-60 minutes, apply one more fold to develop the gluten. Lightly coat the dough and the bottom of the bowl with olive oil to prevent sticking.",
+    "Cover and rest until the dough is about doubled — roughly 6 hours after mixing.",
+    "Moderately flour the work surface. With floured hands, ease the dough out into a roughly even shape, dust the top with flour, and cut into 2 equal pieces.",
+    "Shape each: apply a fold, flip seam-side down, then cradle and gently stretch the dough from the top toward the sides and under, rotating, to build a tight, even tension all around — without degassing it.",
+    "Transfer each ball to its own sandwich bag, dribble in a little olive oil to coat, and refrigerate overnight, up to 2 days (this develops the best flavor). To bake same-day instead: rest the balls at room temp 30-60 min, then refrigerate at least 30 min to make shaping easier.",
+    "To bake: set a pizza stone in the upper oven (~8 inches below the broiler) and preheat to 600°F (or as high as it goes), then keep heating the stone another 30 minutes.",
+    "Shape on floured parchment on a peel/board: pat to flour the bottom; leaving a 1-inch rim, punch down the center, flip, and repeat. Lift by the rim and let gravity stretch it, running the rim between your hands and rotating until thin and even (don't tear it). Lay on the parchment, shape into a round, and top.",
+    "Slide the pizza (on its parchment) onto the stone. Bake 5 minutes, then switch to broil for about 2 minutes, watching closely, until the cheese is melted and the crust is golden with spots of char. Slide off on the parchment, slice, and serve."
   ],
-  "prepTime": "PT20M",
-  "cookTime": "PT10M",
+  "prepTime": "PT30M",
+  "cookTime": "PT7M",
   "totalTime": "PT6H",
-  "recipeYield": "2 dough balls (two ~10-inch pizzas)",
+  "recipeYield": "2 dough balls (8 oz each; two ~10-inch pizzas)",
   "image": "",
   "author": "Ken Forkish (Flour Water Salt Yeast), via The Cooking of Joy",
   "ai": {
-    "cliffNotes": "No-knead, fold-built same-day pizza dough at 70% hydration. Mix in ~5 min, do a few folds in the first hour, bulk-rise 5-6 h, ball, rest, and bake screaming hot. Two ~10-inch pizzas; no oil.",
+    "cliffNotes": "Fold-built, no-stand-mixer pizza dough at 70% hydration with a short autolyse. Mix morning, ~6 h bulk, ball, then ideally cold-rest 1-2 days for flavor. Bake on a screaming-hot stone high in the oven: 5 min bake + 2 min broil. Two 8 oz balls / two ~10-inch pies.",
     "keyTips": [
-      "The warm 90-95°F water is the engine of the same-day timeline — it keeps the dough warm enough to ferment fully in 5-6 hours. In a cool kitchen, find a warm spot or expect it to take longer.",
-      "Don't skip the early stretch-and-folds — they build gluten strength without kneading (the whole point of Forkish's method) and give you an open, airy crumb.",
-      "It's a wet 70% dough and will be sticky — keep your hands and counter floured or damp, and resist working in lots of extra flour, which makes a denser, tougher crust.",
-      "No oil + a long ferment = crisp, flavorful, blistered crust. Bake as hot as possible on a fully preheated stone or steel.",
-      "To scale up, keep the ratios (flour 100% / water 70% / salt 2% / yeast 0.2%); Forkish's full book recipe is ~1000 g flour for five larger dough balls."
+      "The real flavor payoff is the cold rest: ball the dough, bag it with a little oil, and let it sit in the fridge 1-2 days. Same-day works, but a day or two deepens the taste considerably.",
+      "Don't skip the 20-30 minute autolyse (flour + water, before salt and yeast) — it hydrates the flour so the dough comes together far more easily when you mix.",
+      "Keep your working hand wet while mixing and folding so the sticky 70% dough doesn't cling to you — re-wet three or four times as needed.",
+      "Shape by gravity, not a rolling pin: lift the dough by the rim and let it hang so it stretches thin and even; keep a close eye so it doesn't tear or develop holes.",
+      "Bake high and hot — stone ~8 inches under the broiler, fully preheated 600°F (or your oven's max) plus 30 extra minutes — then finish under the broiler for char. 5 minutes bake + ~2 minutes broil."
     ]
   }
 }
