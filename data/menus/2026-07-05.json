@@ -676,71 +676,6 @@
       "slot": "dinner"
     },
     {
-      "id": "bacon-jalape-o-deviled-eggs-1e64719a",
-      "role": "side",
-      "title": "Bacon-Jalapeño Deviled Eggs",
-      "source": "Delish",
-      "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/recipes/a46457/bacon-jalapeno-deviled-eggs-recipe/",
-      "cuisine": "american",
-      "protein": "egg",
-      "tags": [
-        "side",
-        "starter"
-      ],
-      "activeTimeMin": 25,
-      "totalTimeMin": 25,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "large eggs",
-          "qty": 8,
-          "unit": "",
-          "category": "dairy"
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "lemon",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "cooked bacon",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "meat-seafood",
-          "note": "chopped"
-        },
-        {
-          "item": "shredded cheddar",
-          "qty": 1.5,
-          "unit": "tbsp",
-          "category": "dairy"
-        },
-        {
-          "item": "yellow mustard",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "jalapeño",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "seeded if desired"
-        }
-      ],
-      "notes": "Passed starter while the ribs finish. Make the filling ahead; pipe just before serving.",
-      "day": "Sat",
-      "slot": "dinner"
-    },
-    {
       "id": "loaded-iceberg-wedge-salad-seriouseats-9c4d",
       "role": "side",
       "title": "The Fully Loaded Iceberg Wedge Salad",
@@ -825,5 +760,5 @@
       "slot": "dinner"
     }
   ],
-  "setAt": "2026-07-03T20:34:41.622Z"
+  "setAt": "2026-07-03T22:28:17.669Z"
 }
