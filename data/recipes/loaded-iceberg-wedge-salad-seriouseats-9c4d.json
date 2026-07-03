@@ -1,0 +1,41 @@
+{
+  "mealId": "loaded-iceberg-wedge-salad-seriouseats-9c4d",
+  "fetchedAt": "2026-06-28",
+  "url": "https://www.seriouseats.com/wedge-salad-iceberg-blue-cheese-bacon-recipe",
+  "name": "The Fully Loaded Iceberg Wedge Salad",
+  "description": "Ice-cold iceberg wedges under a thick, chunky blue cheese dressing, piled with crispy bacon, cherry tomatoes, red onion, and chives. The crisp, cold, tangy foil that cuts right through rich BBQ ribs. From Serious Eats (your 4-star pick). Serves ~6-8.",
+  "recipeIngredient": [
+    "2 heads iceberg lettuce, cut into wedges and chilled",
+    "4 ounces blue cheese, crumbled (plus more for topping)",
+    "1/2 cup mayonnaise",
+    "1/4 cup buttermilk",
+    "1/4 cup sour cream",
+    "1 tablespoon white wine vinegar (or lemon juice)",
+    "6 slices bacon, cooked crisp and crumbled",
+    "1 cup cherry or grape tomatoes, halved",
+    "1/2 red onion, thinly sliced",
+    "Fresh chives, thinly sliced, for garnish",
+    "Kosher salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    "Make the dressing: whisk (or lightly blend) the blue cheese, mayonnaise, buttermilk, sour cream, and vinegar with salt and pepper - leave plenty of cheese in chunks for texture. Chill.",
+    "Cut the iceberg into wedges and keep them ice-cold and crisp until serving.",
+    "Set a wedge on each plate. Spoon the blue cheese dressing generously over the top.",
+    "Pile on the crumbled bacon, tomatoes, red onion, extra blue cheese crumbles, and a shower of chives. Finish with cracked black pepper. Serve cold."
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "recipeYield": "6 to 8 wedges",
+  "image": "",
+  "author": "Serious Eats",
+  "ai": {
+    "cliffNotes": "Cold, crisp iceberg wedges under chunky blue cheese dressing with bacon, tomato, red onion, and chives. The refreshing counterpoint to rich ribs.",
+    "keyTips": [
+      "Keep the iceberg ice-cold and bone-dry - the whole appeal is the shattering-cold crunch against the warm ribs, so chill the wedges and dress them at the last second.",
+      "Leave the blue cheese chunky in the dressing rather than blending it smooth; you want pockets of funk, not a uniform sauce.",
+      "Cook the bacon extra crisp and crumble it - limp bacon disappears against the cold lettuce.",
+      "Dress to order right before serving; a dressed wedge wilts fast."
+    ]
+  }
+}
