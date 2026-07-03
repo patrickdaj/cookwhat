@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-06-19T21:49:41.621Z",
+  "generatedAt": "2026-07-03T20:34:41.756Z",
   "targetServings": null,
   "sections": [
     {
@@ -9,347 +9,344 @@
         {
           "item": "asparagus",
           "qty": 1,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
             "Braised Asparagus"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "baby arugula",
           "qty": 1.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "baby spinach",
           "qty": 4,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "blood oranges (or navel)",
           "qty": 3,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Shaved Fennel and Blood Orange Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "carrot",
-          "qty": 2,
-          "unit": "",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
-            "Japanese Potato Salad"
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
-          "item": "English cucumbers",
-          "qty": 2,
-          "unit": "",
+          "item": "cherry tomatoes",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad"
+            "The Fully Loaded Iceberg Wedge Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fennel bulbs",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Shaved Fennel and Blood Orange Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "The Fully Loaded Iceberg Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh ginger",
           "qty": 1,
-          "unit": "knob",
+          "dim": "knob",
+          "unitLabel": "knob",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "knob"
         },
         {
           "item": "fresh mint or parsley",
           "qty": 2,
-          "unit": "tbsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "produce",
           "fromMeals": [
             "Shaved Fennel and Blood Orange Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "fresh parsley",
-          "qty": 3,
-          "unit": "tbsp",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
+            "My Mother's Meatballs",
             "Sautéed Green Beans with Garlic and Herbs"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.58,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad",
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh rosemary",
-          "qty": 4,
-          "unit": "sprig",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 10,
-          "unit": "sprig",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh thyme",
           "qty": 1,
-          "unit": "tsp",
+          "dim": "bunch",
+          "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
             "Sautéed Green Beans with Garlic and Herbs"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "garlic",
-          "qty": 9,
-          "unit": "clove",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
-            "Hummus with Warm Pita",
-            "Sautéed Green Beans with Garlic and Herbs",
-            "Brown Butter Scallops with Parmesan Risotto",
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "garlic",
           "qty": 1,
-          "unit": "head",
+          "dim": "head",
+          "unitLabel": "head",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans with Garlic and Herbs",
+            "Brown Butter Scallops with Parmesan Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
         },
         {
           "item": "garlic, minced",
           "qty": 4,
-          "unit": "tsp",
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "green beans",
           "qty": 1,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
             "Sautéed Green Beans with Garlic and Herbs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "hazelnuts, toasted",
-          "qty": 0.33,
-          "unit": "cup",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Shaved Fennel and Blood Orange Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "iceberg lettuce",
+          "qty": 1,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "The Fully Loaded Iceberg Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Bacon-Jalapeño Deviled Eggs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "lemon",
-          "qty": 7,
-          "unit": "",
+          "qty": 3.5,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
-            "Hummus with Warm Pita",
-            "Mediterranean Tomato and Cucumber Salad",
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
             "Sautéed Green Beans with Garlic and Herbs",
-            "Karaage (Japanese Fried Chicken)"
+            "Bacon-Jalapeño Deviled Eggs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "lemon zest",
-          "qty": 1.5,
-          "unit": "tsp",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "Persian cucumbers",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Japanese Potato Salad"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "red onion",
-          "qty": 0.75,
-          "unit": "",
+          "qty": 0.5,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad",
-            "Japanese Potato Salad"
+            "The Fully Loaded Iceberg Wedge Salad"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "russet potatoes",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Japanese Potato Salad"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "scallions",
           "qty": 4,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "shiitake mushrooms",
           "qty": 4,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "shredded cabbage",
-          "qty": 2,
-          "unit": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "spinach",
-          "qty": 8,
-          "unit": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Spinach Ohitashi (Dashi-Steeped Spinach)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "tomatoes (vine-ripe or Roma)",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "fromMeals": [
-            "Mediterranean Tomato and Cucumber Salad"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "white onion, minced",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "yellow onion",
           "qty": 1,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "yukon gold potatoes",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -357,65 +354,88 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "boneless skin-on chicken thighs",
-          "qty": 3.25,
-          "unit": "lb",
+          "item": "bacon",
+          "qty": 4,
+          "dim": "slice",
+          "unitLabel": "slice",
           "category": "meat-seafood",
           "fromMeals": [
-            "Chicken Teriyaki",
-            "Karaage (Japanese Fried Chicken)"
+            "The Fully Loaded Iceberg Wedge Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "slice"
+        },
+        {
+          "item": "boneless skin-on chicken thighs",
+          "qty": 1.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "cooked bacon",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Bacon-Jalapeño Deviled Eggs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "ground beef",
           "qty": 1,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "jumbo scallops",
           "qty": 1,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "skin-on salmon fillets",
           "qty": 4,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "whole chicken, cut into pieces",
           "qty": 3,
-          "unit": "lb",
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "whole rainbow trout, cleaned",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "lb"
         }
       ]
     },
@@ -423,84 +443,137 @@
       "category": "dairy",
       "items": [
         {
-          "item": "eggs",
-          "qty": 2,
-          "unit": "",
+          "item": "blue cheese",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "The Fully Loaded Iceberg Wedge Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "buttermilk",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "The Fully Loaded Iceberg Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "feta cheese",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "Grana Padano, freshly grated",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "large egg",
-          "qty": 1,
-          "unit": "",
+          "qty": 9,
+          "dim": "",
+          "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
-            "My Mother's Meatballs"
+            "My Mother's Meatballs",
+            "Bacon-Jalapeño Deviled Eggs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "large egg yolks",
           "qty": 2,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "milk",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "Parmesan cheese",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "Parmigiano-Reggiano, grated",
           "qty": 0.5,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
             "Creamy Parmesan Polenta"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "shredded cheddar",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "dairy",
+          "fromMeals": [
+            "Bacon-Jalapeño Deviled Eggs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sour cream",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "The Fully Loaded Iceberg Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -510,22 +583,14 @@
         {
           "item": "ciabatta roll, cut into cubes",
           "qty": 1,
-          "unit": "",
+          "dim": "",
+          "unitLabel": "",
           "category": "bakery",
           "fromMeals": [
             "My Mother's Meatballs"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "pita bread",
-          "qty": 2,
-          "unit": "pack",
-          "category": "bakery",
-          "fromMeals": [
-            "Hummus with Warm Pita"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -535,195 +600,172 @@
         {
           "item": "arborio rice",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "coarse polenta (cornmeal)",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Creamy Parmesan Polenta"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "honey",
           "qty": 2,
-          "unit": "tbsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "katsuobushi (bonito flakes)",
-          "qty": 1,
-          "unit": "pinch",
-          "category": "pantry",
-          "fromMeals": [
-            "Spinach Ohitashi (Dashi-Steeped Spinach)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "kombu (dried kelp)",
-          "qty": 1,
-          "unit": "piece",
-          "category": "pantry",
-          "fromMeals": [
-            "Spinach Ohitashi (Dashi-Steeped Spinach)"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "mayonnaise",
-          "qty": 0.33,
-          "unit": "cup",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "Bacon-Jalapeño Deviled Eggs",
+            "The Fully Loaded Iceberg Wedge Salad"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "mirin",
-          "qty": 7,
-          "unit": "tbsp",
+          "qty": 6,
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)",
-            "Chicken Teriyaki",
-            "Spinach Ohitashi (Dashi-Steeped Spinach)"
+            "Chicken Teriyaki"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "neutral oil (for frying)",
-          "qty": 4,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "oyster sauce",
           "qty": 2,
-          "unit": "tbsp",
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "potato starch",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "quinoa",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula"
           ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Japanese Potato Salad"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "sake",
-          "qty": 4.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Chicken Teriyaki",
-            "Karaage (Japanese Fried Chicken)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sesame oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sesame seeds",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "short-grain (Japanese) rice",
-          "qty": 2,
-          "unit": "cup",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Chicken Teriyaki"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
-          "item": "sweet potato glass noodles (dangmyeon)",
-          "qty": 3,
-          "unit": "oz",
+          "item": "sesame oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
-          "item": "tahini",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Hummus with Warm Pita"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "toasted white sesame seeds",
+          "item": "sesame seeds",
           "qty": 1,
-          "unit": "tsp",
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Spinach Ohitashi (Dashi-Steeped Spinach)"
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "short-grain (Japanese) rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sweet potato glass noodles (dangmyeon)",
+          "qty": 3,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Jjimdak (Korean Braised Chicken with Vegetables and Noodles)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "The Fully Loaded Iceberg Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "yellow mustard",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Bacon-Jalapeño Deviled Eggs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     },
@@ -731,80 +773,40 @@
       "category": "canned",
       "items": [
         {
-          "item": "canned chickpeas",
-          "qty": 2,
-          "unit": "can",
-          "category": "canned",
-          "fromMeals": [
-            "Hummus with Warm Pita"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "capers",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false
-        },
-        {
           "item": "chicken broth",
           "qty": 3,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "chicken or vegetable broth",
           "qty": 4,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Creamy Parmesan Polenta"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "low-sodium chicken or vegetable stock",
           "qty": 1,
-          "unit": "cup",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Braised Asparagus"
           ],
-          "hasUnquantified": false
-        }
-      ]
-    },
-    {
-      "category": "spices",
-      "items": [
-        {
-          "item": "fennel seeds",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "sumac",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Hummus with Warm Pita",
-            "Mediterranean Tomato and Cucumber Salad"
-          ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -813,36 +815,34 @@
       "items": [
         {
           "item": "dry white wine",
-          "qty": 2,
-          "unit": "tbsp",
+          "qty": 10,
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "beverages",
           "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "fromMeals": [
+            "My Mother's Meatballs",
             "Brown Butter Scallops with Parmesan Risotto"
           ],
-          "hasUnquantified": false
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     }
   ],
   "excludedStaples": [
-    "extra virgin olive oil",
     "soy sauce",
     "dark brown sugar",
     "unsalted butter",
     "butter",
-    "sugar",
-    "light (usukuchi) soy sauce"
+    "sugar"
   ],
-  "pendingScans": [],
-  "totalItems": 77
+  "pendingScans": [
+    {
+      "title": "Meathead Last-Meal Ribs",
+      "day": "Sat",
+      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.206",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 65
 }
