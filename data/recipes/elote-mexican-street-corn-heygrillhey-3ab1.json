@@ -1,0 +1,38 @@
+{
+  "mealId": "elote-mexican-street-corn-heygrillhey-3ab1",
+  "fetchedAt": "2026-06-28",
+  "url": "https://heygrillhey.com/elote-mexican-street-corn/",
+  "name": "Elote (Mexican Street Corn)",
+  "description": "Grilled corn on the cob slathered in a creamy mayo-crema mixture and rolled in crumbled cotija, chili powder, cilantro, and lime. A smoky-sweet-tangy summer cookout star. From Hey Grill Hey (your 4-star pick). Standard sizing for ~8 ears.",
+  "recipeIngredient": [
+    "8 ears corn, husked",
+    "1/2 cup mayonnaise",
+    "1/2 cup Mexican crema (or sour cream)",
+    "1 clove garlic, minced (optional)",
+    "1 cup cotija cheese, crumbled (plus more for serving)",
+    "1 teaspoon chili powder (or Tajin)",
+    "2 limes, cut into wedges",
+    "1/4 cup fresh cilantro, chopped"
+  ],
+  "recipeInstructions": [
+    "Heat the grill to medium-high. Grill the corn, turning occasionally, until tender and charred in spots all over, about 10-12 minutes.",
+    "Meanwhile, stir together the mayonnaise, crema, and garlic.",
+    "Slather the grilled corn all over with the mayo-crema mixture.",
+    "Sprinkle generously with crumbled cotija, chili powder, and cilantro. Serve with lime wedges to squeeze over."
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT12M",
+  "totalTime": "PT22M",
+  "recipeYield": "8 ears",
+  "image": "",
+  "author": "Hey Grill Hey",
+  "ai": {
+    "cliffNotes": "Charred grilled corn slathered in mayo-crema, rolled in cotija, chili, cilantro, and lime. Smoky, tangy, and messy in the best way.",
+    "keyTips": [
+      "The char is the point - grill the corn until it has real dark spots; that smoky bitterness balances the rich, tangy crema.",
+      "No cotija? Crumbled feta is the standard swap and melts in nicely; both bring the salty-funky note.",
+      "Feeding a crowd on plates? Cut the kernels off after grilling and toss everything together as esquites (street-corn salad) - far less messy to serve than on the cob.",
+      "Dress the corn while it's hot so the mixture clings, and hit it with the lime right before serving to keep it bright."
+    ]
+  }
+}

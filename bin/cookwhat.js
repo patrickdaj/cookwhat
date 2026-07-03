@@ -242,14 +242,19 @@ function cmdPlan() {
   }
 
   if (action === "set") {
-    const week = weekOf(rest[0]);
+    const force = rest.includes("--force") || rest.includes("-f");
+    const week = weekOf(rest.find((a) => !a.startsWith("-")));
     const menu = loadMenu(week);
     if (!menu) die(`No menu for week ${week}.`);
     const result = checkPlan(menu, cfg);
-    if (result.errors.length) {
-      console.log(c.red("Cannot set — fix these errors first:"));
+    if (result.errors.length && !force) {
+      console.log(c.red("Cannot set — fix these errors first (or pass --force to override):"));
       result.errors.forEach((e) => console.log("  " + c.red("✗ ") + e));
       die("Plan has rule violations.");
+    }
+    if (result.errors.length && force) {
+      console.log(c.yellow("⚠ Forcing set despite rule violations (deliberate guest/holiday override):"));
+      result.errors.forEach((e) => console.log("  " + c.yellow("! ") + e));
     }
     menu.status = "set";
     menu.setAt = new Date().toISOString();
