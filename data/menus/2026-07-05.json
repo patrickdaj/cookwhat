@@ -668,10 +668,10 @@
       ],
       "activeTimeMin": 60,
       "totalTimeMin": 360,
-      "servings": 8,
+      "servings": 6,
       "occasion": "Rhodes & Hernandez over",
       "ingredients": [],
-      "notes": "Guest dinner (Rhodes + Hernandez). Gas-grill method (no smoker): set up TWO-ZONE (burners on one side, ribs on the indirect side, lid down) and add a foil pouch of soaked wood chips (poke holes, set over a lit burner) or a smoke box for smoke. Low-and-slow ~4-6 h, mostly hands-off. NEEDS SCAN: Meathead p.206 (Last-Meal Ribs) PLUS the Memphis Dust rub and the BBQ sauce sub-recipes it references — scan those pages too so the shopping list is complete. Prep-ahead: rub the ribs up to 3 days ahead; sauce up to 4 days ahead.",
+      "notes": "Guest dinner (Rhodes + Hernandez), 6 people (~2 racks; others are bringing food). Gas-grill method (no smoker): set up TWO-ZONE (burners on one side, ribs on the indirect side, lid down) and add a foil pouch of soaked wood chips (poke holes, set over a lit burner) or a smoke box for smoke. Low-and-slow ~4-6 h, mostly hands-off. NEEDS SCAN: Meathead p.206 (Last-Meal Ribs) PLUS the Memphis Dust rub and the BBQ sauce sub-recipes it references — scan those pages too so the shopping list is complete. Prep-ahead: rub the ribs up to 3 days ahead; sauce up to 4 days ahead.",
       "day": "Sat",
       "slot": "dinner"
     },
@@ -689,17 +689,17 @@
       ],
       "activeTimeMin": 25,
       "totalTimeMin": 25,
-      "servings": 8,
+      "servings": 6,
       "ingredients": [
         {
           "item": "large eggs",
-          "qty": 12,
+          "qty": 8,
           "unit": "",
           "category": "dairy"
         },
         {
           "item": "mayonnaise",
-          "qty": 0.33,
+          "qty": 0.25,
           "unit": "cup",
           "category": "pantry"
         },
@@ -711,20 +711,20 @@
         },
         {
           "item": "cooked bacon",
-          "qty": 0.25,
-          "unit": "cup",
+          "qty": 3,
+          "unit": "tbsp",
           "category": "meat-seafood",
           "note": "chopped"
         },
         {
           "item": "shredded cheddar",
-          "qty": 2,
+          "qty": 1.5,
           "unit": "tbsp",
           "category": "dairy"
         },
         {
           "item": "yellow mustard",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry"
         },
@@ -737,161 +737,6 @@
         }
       ],
       "notes": "Passed starter while the ribs finish. Make the filling ahead; pipe just before serving.",
-      "day": "Sat",
-      "slot": "dinner"
-    },
-    {
-      "id": "classic-baked-macaroni-and-cheese-casserole-94f47b2b",
-      "role": "side",
-      "title": "Classic Baked Mac & Cheese",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe",
-      "cuisine": "american",
-      "protein": "vegetable",
-      "tags": [
-        "side"
-      ],
-      "activeTimeMin": 30,
-      "totalTimeMin": 60,
-      "servings": 8,
-      "ingredients": [
-        {
-          "item": "elbow macaroni",
-          "qty": 1,
-          "unit": "lb",
-          "category": "pantry"
-        },
-        {
-          "item": "unsalted butter",
-          "qty": 8,
-          "unit": "tbsp",
-          "category": "dairy"
-        },
-        {
-          "item": "all-purpose flour",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "whole milk",
-          "qty": 3,
-          "unit": "cup",
-          "category": "dairy"
-        },
-        {
-          "item": "sharp cheddar cheese",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "dairy",
-          "note": "grated"
-        },
-        {
-          "item": "Gruyère cheese",
-          "qty": 8,
-          "unit": "oz",
-          "category": "dairy",
-          "note": "grated"
-        },
-        {
-          "item": "hot sauce",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "mustard powder",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices"
-        },
-        {
-          "item": "garlic powder",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices"
-        },
-        {
-          "item": "panko bread crumbs",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry"
-        }
-      ],
-      "notes": "The non-negotiable rib-joint side. Crispy panko top. Assemble ahead, bake before serving.",
-      "day": "Sat",
-      "slot": "dinner"
-    },
-    {
-      "id": "elote-mexican-street-corn-heygrillhey-3ab1",
-      "role": "side",
-      "title": "Elote (Mexican Street Corn)",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/elote-mexican-street-corn/",
-      "cuisine": "mexican",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "grill"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 22,
-      "servings": 8,
-      "ingredients": [
-        {
-          "item": "corn",
-          "qty": 8,
-          "unit": "ear",
-          "category": "produce",
-          "note": "husked"
-        },
-        {
-          "item": "mayonnaise",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "Mexican crema",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "dairy",
-          "note": "or sour cream"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "cotija cheese",
-          "qty": 1,
-          "unit": "cup",
-          "category": "dairy",
-          "note": "crumbled; feta works"
-        },
-        {
-          "item": "chili powder",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "or Tajín"
-        },
-        {
-          "item": "lime",
-          "qty": 2,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce"
-        }
-      ],
-      "notes": "Grill alongside/after the ribs. Serve on the cob, or cut off as esquites for easy crowd serving.",
       "day": "Sat",
       "slot": "dinner"
     },
@@ -909,11 +754,11 @@
       ],
       "activeTimeMin": 20,
       "totalTimeMin": 20,
-      "servings": 8,
+      "servings": 6,
       "ingredients": [
         {
           "item": "iceberg lettuce",
-          "qty": 2,
+          "qty": 1,
           "unit": "head",
           "category": "produce"
         },
@@ -950,13 +795,13 @@
         },
         {
           "item": "bacon",
-          "qty": 6,
+          "qty": 4,
           "unit": "slice",
           "category": "meat-seafood"
         },
         {
           "item": "cherry tomatoes",
-          "qty": 1,
+          "qty": 0.75,
           "unit": "cup",
           "category": "produce",
           "note": "halved"
@@ -980,5 +825,5 @@
       "slot": "dinner"
     }
   ],
-  "setAt": "2026-07-03T20:17:03.526Z"
+  "setAt": "2026-07-03T20:34:41.622Z"
 }
