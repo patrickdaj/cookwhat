@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-07-03T20:34:41.756Z",
+  "generatedAt": "2026-07-03T22:28:17.807Z",
   "targetServings": null,
   "sections": [
     {
@@ -237,28 +237,15 @@
           "unit": "head"
         },
         {
-          "item": "jalapeño",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Bacon-Jalapeño Deviled Eggs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "lemon",
-          "qty": 3.5,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula",
             "Shaved Fennel and Blood Orange Salad",
-            "Sautéed Green Beans with Garlic and Herbs",
-            "Bacon-Jalapeño Deviled Eggs"
+            "Sautéed Green Beans with Garlic and Herbs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -378,18 +365,6 @@
           "unit": "lb"
         },
         {
-          "item": "cooked bacon",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Bacon-Jalapeño Deviled Eggs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "ground beef",
           "qty": 1,
           "dim": "lb",
@@ -492,13 +467,12 @@
         },
         {
           "item": "large egg",
-          "qty": 9,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
-            "My Mother's Meatballs",
-            "Bacon-Jalapeño Deviled Eggs"
+            "My Mother's Meatballs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -550,18 +524,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "shredded cheddar",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "dairy",
-          "fromMeals": [
-            "Bacon-Jalapeño Deviled Eggs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "sour cream",
@@ -635,12 +597,11 @@
         },
         {
           "item": "mayonnaise",
-          "qty": 0.75,
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Bacon-Jalapeño Deviled Eggs",
             "The Fully Loaded Iceberg Wedge Salad"
           ],
           "hasUnquantified": false,
@@ -754,18 +715,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "yellow mustard",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Bacon-Jalapeño Deviled Eggs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
@@ -844,5 +793,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 65
+  "totalItems": 61
 }
