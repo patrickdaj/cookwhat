@@ -741,7 +741,7 @@
           "note": "optional, for serving"
         }
       ],
-      "notes": "Guest dinner (Rhodes + Hernandez), 6 people (~2 racks; others bringing food). NO SMOKER NEEDED — gas-grill two-zone: light one burner, ribs on the unlit side, lid down, hold ~225°F; smoke with a foil pouch of wood chips (4 oz, re-add once, then stop after the first hour). Baby backs ~3-4 h; done by the bend test. Dry-brine (kosher salt ~1/2 tsp/lb) up to 12 h ahead, then the salt-free Memphis Dust. Sauce only in the last 15-30 min. Rub can go on up to 3 days ahead; make the Memphis Dust batch anytime (keeps months).",
+      "notes": "Guest dinner (Rhodes + Hernandez), 6 people (~2 racks; others bringing food). NO SMOKER NEEDED — gas-grill two-zone: light one burner, ribs on the unlit side, lid down, hold ~225°F; smoke with a foil pouch of wood chips (4 oz, re-add once, then stop after the first hour). Baby backs ~3-4 h; done by the bend test. Dry-brine (kosher salt ~1/4 tsp/lb — ribs are ~50% bone) up to 12 h ahead, then the salt-free Memphis Dust. Sauce only in the last 15-30 min. Rub can go on up to 3 days ahead; make the Memphis Dust batch anytime (keeps months).",
       "day": "Sat",
       "slot": "dinner"
     },
@@ -830,5 +830,5 @@
       "slot": "dinner"
     }
   ],
-  "setAt": "2026-07-04T13:29:22.471Z"
+  "setAt": "2026-07-04T13:33:21.710Z"
 }
