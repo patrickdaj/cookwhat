@@ -748,7 +748,7 @@
     {
       "id": "loaded-iceberg-wedge-salad-seriouseats-9c4d",
       "role": "side",
-      "title": "The Fully Loaded Iceberg Wedge Salad",
+      "title": "The Fully Loaded Wedge Salad",
       "source": "Serious Eats",
       "sourceUrl": "https://www.seriouseats.com/wedge-salad-iceberg-blue-cheese-bacon-recipe",
       "cuisine": "american",
@@ -762,10 +762,11 @@
       "servings": 6,
       "ingredients": [
         {
-          "item": "iceberg lettuce",
-          "qty": 1,
+          "item": "Little Gem lettuce",
+          "qty": 6,
           "unit": "head",
-          "category": "produce"
+          "category": "produce",
+          "note": "or 3 romaine hearts / 1-2 iceberg; cut into wedges, kept cold"
         },
         {
           "item": "blue cheese",
@@ -825,10 +826,10 @@
           "category": "produce"
         }
       ],
-      "notes": "Cold, crunchy foil to the rich ribs. Keep iceberg ice-cold; dress just before serving.",
+      "notes": "Cold wedge (no grilling). Little Gem or romaine hearts if available, iceberg as fallback. Keep ice-cold; dress just before serving. Blue cheese + bacon.",
       "day": "Sat",
       "slot": "dinner"
     }
   ],
-  "setAt": "2026-07-04T13:43:21.868Z"
+  "setAt": "2026-07-04T13:47:06.763Z"
 }
