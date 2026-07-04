@@ -1,0 +1,51 @@
+{
+  "mealId": "meathead-last-meal-ribs-p206",
+  "fetchedAt": "2026-06-28",
+  "url": "https://amazingribs.com/best-barbecue-ribs-recipe/",
+  "name": "Meathead's Last-Meal Ribs",
+  "description": "Meathead Goldwyn's famous Last-Meal Ribs (AmazingRibs.com) — dry-brined, coated in Memphis Dust, and cooked low-and-slow at 225°F until they pass the bend test. No smoker required: a two-zone gas grill with a foil pouch of wood chips does the job. Sized for ~2 racks (6 people).",
+  "recipeIngredient": [
+    "2 racks baby back ribs (or St. Louis-cut spare ribs)",
+    "Kosher salt (about 1/2 tsp per pound, applied separately up to 12 hours ahead)",
+    "Memphis Dust rub, about 2 tablespoons per rack (recipe below)",
+    "Kansas City-style BBQ sauce, optional, for serving",
+    "About 8 oz wood chips (hickory, apple, or cherry) for smoke",
+    "MEMPHIS DUST (makes a big reusable batch):",
+    "3/4 cup packed brown sugar",
+    "3/4 cup white sugar",
+    "1/2 cup paprika",
+    "1/4 cup garlic powder",
+    "2 tablespoons ground black pepper",
+    "2 tablespoons ground ginger",
+    "2 tablespoons onion powder",
+    "2 teaspoons rosemary powder"
+  ],
+  "recipeInstructions": [
+    "Prep the ribs: flip bone-side up and peel off the tough membrane (grip with a paper towel and pull). Trim any loose flap.",
+    "Dry-brine: sprinkle about 1/2 teaspoon kosher salt per pound of meat, up to 12 hours ahead. Salt is applied separately from the rub.",
+    "Make the Memphis Dust: stir all rub ingredients together, breaking up any sugar lumps. Coat the ribs with about 2 tablespoons per rack on both sides. No resting needed.",
+    "Set up a gas grill for two-zone indirect cooking: light only one burner (or one side). Place the ribs on the UNLIT side, bones down, and close the lid. Adjust the lit burner to hold about 225°F.",
+    "Add smoke: put about 4 oz wood chips in a holed foil pouch (or a smoke box) over the lit burner. When the smoke fades after 20-30 minutes, add another 4 oz. After the first hour (two loads), stop adding wood.",
+    "Cook at 225°F with the lid closed: baby backs about 3-4 hours, St. Louis/spares about 5-6 hours. Don't wrap and don't mop.",
+    "Check doneness with the bend test: lift the rack with tongs - when it bends and the surface cracks and the meat has pulled back from the bone tips, it's done (roughly 195-203°F).",
+    "Optional sauce: brush KC-style BBQ sauce on only during the last 15-30 minutes so the sugars set without burning, or serve sauce on the side.",
+    "Rest a few minutes, cut between the bones, and serve.",
+    "OVEN VARIATION (no grill): cook at 225°F on a rack over a foil-lined sheet pan, about 3-4 hours for baby backs; finish with sauce under the broiler for char. No real smoke indoors."
+  ],
+  "prepTime": "PT30M",
+  "cookTime": "PT4H",
+  "totalTime": "PT4H30M",
+  "recipeYield": "2 racks (about 6 servings)",
+  "image": "",
+  "author": "Meathead Goldwyn, AmazingRibs.com",
+  "ai": {
+    "cliffNotes": "Dry-brine, coat in Memphis Dust, and cook indirect at 225°F until the rack passes the bend test. A two-zone gas grill with a wood-chip pouch replaces a smoker; baby backs run 3-4 hours.",
+    "keyTips": [
+      "No smoker needed: a two-zone gas grill IS your smoker - one burner lit, ribs on the cool side, lid down, held at ~225°F.",
+      "Meathead salts and rubs separately: dry-brine with kosher salt (1/2 tsp/lb) up to 12 hours ahead, then apply the salt-free Memphis Dust. Deeper seasoning, better-balanced rub.",
+      "Peel the membrane off the bone side or the ribs turn chewy and the rub can't penetrate.",
+      "Only smoke during the first hour (two 4-oz loads). More wood makes them acrid and over-smoked; after that it's just gentle heat.",
+      "Cook to feel, not a number: the bend test (rack cracks when bent, meat pulls off the bones) beats a thermometer. Sauce, if any, goes on only at the very end so the sugar doesn't scorch."
+    ]
+  }
+}

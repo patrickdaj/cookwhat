@@ -657,12 +657,11 @@
       "id": "meathead-last-meal-ribs-p206",
       "role": "main",
       "title": "Meathead Last-Meal Ribs",
-      "source": "Meathead: The Science of Great Barbecue and Grilling (Goldwyn) — p.206",
-      "sourceUrl": "",
+      "source": "AmazingRibs.com (Meathead)",
+      "sourceUrl": "https://amazingribs.com/best-barbecue-ribs-recipe/",
       "cuisine": "american",
       "protein": "pork",
       "tags": [
-        "needs-scan",
         "bbq",
         "weekend"
       ],
@@ -670,8 +669,79 @@
       "totalTimeMin": 360,
       "servings": 6,
       "occasion": "Rhodes & Hernandez over",
-      "ingredients": [],
-      "notes": "Guest dinner (Rhodes + Hernandez), 6 people (~2 racks; others are bringing food). Gas-grill method (no smoker): set up TWO-ZONE (burners on one side, ribs on the indirect side, lid down) and add a foil pouch of soaked wood chips (poke holes, set over a lit burner) or a smoke box for smoke. Low-and-slow ~4-6 h, mostly hands-off. NEEDS SCAN: Meathead p.206 (Last-Meal Ribs) PLUS the Memphis Dust rub and the BBQ sauce sub-recipes it references — scan those pages too so the shopping list is complete. Prep-ahead: rub the ribs up to 3 days ahead; sauce up to 4 days ahead.",
+      "ingredients": [
+        {
+          "item": "baby back ribs",
+          "qty": 2,
+          "unit": "rack",
+          "category": "meat-seafood",
+          "note": "~2 racks for 6"
+        },
+        {
+          "item": "brown sugar",
+          "qty": 6,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "white sugar",
+          "qty": 6,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "spices",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "for Memphis Dust"
+        },
+        {
+          "item": "rosemary powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "for Memphis Dust (or grind dried rosemary)"
+        },
+        {
+          "item": "wood chips",
+          "qty": 8,
+          "unit": "oz",
+          "category": "other",
+          "note": "hickory/apple, for gas-grill smoke"
+        },
+        {
+          "item": "Kansas City-style BBQ sauce",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": "optional, for serving"
+        }
+      ],
+      "notes": "Guest dinner (Rhodes + Hernandez), 6 people (~2 racks; others bringing food). NO SMOKER NEEDED — gas-grill two-zone: light one burner, ribs on the unlit side, lid down, hold ~225°F; smoke with a foil pouch of wood chips (4 oz, re-add once, then stop after the first hour). Baby backs ~3-4 h; done by the bend test. Dry-brine (kosher salt ~1/2 tsp/lb) up to 12 h ahead, then the salt-free Memphis Dust. Sauce only in the last 15-30 min. Rub can go on up to 3 days ahead; make the Memphis Dust batch anytime (keeps months).",
       "day": "Sat",
       "slot": "dinner"
     },
@@ -760,5 +830,5 @@
       "slot": "dinner"
     }
   ],
-  "setAt": "2026-07-03T22:28:17.669Z"
+  "setAt": "2026-07-04T13:29:22.471Z"
 }
