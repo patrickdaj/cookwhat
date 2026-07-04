@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-07-04T13:29:22.580Z",
+  "generatedAt": "2026-07-04T13:47:06.835Z",
   "targetServings": null,
   "sections": [
     {
@@ -73,7 +73,7 @@
           "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -97,7 +97,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -225,18 +225,6 @@
           "unit": "tsp"
         },
         {
-          "item": "iceberg lettuce",
-          "qty": 1,
-          "dim": "head",
-          "unitLabel": "head",
-          "category": "produce",
-          "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": "head"
-        },
-        {
           "item": "lemon",
           "qty": 3,
           "dim": "",
@@ -263,13 +251,25 @@
           "unit": "tbsp"
         },
         {
+          "item": "Little Gem lettuce",
+          "qty": 6,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "The Fully Loaded Wedge Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
           "item": "red onion",
           "qty": 0.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -359,7 +359,7 @@
           "unitLabel": "slice",
           "category": "meat-seafood",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "slice"
@@ -436,7 +436,7 @@
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "oz"
@@ -448,7 +448,7 @@
           "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -544,7 +544,7 @@
           "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -626,7 +626,7 @@
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -735,7 +735,7 @@
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "The Fully Loaded Iceberg Wedge Salad"
+            "The Fully Loaded Wedge Salad"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
