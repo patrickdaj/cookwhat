@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-05",
-  "generatedAt": "2026-07-04T13:47:06.835Z",
+  "generatedAt": "2026-07-07T13:27:15.673Z",
   "targetServings": null,
   "sections": [
     {
@@ -43,18 +43,6 @@
           "unit": "cup"
         },
         {
-          "item": "blood oranges (or navel)",
-          "qty": 3,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Shaved Fennel and Blood Orange Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "carrot",
           "qty": 1,
           "dim": "",
@@ -77,18 +65,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "fennel bulbs",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Shaved Fennel and Blood Orange Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         },
         {
           "item": "fresh chives",
@@ -115,38 +91,13 @@
           "unit": "knob"
         },
         {
-          "item": "fresh mint or parsley",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Shaved Fennel and Blood Orange Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "My Mother's Meatballs",
             "Sautéed Green Beans with Garlic and Herbs"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "My Mother's Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -189,18 +140,6 @@
           "unit": "clove"
         },
         {
-          "item": "garlic, minced",
-          "qty": 4,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "green beans",
           "qty": 1,
           "dim": "lb",
@@ -213,42 +152,17 @@
           "unit": "lb"
         },
         {
-          "item": "hazelnuts, toasted",
-          "qty": 15.84,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Shaved Fennel and Blood Orange Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "lemon",
-          "qty": 3,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Skillet Salmon with Quinoa, Feta, and Arugula",
-            "Shaved Fennel and Blood Orange Salad",
             "Sautéed Green Beans with Garlic and Herbs"
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "lemon zest",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "produce",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "Little Gem lettuce",
@@ -298,18 +212,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "white onion, minced",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "yellow onion",
@@ -372,18 +274,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Chicken Teriyaki"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "ground beef",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "My Mother's Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -466,54 +356,6 @@
           "unit": "cup"
         },
         {
-          "item": "Grana Padano, freshly grated",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "large egg",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "large egg yolks",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "milk",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "Parmesan cheese",
           "qty": 0.5,
           "dim": "vol",
@@ -521,18 +363,6 @@
           "category": "dairy",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "Parmigiano-Reggiano, grated",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Creamy Parmesan Polenta"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -552,23 +382,6 @@
       ]
     },
     {
-      "category": "bakery",
-      "items": [
-        {
-          "item": "ciabatta roll, cut into cubes",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "bakery",
-          "fromMeals": [
-            "My Mother's Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        }
-      ]
-    },
-    {
       "category": "pantry",
       "items": [
         {
@@ -579,18 +392,6 @@
           "category": "pantry",
           "fromMeals": [
             "Brown Butter Scallops with Parmesan Risotto"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "coarse polenta (cornmeal)",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Creamy Parmesan Polenta"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -758,18 +559,6 @@
           "unit": "cup"
         },
         {
-          "item": "chicken or vegetable broth",
-          "qty": 4,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Creamy Parmesan Polenta"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "low-sodium chicken or vegetable stock",
           "qty": 1,
           "dim": "vol",
@@ -853,16 +642,15 @@
       "items": [
         {
           "item": "dry white wine",
-          "qty": 10,
+          "qty": 0.5,
           "dim": "vol",
-          "unitLabel": "tbsp",
+          "unitLabel": "cup",
           "category": "beverages",
           "fromMeals": [
-            "My Mother's Meatballs",
             "Brown Butter Scallops with Parmesan Risotto"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "cup"
         }
       ]
     },
@@ -888,11 +676,10 @@
     "soy sauce",
     "dark brown sugar",
     "unsalted butter",
-    "butter",
     "sugar",
     "brown sugar",
     "white sugar"
   ],
   "pendingScans": [],
-  "totalItems": 69
+  "totalItems": 52
 }
