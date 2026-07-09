@@ -164,11 +164,14 @@
   },
   "nutrition": {
     "goals": [
+      "heart-healthy",
       "good",
       "chefy"
     ],
-    "notes": "need to keep bean usage low",
-    "dairy": "low"
+    "notes": "need to keep bean usage low. Household has high total cholesterol + high LDL (as of 2026-06) \u2014 lean heart-healthy: cap saturated fat (butter/cream/cheese, fatty red meat, bacon/sausage, fried foods), favor olive oil + unsaturated fats, omega-3 fish ~2x/week, and get fiber from oats/whole grains/veg/fruit (NOT beans). Soft lean layered on the existing rules; guest/celebration nights can still flex.",
+    "dairy": "low",
+    "saturatedFat": "low",
+    "cholesterolConscious": true
   },
   "shopping": {
     "excludePantryStaples": true,
