@@ -317,6 +317,33 @@ make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
 - Practical default: **do this on-demand** — upgrade a recipe's tips when it
   lands on a menu (you'll actually cook it), not by brute-forcing the whole DB.
 
+## Heart-health (cholesterol / LDL-conscious)
+
+The household has **high total cholesterol and high LDL** (flagged 2026-06), so
+**lean the weekly menus heart-healthy** — without making them sad. This is a
+*soft* lean layered on top of the existing rules; guest/celebration nights (the
+ribs, a birthday steak) still flex — just don't stack the rich ones.
+
+- **Cap saturated fat.** Go easy on butter/cream/heavy-cheese dishes, fatty red
+  meat, processed/cured meats (bacon, sausage, corned beef), deep-fried foods,
+  and coconut/palm. Aim for at most ~1–2 indulgent nights a week and spread them
+  out. When a week is stacking saturated fat, **say so and offer lighter swaps.**
+- **Favor unsaturated fats:** olive oil as the default fat, plus avocado, nuts,
+  seeds. Zero trans fats (partially hydrogenated anything).
+- **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
+  `seafoodMin` and the "more Asian/Mediterranean" leanings.
+- **Fiber from oats / whole grains / veg / fruit — NOT beans.** Normally you'd
+  push legumes for LDL, but this user keeps bean use low, so get soluble fiber
+  from oats, barley, farro, brown rice, quinoa, and lots of vegetables/fruit
+  instead. (Whole grains over refined.)
+- **Lean proteins & technique:** skinless poultry, fish, tofu; trim visible fat;
+  roast/grill/steam/sauté in olive oil over deep-frying; use rich cheeses as an
+  accent, not the main event.
+- Already-aligned config: `nutrition.dairy: low`, `saturatedFat: low`,
+  `cholesterolConscious: true`, `proteinRules.redMeatMaxPerWeek: 1`.
+- Not medical advice — general heart-healthy eating; the user follows their
+  doctor's guidance.
+
 ## Hard rules (never violate)
 
 - Anything in `ingredients.allergies` or `ingredients.dislikes` → exclude
