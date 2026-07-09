@@ -324,10 +324,19 @@ The household has **high total cholesterol and high LDL** (flagged 2026-06), so
 *soft* lean layered on top of the existing rules; guest/celebration nights (the
 ribs, a birthday steak) still flex — just don't stack the rich ones.
 
-- **Cap saturated fat.** Go easy on butter/cream/heavy-cheese dishes, fatty red
-  meat, processed/cured meats (bacon, sausage, corned beef), deep-fried foods,
-  and coconut/palm. Aim for at most ~1–2 indulgent nights a week and spread them
-  out. When a week is stacking saturated fat, **say so and offer lighter swaps.**
+- **Make the big offenders infrequent, not weekly — the user loves them but
+  wants them dialed back to occasional/special-occasion:**
+  - **Red meat** — aim for **0–1 nights**, and not every week (the `redMeatMax`
+    of 1 is a ceiling, not a target). Guest/celebration steak or ribs still fine.
+  - **Processed/cured meats** (bacon, sausage, corned beef, deli, pancetta,
+    chorizo) — **minimize**; use as a small accent at most, not the centerpiece.
+  - **Deep-fried foods** — **occasional treat.** Default to the lighter build:
+    **air-fryer, oven-"fried," or pan-seared in olive oil** to keep the crunch
+    without the deep-fry fat. (Fried chicken, katsu, fries → oven/air-fryer
+    versions.)
+- **Cap saturated fat generally.** Go easy on butter/cream/heavy-cheese dishes
+  and coconut/palm. At most ~1–2 rich nights a week, spread out. When a week is
+  stacking saturated fat / red meat / fried, **say so and offer lighter swaps.**
 - **Favor unsaturated fats:** olive oil as the default fat, plus avocado, nuts,
   seeds. Zero trans fats (partially hydrogenated anything).
 - **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
