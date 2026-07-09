@@ -1,0 +1,748 @@
+{
+  "weekOf": "2026-07-12",
+  "generatedAt": "2026-07-09T13:47:06.845Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "arugula",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "baby bok choy",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "broccolini",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Broccolini"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "cucumber",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "dim": "knob",
+          "unitLabel": "knob",
+          "category": "produce",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion"
+          ],
+          "hasUnquantified": false,
+          "unit": "knob"
+        },
+        {
+          "item": "fresh herbs (mint, cilantro, basil)",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh oregano or marjoram",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "frisée or mixed greens",
+          "qty": 1,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "garlic",
+          "qty": 24,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken",
+            "Roasted Chicken with Figs and Rosemary",
+            "20-Minute Greek Salmon",
+            "Vietnamese-Inspired Chicken Meatballs",
+            "Classic Shrimp Scampi over Linguine",
+            "Garlic Baby Bok Choy",
+            "Sautéed Broccolini",
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "Japanese eggplant",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "lemon",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary",
+            "20-Minute Greek Salmon",
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "dim": "stalk",
+          "unitLabel": "stalk",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "stalk"
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red chile or jalapeño",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ripe figs",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "scallions",
+          "qty": 7,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion",
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "summer squash",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "zucchini",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in chicken parts",
+          "qty": 3,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Roasted Chicken with Figs and Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ground chicken (93% lean)",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "large shrimp, peeled",
+          "qty": 1.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "white fish fillets (cod, sea bass, or halibut)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty sourdough bread",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "bakery",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "avocado or neutral oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "bulgur",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "cornstarch",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "honey",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "jasmine or brown rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "neutral oil",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion",
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 6,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken",
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "rice vermicelli noodles",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sesame oil",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion",
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Cantonese Steamed Fish with Ginger & Scallion"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "stoneground mustard",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey-Mustard Sheet-Pan Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "whole-wheat linguine",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "canned whole peeled tomatoes",
+          "qty": 28,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "canned",
+          "fromMeals": [
+            "Provençal Vegetable Tian"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "20-Minute Greek Salmon",
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 1.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine",
+            "Sautéed Broccolini"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "extra-virgin olive oil",
+    "light soy sauce",
+    "unsalted butter"
+  ],
+  "pendingScans": [
+    {
+      "title": "Swordfish en Cocotte with Shallots, Cucumber & Mint",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.261",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 56
+}

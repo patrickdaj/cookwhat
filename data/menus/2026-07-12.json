@@ -1,0 +1,782 @@
+{
+  "weekOf": "2026-07-12",
+  "createdAt": "2026-07-09T13:42:49.766Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "swordfish-en-cocotte-with-shallots-cucumber-mint-1806f15a",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Swordfish en Cocotte with Shallots, Cucumber & Mint",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.261",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "swordfish",
+      "tags": [
+        "needs-scan",
+        "weekend",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Book of the week. BRAISED swordfish (you like swordfish braised, not grilled) - gentle en cocotte with shallots, cucumber, mint. Heart-healthy, olive-oil based. NEEDS SCAN: ATK Complete Mediterranean p.261 for the real ingredients/method. Plate: swordfish + a whole grain (farro) + a Greek salad (veg side to add)."
+    },
+    {
+      "id": "honey-mustard-sheet-pan-chicken-a7903a04",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Honey-Mustard Sheet-Pan Chicken",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416",
+      "cuisine": "american",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "weeknight",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "stoneground mustard",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.4,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "crusty sourdough bread",
+          "qty": 6,
+          "unit": "oz",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "frisée or mixed greens",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Complete one-pan: chicken + asparagus (veg) + sourdough croutons (carb). Lean thighs, olive-oil dressing."
+    },
+    {
+      "id": "ginger-scallion-fish-en-papillote-c8a443f5",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Cantonese Steamed Fish with Ginger & Scallion",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/cantonese-steamed-fish/",
+      "cuisine": "chinese",
+      "protein": "cod",
+      "tags": [
+        "new-web",
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "white fish fillets (cod, sea bass, or halibut)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "light soy sauce",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jasmine or brown rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "neutral oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Asian #1 (new discovery). Steamed lean white fish under sizzled ginger-scallion + soy - one of the healthiest ways to cook fish. Carb: rice. Veg: garlicky bok choy side (added)."
+    },
+    {
+      "id": "roasted-chicken-with-figs-and-rosemary-00f96084",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Roasted Chicken with Figs and Rosemary",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1018294-roasted-chicken-with-figs-and-rosemary",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in chicken parts",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "rosemary",
+          "qty": 2,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "for zest + wedges"
+        },
+        {
+          "item": "ripe figs",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red chile or jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": "roast alongside (carb)"
+        }
+      ],
+      "notes": "Lean roast; figs + chile bring sweet-heat. Carb: potatoes roasted in the pan drippings. Veg: add a green (broccolini / salad)."
+    },
+    {
+      "id": "20-minute-greek-salmon-7e8eeb43",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "20-Minute Greek Salmon",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/easy-greek-salmon/",
+      "cuisine": "greek",
+      "protein": "salmon",
+      "tags": [
+        "new-web",
+        "omega-3",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "juice + zest"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "bulgur",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "carb"
+        }
+      ],
+      "notes": "Omega-3 night. Bright Greek marinade (lemon-garlic-oregano-dill), olive oil. Carb: bulgur. Veg: add a Greek salad / roasted zucchini."
+    },
+    {
+      "id": "vietnamese-inspired-chicken-meatballs-22d666e6",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Vietnamese-Inspired Chicken Meatballs",
+      "source": "Sip and Sanity",
+      "sourceUrl": "https://www.sipandsanity.com/vietnamese-inspired-chicken-meatball-appetizer/",
+      "cuisine": "vietnamese",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken (93% lean)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "unit": "stalk",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "avocado or neutral oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "for quick pickles (veg)"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vermicelli noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "carb"
+        },
+        {
+          "item": "fresh herbs (mint, cilantro, basil)",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Asian #2. Lean ground-chicken meatballs, lemongrass-forward; served over rice vermicelli with quick-pickled cucumbers + a herb salad (veg). Pan-seared, not fried."
+    },
+    {
+      "id": "classic-shrimp-scampi-over-linguine-762c3005",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Classic Shrimp Scampi over Linguine",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi",
+      "cuisine": "italian",
+      "protein": "shrimp",
+      "tags": [
+        "redo",
+        "heart-healthy-lean"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled",
+          "qty": 1.75,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "olive-oil-forward; go light on butter"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "just a touch"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "crushed red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "whole-wheat linguine",
+          "qty": 12,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "carb"
+        },
+        {
+          "item": "arugula",
+          "qty": 4,
+          "unit": "cup",
+          "category": "produce",
+          "note": "simple side salad (veg)"
+        }
+      ],
+      "notes": "Traditional scampi over linguine (not a veg mountain, wife-friendly). Built olive-oil-forward with just a touch of butter, plus a small arugula salad, to keep it heart-lean."
+    },
+    {
+      "id": "garlic-baby-bok-choy-8812d526",
+      "day": "Tue",
+      "title": "Garlic Baby Bok Choy",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "baby bok choy",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "neutral oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "cornstarch",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "optional, for gloss"
+        }
+      ],
+      "notes": "The green for the steamed fish.",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30
+    },
+    {
+      "id": "dinner-tonight-saut-ed-broccolini-9ab35cb6",
+      "day": "Wed",
+      "title": "Sautéed Broccolini",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "broccolini",
+          "qty": 2,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "olive oil (not canola) for heart-health"
+        }
+      ],
+      "notes": "The green for the fig-rosemary chicken.",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30
+    },
+    {
+      "id": "horiatiki-greek-salad-4079ceb3",
+      "day": "Thu",
+      "title": "Horiatiki (Greek Salad)",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "cucumber",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy"
+        }
+      ],
+      "notes": "The veg for the Greek salmon.",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30
+    },
+    {
+      "id": "proven-al-tian-eggplant-zucchini-squash-and-tomato-casserole-f7a47f31",
+      "day": "Sun",
+      "title": "Provençal Vegetable Tian",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "zucchini",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "summer squash",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "Japanese eggplant",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "canned whole peeled tomatoes",
+          "qty": 28,
+          "unit": "oz",
+          "category": "canned"
+        },
+        {
+          "item": "fresh oregano or marjoram",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        }
+      ],
+      "notes": "The veg for the braised swordfish. (Carb: farro — I'll add it when you scan the swordfish recipe.)",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30
+    }
+  ],
+  "setAt": "2026-07-09T13:46:48.866Z"
+}
