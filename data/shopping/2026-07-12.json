@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-12",
-  "generatedAt": "2026-07-09T13:47:06.845Z",
+  "generatedAt": "2026-07-13T20:36:48.165Z",
   "targetServings": null,
   "sections": [
     {
@@ -41,18 +41,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "broccolini",
-          "qty": 2,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Sautéed Broccolini"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
         },
         {
           "item": "cucumber",
@@ -115,18 +103,6 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh oregano or marjoram",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Provençal Vegetable Tian"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
@@ -163,20 +139,20 @@
             "Vietnamese-Inspired Chicken Meatballs",
             "Classic Shrimp Scampi over Linguine",
             "Garlic Baby Bok Choy",
-            "Sautéed Broccolini",
-            "Provençal Vegetable Tian"
+            "Grilled Zucchini Planks",
+            "Garlic Green Beans"
           ],
           "hasUnquantified": false,
           "unit": "clove"
         },
         {
-          "item": "Japanese eggplant",
-          "qty": 0.75,
+          "item": "green beans",
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Provençal Vegetable Tian"
+            "Garlic Green Beans"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -305,30 +281,6 @@
           "unit": ""
         },
         {
-          "item": "summer squash",
-          "qty": 0.75,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Provençal Vegetable Tian"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Provençal Vegetable Tian"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "Yukon Gold potatoes",
           "qty": 1.5,
           "dim": "lb",
@@ -342,15 +294,15 @@
         },
         {
           "item": "zucchini",
-          "qty": 0.75,
-          "dim": "lb",
-          "unitLabel": "lb",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Provençal Vegetable Tian"
+            "Grilled Zucchini Planks"
           ],
           "hasUnquantified": false,
-          "unit": "lb"
+          "unit": ""
         }
       ]
     },
@@ -476,6 +428,18 @@
           "category": "pantry",
           "fromMeals": [
             "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Zucchini Planks"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -657,18 +621,6 @@
       "category": "canned",
       "items": [
         {
-          "item": "canned whole peeled tomatoes",
-          "qty": 28,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "canned",
-          "fromMeals": [
-            "Provençal Vegetable Tian"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "Kalamata olives",
           "qty": 0.25,
           "dim": "vol",
@@ -686,6 +638,18 @@
       "category": "spices",
       "items": [
         {
+          "item": "crushed red pepper flakes",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Classic Shrimp Scampi over Linguine"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "dried oregano",
           "qty": 0.5,
           "dim": "vol",
@@ -699,14 +663,13 @@
           "unit": "tbsp"
         },
         {
-          "item": "red pepper flakes",
-          "qty": 1.25,
+          "item": "Italian seasoning",
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Classic Shrimp Scampi over Linguine",
-            "Sautéed Broccolini"
+            "Grilled Zucchini Planks"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -744,5 +707,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 56
+  "totalItems": 53
 }

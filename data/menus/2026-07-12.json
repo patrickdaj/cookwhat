@@ -592,52 +592,6 @@
       "totalTimeMin": 30
     },
     {
-      "id": "dinner-tonight-saut-ed-broccolini-9ab35cb6",
-      "day": "Wed",
-      "title": "Sautéed Broccolini",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "ingredients": [
-        {
-          "item": "broccolini",
-          "qty": 2,
-          "unit": "bunch",
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "olive oil (not canola) for heart-health"
-        }
-      ],
-      "notes": "The green for the fig-rosemary chicken.",
-      "slot": "dinner",
-      "role": "side",
-      "servings": 4,
-      "tags": [
-        "side",
-        "heart-healthy"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 30
-    },
-    {
       "id": "horiatiki-greek-salad-4079ceb3",
       "day": "Thu",
       "title": "Horiatiki (Greek Salad)",
@@ -708,65 +662,47 @@
       "totalTimeMin": 30
     },
     {
-      "id": "proven-al-tian-eggplant-zucchini-squash-and-tomato-casserole-f7a47f31",
+      "id": "easy-grilled-zucchini-planks-8f788d6d",
       "day": "Sun",
-      "title": "Provençal Vegetable Tian",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe",
+      "title": "Grilled Zucchini Planks",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "ingredients": [
         {
           "item": "zucchini",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce"
-        },
-        {
-          "item": "summer squash",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce"
-        },
-        {
-          "item": "Japanese eggplant",
-          "qty": 0.75,
-          "unit": "lb",
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
           "qty": 3,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
           "unit": "",
           "category": "produce",
           "note": "small"
         },
         {
-          "item": "canned whole peeled tomatoes",
-          "qty": 28,
-          "unit": "oz",
-          "category": "canned"
-        },
-        {
-          "item": "fresh oregano or marjoram",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce"
-        },
-        {
           "item": "extra-virgin olive oil",
-          "qty": 0.5,
+          "qty": 0.33,
           "unit": "cup",
           "category": "pantry"
+        },
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "Italian seasoning",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
         }
       ],
-      "notes": "The veg for the braised swordfish. (Carb: farro — I'll add it when you scan the swordfish recipe.)",
+      "notes": "The veg for the braised swordfish. Charred, firm planks (nothing like the soft tian).",
       "slot": "dinner",
       "role": "side",
       "servings": 4,
@@ -774,9 +710,49 @@
         "side",
         "heart-healthy"
       ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 30
+      "activeTimeMin": 12,
+      "totalTimeMin": 20
+    },
+    {
+      "id": "garlic-green-beans-aec655d2",
+      "day": "Wed",
+      "title": "Garlic Green Beans",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-green-beans/",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "trimmed"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce"
+        }
+      ],
+      "notes": "The green for the fig-rosemary chicken.",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 12,
+      "totalTimeMin": 20
     }
   ],
-  "setAt": "2026-07-09T13:46:48.866Z"
+  "setAt": "2026-07-13T20:36:48.055Z"
 }
