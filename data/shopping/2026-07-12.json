@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-12",
-  "generatedAt": "2026-07-13T20:36:48.165Z",
+  "generatedAt": "2026-07-13T20:37:52.253Z",
   "targetServings": null,
   "sections": [
     {
@@ -128,7 +128,7 @@
         },
         {
           "item": "garlic",
-          "qty": 24,
+          "qty": 22,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -139,7 +139,6 @@
             "Vietnamese-Inspired Chicken Meatballs",
             "Classic Shrimp Scampi over Linguine",
             "Garlic Baby Bok Choy",
-            "Grilled Zucchini Planks",
             "Garlic Green Beans"
           ],
           "hasUnquantified": false,
@@ -291,18 +290,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "zucchini",
-          "qty": 3,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Zucchini Planks"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -428,18 +415,6 @@
           "category": "pantry",
           "fromMeals": [
             "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "balsamic vinegar",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Zucchini Planks"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -661,18 +636,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "Italian seasoning",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Zucchini Planks"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         }
       ]
     },
@@ -699,13 +662,6 @@
     "light soy sauce",
     "unsalted butter"
   ],
-  "pendingScans": [
-    {
-      "title": "Swordfish en Cocotte with Shallots, Cucumber & Mint",
-      "day": "Sun",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.261",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 53
+  "pendingScans": [],
+  "totalItems": 50
 }

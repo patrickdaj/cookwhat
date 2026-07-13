@@ -5,27 +5,6 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "swordfish-en-cocotte-with-shallots-cucumber-mint-1806f15a",
-      "day": "Sun",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Swordfish en Cocotte with Shallots, Cucumber & Mint",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.261",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "swordfish",
-      "tags": [
-        "needs-scan",
-        "weekend",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "Book of the week. BRAISED swordfish (you like swordfish braised, not grilled) - gentle en cocotte with shallots, cucumber, mint. Heart-healthy, olive-oil based. NEEDS SCAN: ATK Complete Mediterranean p.261 for the real ingredients/method. Plate: swordfish + a whole grain (farro) + a Greek salad (veg side to add)."
-    },
-    {
       "id": "honey-mustard-sheet-pan-chicken-a7903a04",
       "day": "Mon",
       "slot": "dinner",
@@ -662,58 +641,6 @@
       "totalTimeMin": 30
     },
     {
-      "id": "easy-grilled-zucchini-planks-8f788d6d",
-      "day": "Sun",
-      "title": "Grilled Zucchini Planks",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "ingredients": [
-        {
-          "item": "zucchini",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": "small"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "balsamic vinegar",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "Italian seasoning",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices"
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce"
-        }
-      ],
-      "notes": "The veg for the braised swordfish. Charred, firm planks (nothing like the soft tian).",
-      "slot": "dinner",
-      "role": "side",
-      "servings": 4,
-      "tags": [
-        "side",
-        "heart-healthy"
-      ],
-      "activeTimeMin": 12,
-      "totalTimeMin": 20
-    },
-    {
       "id": "garlic-green-beans-aec655d2",
       "day": "Wed",
       "title": "Garlic Green Beans",
@@ -752,7 +679,27 @@
       ],
       "activeTimeMin": 12,
       "totalTimeMin": 20
+    },
+    {
+      "id": "ate-out-sun-2026-07-12",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Ate out",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "eating-out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 0,
+      "ingredients": [],
+      "notes": "Ate out — no cooking, nothing to shop."
     }
   ],
-  "setAt": "2026-07-13T20:36:48.055Z"
+  "setAt": "2026-07-13T20:37:52.171Z"
 }
