@@ -218,76 +218,6 @@
       "notes": "Asian #2. Lean ground-chicken meatballs, lemongrass-forward; served over rice vermicelli with quick-pickled cucumbers + a herb salad (veg). Pan-seared, not fried."
     },
     {
-      "id": "horiatiki-greek-salad-4079ceb3",
-      "day": "Tue",
-      "title": "Horiatiki (Greek Salad)",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe",
-      "cuisine": "greek",
-      "protein": "vegetable",
-      "ingredients": [
-        {
-          "item": "red onion",
-          "qty": 0.25,
-          "unit": "",
-          "category": "produce"
-        },
-        {
-          "item": "red wine vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "ripe tomatoes",
-          "qty": 12,
-          "unit": "oz",
-          "category": "produce"
-        },
-        {
-          "item": "cucumber",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "small"
-        },
-        {
-          "item": "Kalamata olives",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "canned"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry"
-        },
-        {
-          "item": "dried oregano",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices"
-        },
-        {
-          "item": "feta cheese",
-          "qty": 4,
-          "unit": "oz",
-          "category": "dairy"
-        }
-      ],
-      "notes": "The veg for the Greek salmon.",
-      "slot": "dinner",
-      "role": "side",
-      "servings": 4,
-      "tags": [
-        "side",
-        "heart-healthy"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 30
-    },
-    {
       "id": "fig-honey-prosciutto-pizza",
       "day": "Sat",
       "slot": "dinner",
@@ -540,7 +470,53 @@
         }
       ],
       "notes": "Quick no-cook veg."
+    },
+    {
+      "id": "grilled-zucchini-tue",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Grilled Zucchini",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "activeTimeMin": 12,
+      "totalTimeMin": 20,
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy",
+        "cooked-veg"
+      ],
+      "ingredients": [
+        {
+          "item": "zucchini",
+          "qty": 3,
+          "unit": "small",
+          "category": "produce"
+        },
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "Italian seasoning",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        }
+      ],
+      "notes": "Cooked veg for Jody's dinner (swapped in for the raw Horiatiki during the greens outbreak)."
     }
   ],
-  "setAt": "2026-07-18T21:14:07.273Z"
+  "setAt": "2026-07-18T21:26:08.376Z"
 }
