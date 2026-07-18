@@ -292,9 +292,9 @@
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Fig, Honey & Prosciutto Pizza",
-      "source": "The Original Dish",
-      "sourceUrl": "https://www.theoriginaldish.com/2024/10/15/fig-prosciutto-pizza/",
+      "title": "Prosciutto, Fig Jam & Goat Cheese Pizza",
+      "source": "An Inspired Cook",
+      "sourceUrl": "https://aninspiredcook.com/2024/11/14/prosciutto-fig-jam-and-goat-cheese-pizza/",
       "cuisine": "italian",
       "protein": "prosciutto",
       "activeTimeMin": 30,
@@ -312,69 +312,58 @@
           "category": "bakery"
         },
         {
-          "item": "fresh figs",
-          "qty": 0.5,
-          "unit": "lb",
-          "category": "produce"
-        },
-        {
-          "item": "fig jam/spread",
+          "item": "fig jam",
           "qty": 0.5,
           "unit": "cup",
           "category": "pantry"
         },
         {
           "item": "prosciutto",
-          "qty": 4,
+          "qty": 3,
           "unit": "oz",
           "category": "deli"
         },
         {
           "item": "fresh mozzarella",
-          "qty": 0.5,
-          "unit": "lb",
-          "category": "dairy"
-        },
-        {
-          "item": "fontina cheese",
-          "qty": 6,
+          "qty": 4,
           "unit": "oz",
           "category": "dairy"
         },
         {
-          "item": "arugula",
-          "qty": 2,
+          "item": "goat cheese",
+          "qty": 4,
           "unit": "oz",
-          "category": "produce"
+          "category": "dairy"
         },
         {
-          "item": "shallots",
+          "item": "fresh spinach",
           "qty": 2,
+          "unit": "cup",
           "category": "produce"
         },
         {
-          "item": "fresh oregano",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce"
+          "item": "pine nuts",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
         },
         {
           "item": "honey",
-          "qty": 1,
-          "unit": "drizzle",
-          "category": "pantry",
-          "note": "finish (your request)"
-        },
-        {
-          "item": "Parmesan",
-          "category": "dairy"
-        },
-        {
-          "item": "white wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
           "category": "pantry"
         }
       ],
-      "notes": "Dinner club. Fig spread + fresh figs base, mozz/fontina, prosciutto, arugula, honey drizzle to finish. Prosciutto is a light accent (heart-health)."
+      "notes": "Dinner club. Fig-jam base, fresh mozz + prosciutto, baked hot; finished with goat cheese, spinach, pine nuts and a honey-fig-jam drizzle. Prosciutto is a light accent (heart-health).",
+      "ai": {
+        "cliffNotes": "Fig-jam brushed on the dough under fresh mozzarella and prosciutto, baked at 500F, then finished with goat cheese, spinach, pine nuts and a warm honey-fig-jam drizzle.",
+        "keyTips": [
+          "Microwave the fig jam ~10 sec so it spreads easily, then brush it onto the dough with a pastry brush.",
+          "3 oz thin-sliced prosciutto covers a whole pizza; lay it on before baking.",
+          "Bake at 500F on a stone/steel for 12-15 min, until the crust sounds hollow when tapped.",
+          "For the finish, whisk honey into warmed fig jam and drizzle over the WARM pizza after baking, then scatter fresh spinach so it stays bright."
+        ]
+      }
     },
     {
       "id": "out-mon-2026-07-19",
@@ -553,5 +542,5 @@
       "notes": "Quick no-cook veg."
     }
   ],
-  "setAt": "2026-07-18T21:11:24.378Z"
+  "setAt": "2026-07-18T21:14:07.273Z"
 }

@@ -1,23 +1,11 @@
 {
   "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-18T21:11:24.464Z",
+  "generatedAt": "2026-07-18T21:14:07.361Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "arugula",
-          "qty": 2,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
         {
           "item": "cucumber",
           "qty": 4,
@@ -44,18 +32,6 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh figs",
-          "qty": 0.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "fresh herbs (mint, cilantro, basil)",
           "qty": 1,
           "dim": "bunch",
@@ -68,16 +44,16 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh oregano",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
+          "item": "fresh spinach",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "bunch"
+          "unit": "cup"
         },
         {
           "item": "garlic",
@@ -206,13 +182,12 @@
         },
         {
           "item": "shallot",
-          "qty": 6,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Vietnamese-Inspired Chicken Meatballs",
-            "Fig, Honey & Prosciutto Pizza",
             "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false,
@@ -291,40 +266,28 @@
           "unit": "oz"
         },
         {
-          "item": "fontina cheese",
-          "qty": 6,
+          "item": "fresh mozzarella",
+          "qty": 4,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
           "unit": "oz"
         },
         {
-          "item": "fresh mozzarella",
-          "qty": 0.5,
-          "dim": "lb",
-          "unitLabel": "lb",
+          "item": "goat cheese",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "Parmesan",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
+          "unit": "oz"
         }
       ]
     },
@@ -338,7 +301,7 @@
           "unitLabel": "ball",
           "category": "bakery",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
           "unit": "ball"
@@ -350,12 +313,12 @@
       "items": [
         {
           "item": "prosciutto",
-          "qty": 4,
+          "qty": 3,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "deli",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
           "unit": "oz"
@@ -378,13 +341,13 @@
           "unit": "tbsp"
         },
         {
-          "item": "fig jam/spread",
+          "item": "fig jam",
           "qty": 0.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -415,15 +378,15 @@
         },
         {
           "item": "honey",
-          "qty": 1,
-          "dim": "drizzle",
-          "unitLabel": "drizzle",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "drizzle"
+          "unit": "tbsp"
         },
         {
           "item": "jasmine rice",
@@ -448,6 +411,18 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Prosciutto, Fig Jam & Goat Cheese Pizza"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "red wine vinegar",
@@ -505,18 +480,6 @@
           "category": "pantry",
           "fromMeals": [
             "Oi Muchim (Korean Spicy Cucumber Salad)"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "white wine vinegar",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": true,
           "unit": ""
@@ -616,5 +579,5 @@
     "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 46
+  "totalItems": 43
 }
