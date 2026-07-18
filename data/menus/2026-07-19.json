@@ -472,51 +472,66 @@
       "notes": "Quick no-cook veg."
     },
     {
-      "id": "grilled-zucchini-tue",
+      "id": "horiatiki-greek-salad",
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "Grilled Zucchini",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/simple-grilled-zucchini/",
-      "cuisine": "mediterranean",
+      "title": "Horiatiki (Greek Salad)",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe",
+      "cuisine": "greek",
       "protein": "vegetable",
-      "activeTimeMin": 12,
-      "totalTimeMin": 20,
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
       "servings": 4,
       "tags": [
         "side",
-        "heart-healthy",
-        "cooked-veg"
+        "no-cook"
       ],
       "ingredients": [
         {
-          "item": "zucchini",
-          "qty": 3,
-          "unit": "small",
+          "item": "red onion",
+          "qty": 0.25,
           "category": "produce"
         },
         {
-          "item": "balsamic vinegar",
-          "qty": 3,
-          "unit": "tbsp",
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "unit": "cup",
           "category": "pantry"
         },
         {
-          "item": "Italian seasoning",
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "cucumber",
           "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices"
         },
         {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce"
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy"
         }
       ],
-      "notes": "Cooked veg for Jody's dinner (swapped in for the raw Horiatiki during the greens outbreak)."
+      "notes": "Classic Greek salad (no lettuce) for Jody's dinner."
     }
   ],
-  "setAt": "2026-07-18T21:26:08.376Z"
+  "setAt": "2026-07-18T21:31:36.257Z"
 }
