@@ -6,7 +6,7 @@
   "meals": [
     {
       "id": "greek-style-shrimp-with-tomatoes-and-feta-a9eceef9",
-      "day": "Sat",
+      "day": "Tue",
       "slot": "dinner",
       "role": "main",
       "title": "Greek-Style Shrimp with Tomatoes and Feta",
@@ -111,79 +111,8 @@
       "notes": "REDO (loved, 4★). Veg = pepper/onion/tomato; serve over orzo."
     },
     {
-      "id": "20-minute-greek-salmon-7e8eeb43",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "20-Minute Greek Salmon",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/easy-greek-salmon/",
-      "cuisine": "greek",
-      "protein": "salmon",
-      "tags": [
-        "new-web",
-        "omega-3",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "salmon fillets",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "juice + zest"
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh dill",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "bulgur",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "carb"
-        }
-      ],
-      "notes": "Omega-3 night. Bright Greek marinade (lemon-garlic-oregano-dill), olive oil. Carb: bulgur. Veg: add a Greek salad / roasted zucchini."
-    },
-    {
       "id": "vietnamese-inspired-chicken-meatballs-22d666e6",
-      "day": "Thu",
+      "day": "Sun",
       "slot": "dinner",
       "role": "main",
       "title": "Vietnamese-Inspired Chicken Meatballs",
@@ -360,7 +289,7 @@
     },
     {
       "id": "fig-honey-prosciutto-pizza",
-      "day": "Sun",
+      "day": "Sat",
       "slot": "dinner",
       "role": "main",
       "title": "Fig, Honey & Prosciutto Pizza",
@@ -506,7 +435,123 @@
       "servings": 0,
       "ingredients": [],
       "notes": "Dinner out."
+    },
+    {
+      "id": "thai-basil-chicken-pad-krapow",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thai Basil Chicken (Gai Pad Krapow)",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
+      "cuisine": "thai",
+      "protein": "chicken",
+      "activeTimeMin": 20,
+      "totalTimeMin": 25,
+      "servings": 4,
+      "tags": [
+        "weeknight",
+        "quick",
+        "easy",
+        "asian"
+      ],
+      "ingredients": [
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "fish sauce",
+          "category": "pantry"
+        },
+        {
+          "item": "soy sauce",
+          "category": "pantry"
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Easy bowling-night dinner. Over jasmine rice."
+    },
+    {
+      "id": "oi-muchim-cucumber",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Oi Muchim (Korean Spicy Cucumber Salad)",
+      "source": "Maangchi",
+      "sourceUrl": "https://www.maangchi.com/recipe/oi-muchim",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "tags": [
+        "side",
+        "no-cook"
+      ],
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "onion",
+          "qty": 0.25,
+          "category": "produce"
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "category": "spices"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Quick no-cook veg."
     }
   ],
-  "setAt": "2026-07-18T21:07:56.621Z"
+  "setAt": "2026-07-18T21:11:24.378Z"
 }
