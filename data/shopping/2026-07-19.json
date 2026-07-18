@@ -1,19 +1,20 @@
 {
   "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-18T21:26:08.440Z",
+  "generatedAt": "2026-07-18T21:31:36.381Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "cucumbers",
-          "qty": 2,
+          "item": "cucumber",
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -56,7 +57,7 @@
         },
         {
           "item": "garlic",
-          "qty": 13,
+          "qty": 11,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -64,8 +65,7 @@
             "Greek-Style Shrimp with Tomatoes and Feta",
             "Vietnamese-Inspired Chicken Meatballs",
             "Thai Basil Chicken (Gai Pad Krapow)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Grilled Zucchini"
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -132,6 +132,18 @@
           "unit": "bunch"
         },
         {
+          "item": "red onion",
+          "qty": 0.25,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "red or green bell pepper",
           "qty": 1,
           "dim": "",
@@ -142,6 +154,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "scallion",
@@ -192,18 +216,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "zucchini",
-          "qty": 3,
-          "dim": "small",
-          "unitLabel": "small",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Zucchini"
-          ],
-          "hasUnquantified": false,
-          "unit": "small"
         }
       ]
     },
@@ -242,12 +254,13 @@
       "items": [
         {
           "item": "feta cheese",
-          "qty": 6,
+          "qty": 10,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
           "unit": "oz"
@@ -323,18 +336,6 @@
           "category": "pantry",
           "fromMeals": [
             "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "balsamic vinegar",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Zucchini"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -424,6 +425,18 @@
           "unit": "cup"
         },
         {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "rice vermicelli noodles",
           "qty": 8,
           "dim": "oz",
@@ -487,12 +500,36 @@
           ],
           "hasUnquantified": false,
           "unit": "can"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
     {
       "category": "spices",
       "items": [
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
         {
           "item": "gochugaru (Korean chili flakes)",
           "qty": null,
@@ -504,18 +541,6 @@
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "Italian seasoning",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Zucchini"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         }
       ]
     },
@@ -553,5 +578,5 @@
     "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 41
+  "totalItems": 43
 }
