@@ -1,0 +1,755 @@
+{
+  "weekOf": "2026-07-19",
+  "generatedAt": "2026-07-18T17:22:39.809Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "avocado",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "baby Yukon Gold or red potatoes",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "cabbage (red + green)",
+          "qty": 1,
+          "dim": "small head",
+          "unitLabel": "small head",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "small head"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 2,
+          "dim": "pint",
+          "unitLabel": "pint",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "pint"
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "cucumbers",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 24,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Crispy Smashed Potatoes with Garlic & Rosemary",
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green onions",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Salmon in Foil with Mushrooms & Ponzu",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lime",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 2.25,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Salmon in Foil with Mushrooms & Ponzu",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "red or green bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 9,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shimeji (beech) mushrooms",
+          "qty": 1,
+          "dim": "package",
+          "unitLabel": "package",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "package"
+        },
+        {
+          "item": "spinach",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs (or leg quarters)",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "extra-large shrimp (21-25 ct), peeled & deveined",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "mahi mahi (or other firm white fish) fillets",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        },
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        },
+        {
+          "item": "whole rainbow trout (10-12 oz each)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "Mexican crema",
+          "qty": 1,
+          "dim": "small container",
+          "unitLabel": "small container",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "small container"
+        },
+        {
+          "item": "Parmesan",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn tortillas",
+          "qty": 16,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "crusty French bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "fish sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "orzo",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "ponzu",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "steamed white rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "artichoke hearts (canned)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "canned diced tomatoes (28 oz)",
+          "qty": 1,
+          "dim": "can",
+          "unitLabel": "can",
+          "category": "canned",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "can"
+        },
+        {
+          "item": "capers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "green olives",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "chili-lime / fiesta seasoning",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Herbes de Provence",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine or vermouth",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sake or dry white wine",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "beverages",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "soy sauce"
+  ],
+  "pendingScans": [
+    {
+      "title": "Orecchiette with Zucchini, Ricotta & Mint",
+      "day": "Wed",
+      "source": "My Italian Kitchen (Luca Menafe) — p.118",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 57
+}

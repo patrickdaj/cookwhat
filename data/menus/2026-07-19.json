@@ -1,0 +1,737 @@
+{
+  "weekOf": "2026-07-19",
+  "createdAt": "2026-07-18T17:22:25.119Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "grilled-fish-tacos-with-cilantro-lime-slaw-bf09074f",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Fish Tacos with Cilantro-Lime Slaw",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/grilled-fish-tacos/",
+      "cuisine": "mexican",
+      "protein": "mahi mahi",
+      "tags": [
+        "weekend",
+        "grill",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "mahi mahi (or other firm white fish) fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 16,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "cabbage (red + green)",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "green onions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Mexican crema",
+          "qty": 1,
+          "unit": "small container",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chili-lime / fiesta seasoning",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Complete one-dish: grilled fish + cilantro-lime slaw (veg) + tortillas (carb). Grill, don't fry."
+    },
+    {
+      "id": "thai-basil-chicken-gai-pad-krapow-e64cee34",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thai Basil Chicken (Gai Pad Krapow)",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
+      "cuisine": "thai",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "quick",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Serve over jasmine rice (a fried egg on top is traditional). Veg = Oi Muchim side."
+    },
+    {
+      "id": "oi-muchim-korean-spicy-cucumber-salad-183a1278",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Oi Muchim (Korean Spicy Cucumber Salad)",
+      "source": "Maangchi",
+      "sourceUrl": "https://www.maangchi.com/recipe/oi-muchim",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "no-cook",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Crisp, spicy veg for the Thai night."
+    },
+    {
+      "id": "grilled-trout-with-parsley-caper-sauce-1620e42c",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Trout with Parsley-Caper Sauce",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
+      "cuisine": "american",
+      "protein": "trout",
+      "tags": [
+        "weeknight",
+        "omega-3",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "whole rainbow trout (10-12 oz each)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "Omega-3 night. Carb = smashed potatoes, veg = braised asparagus (both sides below)."
+    },
+    {
+      "id": "braised-asparagus-c3c17625",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Braised Asparagus",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/braised-asparagus-recipe",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "The green for the trout."
+    },
+    {
+      "id": "crispy-smashed-potatoes-with-garlic-rosemary-646d00ee",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Smashed Potatoes with Garlic & Rosemary",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "carb"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby Yukon Gold or red potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Parmesan",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "The carb for the trout (interesting starch, not plain)."
+    },
+    {
+      "id": "orecchiette-with-zucchini-ricotta-mint-36a93787",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Orecchiette with Zucchini, Ricotta & Mint",
+      "source": "My Italian Kitchen (Luca Menafe) — p.118",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "needs-scan",
+        "book-of-week",
+        "vegetarian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "BOOK OF THE WEEK (neglected Italian shelf). Placeholder — scan p.118 to capture ingredients; contributes nothing to shopping until then. Zucchini = the veg, orecchiette = the carb."
+    },
+    {
+      "id": "salmon-in-foil-with-mushrooms-ponzu-839b0fd1",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Salmon in Foil with Mushrooms & Ponzu",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/salmon-foil/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "tags": [
+        "weeknight",
+        "omega-3",
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shimeji (beech) mushrooms",
+          "qty": 1,
+          "unit": "package",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sake or dry white wine",
+          "qty": null,
+          "unit": "",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "ponzu",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed white rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Omega-3 night. Mushrooms/carrot/onion steam in the foil (veg); rice = carb; spinach gomaae adds a green."
+    },
+    {
+      "id": "spinach-gomaae-japanese-sesame-spinach-f5aabd4d",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "spinach",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Extra green for the salmon-foil night."
+    },
+    {
+      "id": "chicken-proven-al-with-green-olives-cherry-tomatoes-48e91052",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Provençal with Green Olives & Cherry Tomatoes",
+      "source": "Pardon Your French",
+      "sourceUrl": "https://www.pardonyourfrench.com/chicken-provencal-with-olives-and-cherry-tomatoes/",
+      "cuisine": "french",
+      "protein": "chicken",
+      "tags": [
+        "braise",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs (or leg quarters)",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 2,
+          "unit": "pint",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 10,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "artichoke hearts (canned)",
+          "qty": 4,
+          "unit": "",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "green olives",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine or vermouth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "Herbes de Provence",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "crusty French bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "the carb, to sop the sauce"
+        }
+      ],
+      "notes": "Veg-rich braise (tomatoes, artichokes, shallots, olives) — remove skin to lighten. Bread soaks the sauce."
+    },
+    {
+      "id": "greek-style-shrimp-with-tomatoes-and-feta-a9eceef9",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
+      "tags": [
+        "redo",
+        "weekend",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct), peeled & deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red or green bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "canned diced tomatoes (28 oz)",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "optional"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "orzo",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "REDO (loved, 4★). Veg = pepper/onion/tomato; serve over orzo."
+    }
+  ],
+  "setAt": "2026-07-18T17:22:39.689Z"
+}
