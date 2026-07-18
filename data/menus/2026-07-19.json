@@ -239,175 +239,6 @@
       "notes": "Crisp, spicy veg for the Thai night."
     },
     {
-      "id": "grilled-trout-with-parsley-caper-sauce-1620e42c",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Grilled Trout with Parsley-Caper Sauce",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
-      "cuisine": "american",
-      "protein": "trout",
-      "tags": [
-        "weeknight",
-        "omega-3",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "whole rainbow trout (10-12 oz each)",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "capers",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "canned",
-          "note": ""
-        }
-      ],
-      "notes": "Omega-3 night. Carb = smashed potatoes, veg = braised asparagus (both sides below)."
-    },
-    {
-      "id": "braised-asparagus-c3c17625",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Braised Asparagus",
-      "source": "Serious Eats",
-      "sourceUrl": "https://www.seriouseats.com/braised-asparagus-recipe",
-      "cuisine": "american",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "asparagus",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "low-sodium chicken or vegetable stock",
-          "qty": 1,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        }
-      ],
-      "notes": "The green for the trout."
-    },
-    {
-      "id": "crispy-smashed-potatoes-with-garlic-rosemary-646d00ee",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Crispy Smashed Potatoes with Garlic & Rosemary",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "carb"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "baby Yukon Gold or red potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "sprig",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Parmesan",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "dairy",
-          "note": ""
-        }
-      ],
-      "notes": "The carb for the trout (interesting starch, not plain)."
-    },
-    {
-      "id": "orecchiette-with-zucchini-ricotta-mint-36a93787",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Orecchiette with Zucchini, Ricotta & Mint",
-      "source": "My Italian Kitchen (Luca Menafe) — p.118",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "needs-scan",
-        "book-of-week",
-        "vegetarian"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "BOOK OF THE WEEK (neglected Italian shelf). Placeholder — scan p.118 to capture ingredients; contributes nothing to shopping until then. Zucchini = the veg, orecchiette = the carb."
-    },
-    {
       "id": "salmon-in-foil-with-mushrooms-ponzu-839b0fd1",
       "day": "Thu",
       "slot": "dinner",
@@ -731,7 +562,254 @@
         }
       ],
       "notes": "REDO (loved, 4★). Veg = pepper/onion/tomato; serve over orzo."
+    },
+    {
+      "id": "20-minute-greek-salmon-7e8eeb43",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "20-Minute Greek Salmon",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/easy-greek-salmon/",
+      "cuisine": "greek",
+      "protein": "salmon",
+      "tags": [
+        "new-web",
+        "omega-3",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "juice + zest"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "bulgur",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "carb"
+        }
+      ],
+      "notes": "Omega-3 night. Bright Greek marinade (lemon-garlic-oregano-dill), olive oil. Carb: bulgur. Veg: add a Greek salad / roasted zucchini."
+    },
+    {
+      "id": "vietnamese-inspired-chicken-meatballs-22d666e6",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Vietnamese-Inspired Chicken Meatballs",
+      "source": "Sip and Sanity",
+      "sourceUrl": "https://www.sipandsanity.com/vietnamese-inspired-chicken-meatball-appetizer/",
+      "cuisine": "vietnamese",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken (93% lean)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "unit": "stalk",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sesame oil",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "avocado or neutral oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "for quick pickles (veg)"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vermicelli noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "carb"
+        },
+        {
+          "item": "fresh herbs (mint, cilantro, basil)",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Asian #2. Lean ground-chicken meatballs, lemongrass-forward; served over rice vermicelli with quick-pickled cucumbers + a herb salad (veg). Pan-seared, not fried."
+    },
+    {
+      "id": "horiatiki-greek-salad-4079ceb3",
+      "day": "Tue",
+      "title": "Horiatiki (Greek Salad)",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "ingredients": [
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "cucumber",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "Kalamata olives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy"
+        }
+      ],
+      "notes": "The veg for the Greek salmon.",
+      "slot": "dinner",
+      "role": "side",
+      "servings": 4,
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30
     }
   ],
-  "setAt": "2026-07-18T17:22:39.689Z"
+  "setAt": "2026-07-18T20:52:01.756Z"
 }
