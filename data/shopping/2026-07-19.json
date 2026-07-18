@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-18T21:07:56.705Z",
+  "generatedAt": "2026-07-18T21:11:24.464Z",
   "targetServings": null,
   "sections": [
     {
@@ -20,12 +20,13 @@
         },
         {
           "item": "cucumber",
-          "qty": 2,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Horiatiki (Greek Salad)"
+            "Horiatiki (Greek Salad)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -37,8 +38,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta",
-            "20-Minute Greek Salmon"
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -81,27 +81,27 @@
         },
         {
           "item": "garlic",
-          "qty": 8,
+          "qty": 11,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Greek-Style Shrimp with Tomatoes and Feta",
-            "20-Minute Greek Salmon",
-            "Vietnamese-Inspired Chicken Meatballs"
+            "Vietnamese-Inspired Chicken Meatballs",
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false,
           "unit": "clove"
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta",
-            "20-Minute Greek Salmon"
+            "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -132,12 +132,13 @@
         },
         {
           "item": "onion",
-          "qty": 1,
+          "qty": 1.25,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -191,26 +192,52 @@
           "unit": "oz"
         },
         {
-          "item": "scallions",
-          "qty": 1,
+          "item": "scallion",
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
+            "Vietnamese-Inspired Chicken Meatballs",
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "shallot",
-          "qty": 3,
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Vietnamese-Inspired Chicken Meatballs",
-            "Fig, Honey & Prosciutto Pizza"
+            "Fig, Honey & Prosciutto Pizza",
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "Thai bird or Holland chilies",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -233,25 +260,14 @@
           "unit": "lb"
         },
         {
-          "item": "ground chicken (93% lean)",
-          "qty": 1,
+          "item": "ground chicken",
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "salmon fillets",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "20-Minute Greek Salmon"
+            "Vietnamese-Inspired Chicken Meatballs",
+            "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -362,18 +378,6 @@
           "unit": "tbsp"
         },
         {
-          "item": "bulgur",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "20-Minute Greek Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "fig jam/spread",
           "qty": 0.5,
           "dim": "vol",
@@ -398,6 +402,18 @@
           "unit": "tsp"
         },
         {
+          "item": "fish sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "honey",
           "qty": 1,
           "dim": "drizzle",
@@ -408,6 +424,18 @@
           ],
           "hasUnquantified": false,
           "unit": "drizzle"
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "orzo",
@@ -470,6 +498,18 @@
           "unit": "tsp"
         },
         {
+          "item": "toasted sesame seeds",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "white wine vinegar",
           "qty": null,
           "dim": "",
@@ -522,11 +562,22 @@
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "20-Minute Greek Salmon",
             "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Oi Muchim (Korean Spicy Cucumber Salad)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
         }
       ]
     },
@@ -561,8 +612,9 @@
     }
   ],
   "excludedStaples": [
-    "extra-virgin olive oil"
+    "extra-virgin olive oil",
+    "soy sauce"
   ],
   "pendingScans": [],
-  "totalItems": 42
+  "totalItems": 46
 }
