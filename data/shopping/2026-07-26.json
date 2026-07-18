@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-26",
-  "generatedAt": "2026-07-18T21:20:16.261Z",
+  "generatedAt": "2026-07-18T21:20:53.226Z",
   "targetServings": null,
   "sections": [
     {
@@ -483,13 +483,14 @@
         },
         {
           "item": "jasmine rice",
-          "qty": 4,
+          "qty": 6,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
             "Cashew Chicken",
-            "Roasted Lemongrass Chicken Thighs"
+            "Roasted Lemongrass Chicken Thighs",
+            "Salmon in Foil with Mushrooms & Ponzu"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -530,18 +531,6 @@
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "steamed white rice",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "toasted white sesame seeds",
@@ -692,5 +681,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 52
+  "totalItems": 51
 }
