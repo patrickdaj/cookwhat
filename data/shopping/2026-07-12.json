@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-07-12",
-  "generatedAt": "2026-07-13T20:37:52.253Z",
+  "generatedAt": "2026-07-18T20:52:01.837Z",
   "targetServings": null,
   "sections": [
     {
@@ -43,18 +43,6 @@
           "unit": "lb"
         },
         {
-          "item": "cucumber",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "fresh cilantro",
           "qty": 1,
           "dim": "bunch",
@@ -62,18 +50,6 @@
           "category": "produce",
           "fromMeals": [
             "Cantonese Steamed Fish with Ginger & Scallion"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh dill",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "20-Minute Greek Salmon"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -89,18 +65,6 @@
           ],
           "hasUnquantified": false,
           "unit": "knob"
-        },
-        {
-          "item": "fresh herbs (mint, cilantro, basil)",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
         },
         {
           "item": "fresh parsley",
@@ -128,15 +92,13 @@
         },
         {
           "item": "garlic",
-          "qty": 22,
+          "qty": 17,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Honey-Mustard Sheet-Pan Chicken",
             "Roasted Chicken with Figs and Rosemary",
-            "20-Minute Greek Salmon",
-            "Vietnamese-Inspired Chicken Meatballs",
             "Classic Shrimp Scampi over Linguine",
             "Garlic Baby Bok Choy",
             "Garlic Green Beans"
@@ -158,38 +120,13 @@
         },
         {
           "item": "lemon",
-          "qty": 4,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Roasted Chicken with Figs and Rosemary",
-            "20-Minute Greek Salmon",
             "Classic Shrimp Scampi over Linguine"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "lemongrass",
-          "qty": 2,
-          "dim": "stalk",
-          "unitLabel": "stalk",
-          "category": "produce",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "stalk"
-        },
-        {
-          "item": "mini cucumbers",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -207,18 +144,6 @@
           "unit": ""
         },
         {
-          "item": "red onion",
-          "qty": 0.25,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "ripe figs",
           "qty": 0.75,
           "dim": "lb",
@@ -229,18 +154,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "ripe tomatoes",
-          "qty": 12,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "rosemary",
@@ -256,25 +169,12 @@
         },
         {
           "item": "scallions",
-          "qty": 7,
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Cantonese Steamed Fish with Ginger & Scallion",
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "shallot",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
+            "Cantonese Steamed Fish with Ginger & Scallion"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -321,18 +221,6 @@
           "unit": "lb"
         },
         {
-          "item": "ground chicken (93% lean)",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "large shrimp, peeled",
           "qty": 1.75,
           "dim": "lb",
@@ -340,18 +228,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Classic Shrimp Scampi over Linguine"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "salmon fillets",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "20-Minute Greek Salmon"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -367,23 +243,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        }
-      ]
-    },
-    {
-      "category": "dairy",
-      "items": [
-        {
-          "item": "feta cheese",
-          "qty": 4,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "dairy",
-          "fromMeals": [
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         }
       ]
     },
@@ -408,30 +267,6 @@
       "category": "pantry",
       "items": [
         {
-          "item": "avocado or neutral oil",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "bulgur",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "20-Minute Greek Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "cornstarch",
           "qty": 1,
           "dim": "vol",
@@ -439,18 +274,6 @@
           "category": "pantry",
           "fromMeals": [
             "Garlic Baby Bok Choy"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "fish sauce",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -494,50 +317,24 @@
         },
         {
           "item": "red wine vinegar",
-          "qty": 6,
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Honey-Mustard Sheet-Pan Chicken",
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "rice vermicelli noodles",
-          "qty": 8,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Vietnamese-Inspired Chicken Meatballs"
+            "Honey-Mustard Sheet-Pan Chicken"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
         },
         {
           "item": "sesame oil",
-          "qty": 2,
+          "qty": 1,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Cantonese Steamed Fish with Ginger & Scallion",
-            "Vietnamese-Inspired Chicken Meatballs"
+            "Cantonese Steamed Fish with Ginger & Scallion"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -593,23 +390,6 @@
       ]
     },
     {
-      "category": "canned",
-      "items": [
-        {
-          "item": "Kalamata olives",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        }
-      ]
-    },
-    {
       "category": "spices",
       "items": [
         {
@@ -623,19 +403,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "dried oregano",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "20-Minute Greek Salmon",
-            "Horiatiki (Greek Salad)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
@@ -663,5 +430,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 50
+  "totalItems": 32
 }

@@ -1,23 +1,11 @@
 {
   "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-18T17:22:39.809Z",
+  "generatedAt": "2026-07-18T20:52:01.911Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "asparagus",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Braised Asparagus"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
         {
           "item": "avocado",
           "qty": 2,
@@ -29,18 +17,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "baby Yukon Gold or red potatoes",
-          "qty": 2,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Smashed Potatoes with Garlic & Rosemary"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
         },
         {
           "item": "cabbage (red + green)",
@@ -103,13 +79,14 @@
           "unit": "bunch"
         },
         {
-          "item": "cucumbers",
-          "qty": 2,
+          "item": "cucumber",
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -121,31 +98,31 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "20-Minute Greek Salmon"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
-          "item": "fresh rosemary",
+          "item": "fresh herbs (mint, cilantro, basil)",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Crispy Smashed Potatoes with Garlic & Rosemary"
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "fresh thyme",
-          "qty": 2,
+          "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
             "Chicken Provençal with Green Olives & Cherry Tomatoes"
           ],
           "hasUnquantified": false,
@@ -160,10 +137,10 @@
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Grilled Trout with Parsley-Caper Sauce",
-            "Crispy Smashed Potatoes with Garlic & Rosemary",
             "Chicken Provençal with Green Olives & Cherry Tomatoes",
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "20-Minute Greek Salmon",
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -182,17 +159,29 @@
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
             "Salmon in Foil with Mushrooms & Ponzu",
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "20-Minute Greek Salmon"
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "dim": "stalk",
+          "unitLabel": "stalk",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "stalk"
         },
         {
           "item": "lime",
@@ -202,6 +191,18 @@
           "category": "produce",
           "fromMeals": [
             "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "mini cucumbers",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -222,16 +223,27 @@
         },
         {
           "item": "parsley",
-          "qty": 2,
+          "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "red onion",
+          "qty": 0.25,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "red or green bell pepper",
@@ -246,26 +258,40 @@
           "unit": ""
         },
         {
+          "item": "ripe tomatoes",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
           "item": "scallion",
-          "qty": 1,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
+            "Oi Muchim (Korean Spicy Cucumber Salad)",
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "shallots",
-          "qty": 9,
+          "item": "shallot",
+          "qty": 10,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)",
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -361,12 +387,13 @@
         },
         {
           "item": "ground chicken",
-          "qty": 1,
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -384,6 +411,18 @@
           "unit": "fillet"
         },
         {
+          "item": "salmon fillets",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "skin-on salmon fillets",
           "qty": 4,
           "dim": "fillet",
@@ -394,18 +433,6 @@
           ],
           "hasUnquantified": false,
           "unit": "fillet"
-        },
-        {
-          "item": "whole rainbow trout (10-12 oz each)",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -414,12 +441,13 @@
       "items": [
         {
           "item": "feta cheese",
-          "qty": 6,
+          "qty": 10,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Greek-Style Shrimp with Tomatoes and Feta"
+            "Greek-Style Shrimp with Tomatoes and Feta",
+            "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
           "unit": "oz"
@@ -435,18 +463,6 @@
           ],
           "hasUnquantified": false,
           "unit": "small container"
-        },
-        {
-          "item": "Parmesan",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Crispy Smashed Potatoes with Garlic & Rosemary"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         }
       ]
     },
@@ -483,6 +499,30 @@
       "category": "pantry",
       "items": [
         {
+          "item": "avocado or neutral oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "bulgur",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "20-Minute Greek Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "fish sauce",
           "qty": null,
           "dim": "",
@@ -493,6 +533,18 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "honey",
@@ -541,6 +593,54 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "rice vermicelli noodles",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sesame oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Vietnamese-Inspired Chicken Meatballs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "steamed white rice",
@@ -608,18 +708,6 @@
           "unit": "can"
         },
         {
-          "item": "capers",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "green olives",
           "qty": 1,
           "dim": "vol",
@@ -632,13 +720,13 @@
           "unit": "cup"
         },
         {
-          "item": "low-sodium chicken or vegetable stock",
-          "qty": 1,
+          "item": "Kalamata olives",
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Braised Asparagus"
+            "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -659,6 +747,19 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "20-Minute Greek Salmon",
+            "Horiatiki (Greek Salad)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "gochugaru (Korean chili flakes)",
@@ -741,15 +842,9 @@
     }
   ],
   "excludedStaples": [
-    "soy sauce"
+    "soy sauce",
+    "extra-virgin olive oil"
   ],
-  "pendingScans": [
-    {
-      "title": "Orecchiette with Zucchini, Ricotta & Mint",
-      "day": "Wed",
-      "source": "My Italian Kitchen (Luca Menafe) — p.118",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 57
+  "pendingScans": [],
+  "totalItems": 65
 }
