@@ -1,0 +1,708 @@
+{
+  "weekOf": "2026-07-26",
+  "createdAt": "2026-07-18T21:19:57.987Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "chicken-proven-al-with-green-olives-cherry-tomatoes-00e33c0e",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Provençal with Green Olives & Cherry Tomatoes",
+      "source": "Pardon Your French",
+      "sourceUrl": "https://www.pardonyourfrench.com/chicken-provencal-with-olives-and-cherry-tomatoes/",
+      "cuisine": "french",
+      "protein": "chicken",
+      "tags": [
+        "weekend",
+        "braise",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 2,
+          "unit": "pint",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 10,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "artichoke hearts (canned)",
+          "qty": 4,
+          "unit": "",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "green olives",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine or vermouth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "Herbes de Provence",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "crusty French bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Veg-rich braise (tomatoes, artichokes, shallots, olives); remove skin to lighten. Bread sops the sauce."
+    },
+    {
+      "id": "grilled-fish-tacos-with-cilantro-lime-slaw-4842d5ef",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Fish Tacos with Cilantro-Lime Slaw",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/grilled-fish-tacos/",
+      "cuisine": "mexican",
+      "protein": "mahi mahi",
+      "tags": [
+        "weeknight",
+        "grill",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "mahi mahi (or firm white fish) fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 16,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "cabbage (red + green)",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "green onions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Mexican crema",
+          "qty": 1,
+          "unit": "small container",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chili-lime seasoning",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Complete one-dish: grilled fish + slaw (veg) + tortillas (carb)."
+    },
+    {
+      "id": "cashew-chicken-49f4611d",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Cashew Chicken",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/cashew-chicken/",
+      "cuisine": "chinese",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "weeknight",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken breast",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "water chestnuts (can)",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "unsalted cashews",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "oyster sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "hoisin sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "REDO (loved, 4★, cooked June). Bell pepper + water chestnuts = the veg; over jasmine rice."
+    },
+    {
+      "id": "grilled-trout-with-parsley-caper-sauce-ec4ab144",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Trout with Parsley-Caper Sauce",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
+      "cuisine": "american",
+      "protein": "trout",
+      "tags": [
+        "weeknight",
+        "omega-3",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "whole rainbow trout (10-12 oz each)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "Omega-3 night. Carb = smashed potatoes, veg = garlic green beans (sides below)."
+    },
+    {
+      "id": "crispy-smashed-potatoes-with-garlic-rosemary-28e85a56",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Smashed Potatoes with Garlic & Rosemary",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/crispy-smashed-potatoes/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "carb"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby Yukon Gold or red potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Parmesan",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "The carb for the trout."
+    },
+    {
+      "id": "garlic-green-beans-b0b3d9f7",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Green Beans",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-green-beans/",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "trimmed"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "The green for the trout."
+    },
+    {
+      "id": "roasted-lemongrass-chicken-thighs-f069070d",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Roasted Lemongrass Chicken Thighs",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/lemongrass-chicken/",
+      "cuisine": "vietnamese",
+      "protein": "chicken",
+      "tags": [
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "unit": "stalk",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "oyster sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Mild (omit chili). Over jasmine rice; veg = braised asparagus."
+    },
+    {
+      "id": "braised-asparagus-1b0052f8",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Braised Asparagus",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/braised-asparagus-recipe",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "The green for the lemongrass chicken."
+    },
+    {
+      "id": "salmon-in-foil-with-mushrooms-ponzu-4a7b400f",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Salmon in Foil with Mushrooms & Ponzu",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/salmon-foil/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "tags": [
+        "weeknight",
+        "omega-3",
+        "asian",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shimeji (beech) mushrooms",
+          "qty": 1,
+          "unit": "package",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sake or dry white wine",
+          "qty": null,
+          "unit": "",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "ponzu",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed white rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Omega-3 night. Mushrooms/carrot/onion steam in the foil; rice = carb; gomaae adds a green."
+    },
+    {
+      "id": "spinach-gomaae-japanese-sesame-spinach-678b82a6",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "spinach",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Extra green for the salmon-foil night."
+    },
+    {
+      "id": "orecchiette-with-zucchini-ricotta-mint-9e1bf8b6",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Orecchiette with Zucchini, Ricotta & Mint",
+      "source": "My Italian Kitchen (Luca Menafe) — p.118",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "needs-scan",
+        "book-of-week",
+        "vegetarian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "BOOK OF THE WEEK (neglected Italian shelf). Placeholder — scan p.118 before Sat; contributes nothing to shopping until then. Zucchini = veg, orecchiette = carb."
+    }
+  ],
+  "setAt": "2026-07-18T21:20:16.106Z"
+}

@@ -1,0 +1,696 @@
+{
+  "weekOf": "2026-07-26",
+  "generatedAt": "2026-07-18T21:20:16.261Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "avocado",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "baby Yukon Gold or red potatoes",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "cabbage (red + green)",
+          "qty": 1,
+          "dim": "small head",
+          "unitLabel": "small head",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "small head"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 2,
+          "dim": "pint",
+          "unitLabel": "pint",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "pint"
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "dim": "knob",
+          "unitLabel": "knob",
+          "category": "produce",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "knob"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 25,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Cashew Chicken",
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Crispy Smashed Potatoes with Garlic & Rosemary",
+            "Garlic Green Beans",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green beans",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "green onions",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemongrass",
+          "qty": 2,
+          "dim": "stalk",
+          "unitLabel": "stalk",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "stalk"
+        },
+        {
+          "item": "lime",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shimeji (beech) mushrooms",
+          "qty": 1,
+          "dim": "package",
+          "unitLabel": "package",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "package"
+        },
+        {
+          "item": "spinach",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 14,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "boneless skinless chicken breast",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "mahi mahi (or firm white fish) fillets",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        },
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        },
+        {
+          "item": "whole rainbow trout (10-12 oz each)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "Mexican crema",
+          "qty": 1,
+          "dim": "small container",
+          "unitLabel": "small container",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": "small container"
+        },
+        {
+          "item": "Parmesan",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Crispy Smashed Potatoes with Garlic & Rosemary"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn tortillas",
+          "qty": 16,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "crusty French bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "fish sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "hoisin sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw",
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "oyster sauce",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken",
+            "Roasted Lemongrass Chicken Thighs"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ponzu",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "steamed white rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "unsalted cashews",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cashew Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "artichoke hearts (canned)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "green olives",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "chili-lime seasoning",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Herbes de Provence",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine or vermouth",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sake or dry white wine",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "beverages",
+          "fromMeals": [
+            "Salmon in Foil with Mushrooms & Ponzu"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "water chestnuts (can)"
+  ],
+  "pendingScans": [
+    {
+      "title": "Orecchiette with Zucchini, Ricotta & Mint",
+      "day": "Sat",
+      "source": "My Italian Kitchen (Luca Menafe) — p.118",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 52
+}
