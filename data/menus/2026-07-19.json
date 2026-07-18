@@ -5,459 +5,6 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "grilled-fish-tacos-with-cilantro-lime-slaw-bf09074f",
-      "day": "Sun",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Grilled Fish Tacos with Cilantro-Lime Slaw",
-      "source": "Hey Grill Hey",
-      "sourceUrl": "https://heygrillhey.com/grilled-fish-tacos/",
-      "cuisine": "mexican",
-      "protein": "mahi mahi",
-      "tags": [
-        "weekend",
-        "grill",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "mahi mahi (or other firm white fish) fillets",
-          "qty": 4,
-          "unit": "fillet",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "corn tortillas",
-          "qty": 16,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "cabbage (red + green)",
-          "qty": 1,
-          "unit": "small head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "green onions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cilantro",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "avocado",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Mexican crema",
-          "qty": 1,
-          "unit": "small container",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "chili-lime / fiesta seasoning",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Complete one-dish: grilled fish + cilantro-lime slaw (veg) + tortillas (carb). Grill, don't fry."
-    },
-    {
-      "id": "thai-basil-chicken-gai-pad-krapow-e64cee34",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Thai Basil Chicken (Gai Pad Krapow)",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
-      "cuisine": "thai",
-      "protein": "chicken",
-      "tags": [
-        "weeknight",
-        "quick",
-        "asian"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "ground chicken",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "Thai (holy) basil",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Thai bird or Holland chilies",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallots",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 5,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "soy sauce",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 2,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "the carb"
-        }
-      ],
-      "notes": "Serve over jasmine rice (a fried egg on top is traditional). Veg = Oi Muchim side."
-    },
-    {
-      "id": "oi-muchim-korean-spicy-cucumber-salad-183a1278",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Oi Muchim (Korean Spicy Cucumber Salad)",
-      "source": "Maangchi",
-      "sourceUrl": "https://www.maangchi.com/recipe/oi-muchim",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "no-cook",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "cucumbers",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "onion",
-          "qty": 0.25,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "gochugaru (Korean chili flakes)",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Crisp, spicy veg for the Thai night."
-    },
-    {
-      "id": "salmon-in-foil-with-mushrooms-ponzu-839b0fd1",
-      "day": "Thu",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Salmon in Foil with Mushrooms & Ponzu",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/salmon-foil/",
-      "cuisine": "japanese",
-      "protein": "salmon",
-      "tags": [
-        "weeknight",
-        "omega-3",
-        "asian",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "skin-on salmon fillets",
-          "qty": 4,
-          "unit": "fillet",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "shiitake mushrooms",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shimeji (beech) mushrooms",
-          "qty": 1,
-          "unit": "package",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "chives",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "sake or dry white wine",
-          "qty": null,
-          "unit": "",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "ponzu",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "steamed white rice",
-          "qty": 2,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "the carb"
-        }
-      ],
-      "notes": "Omega-3 night. Mushrooms/carrot/onion steam in the foil (veg); rice = carb; spinach gomaae adds a green."
-    },
-    {
-      "id": "spinach-gomaae-japanese-sesame-spinach-f5aabd4d",
-      "day": "Thu",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
-      "cuisine": "japanese",
-      "protein": "vegetable",
-      "tags": [
-        "side",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "spinach",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted white sesame seeds",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Extra green for the salmon-foil night."
-    },
-    {
-      "id": "chicken-proven-al-with-green-olives-cherry-tomatoes-48e91052",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Chicken Provençal with Green Olives & Cherry Tomatoes",
-      "source": "Pardon Your French",
-      "sourceUrl": "https://www.pardonyourfrench.com/chicken-provencal-with-olives-and-cherry-tomatoes/",
-      "cuisine": "french",
-      "protein": "chicken",
-      "tags": [
-        "braise",
-        "heart-healthy"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in, skin-on chicken thighs (or leg quarters)",
-          "qty": 8,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 2,
-          "unit": "pint",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallots",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 10,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "artichoke hearts (canned)",
-          "qty": 4,
-          "unit": "",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "green olives",
-          "qty": 1,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "dry white wine or vermouth",
-          "qty": 1,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "Herbes de Provence",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "crusty French bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "the carb, to sop the sauce"
-        }
-      ],
-      "notes": "Veg-rich braise (tomatoes, artichokes, shallots, olives) — remove skin to lighten. Bread soaks the sauce."
-    },
-    {
       "id": "greek-style-shrimp-with-tomatoes-and-feta-a9eceef9",
       "day": "Sat",
       "slot": "dinner",
@@ -636,7 +183,7 @@
     },
     {
       "id": "vietnamese-inspired-chicken-meatballs-22d666e6",
-      "day": "Wed",
+      "day": "Thu",
       "slot": "dinner",
       "role": "main",
       "title": "Vietnamese-Inspired Chicken Meatballs",
@@ -647,7 +194,8 @@
       "tags": [
         "redo",
         "asian",
-        "heart-healthy"
+        "heart-healthy",
+        "easy"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
@@ -809,7 +357,156 @@
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 30
+    },
+    {
+      "id": "fig-honey-prosciutto-pizza",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Fig, Honey & Prosciutto Pizza",
+      "source": "The Original Dish",
+      "sourceUrl": "https://www.theoriginaldish.com/2024/10/15/fig-prosciutto-pizza/",
+      "cuisine": "italian",
+      "protein": "prosciutto",
+      "activeTimeMin": 30,
+      "totalTimeMin": 50,
+      "servings": 4,
+      "tags": [
+        "dinner-club",
+        "weekend"
+      ],
+      "ingredients": [
+        {
+          "item": "pizza dough",
+          "qty": 2,
+          "unit": "ball",
+          "category": "bakery"
+        },
+        {
+          "item": "fresh figs",
+          "qty": 0.5,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "fig jam/spread",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "prosciutto",
+          "qty": 4,
+          "unit": "oz",
+          "category": "deli"
+        },
+        {
+          "item": "fresh mozzarella",
+          "qty": 0.5,
+          "unit": "lb",
+          "category": "dairy"
+        },
+        {
+          "item": "fontina cheese",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "arugula",
+          "qty": 2,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce"
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "drizzle",
+          "category": "pantry",
+          "note": "finish (your request)"
+        },
+        {
+          "item": "Parmesan",
+          "category": "dairy"
+        },
+        {
+          "item": "white wine vinegar",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Dinner club. Fig spread + fresh figs base, mozz/fontina, prosciutto, arugula, honey drizzle to finish. Prosciutto is a light accent (heart-health)."
+    },
+    {
+      "id": "out-mon-2026-07-19",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Out — funeral",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "eating-out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 0,
+      "ingredients": [],
+      "notes": "Funeral; no cooking."
+    },
+    {
+      "id": "out-wed-2026-07-19",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Out with Elizabeth",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "eating-out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 0,
+      "ingredients": [],
+      "notes": "Dinner out."
+    },
+    {
+      "id": "out-fri-2026-07-19",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Out with Rick",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "eating-out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 0,
+      "ingredients": [],
+      "notes": "Dinner out."
     }
   ],
-  "setAt": "2026-07-18T20:52:01.756Z"
+  "setAt": "2026-07-18T21:07:56.621Z"
 }

@@ -1,91 +1,30 @@
 {
   "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-18T20:52:01.911Z",
+  "generatedAt": "2026-07-18T21:07:56.705Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "avocado",
+          "item": "arugula",
           "qty": 2,
-          "dim": "",
-          "unitLabel": "",
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "produce",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "cabbage (red + green)",
-          "qty": 1,
-          "dim": "small head",
-          "unitLabel": "small head",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": false,
-          "unit": "small head"
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 2,
-          "dim": "pint",
-          "unitLabel": "pint",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": "pint"
-        },
-        {
-          "item": "chives",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "cilantro",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
+          "unit": "oz"
         },
         {
           "item": "cucumber",
-          "qty": 4,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
             "Horiatiki (Greek Salad)"
           ],
           "hasUnquantified": false,
@@ -105,6 +44,18 @@
           "unit": "bunch"
         },
         {
+          "item": "fresh figs",
+          "qty": 0.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Fig, Honey & Prosciutto Pizza"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "fresh herbs (mint, cilantro, basil)",
           "qty": 1,
           "dim": "bunch",
@@ -117,27 +68,24 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh thyme",
+          "item": "fresh oregano",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 24,
+          "qty": 8,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)",
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Chicken Provençal with Green Olives & Cherry Tomatoes",
             "Greek-Style Shrimp with Tomatoes and Feta",
             "20-Minute Greek Salmon",
             "Vietnamese-Inspired Chicken Meatballs"
@@ -146,25 +94,12 @@
           "unit": "clove"
         },
         {
-          "item": "green onions",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
           "item": "lemon",
-          "qty": 4,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu",
             "Greek-Style Shrimp with Tomatoes and Feta",
             "20-Minute Greek Salmon"
           ],
@@ -184,18 +119,6 @@
           "unit": "stalk"
         },
         {
-          "item": "lime",
-          "qty": 3,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "mini cucumbers",
           "qty": 2,
           "dim": "",
@@ -209,13 +132,11 @@
         },
         {
           "item": "onion",
-          "qty": 2.25,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
-            "Salmon in Foil with Mushrooms & Ponzu",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -270,13 +191,12 @@
           "unit": "oz"
         },
         {
-          "item": "scallion",
-          "qty": 2,
+          "item": "scallions",
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)",
             "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
@@ -284,74 +204,13 @@
         },
         {
           "item": "shallot",
-          "qty": 10,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)",
-            "Chicken Provençal with Green Olives & Cherry Tomatoes",
-            "Vietnamese-Inspired Chicken Meatballs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "shiitake mushrooms",
-          "qty": 6,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "shimeji (beech) mushrooms",
-          "qty": 1,
-          "dim": "package",
-          "unitLabel": "package",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": "package"
-        },
-        {
-          "item": "spinach",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Spinach Gomaae (Japanese Sesame Spinach)"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "Thai (holy) basil",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "Thai bird or Holland chilies",
           "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Vietnamese-Inspired Chicken Meatballs",
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -361,18 +220,6 @@
     {
       "category": "meat-seafood",
       "items": [
-        {
-          "item": "bone-in, skin-on chicken thighs (or leg quarters)",
-          "qty": 8,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
         {
           "item": "extra-large shrimp (21-25 ct), peeled & deveined",
           "qty": 1.5,
@@ -386,29 +233,16 @@
           "unit": "lb"
         },
         {
-          "item": "ground chicken",
-          "qty": 2,
+          "item": "ground chicken (93% lean)",
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)",
             "Vietnamese-Inspired Chicken Meatballs"
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "mahi mahi (or other firm white fish) fillets",
-          "qty": 4,
-          "dim": "fillet",
-          "unitLabel": "fillet",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": false,
-          "unit": "fillet"
         },
         {
           "item": "salmon fillets",
@@ -421,18 +255,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "skin-on salmon fillets",
-          "qty": 4,
-          "dim": "fillet",
-          "unitLabel": "fillet",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": "fillet"
         }
       ]
     },
@@ -453,16 +275,40 @@
           "unit": "oz"
         },
         {
-          "item": "Mexican crema",
-          "qty": 1,
-          "dim": "small container",
-          "unitLabel": "small container",
+          "item": "fontina cheese",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "small container"
+          "unit": "oz"
+        },
+        {
+          "item": "fresh mozzarella",
+          "qty": 0.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "dairy",
+          "fromMeals": [
+            "Fig, Honey & Prosciutto Pizza"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "Parmesan",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Fig, Honey & Prosciutto Pizza"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
         }
       ]
     },
@@ -470,28 +316,33 @@
       "category": "bakery",
       "items": [
         {
-          "item": "corn tortillas",
-          "qty": 16,
-          "dim": "",
-          "unitLabel": "",
+          "item": "pizza dough",
+          "qty": 2,
+          "dim": "ball",
+          "unitLabel": "ball",
           "category": "bakery",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
-          "unit": ""
-        },
+          "unit": "ball"
+        }
+      ]
+    },
+    {
+      "category": "deli",
+      "items": [
         {
-          "item": "crusty French bread",
-          "qty": 1,
-          "dim": "loaf",
-          "unitLabel": "loaf",
-          "category": "bakery",
+          "item": "prosciutto",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "deli",
           "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "loaf"
+          "unit": "oz"
         }
       ]
     },
@@ -523,16 +374,16 @@
           "unit": "cup"
         },
         {
-          "item": "fish sauce",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
+          "item": "fig jam/spread",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Fig, Honey & Prosciutto Pizza"
           ],
-          "hasUnquantified": true,
-          "unit": ""
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "fish sauce",
@@ -548,27 +399,15 @@
         },
         {
           "item": "honey",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
+          "qty": 1,
+          "dim": "drizzle",
+          "unitLabel": "drizzle",
           "category": "pantry",
           "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "jasmine rice",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": false,
-          "unit": "cup"
+          "unit": "drizzle"
         },
         {
           "item": "orzo",
@@ -581,18 +420,6 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
-        },
-        {
-          "item": "ponzu",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         },
         {
           "item": "red wine vinegar",
@@ -643,58 +470,22 @@
           "unit": "tsp"
         },
         {
-          "item": "steamed white rice",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "toasted sesame seeds",
+          "item": "white wine vinegar",
           "qty": null,
           "dim": "",
           "unitLabel": "",
           "category": "pantry",
           "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
+            "Fig, Honey & Prosciutto Pizza"
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "toasted white sesame seeds",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Spinach Gomaae (Japanese Sesame Spinach)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
     {
       "category": "canned",
       "items": [
-        {
-          "item": "artichoke hearts (canned)",
-          "qty": 4,
-          "dim": "",
-          "unitLabel": "",
-          "category": "canned",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
         {
           "item": "canned diced tomatoes (28 oz)",
           "qty": 1,
@@ -706,18 +497,6 @@
           ],
           "hasUnquantified": false,
           "unit": "can"
-        },
-        {
-          "item": "green olives",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "Kalamata olives",
@@ -737,18 +516,6 @@
       "category": "spices",
       "items": [
         {
-          "item": "chili-lime / fiesta seasoning",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Fish Tacos with Cilantro-Lime Slaw"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
           "item": "dried oregano",
           "qty": 0.5,
           "dim": "vol",
@@ -760,30 +527,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "gochugaru (Korean chili flakes)",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Oi Muchim (Korean Spicy Cucumber Salad)"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "Herbes de Provence",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         }
       ]
     },
@@ -803,18 +546,6 @@
           "unit": "cup"
         },
         {
-          "item": "dry white wine or vermouth",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Chicken Provençal with Green Olives & Cherry Tomatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "ouzo",
           "qty": 3,
           "dim": "vol",
@@ -825,26 +556,13 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "sake or dry white wine",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "beverages",
-          "fromMeals": [
-            "Salmon in Foil with Mushrooms & Ponzu"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         }
       ]
     }
   ],
   "excludedStaples": [
-    "soy sauce",
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 65
+  "totalItems": 42
 }
