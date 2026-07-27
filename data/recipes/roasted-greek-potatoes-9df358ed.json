@@ -1,0 +1,44 @@
+{
+  "mealId": "roasted-greek-potatoes-9df358ed",
+  "fetchedAt": "2026-07-27T23:03:44.416Z",
+  "url": "https://www.themediterraneandish.com/roasted-greek-potatoes/",
+  "name": "Greek Potatoes",
+  "description": "Crispy on the outside and fluffy on the inside and full of flavor, these Greek potatoes are a snap to make! The perfect side dish for any night of the week.",
+  "recipeIngredient": [
+    "1 teaspoon sweet paprika",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried oregano",
+    "1 teaspoon kosher salt",
+    "1 teaspoon black pepper",
+    "4  large baking potatoes ((like Russet, Idaho, or Yukon gold), peeled, washed, and cut into wedges)",
+    "8  large garlic cloves, (chopped)",
+    "4 tablespoons extra virgin olive oil, (plus more for coating)",
+    "1  lemon, (juiced)",
+    "1 1/4 cups vegetable broth ((or chicken broth, if you prefer))",
+    "1/2 cup grated Parmesan cheese",
+    "1 cup parsley leaves, (coarsely chopped)"
+  ],
+  "recipeInstructions": [
+    "Get ready: Preheat the oven to 400°F. Coat a large, 9”X13-inch baking dish in a thin layer of olive oil.",
+    "Make the spice mix: In a small bowl, mix together the salt, black pepper, sweet paprika, oregano, and dried rosemary.",
+    "Prep the potatoes: Place the potato wedges in the oiled baking dish and sprinkle with the spice mix. Toss to evenly to distribute the spices.",
+    "Season the broth: In a medium mixing bowl, whisk together the garlic, olive oil, lemon juice, and broth. Pour over the potatoes.",
+    "Bake the potatoes: Cover the baking dish with foil and bake for 40 minutes.",
+    "Give the potatoes a cheesy crust: Remove the potatoes from the oven, uncover, and sprinkle on the Parmesan cheese. Return to the oven, uncovered, and roast until the potatoes are cooked through and have turned a nice golden brown with a little crust forming, about 10-15 minutes.",
+    "Garnish and serve: Remove from the oven, garnish with a sprinkle of fresh parsley, and serve. Enjoy!"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "50 min",
+  "totalTime": "60 min",
+  "recipeYield": "6 6 , as a side",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/09/Mediterranean-Dish-Greek-Potatoes-LEAD-5-1.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Lemony garlic potato wedges roasted in broth — crispy outside, creamy inside.",
+    "keyTips": [
+      "Roast the wedges partly submerged in broth so the insides turn creamy while the tops crisp.",
+      "High heat (425F) for ~45 minutes is what gives the crispy edges.",
+      "Finish with fresh parsley and Parmesan off the heat."
+    ]
+  }
+}

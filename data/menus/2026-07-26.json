@@ -1,0 +1,956 @@
+{
+  "weekOf": "2026-07-26",
+  "createdAt": "2026-07-27T23:03:35.164Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "thai-drunken-noodles-pad-kee-mao-with-shrimp-8c53ebb0",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thai Drunken Noodles (Pad Kee Mao) with Shrimp",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/drunken-noodles-pad-kee-mao/",
+      "cuisine": "thai",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "quick",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "wide dried rice noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Thai red chili peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "baby corn",
+          "qty": 6,
+          "unit": "piece",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dark soy sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "brown sugar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "cornstarch",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Velvet the shrimp (cornstarch+oil) so they stay tender; keep the wok blazing hot and scrape the bottom so noodles don't stick."
+    },
+    {
+      "id": "garlic-baby-bok-choy-4f1e842d",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Baby Bok Choy",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "tags": [
+        "weeknight",
+        "quick",
+        "vegetable"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby bok choy",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "white pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Smoking-hot wok, garlic in then bok choy immediately; a pinch of sugar rounds it out."
+    },
+    {
+      "id": "poulet-a-l-estragon-creamy-french-tarragon-chicken-b51328bd",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Poulet a l'Estragon (Creamy French Tarragon Chicken)",
+      "source": "Pardon Your French",
+      "sourceUrl": "https://www.pardonyourfrench.com/creamy-french-chicken-tarragon/",
+      "cuisine": "french",
+      "protein": "chicken",
+      "tags": [
+        "chefy",
+        "comfort"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "whole chicken, cut into 6 pieces (or bone-in thighs/legs)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "onion (or 2 shallots)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh tarragon",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chicken stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "heavy cream",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Salt the chicken 1 hr ahead. Brown skin-side down, braise at 375F ~30 min, then reduce the sauce 7-8 min. Use French tarragon. A legit, hearty protein night."
+    },
+    {
+      "id": "buttered-egg-noodles-with-parsley-28fff98a",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Buttered Egg Noodles with Parsley",
+      "source": "simple serve-with",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "carb",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "egg noodles",
+          "qty": 12,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Boil, toss with butter and parsley — the bed for the tarragon cream sauce."
+    },
+    {
+      "id": "green-beans-amandine-9ab05e4d",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Green Beans Amandine",
+      "source": "simple serve-with",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "vegetable",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans (haricots verts)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sliced almonds",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Blanch beans, toss in butter with toasted almonds and a squeeze of lemon."
+    },
+    {
+      "id": "grilled-tacos-al-pastor-pork-5ca33885",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Tacos al Pastor (Pork)",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/tacos-al-pastor/",
+      "cuisine": "mexican",
+      "protein": "pork",
+      "tags": [
+        "grill",
+        "red-meat",
+        "tacos",
+        "make-ahead-marinade"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless pork shoulder, thinly sliced",
+          "qty": 1.75,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "guajillo chiles (dried)",
+          "qty": 3,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ancho chiles (dried)",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "achiote paste",
+          "qty": 1.5,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chipotle pepper in adobo",
+          "qty": 1,
+          "unit": "",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "pineapple",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "white onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "white vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Mexican oregano",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 12,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "MAKE AHEAD: blend the chile-achiote-pineapple marinade and marinate the pork 4-24 hrs (do it the night before or that morning). Wed: grill pork 3-4 min/side + grill pineapple. Active time is short — it's the marinade that needs lead time."
+    },
+    {
+      "id": "mexican-cabbage-lime-slaw-6a819eb5",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Mexican Cabbage-Lime Slaw",
+      "source": "simple serve-with",
+      "sourceUrl": "",
+      "cuisine": "mexican",
+      "protein": "vegetable",
+      "tags": [
+        "vegetable",
+        "salad",
+        "no-cook"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green cabbage",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "jalapeno",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Thinly shred cabbage, carrot, onion; toss with cilantro, jalapeno, lime juice, olive oil, salt. Fresh, crunchy contrast to the rich al pastor — all easy-to-find produce."
+    },
+    {
+      "id": "slow-cooker-chicken-wings-with-carrots-d6587bdd",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Slow-Cooker Chicken Wings with Carrots",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/slow-cooker-chicken-wings/",
+      "cuisine": "japanese",
+      "protein": "chicken",
+      "tags": [
+        "crockpot",
+        "slow-cooker",
+        "easy",
+        "asian"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chicken wings (flats/drumettes)",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "hard-boiled eggs",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "short-grain (Japanese) rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "True dump-and-go: put wings, carrots, ginger and the sake/mirin/soy/sugar in the crock pot on Low ~5 hrs (or Instant Pot slow-cook mode / 15 min high pressure). Browning first is optional for extra depth. Serve over steamed rice — that's it."
+    },
+    {
+      "id": "mediterranean-baked-cod-lemon-garlic-e4901515",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Mediterranean Baked Cod (Lemon-Garlic)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/baked-cod-recipe-lemon-garlic/",
+      "cuisine": "mediterranean",
+      "protein": "cod",
+      "tags": [
+        "weeknight",
+        "quick",
+        "easy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cod fillet pieces",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Baked, not fried (light flour dredge, then a quick sear-optional and 12 min in a 400F oven). Bright lemon-garlic sauce. Fast and simple for Friday."
+    },
+    {
+      "id": "cucumber-tomato-greek-salad-d9a4bab9",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Cucumber-Tomato Greek Salad",
+      "source": "simple serve-with",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "vegetable",
+        "salad",
+        "no-cook"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomatoes",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Chunky cucumber, tomato, red onion, olives, feta, olive oil + red wine vinegar and oregano. The green/veg for Friday."
+    },
+    {
+      "id": "lemon-couscous-3886c2e2",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Lemon Couscous",
+      "source": "simple serve-with",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "carb",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Steep couscous in hot broth, fluff with lemon and parsley. The carb under the cod."
+    },
+    {
+      "id": "chicken-saltimbocca-c6b23ad6",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Saltimbocca",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/chicken-saltimbocca/",
+      "cuisine": "italian",
+      "protein": "chicken",
+      "tags": [
+        "weekend",
+        "chefy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chicken breasts (for cutlets)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "prosciutto",
+          "qty": 4,
+          "unit": "slice",
+          "category": "deli",
+          "note": ""
+        },
+        {
+          "item": "fresh sage",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        }
+      ],
+      "notes": "Pound cutlets to 1/4 in, dredge only one side in flour, lay sage under the prosciutto. Sear ~3 min/side until prosciutto crisps; build a quick white-wine butter pan sauce."
+    },
+    {
+      "id": "garlic-roasted-asparagus-4437a1cb",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Roasted Asparagus",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/grilled-asparagus-with-lemon-and-garlic/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "weekend",
+        "vegetable"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Toss with olive oil, garlic, salt; roast at 400F ~15-20 min, finish with lemon."
+    },
+    {
+      "id": "roasted-greek-potatoes-9df358ed",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Greek Potatoes",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/roasted-greek-potatoes/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "weekend",
+        "carb"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "baking potatoes (Yukon gold)",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "vegetable or chicken broth",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Lemony garlic potatoes roasted in broth at 425F ~45 min until crispy outside, creamy inside."
+    }
+  ],
+  "setAt": "2026-07-27T23:03:35.256Z"
+}

@@ -1,0 +1,44 @@
+{
+  "mealId": "slow-cooker-chicken-wings-with-carrots-d6587bdd",
+  "fetchedAt": "2026-07-27T23:03:40.491Z",
+  "url": "https://www.justonecookbook.com/slow-cooker-chicken-wings/",
+  "name": "Slow Cooker Chicken Wings",
+  "description": "Slow Cooker Chicken Wings simmered in a savory Japanese broth are amazingly fall-off-the-bone tender. I cook them low and slow in the Instant Pot for plenty of hands-off time! You can also use a pot on the stove for moist and delicious wings, too.",
+  "recipeIngredient": [
+    "1 lb daikon radish ((about ½ daikon))",
+    "1 knob ginger ((1 inch, 2.5 cm))",
+    "¼ tsp Diamond Crystal kosher salt ((for blanching the daikon leaves))",
+    "1 Tbsp neutral oil",
+    "9 pieces chicken wings (flats/drumettes) ((patted dry with a paper towel))",
+    "½ cup water",
+    "2  hard-boiled eggs ((peeled))",
+    "3 Tbsp sake",
+    "1 Tbsp sugar",
+    "2 Tbsp mirin",
+    "3 Tbsp soy sauce"
+  ],
+  "recipeInstructions": [
+    "Gather all the ingredients. For a slow cooker, I used my 6 QT Instant Pot. If you don’t own a slow cooker, you can simply simmer the ingredients in a regular pot for 20–30 minutes, let cool for a couple of hours while the ingredients absorb all the flavors, and then reheat again to serve.",
+    "Peel 1 lb&#32;daikon radish and cut into rounds ½ inch (1.3 cm) thick. Peel 1 knob&#32;ginger and slice thinly.",
+    "If your daikon came with green leaves and stems, cut them into 2-inch pieces and blanch in boiling salted water (I add ¼ tsp&#32;Diamond Crystal kosher salt into boiling water). Cook until the leaves are tender, then remove and briefly soak in ice water to stop the cooking. Squeeze out the water and set aside.",
+    "Heat the Instant Pot using the Sauté mode. Once hot, add 1 Tbsp&#32;neutral oil to the pot. Then, add 9 pieces&#32;chicken wings (flats/drumettes) and brown on both sides.",
+    "Add the sliced daikon and ginger to the pot.",
+    "Add the seasonings: 3 Tbsp&#32;sake, 1 Tbsp&#32;sugar, 2 Tbsp&#32;mirin, 3 Tbsp&#32;soy sauce.",
+    "Add ½ cup&#32;water. Peel and add 2&#32;hard-boiled eggs. Close the lid, then select the Slow Cook mode and set the timer for 5 hours.",
+    "After 5 hours, the chicken is done. Serve the chicken wings, daikon, and eggs. Garnish with the blanched daikon leaves."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "300 min",
+  "totalTime": "310 min",
+  "recipeYield": "3",
+  "image": "https://www.justonecookbook.com/wp-content/uploads/2023/01/Slow-Cooker-Chicken-Wings-1804-I.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Japanese-style chicken wings simmered low with carrots in sake, mirin and soy until fall-off-the-bone. True dump-and-go over rice.",
+    "keyTips": [
+      "Browning the wings first is optional but adds real depth before they go in the pot.",
+      "Low for ~5 hours in a crock pot; Instant Pot slow-cook mode (or ~15 min high pressure) works too.",
+      "Drop in hard-boiled eggs to soak up the braising liquid — a classic touch."
+    ]
+  }
+}

@@ -1,0 +1,760 @@
+{
+  "weekOf": "2026-07-26",
+  "generatedAt": "2026-07-27T23:03:45.376Z",
+  "targetServings": 4,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Roasted Asparagus"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baby bok choy",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "baking potatoes (Yukon gold)",
+          "qty": 2.67,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "carrot",
+          "qty": 5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Cabbage-Lime Slaw",
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cilantro",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)",
+            "Mexican Cabbage-Lime Slaw"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 2,
+          "unit": "knob",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp",
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh parsley",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Buttered Egg Noodles with Parsley",
+            "Lemon Couscous"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.92,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Baked Cod (Lemon-Garlic)",
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fresh sage",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Saltimbocca"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "fresh tarragon",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "garlic",
+          "qty": 25.33,
+          "unit": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp",
+            "Garlic Baby Bok Choy",
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)",
+            "Grilled Tacos al Pastor (Pork)",
+            "Mediterranean Baked Cod (Lemon-Garlic)",
+            "Garlic Roasted Asparagus",
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green beans (haricots verts)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Green Beans Amandine"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Cabbage-Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "jalapeno",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Cabbage-Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lemon",
+          "qty": 5.67,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Green Beans Amandine",
+            "Mediterranean Baked Cod (Lemon-Garlic)",
+            "Lemon Couscous",
+            "Garlic Roasted Asparagus",
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "lime",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)",
+            "Mexican Cabbage-Lime Slaw"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "onion (or 2 shallots)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "pineapple",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Cabbage-Lime Slaw",
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai (holy) basil",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Thai red chili peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "tomatoes",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless pork shoulder, thinly sliced",
+          "qty": 1.75,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken breasts (for cutlets)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Saltimbocca"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken wings (flats/drumettes)",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cod fillet pieces",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Mediterranean Baked Cod (Lemon-Garlic)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "large shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "whole chicken, cut into 6 pieces (or bone-in thighs/legs)",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "hard-boiled eggs",
+          "qty": 3,
+          "unit": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "heavy cream",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Parmesan cheese",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn tortillas",
+          "qty": 12,
+          "unit": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "deli",
+      "items": [
+        {
+          "item": "prosciutto",
+          "qty": 4,
+          "unit": "slice",
+          "category": "deli",
+          "fromMeals": [
+            "Chicken Saltimbocca"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "achiote paste",
+          "qty": 1.5,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "cornstarch",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "couscous",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Lemon Couscous"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "egg noodles",
+          "qty": 12,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Buttered Egg Noodles with Parsley"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "mirin",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "short-grain (Japanese) rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sliced almonds",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Green Beans Amandine"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "wide dried rice noodles",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "baby corn",
+          "qty": 6,
+          "unit": "piece",
+          "category": "canned",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chicken stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "chipotle pepper in adobo",
+          "qty": 1,
+          "unit": "",
+          "category": "canned",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "vegetable or chicken broth",
+          "qty": 0.83,
+          "unit": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "ancho chiles (dried)",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried oregano",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Cucumber-Tomato Greek Salad"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "dried oregano",
+          "qty": 0.67,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "dried rosemary",
+          "qty": 0.67,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Cod (Lemon-Garlic)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "ground cumin",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Cod (Lemon-Garlic)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "guajillo chiles (dried)",
+          "qty": 3,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "Mexican oregano",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tacos al Pastor (Pork)"
+          ],
+          "hasUnquantified": true
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1.42,
+          "unit": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Cod (Lemon-Garlic)",
+            "Roasted Greek Potatoes"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "white pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "fromMeals": [
+            "Thai Drunken Noodles (Pad Kee Mao) with Shrimp",
+            "Garlic Baby Bok Choy"
+          ],
+          "hasUnquantified": true
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Poulet a l'Estragon (Creamy French Tarragon Chicken)",
+            "Chicken Saltimbocca"
+          ],
+          "hasUnquantified": false
+        },
+        {
+          "item": "sake",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Slow-Cooker Chicken Wings with Carrots"
+          ],
+          "hasUnquantified": false
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "dark soy sauce",
+    "brown sugar",
+    "sugar",
+    "all-purpose flour"
+  ],
+  "pendingScans": [],
+  "totalItems": 68
+}
