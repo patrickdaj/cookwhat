@@ -1,0 +1,42 @@
+{
+  "mealId": "chicken-saltimbocca-c6b23ad6",
+  "fetchedAt": "2026-07-27T23:03:42.474Z",
+  "url": "https://www.themediterraneandish.com/chicken-saltimbocca/",
+  "name": "Chicken Saltimbocca (Chicken with Prosciutto and Sage)",
+  "description": "In this twist on the traditional Roman dish Saltimbocca, veal is replaced with quick-cooking chicken cutlets layered with prosciutto and fresh sage and finished simple white wine pan sauce. Easy to make and ready in just about 20 minutes, this crowd-pleaser is fit for a weeknight and dinner party alike. And if you&#039;d like an even lighter version of the classic, simply leave out the butter–it adds a velvety quality but there&#039;s plenty of decadent flavor without it. There’s a reason its name literally means to “jump in your mouth!”",
+  "recipeIngredient": [
+    "1 1/2 pounds chicken ((about 2 chicken breasts))",
+    "Kosher salt",
+    "Black pepper",
+    "4  prosciutto slices",
+    "4  large sage leaves",
+    "1/4 cup flour",
+    "3 tablespoons extra virgin olive oil",
+    "1/4 cup dry white wine",
+    "2 tablespoons butter or ghee ((optional))"
+  ],
+  "recipeInstructions": [
+    "Prepare the chicken cutlets: Slice chicken breasts in half horizontally, starting at the thicker end. If you’re using thicker chicken breasts, pound them working with one at a time. Wrap loosely in plastic or add to a large sealable bag with the top open. Use a rolling pin or kitchen mallet to gently pound until thin and uniform in thickness (about 1/4-inch thick). Season with a big pinch of salt and pepper.",
+    "Dredge the cutlets: Evenly distribute the flour on a large plate and place the cutlets on top. You’ll build the rest of the dish right on this plate.",
+    "Pile on the prosciutto: Lay a slice of prosciutto over the top of each chicken cutlet. They don’t need to be perfectly flat.",
+    "Add the sage: Place a sage leaf on top of each prosciutto slice and secure with a toothpick, pushing it through parallel to the chicken so it lays flat. If you don’t have a toothpick, place the sage leaf down first then add the prosciutto on top, or you can just be extra careful when flipping.",
+    "Cook the cutlets: Add the olive oil to a frying pan and heat on medium. When the oil shimmers, add the cutlets, flour side down, and cook until golden brown on the bottom, about 3 minutes. Flip and cook for an additional 3 minutes, or until the chicken is cooked through and the prosciutto and the sage have become crispy and slightly darker in color. Transfer the cutlets to a serving platter.",
+    "Make the pan sauce: Lower the heat to medium-low. Add the wine to the pan and scrape up any brown bits stuck to the bottom of the pan (aka the fond, which is filled with amazing flavor.) Let the sauce bubble until it’s reduce by half, then stir in the butter or ghee (if using). Season to taste with salt and pepper.",
+    "Finish and serve. Add the chicken back to the pan to warm through. Remove the toothpick then serve with the with the sage side facing up and plenty of pan sauce spooned over top."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "8 min",
+  "totalTime": "18 min",
+  "recipeYield": "4",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/02/Chicken-Saltimbocca-14.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Chicken cutlets layered with prosciutto and sage in a white-wine butter pan sauce — elegant and ~20 minutes.",
+    "keyTips": [
+      "Pound the cutlets to an even 1/4 inch so they cook quickly and stay tender.",
+      "Dredge only ONE side in flour (the down side) so the prosciutto side can crisp directly against the pan.",
+      "Lay the sage under the prosciutto (or toothpick it flat) so it stays put; cook prosciutto-side until crisp and slightly darkened.",
+      "Serve right away — the crisp prosciutto softens as it sits."
+    ]
+  }
+}

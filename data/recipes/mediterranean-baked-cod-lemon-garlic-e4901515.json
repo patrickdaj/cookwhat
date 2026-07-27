@@ -1,0 +1,44 @@
+{
+  "mealId": "mediterranean-baked-cod-lemon-garlic-e4901515",
+  "fetchedAt": "2026-07-27T23:03:41.504Z",
+  "url": "https://www.themediterraneandish.com/baked-cod-recipe-lemon-garlic/",
+  "name": "Baked Cod Recipe with Lemon and Garlic",
+  "description": "Best baked cod recipe out there! Prepared Mediterranean style with a few spices and a mixture of lemon juice, olive oil and lots of garlic. Bakes in 15 mins!",
+  "recipeIngredient": [
+    "1.5 lb Cod fillet pieces, (4-6 pieces)",
+    "1/4 cup chopped fresh parsley leaves",
+    "5 tbsp fresh lemon juice",
+    "5 tbsp  extra virgin olive oil",
+    "2 tbsp melted butter",
+    "5  garlic cloves,  (minced)",
+    "1/3 cup all-purpose flour",
+    "1 tsp ground coriander",
+    "3/4 tsp sweet Spanish paprika",
+    "3/4 tsp ground cumin",
+    "3/4 tsp salt",
+    "1/2 tsp black pepper"
+  ],
+  "recipeInstructions": [
+    "Preheat oven to 400 degrees F.",
+    "Mix together the lemon juice, olive oil, and melted butter in a shallow bowl (do not add the garlic yet). Set aside.",
+    "In another shallow bowl, mix the all-purpose flour, spices, salt and pepper. Set next to the lemon sauce.",
+    "Pat the fish dry. Dip the fish in the lemon sauce then dip it in the flour mixture. Shake off excess flour. Reserve the lemon sauce for later.",
+    "Heat 2 tbsp olive oil in a cast iron skillet (or an oven-safe pan) over medium-high heat (watch the oil to be sure it is shimmering but not smoking). Add the fish and sear on each side to give it some color, but do not fully cook (about 2 minutes on each side). Remove the skillet from heat.",
+    "To the remaining lemon sauce, add the minced garlic and mix. Drizzle all over the fish fillets.",
+    "Bake in the heated oven until the fish flakes easily with a fork (10 minutes should do it, but begin checking earlier). Remove from the heat and sprinkle chopped parsley. Serve immediately."
+  ],
+  "prepTime": "10 min",
+  "cookTime": "12 min",
+  "totalTime": "22 min",
+  "recipeYield": "5 5 people (up to)",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/10/Mediterranean-Baked-Cod-Lemon-Garlic-The-Mediterranean-Dish-3.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Cod in a bright lemon-garlic sauce with a light spiced flour coating, baked in about 12 minutes. Baked, not fried.",
+    "keyTips": [
+      "Pat the cod very dry before the light flour-and-spice dredge; a quick sear then a hot bake gives color without deep frying.",
+      "Warm the lemon-garlic-olive-oil sauce and spoon it over both before and after baking.",
+      "Bake hot and briefly (400F, ~10–12 min) and pull the moment it flakes — cod overcooks fast."
+    ]
+  }
+}
