@@ -1,0 +1,36 @@
+{
+  "mealId": "garlic-roasted-asparagus-4437a1cb",
+  "fetchedAt": "2026-07-27T23:03:43.443Z",
+  "url": "https://www.themediterraneandish.com/grilled-asparagus-with-lemon-and-garlic/",
+  "name": "Grilled Asparagus",
+  "description": "This grilled asparagus recipe is so simple, but it delivers big Mediterranean flavor. It’s a perfect side dish for grilled meats, tossed into salads, or served as part of a mezze spread!",
+  "recipeIngredient": [
+    "1 pound asparagus, (woody ends trimmed)",
+    "2 tablespoons extra virgin olive oil, (plus more to serve)",
+    "1  garlic clove, (grated or finely minced)",
+    "Zest and juice of 1 lemon",
+    "Kosher salt",
+    "Freshly ground black pepper",
+    "Aleppo pepper ((optional))",
+    "Chopped fresh parsley or mint"
+  ],
+  "recipeInstructions": [
+    "Get ready. Light your charcoal or preheat your grill for medium-high, direct heat. If using a grill basket, preheat it along with the grill.  Set a serving platter nearby.",
+    "Season the asparagus. On a rimmed baking sheet, drizzle the asparagus with  extra virgin olive oil. Add the garlic, lemon zest, a generous pinch each of kosher salt and black pepper. Toss to coat the asparagus evenly.",
+    "Grill the asparagus. Preheat a grill or grill pan over medium-high heat. Arrange the asparagus spears in a single layer, perpendicular to the grill grates so they don’t fall through. Grill for 4 to 6 minutes, turning occasionally, until charred in spots and just tender. Thinner spears and the asparagus tips will cook faster than the thicker ends. Transfer the grilled asparagus to a serving platter as they are done.",
+    "Finish and serve. Squeeze fresh lemon juice over the top, and finish with another drizzle of olive oil, a sprinkle of Aleppo pepper, if using, and chopped parsley or mint. Serve warm or at room temperature."
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": "10 min",
+  "recipeYield": "4",
+  "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/05/TMD-Grilled-Asparagus-Leads-03.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Asparagus roasted hot with garlic and finished with lemon.",
+    "keyTips": [
+      "Roast at 400F for ~15–20 minutes depending on spear thickness; thin spears go faster.",
+      "Add the lemon at the end, not before — acid dulls the green color during roasting."
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "mealId": "grilled-tacos-al-pastor-pork-5ca33885",
+  "fetchedAt": "2026-07-27T23:03:38.736Z",
+  "url": "https://www.isabeleats.com/tacos-al-pastor/",
+  "name": "Tacos Al Pastor",
+  "description": "Tacos al Pastor features pork marinated in pineapple, Mexican chiles, and achiote. The perfect combo of sweet, savory, citrus, and spice!",
+  "recipeIngredient": [
+    "3  guajillo chiles, (rinsed, stemmed, and seeded)",
+    "2  ancho chiles, (rinsed, stemmed, and seeded)",
+    "1  pineapple, (1 cup diced and the rest sliced into rounds)",
+    "3.5 ounces achiote paste",
+    "1 medium white onion, (halved)",
+    "5 cloves garlic",
+    "1  chipotle pepper in adobo sauce",
+    "2 tablespoons kosher salt",
+    "2 teaspoons dried Mexican oregano",
+    "1 teaspoon ground cumin",
+    "½ cup distilled white vinegar",
+    "5 pounds boneless pork shoulder, (sliced into thin slices)",
+    "1 tablespoon vegetable oil",
+    "warm corn tortillas",
+    "diced onions",
+    "chopped cilantro",
+    "lime wedges",
+    "salsa verde"
+  ],
+  "recipeInstructions": [
+    "In a medium pot, add the guajillo chiles, ancho chiles, and enough water to completely cover them. Bring to a boil over high heat. Remove the pot from the heat, cover it, and let the chiles soak for 10 minutes to soften.",
+    "Using a slotted spoon, transfer the softened chiles to a blender. Add 1 cup of the chile-soaked water, 1 cup of diced pineapple, the achiote paste, onion, garlic, chipotle pepper in adobo sauce, salt, Mexican oregano, cumin, and white vinegar. Blend for 3 to 5 minutes until completely smooth.",
+    "Combine the pork shoulder with the marinade in a large glass or stainless steel bowl. Toss together until all the meat is fully coated, then cover and refrigerate for 4 to 24 hours.",
+    "Preheat a grill for direct heat grilling at high heat (450-500°F) or a grill pan over high heat. Remove the pork shoulder from the marinade and shake off any excess marinade. Grill for 3-4 minutes per side. Transfer to a large plate and set aside to rest for 5 minutes.",
+    "While the meat is resting, brush oil on all sides of the remaining pineapple slices. Grill over high heat until heated through and grill marks appear. Transfer to a cutting board and dice.",
+    "Chop the grilled meat into small bite-sized pieces and serve in warm corn tortillas topped with the diced grilled pineapple, diced white onion, chopped cilantro, a squeeze of fresh lime juice, and salsa verde. Slice thinly against the grain and serve."
+  ],
+  "prepTime": "240 min",
+  "cookTime": "15 min",
+  "totalTime": "255 min",
+  "recipeYield": "12 12 servings",
+  "image": "https://www.isabeleats.com/wp-content/uploads/2023/06/tacos-al-pastor-small-10.jpg",
+  "author": null,
+  "ai": {
+    "cliffNotes": "Chile-achiote-pineapple marinated pork, grilled hot and shaved into tacos with grilled pineapple, onion and cilantro.",
+    "keyTips": [
+      "The marinade IS the dish — give the pork 4–24 hours; doing it the night before makes Wednesday a quick grill.",
+      "Slice the pork shoulder thin (about 1/4 inch) so it chars fast and stays tender.",
+      "Toast the dried guajillo and ancho chiles before blending the adobo for deeper flavor.",
+      "Grill the pineapple slices alongside the pork for caramelized sweetness in each taco."
+    ]
+  }
+}

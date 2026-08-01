@@ -1,0 +1,54 @@
+{
+  "mealId": "thai-drunken-noodles-pad-kee-mao-with-shrimp-8c53ebb0",
+  "fetchedAt": "2026-07-27T23:03:35.563Z",
+  "url": "https://thewoksoflife.com/drunken-noodles-pad-kee-mao/",
+  "name": "Drunken Noodles (Pad Kee Mao)",
+  "description": "Drunken Noodles (Pad Kee Mao) is a favorite Thai dish made with rice noodles and Thai basil, often eaten in Thailand on late nights after drinking with friends!",
+  "recipeIngredient": [
+    "2 tablespoons water",
+    "12 ounces boneless skinless chicken thighs ((or breast, thinly sliced))",
+    "2 teaspoons cornstarch",
+    "1 teaspoon oil",
+    "1 teaspoon soy sauce",
+    "8 ounces wide dried rice noodles",
+    "1 1/2 teaspoons brown sugar ((dissolved in 1 tablespoon hot water))",
+    "2 teaspoons soy sauce ((Thai soy sauce preferred, but any soy sauce will do))",
+    "1 teaspoon dark soy sauce ((see note))",
+    "1 tablespoon fish sauce",
+    "2 teaspoons oyster sauce",
+    "pinch ground white pepper",
+    "3 tablespoons vegetable or canola oil ((divided))",
+    "3 cloves garlic ((sliced))",
+    "¼ teaspoon fresh grated ginger",
+    "2  shallots ((sliced, about 1/3 cups))",
+    "1  scallion ((julienned into 3-inch/8cm pieces))",
+    "4  Thai red chili peppers ((deseeded and julienned or chopped))",
+    "1 cup holy basil or Thai basil ((loosely packed))",
+    "5 to 6 pieces baby corn ((split in half, optional))",
+    "2 teaspoons Shaoxing wine"
+  ],
+  "recipeInstructions": [
+    "Work the 2 tablespoons of water into the sliced chicken with your hands until the chicken absorbs the liquid. Add the cornstarch, oil, and soy sauce, and mix until the chicken is evenly coated. Set aside for 20 minutes.",
+    "Follow the directions on the rice noodle package to prepare your noodles. Soak the noodles in hot tap water for 20 minutes, or quickly boil them just until al dente, then rinse under cold water.",
+    "Stir together the dissolved brown sugar mixture, soy sauces, fish sauce, oyster sauce, and white pepper in a small bowl and set aside.",
+    "Heat your wok until it’s close to smoking, and spread 2 tablespoons of oil around the perimeter of the wok. Add the chicken and let it sear for 1 minute on each side until it’s about 90% cooked. Remove from the wok and set aside. If the heat was high enough and you seared the meat correctly, your wok should be still clean with nothing sticking to it. If not, you can wash the wok to prevent the rice noodles from sticking.",
+    "Continue with the wok on high heat and add 1 tablespoon of oil, along with the garlic and grated ginger.",
+    "After a few seconds, add the shallots. Stir-fry for 20 seconds and add the scallions, chilies, basil, baby corn, and shaoxing wine. Stir-fry for another 20 seconds and add in the rice noodles. Use a scooping motion to mix everything for another minute until the noodles warm up.",
+    "Next, add the prepared sauce mixture and stir-fry at the highest heat for about 1 minute until the noodles are uniform in color. Take care to use your metal spatula to scrape the bottom of the wok to prevent sticking.",
+    "Add the seared chicken, and stir-fry for another 1 to 2 minutes. Serve!"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "10 min",
+  "totalTime": "30 min",
+  "recipeYield": "4 4 servings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/03/drunken-noodles-4.jpg",
+  "author": "Bill",
+  "ai": {
+    "cliffNotes": "Fast, high-heat Thai stir-fry of wide rice noodles with shrimp, holy basil and chili in a savory-sweet fish/oyster/soy sauce. On the table in ~30 minutes.",
+    "keyTips": [
+      "Velvet the shrimp first (toss with cornstarch and a little oil) so they stay juicy through the blazing-hot stir-fry, and sear the protein to ~90% then pull it, finishing with the noodles so it doesn't overcook.",
+      "Get the wok truly smoking before the noodles go in and keep scraping the bottom with a metal spatula — wide rice noodles stick and tear otherwise.",
+      "Soak the wide rice noodles just to pliable, not fully soft; they finish cooking in the sauce."
+    ]
+  }
+}
