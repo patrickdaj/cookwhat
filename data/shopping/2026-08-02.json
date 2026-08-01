@@ -1,0 +1,621 @@
+{
+  "weekOf": "2026-08-02",
+  "generatedAt": "2026-08-01T18:42:40.148Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "baby or Yukon Gold potatoes",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Roasted Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "bell peppers",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "flat-leaf parsley",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Fish Piccata",
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "dim": "knob",
+          "unitLabel": "knob",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "knob"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Crispy Roasted Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 13,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Garlic Green Beans",
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green beans",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fish Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "long green onion (negi) or leek",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shishito peppers",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "spinach",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "sweet potato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in pork rib chops",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "large shrimp, peeled & deveined",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "thin white fish fillets (flounder/haddock/branzino)",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Fish Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        },
+        {
+          "item": "yellowtail (hamachi/buri) fillets",
+          "qty": 4,
+          "dim": "fillet",
+          "unitLabel": "fillet",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "fillet"
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "Mexican crema or sour cream",
+          "qty": 1,
+          "dim": "small container",
+          "unitLabel": "small container",
+          "category": "dairy",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "small container"
+        },
+        {
+          "item": "milk",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "flour tortillas",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "apple cider vinegar",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "cooked rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "mirin",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "orzo",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Fish Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "rice syrup or honey",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "steamed rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Spinach Gomaae (Japanese Sesame Spinach)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Fish Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Asparagus"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "chili powder",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "smoked paprika",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "Korean rice cakes (tteok)",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "apple cider",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Pork Chops with Apple Cider Pan Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Fish Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "sake",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "beverages",
+          "fromMeals": [
+            "Yellowtail Teriyaki"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "unsalted butter",
+    "soy sauce"
+  ],
+  "pendingScans": [
+    {
+      "title": "Braised Chicken Thighs with Moroccan Pistachio & Currant Sauce",
+      "day": "Sat",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 46
+}

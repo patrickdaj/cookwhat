@@ -1,0 +1,592 @@
+{
+  "weekOf": "2026-08-02",
+  "createdAt": "2026-08-01T18:42:23.201Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "fish-piccata-8aec3cfd",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Fish Piccata",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/fish-piccata-5212223",
+      "cuisine": "italian",
+      "protein": "cod",
+      "tags": [
+        "weeknight",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "thin white fish fillets (flounder/haddock/branzino)",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "flat-leaf parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "go light for heart-health"
+        },
+        {
+          "item": "orzo",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Lemon-caper white fish; go easy on the butter (sear in olive oil). Over orzo; veg = braised asparagus."
+    },
+    {
+      "id": "braised-asparagus-84bdec90",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Braised Asparagus",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/braised-asparagus-recipe",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "asparagus",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken or vegetable stock",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "The green for the piccata."
+    },
+    {
+      "id": "dakgalbi-spicy-korean-chicken-and-vegetables-f57aa926",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Dakgalbi (Spicy Korean Chicken and Vegetables)",
+      "source": "Maangchi",
+      "sourceUrl": "https://www.maangchi.com/recipe/dakgalbi",
+      "cuisine": "korean",
+      "protein": "chicken",
+      "tags": [
+        "asian",
+        "one-pot",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.25,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sweet potato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Korean rice cakes (tteok)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "frozen",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "rice syrup or honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "milk",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "marinade"
+        },
+        {
+          "item": "cooked rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Veg-rich one-pot (cabbage, sweet potato, onion). Over rice."
+    },
+    {
+      "id": "yellowtail-teriyaki-4f249969",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Yellowtail Teriyaki",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/yellowtail-teriyaki/",
+      "cuisine": "japanese",
+      "protein": "yellowtail",
+      "tags": [
+        "asian",
+        "omega-3",
+        "weeknight",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "yellowtail (hamachi/buri) fillets",
+          "qty": 4,
+          "unit": "fillet",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "long green onion (negi) or leek",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shishito peppers",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": null,
+          "unit": "",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "steamed rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Omega-3 night. Over rice; veg = spinach gomaae."
+    },
+    {
+      "id": "spinach-gomaae-japanese-sesame-spinach-66cb4824",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spinach Gomaae (Japanese Sesame Spinach)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "spinach",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Cooked (blanched) green for the yellowtail."
+    },
+    {
+      "id": "pork-chops-with-apple-cider-pan-sauce-e2142416",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pork Chops with Apple Cider Pan Sauce",
+      "source": "Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/pork-chops-apple-cider-pan-sauce-recipe",
+      "cuisine": "american",
+      "protein": "pork",
+      "tags": [
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in pork rib chops",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "apple cider",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "apple cider vinegar",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "flat-leaf parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "go light"
+        }
+      ],
+      "notes": "The one red-meat night this week — trim visible fat, pan-sear in olive oil. Carb = roasted potatoes, veg = green beans."
+    },
+    {
+      "id": "crispy-roasted-potatoes-c743c802",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crispy Roasted Potatoes",
+      "source": "The Kitchn",
+      "sourceUrl": "https://www.thekitchn.com/oven-roasted-potatoes-recipe-23424442",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "carb"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby or Yukon Gold potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "The carb for the pork chops."
+    },
+    {
+      "id": "garlic-green-beans-c21179a2",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Green Beans",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-green-beans/",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "side",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "trimmed"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "The green for the pork chops."
+    },
+    {
+      "id": "shrimp-fajitas-89410ae0",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Shrimp Fajitas",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/shrimp-fajitas/",
+      "cuisine": "mexican",
+      "protein": "shrimp",
+      "tags": [
+        "weeknight",
+        "heart-healthy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled & deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "bell peppers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Mexican crema or sour cream",
+          "qty": 1,
+          "unit": "small container",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "smoked paprika",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "flour tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "note": "the carb"
+        }
+      ],
+      "notes": "Complete one-dish: shrimp + peppers/onion (veg) + tortillas (carb)."
+    },
+    {
+      "id": "braised-chicken-thighs-with-moroccan-pistachio-currant-sauce-c75a64c9",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Braised Chicken Thighs with Moroccan Pistachio & Currant Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "needs-scan",
+        "book-of-week",
+        "weekend"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "BOOK OF THE WEEK (loved ATK Mediterranean). Placeholder — scan p.296 before Sat; contributes nothing to shopping until then. Add couscous (carb) + a veg on scan."
+    }
+  ],
+  "setAt": "2026-08-01T18:42:40.055Z"
+}
