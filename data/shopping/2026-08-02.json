@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-08-02",
-  "generatedAt": "2026-08-01T18:42:40.148Z",
+  "generatedAt": "2026-08-02T17:24:35.271Z",
   "targetServings": null,
   "sections": [
     {
@@ -19,40 +19,64 @@
           "unit": "lb"
         },
         {
-          "item": "avocado",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
+          "item": "baby spinach",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
-          "unit": ""
+          "unit": "cup"
         },
         {
-          "item": "baby or Yukon Gold potatoes",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Roasted Potatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "bell peppers",
+          "item": "carrots",
           "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "celery",
+          "qty": 3,
+          "dim": "rib",
+          "unitLabel": "rib",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
+          ],
+          "hasUnquantified": false,
+          "unit": "rib"
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "dim": "pint",
+          "unitLabel": "pint",
+          "category": "produce",
+          "fromMeals": [
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "pint"
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Pasta with Blistered Cherry Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "cilantro",
@@ -61,70 +85,35 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
-          "item": "flat-leaf parsley",
+          "item": "fresh basil",
           "qty": 2,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Fish Piccata",
-            "Pork Chops with Apple Cider Pan Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "dim": "knob",
-          "unitLabel": "knob",
-          "category": "produce",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
-          ],
-          "hasUnquantified": false,
-          "unit": "knob"
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Crispy Roasted Potatoes"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Pork Chops with Apple Cider Pan Sauce"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce",
+            "Pasta with Blistered Cherry Tomatoes"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 13,
+          "qty": 15,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Garlic Green Beans",
-            "Shrimp Fajitas"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)",
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce",
+            "Pasta with Blistered Cherry Tomatoes",
+            "Garlic Green Beans"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -143,12 +132,12 @@
         },
         {
           "item": "green cabbage",
-          "qty": 0.25,
+          "qty": 0.5,
           "dim": "head",
           "unitLabel": "head",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": "head"
@@ -160,59 +149,58 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Fish Piccata"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "lime",
-          "qty": 1,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Fajitas"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "long green onion (negi) or leek",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Yellowtail Teriyaki"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "onion",
-          "qty": 2,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)",
-            "Shrimp Fajitas"
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "scallions",
-          "qty": 3,
+          "item": "orange",
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "shallot",
@@ -221,43 +209,43 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Pork Chops with Apple Cider Pan Sauce"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "shishito peppers",
-          "qty": 8,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Yellowtail Teriyaki"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "spinach",
-          "qty": 1,
+          "item": "waxy or Yukon Gold potatoes",
+          "qty": 1.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Spinach Gomaae (Japanese Sesame Spinach)"
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
           ],
           "hasUnquantified": false,
           "unit": "lb"
         },
         {
-          "item": "sweet potato",
+          "item": "white onion",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Pork Carnitas Tacos"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -268,64 +256,64 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "bone-in pork rib chops",
-          "qty": 4,
+          "item": "chicken carcasses",
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Pork Chops with Apple Cider Pan Sauce"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 2,
+          "item": "Italian sausage",
+          "qty": 0.66,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": "lb"
         },
         {
-          "item": "large shrimp, peeled & deveined",
+          "item": "lobster ravioli filling",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "octopus",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "pork butt/shoulder",
           "qty": 1.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "thin white fish fillets (flounder/haddock/branzino)",
-          "qty": 4,
-          "dim": "fillet",
-          "unitLabel": "fillet",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Fish Piccata"
-          ],
-          "hasUnquantified": false,
-          "unit": "fillet"
-        },
-        {
-          "item": "yellowtail (hamachi/buri) fillets",
-          "qty": 4,
-          "dim": "fillet",
-          "unitLabel": "fillet",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Yellowtail Teriyaki"
-          ],
-          "hasUnquantified": false,
-          "unit": "fillet"
         }
       ]
     },
@@ -333,28 +321,53 @@
       "category": "dairy",
       "items": [
         {
-          "item": "Mexican crema or sour cream",
+          "item": "egg",
           "qty": 1,
-          "dim": "small container",
-          "unitLabel": "small container",
+          "dim": "",
+          "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
-          "unit": "small container"
+          "unit": ""
         },
         {
-          "item": "milk",
-          "qty": 0.5,
+          "item": "heavy cream",
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "dairy",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "Parmesan",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Italian Wedding Soup (sausage meatballs, homemade broth)",
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "Parmesan",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Pasta with Blistered Cherry Tomatoes"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
         }
       ]
     },
@@ -362,13 +375,13 @@
       "category": "bakery",
       "items": [
         {
-          "item": "flour tortillas",
-          "qty": 8,
+          "item": "corn tortillas",
+          "qty": 16,
           "dim": "",
           "unitLabel": "",
           "category": "bakery",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -379,106 +392,46 @@
       "category": "pantry",
       "items": [
         {
-          "item": "apple cider vinegar",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Pork Chops with Apple Cider Pan Sauce"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "cooked rice",
-          "qty": 2,
+          "item": "acini di pepe or orzo",
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": "cup"
         },
         {
-          "item": "mirin",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
+          "item": "dry pasta",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "pantry",
           "fromMeals": [
-            "Yellowtail Teriyaki"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "orzo",
-          "qty": 8,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Fish Piccata"
+            "Pasta with Blistered Cherry Tomatoes"
           ],
           "hasUnquantified": false,
-          "unit": "oz"
+          "unit": "lb"
         },
         {
-          "item": "rice syrup or honey",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "steamed rice",
-          "qty": 2,
+          "item": "Italian breadcrumbs or panko",
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Yellowtail Teriyaki"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)"
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "toasted white sesame seeds",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Spinach Gomaae (Japanese Sesame Spinach)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
     {
       "category": "canned",
       "items": [
-        {
-          "item": "capers",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "canned",
-          "fromMeals": [
-            "Fish Piccata"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
         {
           "item": "low-sodium chicken or vegetable stock",
           "qty": 1,
@@ -497,25 +450,50 @@
       "category": "spices",
       "items": [
         {
+          "item": "bay leaf",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "chili powder",
           "qty": null,
           "dim": "",
           "unitLabel": "",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": true,
           "unit": ""
         },
         {
-          "item": "gochugaru (Korean chili flakes)",
+          "item": "dried oregano",
           "qty": null,
           "dim": "",
           "unitLabel": "",
           "category": "spices",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Italian Wedding Soup (sausage meatballs, homemade broth)",
+            "Pork Carnitas Tacos"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "garlic powder",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": true,
           "unit": ""
@@ -527,39 +505,46 @@
           "unitLabel": "",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pork Carnitas Tacos"
           ],
           "hasUnquantified": true,
           "unit": ""
         },
         {
-          "item": "smoked paprika",
+          "item": "hot smoked paprika",
           "qty": null,
           "dim": "",
           "unitLabel": "",
           "category": "spices",
           "fromMeals": [
-            "Shrimp Fajitas"
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
           ],
           "hasUnquantified": true,
           "unit": ""
-        }
-      ]
-    },
-    {
-      "category": "frozen",
-      "items": [
+        },
         {
-          "item": "Korean rice cakes (tteok)",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "frozen",
+          "item": "onion powder",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
           "fromMeals": [
-            "Dakgalbi (Spicy Korean Chicken and Vegetables)"
+            "Pork Carnitas Tacos"
           ],
-          "hasUnquantified": false,
-          "unit": "cup"
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "sweet smoked paprika (pimentón)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Pulpo a la Gallega (Galician Octopus with Potatoes)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
         }
       ]
     },
@@ -567,37 +552,30 @@
       "category": "beverages",
       "items": [
         {
-          "item": "apple cider",
-          "qty": 0.75,
+          "item": "dry white wine",
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Pork Chops with Apple Cider Pan Sauce"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
+        }
+      ]
+    },
+    {
+      "category": "other",
+      "items": [
         {
-          "item": "dry white wine",
-          "qty": 15.84,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "beverages",
-          "fromMeals": [
-            "Fish Piccata"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "sake",
+          "item": "fresh pasta dough",
           "qty": null,
           "dim": "",
           "unitLabel": "",
-          "category": "beverages",
+          "category": "other",
           "fromMeals": [
-            "Yellowtail Teriyaki"
+            "Homemade Lobster Ravioli, Light Tomato-Cream Sauce"
           ],
           "hasUnquantified": true,
           "unit": ""
@@ -606,16 +584,15 @@
     }
   ],
   "excludedStaples": [
-    "unsalted butter",
-    "soy sauce"
+    "coarse sea salt"
   ],
   "pendingScans": [
     {
-      "title": "Braised Chicken Thighs with Moroccan Pistachio & Currant Sauce",
-      "day": "Sat",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "title": "Leftovers (Wedding Soup + Carnitas)",
+      "day": "Wed",
+      "source": "",
       "cookbook": true
     }
   ],
-  "totalItems": 46
+  "totalItems": 44
 }
