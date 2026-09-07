@@ -126,7 +126,9 @@
           "This dish runs very spicy — cut back the red pepper flakes for a milder version."
         ],
         "makes": "Serves 4"
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-06-28"
     },
     {
       "title": "Grilled Chicken Kebabs with Tomato-Feta Salad",

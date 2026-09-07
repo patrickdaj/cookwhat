@@ -287,6 +287,13 @@ Rules for the workflow:
 - Catalogs come from a book's table of contents; transcribing titles + page
   numbers is fine, but a recipe's ingredient list/method is only recorded from an
   actual scan of that page.
+- **Book progress tally.** Catalog entries carry `cooked: true` +
+  `cookedOn: "YYYY-MM-DD"` once the user has actually cooked that recipe. When a
+  book recipe gets cooked, set the flag and show the updated per-chapter
+  standings (count `cooked`/total grouped by `chapter`). Baseline set 2026-09-07
+  at the user's direction: in the ATK Mediterranean only **Grilled Chicken alla
+  Diavola (p.299, cooked week of 2026-06-28)** counts — other book items eaten
+  before the baseline are deliberately not counted.
 
 ## Recipe tips (the `ai` block) — mine the prose, not the card
 
