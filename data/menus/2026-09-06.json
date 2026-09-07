@@ -165,26 +165,6 @@
       "notes": "Already scanned+captured (no scan needed). Swordfish in a stew — the preparation the household likes."
     },
     {
-      "id": "arugula-salad-with-fennel-and-shaved-parmesan-0fe9e844",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Arugula Salad with Fennel and Shaved Parmesan",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "needs-scan"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "Scan p.69 (with vinaigrette on p.72 if referenced)."
-    },
-    {
       "id": "simple-couscous-7792a842",
       "day": "Tue",
       "slot": "dinner",
