@@ -72,7 +72,7 @@
       "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
       "sourceUrl": "",
       "cuisine": "italian",
-      "protein": "swordfish",
+      "protein": "cod",
       "tags": [
         "book"
       ],
@@ -80,7 +80,7 @@
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "Swordfish braised, not grilled — the preparation you like. Finish off-heat."
+      "notes": "No swordfish at the store either — made with cod. Cod is more delicate: nestle big chunks into the sauce, don't stir, finish off-heat."
     },
     {
       "id": "sauteed-swiss-chard-with-garlic-35c172ca",
@@ -280,6 +280,6 @@
       "notes": "Moved from Thu; replaces the wheat-berry salad (wheat berries unavailable). Covers both the veg and the starch — start it first, braises unattended in a 275° oven."
     }
   ],
-  "notes": "Thu 9/10: eating out (interview). Halibut + wheat berries unavailable at the store: romesco cutlets moved Thu→Wed (replacing halibut), green-bean braise moved Thu→Fri (replacing wheat-berry salad).",
+  "notes": "Thu 9/10: eating out (interview). Halibut + wheat berries unavailable at the store: romesco cutlets moved Thu→Wed (replacing halibut), green-bean braise moved Thu→Fri (replacing wheat-berry salad). Mon: no swordfish available either — stew made with cod.",
   "setAt": "2026-09-07T19:48:13.515Z"
 }
