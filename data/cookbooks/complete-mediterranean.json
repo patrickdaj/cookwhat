@@ -93,7 +93,9 @@
       "title": "Za'atar-Rubbed Butterflied Chicken",
       "page": 298,
       "chapter": "Poultry",
-      "fitsMenu": "chicken (favorite)"
+      "fitsMenu": "chicken (favorite)",
+      "cooked": true,
+      "cookedOn": "2026-09-06"
     },
     {
       "title": "Grilled Chicken alla Diavola",
@@ -1321,7 +1323,9 @@
           "Add the raw garlic + lemon off the heat so they stay bright, not bitter/scorched.",
           "Variation - Olives & Feta: stir in 1/2 cup crumbled feta + 1/4 cup chopped pitted kalamata olives with the parsley."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-06"
     },
     {
       "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
@@ -1429,7 +1433,9 @@
           "Grill the lemon quarters: charring mellows and concentrates the juice for the finishing dressing.",
           "Dress lightly before grilling and again after for bold, balanced flavor."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-06"
     },
     {
       "title": "Mechouia",
