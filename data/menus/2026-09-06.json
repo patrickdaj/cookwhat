@@ -1,0 +1,433 @@
+{
+  "weekOf": "2026-09-06",
+  "createdAt": "2026-09-07T13:41:12.597Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "sauteed-chicken-cutlets-with-romesco-sauce-d5a6c5fc",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Sauteed Chicken Cutlets with Romesco Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.290",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "chicken",
+      "tags": [
+        "weeknight",
+        "quick",
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Book project pick (uncooked). Scan p.290 before shopping."
+    },
+    {
+      "id": "braised-green-beans-with-potatoes-and-basil-1b7b4f93",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Braised Green Beans with Potatoes and Basil",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.217",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Veg + potato carb in one side. Scan p.217."
+    },
+    {
+      "id": "sicilian-fish-stew-9248bd88",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Sicilian Fish Stew",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "swordfish",
+      "tags": [
+        "book"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skinless swordfish steaks, cut into 1-inch pieces",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic cloves",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "orange (for zest)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "celery rib",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "whole peeled tomatoes",
+          "qty": 28,
+          "unit": "oz can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "clam juice",
+          "qty": 8,
+          "unit": "oz bottle",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "raisins",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "Already scanned+captured (no scan needed). Swordfish in a stew — the preparation the household likes."
+    },
+    {
+      "id": "arugula-salad-with-fennel-and-shaved-parmesan-0fe9e844",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Arugula Salad with Fennel and Shaved Parmesan",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Scan p.69 (with vinaigrette on p.72 if referenced)."
+    },
+    {
+      "id": "simple-couscous-7792a842",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Simple Couscous",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.161",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chicken broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        }
+      ],
+      "notes": "Already captured. Carb for the stew (Sicilian couscous al pesce tradition)."
+    },
+    {
+      "id": "grilled-lamb-kofte-5dd72b65",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Lamb Kofte",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.321",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "lamb",
+      "tags": [
+        "book",
+        "needs-scan",
+        "grill"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "The week's one red-meat night. Scan p.321 — capture the yogurt-garlic sauce ingredients too, not just the kofte."
+    },
+    {
+      "id": "fattoush-4306f2bd",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Fattoush",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.92",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Pita in the salad doubles as the carb. Scan p.92."
+    },
+    {
+      "id": "pan-roasted-halibut-with-chermoula-0c25c6c2",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pan-Roasted Halibut with Chermoula",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.250",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "halibut",
+      "tags": [
+        "book",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skin-on halibut steaks (1.5 lb each)",
+          "qty": 2,
+          "unit": "steak",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic cloves",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Already scanned+captured (no scan needed)."
+    },
+    {
+      "id": "herbed-barley-pilaf-87836542",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Barley = soluble fiber for the LDL goal. Scan p.120."
+    },
+    {
+      "id": "spicy-roasted-carrots-with-cilantro-ba7d4170",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spicy Roasted Carrots with Cilantro",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.206",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Matches the chermoula. Scan p.206."
+    },
+    {
+      "id": "chicken-in-turkish-walnut-sauce-3b68c8fb",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken in Turkish Walnut Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.294",
+      "sourceUrl": "",
+      "cuisine": "turkish",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Circassian-style chicken; walnuts = unsaturated fats. Scan p.294."
+    },
+    {
+      "id": "basmati-rice-pilaf-with-currants-and-toasted-almonds-704d08c2",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "sourceUrl": "",
+      "cuisine": "turkish",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "The week's only rice night. Scan p.102."
+    },
+    {
+      "id": "sauteed-spinach-with-yogurt-and-dukkah-57960f68",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Spinach with Yogurt and Dukkah",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.225",
+      "sourceUrl": "",
+      "cuisine": "turkish",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Scan p.225 (dukkah may reference the spice-blend chapter — capture that too)."
+    }
+  ]
+}
