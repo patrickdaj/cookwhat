@@ -175,49 +175,6 @@
       "notes": "SCAN p.69. Opens the Salads chapter; bitter greens against the rich risotto."
     },
     {
-      "id": "broiled-bluefish-with-preserved-lemon-and-zhoug-2b4ff4df",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.244",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "fish",
-      "tags": [
-        "book",
-        "needs-scan",
-        "weeknight",
-        "omega-3"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.244. Oily fish = the omega-3 night, and it uses the preserved lemon jar you bought last week. Availability plan B: if the counter has no bluefish, the same treatment works on mackerel or trout — don't gamble a second fishless night."
-    },
-    {
-      "id": "tabbouleh-4742b80d",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Tabbouleh",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.127",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "needs-scan",
-        "whole-grain"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.127. Covers both the veg (all that parsley and tomato) and the bulgur carb."
-    },
-    {
       "id": "grilled-chicken-kebabs-with-tomato-feta-salad-53b41188",
       "day": "Thu",
       "slot": "dinner",
@@ -311,7 +268,47 @@
       "servings": 4,
       "ingredients": [],
       "notes": "SCAN p.112. Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights."
+    },
+    {
+      "id": "flank-steak-peperonata",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Flank Steak Peperonata",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
+      "cuisine": "italian",
+      "protein": "beef",
+      "activeTimeMin": 35,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight"
+      ],
+      "ingredients": [],
+      "notes": "SCAN p.308. The red-meat night, back by request. Flank is a lean cut and the peperonata (peppers + onions) is the veg built in."
+    },
+    {
+      "id": "herbed-barley-pilaf",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "activeTimeMin": 10,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "tags": [
+        "book",
+        "needs-scan",
+        "whole-grain"
+      ],
+      "ingredients": [],
+      "notes": "SCAN p.120. Barley = soluble fiber for the heart-healthy column."
     }
   ],
-  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Flank Steak Peperonata (p.308) + Herbed Barley Pilaf (p.120) bumped to anchor next week."
+  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Bluefish w/ Preserved Lemon & Zhoug (p.244) + Tabbouleh (p.127) bumped to a future week — no omega-3 fish night this week."
 }
