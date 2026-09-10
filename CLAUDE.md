@@ -290,10 +290,12 @@ Rules for the workflow:
 - **Book progress tally.** Catalog entries carry `cooked: true` +
   `cookedOn: "YYYY-MM-DD"` once the user has actually cooked that recipe. When a
   book recipe gets cooked, set the flag and show the updated per-chapter
-  standings (count `cooked`/total grouped by `chapter`). Baseline set 2026-09-07
-  at the user's direction: in the ATK Mediterranean only **Grilled Chicken alla
-  Diavola (p.299, cooked week of 2026-06-28)** counts — other book items eaten
-  before the baseline are deliberately not counted.
+  standings (count `cooked`/total grouped by `chapter`). Baseline reviewed with
+  the user 2026-09-08: pre-baseline cooks count only once the user confirms
+  them. Confirmed so far in the ATK Mediterranean: alla Diavola (p.299, wk
+  6/28), Greek-Style Shrimp with Tomatoes and Feta (p.269, 6/26 + repeat wk
+  7/19), Spanish-Style Braised Chicken and Almonds (p.295, 6/27), and the
+  Sunday 9/6 dinner (za'atar chicken p.298 + its two sides).
 
 ## Recipe tips (the `ai` block) — mine the prose, not the card
 

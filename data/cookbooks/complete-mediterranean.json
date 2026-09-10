@@ -75,7 +75,9 @@
           "Toast the almonds first for deeper flavor and grind the picada fine so the sauce is silky, not gritty.",
           "It's rich and nutty - brighten at the end with lemon and parsley, and use the chopped egg whites as garnish."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-06-27"
     },
     {
       "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
@@ -1744,7 +1746,9 @@
         ],
         "makes": "Serves 4 to 6",
         "serveWith": "Steamed white rice and/or crusty bread"
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-06-26"
     },
     {
       "title": "Shrimp with White Beans",
