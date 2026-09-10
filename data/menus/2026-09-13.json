@@ -1,0 +1,736 @@
+{
+  "weekOf": "2026-09-13",
+  "createdAt": "2026-09-10T14:41:05.383Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "whole-grilled-fish-with-ponzu-sauce-b9a12363",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Whole Grilled Fish with Ponzu Sauce",
+      "source": "Roy Choi Teaches Intuitive Cooking (MasterClass) — p.49",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "fish",
+      "tags": [
+        "book",
+        "book-of-week",
+        "weekend",
+        "grill"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "whole branzino (1.5-2 lb, scaled and gutted)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "or snapper / sea bass"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1 for ponzu, 1 for slaw"
+        },
+        {
+          "item": "mixed fresh herbs (basil, cilantro, mint...)",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "knob",
+          "category": "produce",
+          "note": "ponzu + vinaigrette"
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 9,
+          "unit": "",
+          "category": "produce",
+          "note": "slaw + vinaigrette"
+        },
+        {
+          "item": "green cabbage",
+          "qty": 0.5,
+          "unit": "cup sliced",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "romaine lettuce",
+          "qty": 0.5,
+          "unit": "cup sliced",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "ponzu 1/4 cup + vinaigrette 1 cup"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "ponzu 1/4 cup + vinaigrette 2 cups"
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white rice (steamed, for serving)",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "BOOK OF THE WEEK: Roy Choi (fully scanned — no page scans needed). Serve with steamed rice, the scallion slaw (p.23 component: scallions, cabbage, romaine + Kogi Vinaigrette p.18 — big batch, keeps for weeks), and the two banchan sides."
+    },
+    {
+      "id": "bean-sprout-namul-korean-blanched-vegetables-54df7441",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Bean Sprout Namul (Korean Blanched Vegetables)",
+      "source": "Roy Choi Teaches Intuitive Cooking (MasterClass) — p.53",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bean sprouts",
+          "qty": 2,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Book's base is broccoli (a dislike) — the catalog notes bean sprouts or spinach as the sub. Using bean sprouts."
+    },
+    {
+      "id": "quick-pickled-cucumbers-25899b3b",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Quick-Pickled Cucumbers",
+      "source": "Roy Choi Teaches Intuitive Cooking (MasterClass) — p.55",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "quick",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Persian cucumbers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "star anise pods",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "note": "optional"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "oven-roasted-chicken-shawarma-144f742b",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Oven-Roasted Chicken Shawarma",
+      "source": "NYT Cooking",
+      "sourceUrl": "https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless, skinless chicken thighs",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "REDO — you rated this 4★. Marinate in the morning (or even Sunday night); it's 15 min hands-on at dinner."
+    },
+    {
+      "id": "tomato-salad-with-feta-and-cumin-yogurt-dressing-50966d4d",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Tomato Salad with Feta and Cumin-Yogurt Dressing",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.95",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.95. Opens the Salads chapter; the cumin-yogurt echoes the shawarma spices."
+    },
+    {
+      "id": "orzo-with-shrimp-feta-and-lemon-8c66a3e2",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Orzo with Shrimp, Feta, and Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.158",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.158. Catalog flags it as a shrimp favorite. One-pot orzo covers protein + carb; the salad is the veg."
+    },
+    {
+      "id": "arugula-salad-with-fennel-and-shaved-parmesan-609295d6",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Arugula Salad with Fennel and Shaved Parmesan",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.69."
+    },
+    {
+      "id": "chicken-tacos-al-pastor-kebab-style-f28042d5",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Tacos Al Pastor, Kebab-Style",
+      "source": "Paprika import — masienda.com",
+      "sourceUrl": "https://masienda.com/blogs/learn/al-pastor-kebabs",
+      "cuisine": "mexican",
+      "protein": "chicken",
+      "tags": [
+        "paprika",
+        "uncooked",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless, skinless chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "guajillo chiles (dried)",
+          "qty": 4,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ancho chile (dried)",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "mulato chile (dried)",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": "or a 2nd ancho"
+        },
+        {
+          "item": "orange",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "achiote paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "whole clove",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "white onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "marinade + garnish"
+        },
+        {
+          "item": "white vinegar",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "pineapple",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "qty": 12,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "tacos + esquites"
+        }
+      ],
+      "notes": "Paprika uncooked pick. Blend the marinade the night before; skewer and broil or grill. Charred pineapple is the point."
+    },
+    {
+      "id": "esquites-mexican-street-corn-salad-77002ff5",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Esquites (Mexican Street Corn Salad)",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/esquites/",
+      "cuisine": "mexican",
+      "protein": "vegetable",
+      "tags": [
+        "new-web",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "fresh corn (ears)",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "jalapeño",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "cotija cheese",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "New web pick (preferred site). Mayo + cotija kept as a light dressing, not drowned — the one richer side of the week."
+    },
+    {
+      "id": "5-minute-miso-glazed-salmon-025a4bb7",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "5-Minute Miso Glazed Salmon",
+      "source": "Paprika import — Serious Eats",
+      "sourceUrl": "https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "tags": [
+        "paprika",
+        "uncooked",
+        "weeknight",
+        "quick",
+        "omega-3"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skinless salmon fillets (5-6 oz, 1 inch thick)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "white or red miso",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "white rice (steamed, for serving)",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Paprika uncooked pick — omega-3 night. Glaze under the broiler; watch it, the sugar can scorch fast."
+    },
+    {
+      "id": "green-bean-gomaae-sesame-dressing-1a0a42f8",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Green Bean Gomaae (Sesame Dressing)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/green-bean-gomaae/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "new-web",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Four ingredients: blanch, toss warm in ground toasted sesame + soy + sugar. Leave some seeds half-crushed for texture."
+    },
+    {
+      "id": "farfalle-with-zucchini-tomatoes-and-pine-nuts-d7c31199",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Farfalle with Zucchini, Tomatoes, and Pine Nuts",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.140",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.140. Vegetarian night — the pasta is the carb and the zucchini + tomatoes are the veg, so it stands alone."
+    }
+  ]
+}
