@@ -546,10 +546,10 @@
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
+      "title": "Broiled Salmon with Preserved Lemon and Zhoug",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.244",
       "cuisine": "mediterranean",
-      "protein": "fish",
+      "protein": "salmon",
       "activeTimeMin": 25,
       "totalTimeMin": 30,
       "servings": 4,
@@ -560,7 +560,7 @@
         "omega-3"
       ],
       "ingredients": [],
-      "notes": "SCAN p.244. Back on the menu — Monday's restaurant steak covers the week's red meat, so Tuesday returns to the omega-3 fish. Uses the preserved lemon jar from last week. Availability: bluefish is regional — salmon is the reliable stand-in (trout or mackerel also work), same broil and sauce."
+      "notes": "SCAN p.244. Book recipe is bluefish — deliberately made with salmon (always available, same omega-3 credit, same broil + sauce). Uses the preserved-lemon jar from last week."
     },
     {
       "id": "tabbouleh-side",
