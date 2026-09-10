@@ -261,13 +261,14 @@
       "tags": [
         "book",
         "needs-scan",
-        "weeknight"
+        "weeknight",
+        "freezer-clear"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.158. Catalog flags shrimp as a favorite. One-pot orzo covers protein + carb; the kale is the veg."
+      "notes": "SCAN p.158. FREEZER SHRIMP — use the bag already in the freezer, don't buy any; thaw overnight in the fridge or 15 min in cold water. One-pot orzo covers protein + carb; the kale is the veg."
     },
     {
       "id": "garlicky-braised-kale-19b5fc00",
