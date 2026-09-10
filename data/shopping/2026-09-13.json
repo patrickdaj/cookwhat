@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-09-13",
-  "generatedAt": "2026-09-10T21:24:00.938Z",
+  "generatedAt": "2026-09-10T21:37:42.258Z",
   "targetServings": null,
   "sections": [
     {
@@ -67,30 +67,6 @@
           "unit": ""
         },
         {
-          "item": "fresh basil",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Flank Steak Peperonata"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh chives",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Herbed Barley Pilaf"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
           "item": "fresh oregano",
           "qty": 1,
           "dim": "bunch",
@@ -110,8 +86,7 @@
           "category": "produce",
           "fromMeals": [
             "Orzo with Shrimp, Feta, and Lemon",
-            "Indoor Paella",
-            "Herbed Barley Pilaf"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -130,20 +105,19 @@
         },
         {
           "item": "fresh thyme",
-          "qty": 2,
+          "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Arugula Salad with Fennel and Shaved Parmesan",
-            "Herbed Barley Pilaf"
+            "Arugula Salad with Fennel and Shaved Parmesan"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 24,
+          "qty": 16,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -152,16 +126,14 @@
             "Grilled Chicken Kebabs with Tomato-Feta Salad",
             "Orzo with Shrimp, Feta, and Lemon",
             "Sauteed Spinach with Yogurt and Dukkah",
-            "Indoor Paella",
-            "Flank Steak Peperonata",
-            "Herbed Barley Pilaf"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": "clove"
         },
         {
           "item": "lemon",
-          "qty": 6,
+          "qty": 5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -170,24 +142,21 @@
             "Grilled Chicken Kebabs with Tomato-Feta Salad",
             "Orzo with Shrimp, Feta, and Lemon",
             "Sauteed Spinach with Yogurt and Dukkah",
-            "Indoor Paella",
-            "Herbed Barley Pilaf"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "onion",
-          "qty": 5,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Butternut Squash and Bacon Risotto",
             "Orzo with Shrimp, Feta, and Lemon",
-            "Indoor Paella",
-            "Flank Steak Peperonata",
-            "Herbed Barley Pilaf"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -212,18 +181,6 @@
           "category": "produce",
           "fromMeals": [
             "Grilled Chicken Kebabs with Tomato-Feta Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "red or yellow bell peppers",
-          "qty": 4,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Flank Steak Peperonata"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -278,18 +235,6 @@
           "fromMeals": [
             "Orzo with Shrimp, Feta, and Lemon",
             "Indoor Paella"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "flank steak",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Flank Steak Peperonata"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -432,18 +377,6 @@
           "unit": "cup"
         },
         {
-          "item": "capers (with brine)",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Flank Steak Peperonata"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "Dijon mustard",
           "qty": 1,
           "dim": "vol",
@@ -463,18 +396,6 @@
           "category": "pantry",
           "fromMeals": [
             "Orzo with Shrimp, Feta, and Lemon"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "pearl barley",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Herbed Barley Pilaf"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -511,13 +432,12 @@
         },
         {
           "item": "diced tomatoes",
-          "qty": 2,
+          "qty": 1,
           "dim": "14.5-oz can",
           "unitLabel": "14.5-oz can",
           "category": "canned",
           "fromMeals": [
-            "Indoor Paella",
-            "Flank Steak Peperonata"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": "14.5-oz can"
@@ -552,18 +472,6 @@
           "unit": ""
         },
         {
-          "item": "dried oregano",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Flank Steak Peperonata"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "dukkah",
           "qty": 0.25,
           "dim": "vol",
@@ -586,18 +494,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Flank Steak Peperonata"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         },
         {
           "item": "saffron threads",
@@ -668,7 +564,19 @@
       "day": "Sun",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.228",
       "cookbook": true
+    },
+    {
+      "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.244",
+      "cookbook": true
+    },
+    {
+      "title": "Tabbouleh",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.127",
+      "cookbook": true
     }
   ],
-  "totalItems": 48
+  "totalItems": 40
 }

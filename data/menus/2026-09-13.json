@@ -542,137 +542,47 @@
       "notes": "Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights. Needs a 6-qt Dutch oven. Optional stovetop socarrat step at the end."
     },
     {
-      "id": "flank-steak-peperonata",
+      "id": "broiled-bluefish-preserved-lemon-zhoug",
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Flank Steak Peperonata",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
-      "cuisine": "italian",
-      "protein": "beef",
-      "activeTimeMin": 35,
-      "totalTimeMin": 40,
+      "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.244",
+      "cuisine": "mediterranean",
+      "protein": "fish",
+      "activeTimeMin": 25,
+      "totalTimeMin": 30,
       "servings": 4,
       "tags": [
         "book",
-        "weeknight"
+        "needs-scan",
+        "weeknight",
+        "omega-3"
       ],
-      "ingredients": [
-        {
-          "item": "flank steak",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood"
-        },
-        {
-          "item": "red or yellow bell peppers",
-          "qty": 4,
-          "category": "produce"
-        },
-        {
-          "item": "onion",
-          "qty": 1,
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "diced tomatoes",
-          "qty": 1,
-          "unit": "14.5-oz can",
-          "category": "canned"
-        },
-        {
-          "item": "capers (with brine)",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "red pepper flakes",
-          "category": "spices"
-        },
-        {
-          "item": "fresh basil",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce"
-        },
-        {
-          "item": "dried oregano",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices"
-        }
-      ],
-      "notes": "Rub the steak with the oregano-salt mix in the morning (up to 24h ahead). Sear 5-7 min/side to 120-125°F, rest 10 min, slice thin against the grain. Barley pilaf is the carb."
+      "ingredients": [],
+      "notes": "SCAN p.244. Back on the menu — Monday's restaurant steak covers the week's red meat, so Tuesday returns to the omega-3 fish. Uses the preserved lemon jar from last week. Availability plan B: same treatment works on mackerel or trout."
     },
     {
-      "id": "herbed-barley-pilaf",
+      "id": "tabbouleh-side",
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "Herbed Barley Pilaf",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "title": "Tabbouleh",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.127",
       "cuisine": "mediterranean",
       "protein": "vegetable",
-      "activeTimeMin": 10,
-      "totalTimeMin": 45,
+      "activeTimeMin": 20,
+      "totalTimeMin": 50,
       "servings": 4,
       "tags": [
         "book",
+        "needs-scan",
         "whole-grain"
       ],
-      "ingredients": [
-        {
-          "item": "pearl barley",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "NOT hulled/quick-cooking/presteamed"
-        },
-        {
-          "item": "onion (small)",
-          "qty": 1,
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce"
-        },
-        {
-          "item": "fresh chives",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "category": "produce"
-        }
-      ],
-      "notes": "Barley = soluble fiber for the heart-healthy column. Availability plan B: whole farro, cooked pasta-style, with the same parsley-chive-lemon finish."
+      "ingredients": [],
+      "notes": "SCAN p.127. Covers both the veg (all that parsley and tomato) and the bulgur carb — replaces the barley pilaf, so no pearl barley needed."
     }
   ],
-  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Bluefish w/ Preserved Lemon & Zhoug (p.244) + Tabbouleh (p.127) bumped to a future week — no omega-3 fish night this week.",
+  "notes": "Mon 9/14: eating out (probably steak — that is the week's red meat). Jody guest night is Wednesday. Flank Steak Peperonata (p.308, fully captured) parked for a future week.",
   "setAt": "2026-09-10T21:24:00.864Z"
 }
