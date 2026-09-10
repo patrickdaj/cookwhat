@@ -68,50 +68,8 @@
       "notes": "Carried over — ingredients in house; 5 minutes on the stove right before serving."
     },
     {
-      "id": "flank-steak-peperonata-4f2f06d0",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Flank Steak Peperonata",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "beef",
-      "tags": [
-        "book",
-        "needs-scan",
-        "weeknight"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.308. The week's red-meat night — flank is a lean cut, and the peperonata (peppers + onions) is the veg built in. Barley pilaf stays as the whole-grain carb."
-    },
-    {
-      "id": "herbed-barley-pilaf-3092edac",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Herbed Barley Pilaf",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "needs-scan",
-        "whole-grain"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.120. Barley = soluble fiber, on the heart-healthy list."
-    },
-    {
       "id": "butternut-squash-and-bacon-risotto-036b8196",
-      "day": "Tue",
+      "day": "Wed",
       "slot": "dinner",
       "role": "main",
       "title": "Butternut Squash and Bacon Risotto",
@@ -193,11 +151,11 @@
           "note": "confirm from the NYT card"
         }
       ],
-      "notes": "GUEST NIGHT (Jody). Your Paprika pick, uncooked till now. Risotto is exempt from the rice rules. Bacon is the week's one indulgence — the rest of the week stays lean. The Paprika capture looks incomplete (no broth/Parmesan lines); double-check the NYT card before shopping."
+      "notes": "GUEST NIGHT (Jody) — Wednesday. Your Paprika pick, uncooked till now. Risotto is exempt from the rice rules. Bacon is the week's one indulgence — the rest of the week stays lean. The Paprika capture looks incomplete (no broth/Parmesan lines); double-check the NYT card before shopping."
     },
     {
       "id": "arugula-salad-with-fennel-and-shaved-parmesan-541376c6",
-      "day": "Tue",
+      "day": "Wed",
       "slot": "dinner",
       "role": "side",
       "title": "Arugula Salad with Fennel and Shaved Parmesan",
@@ -218,7 +176,7 @@
     },
     {
       "id": "broiled-bluefish-with-preserved-lemon-and-zhoug-2b4ff4df",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "main",
       "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
@@ -240,7 +198,7 @@
     },
     {
       "id": "tabbouleh-4742b80d",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "side",
       "title": "Tabbouleh",
@@ -354,5 +312,6 @@
       "ingredients": [],
       "notes": "SCAN p.112. Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights."
     }
-  ]
+  ],
+  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Flank Steak Peperonata (p.308) + Herbed Barley Pilaf (p.120) bumped to anchor next week."
 }
