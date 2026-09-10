@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-09-13",
   "createdAt": "2026-09-10T14:43:35.558Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -555,11 +555,61 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "weeknight"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.308. The red-meat night, back by request. Flank is a lean cut and the peperonata (peppers + onions) is the veg built in."
+      "ingredients": [
+        {
+          "item": "flank steak",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "red or yellow bell peppers",
+          "qty": 4,
+          "category": "produce"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "14.5-oz can",
+          "category": "canned"
+        },
+        {
+          "item": "capers (with brine)",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "red pepper flakes",
+          "category": "spices"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices"
+        }
+      ],
+      "notes": "Rub the steak with the oregano-salt mix in the morning (up to 24h ahead). Sear 5-7 min/side to 120-125°F, rest 10 min, slice thin against the grain. Barley pilaf is the carb."
     },
     {
       "id": "herbed-barley-pilaf",
@@ -623,5 +673,6 @@
       "notes": "Barley = soluble fiber for the heart-healthy column."
     }
   ],
-  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Bluefish w/ Preserved Lemon & Zhoug (p.244) + Tabbouleh (p.127) bumped to a future week — no omega-3 fish night this week."
+  "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Bluefish w/ Preserved Lemon & Zhoug (p.244) + Tabbouleh (p.127) bumped to a future week — no omega-3 fish night this week.",
+  "setAt": "2026-09-10T21:24:00.864Z"
 }

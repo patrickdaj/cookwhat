@@ -1,0 +1,674 @@
+{
+  "weekOf": "2026-09-13",
+  "generatedAt": "2026-09-10T21:24:00.938Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "baby arugula",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "butternut squash (about 3 lb)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "curly-leaf spinach",
+          "qty": 20,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Spinach with Yogurt and Dukkah"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "fennel bulb",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Indoor Paella",
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh sage",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan",
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 24,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan",
+            "Grilled Chicken Kebabs with Tomato-Feta Salad",
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Sauteed Spinach with Yogurt and Dukkah",
+            "Indoor Paella",
+            "Flank Steak Peperonata",
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "lemon",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan",
+            "Grilled Chicken Kebabs with Tomato-Feta Salad",
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Sauteed Spinach with Yogurt and Dukkah",
+            "Indoor Paella",
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto",
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Indoor Paella",
+            "Flank Steak Peperonata",
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red or yellow bell peppers",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless, skinless chicken breasts",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "boneless, skinless chicken thighs",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 2.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "flank steak",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "mussels",
+          "qty": 12,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "Spanish-style chorizo",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "thick-sliced smoked bacon",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad",
+            "Orzo with Shrimp, Feta, and Lemon"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "Parmesan",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "qty": 1,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "plain yogurt",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad",
+            "Sauteed Spinach with Yogurt and Dukkah"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Chicken Kebabs with Tomato-Feta Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "arborio rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "Bomba rice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "capers (with brine)",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Arugula Salad with Fennel and Shaved Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "orzo",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Orzo with Shrimp, Feta, and Lemon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pearl barley",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "chicken broth",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "canned",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "chicken broth",
+          "qty": 5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Orzo with Shrimp, Feta, and Lemon",
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 2,
+          "dim": "14.5-oz can",
+          "unitLabel": "14.5-oz can",
+          "category": "canned",
+          "fromMeals": [
+            "Indoor Paella",
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "14.5-oz can"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Orzo with Shrimp, Feta, and Lemon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "dukkah",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "spices",
+          "fromMeals": [
+            "Sauteed Spinach with Yogurt and Dukkah"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "ground sage",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 39.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Butternut Squash and Bacon Risotto",
+            "Indoor Paella"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [],
+  "pendingScans": [
+    {
+      "title": "Sauteed Chicken Cutlets with Romesco Sauce",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.290",
+      "cookbook": true
+    },
+    {
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "cookbook": true
+    },
+    {
+      "title": "Sauteed Cherry Tomatoes with Capers and Anchovies",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.228",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 48
+}

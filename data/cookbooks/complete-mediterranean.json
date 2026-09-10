@@ -250,7 +250,39 @@
     {
       "title": "Flank Steak Peperonata",
       "page": 308,
-      "chapter": "Beef"
+      "chapter": "Beef",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "2 teaspoons dried oregano",
+          "Salt and pepper",
+          "1 (1 1/2-pound) flank steak, trimmed",
+          "1/3 cup plus 1 tablespoon extra-virgin olive oil, plus extra for serving",
+          "4 red or yellow bell peppers, quartered, stemmed, seeded, and cut crosswise into 1/4-inch-wide strips",
+          "1 onion, quartered through root end and sliced crosswise into 1/4-inch-wide strips",
+          "6 garlic cloves, lightly crushed and peeled",
+          "1 (14.5-ounce) can diced tomatoes",
+          "2 tablespoons capers plus 4 teaspoons caper brine",
+          "1/8 teaspoon red pepper flakes",
+          "1/2 cup chopped fresh basil"
+        ],
+        "steps": [
+          "Combine oregano and 1 teaspoon salt in bowl. Cut steak with grain into 3 equal pieces. Sprinkle steak with oregano mixture, wrap tightly in plastic wrap, and refrigerate for at least 30 minutes or up to 24 hours.",
+          "Heat 1/3 cup oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add bell peppers, onion, garlic, and 1/2 teaspoon salt. Cover and cook, stirring occasionally, until vegetables are soft, about 10 minutes.",
+          "Stir in tomatoes and their juice, capers and brine, and pepper flakes and cook, uncovered, until slightly thickened, about 5 minutes. Season with salt and pepper to taste. Transfer peperonata to bowl, cover, and keep warm.",
+          "Wipe skillet clean with paper towels. Pat steaks dry and season with pepper. Heat remaining 1 tablespoon oil in now-empty skillet over medium-high heat until just smoking. Cook steaks until well browned and meat registers 120 to 125 degrees (for medium-rare), 5 to 7 minutes per side. Transfer to carving board, tent loosely with foil, and rest 10 minutes.",
+          "Stir basil into peperonata. Slice steaks thin against grain on bias. Season slices with salt and pepper and drizzle with extra oil. Serve steak with peperonata."
+        ],
+        "tips": [
+          "Cut the steak WITH the grain into 3 pieces for cooking, then slice thin AGAINST the grain on the bias to serve — that's what makes flank tender.",
+          "The oregano-salt rub can go on up to 24 hours ahead (minimum 30 minutes) — do it in the morning and the meat is fully seasoned by dinner.",
+          "Peperonata = peppers, onion, tomato, and garlic melted together in a hefty pour of olive oil; capers + brine give it the tang.",
+          "Pull the steak at 120-125 degrees for medium-rare and rest 10 minutes tented; there's a doneness chart on p.310.",
+          "The basil goes into the peperonata only while the meat rests, so it stays fresh; a final drizzle of olive oil balances the tangy, meaty flavors."
+        ]
+      }
     },
     {
       "title": "Grilled Flank Steak with Grilled Vegetables and Salsa Verde",
