@@ -138,7 +138,36 @@
       "title": "Grilled Chicken Kebabs with Tomato-Feta Salad",
       "page": 300,
       "chapter": "Poultry",
-      "fitsMenu": "chicken (favorite); grill"
+      "fitsMenu": "chicken (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "1/4 cup extra-virgin olive oil",
+          "1 teaspoon grated lemon zest plus 3 tablespoons juice",
+          "3 garlic cloves, minced",
+          "1 tablespoon minced fresh oregano",
+          "Salt and pepper",
+          "1 pound cherry tomatoes, halved",
+          "4 ounces feta cheese, crumbled (1 cup)",
+          "1/4 cup thinly sliced red onion",
+          "1/4 cup plain yogurt",
+          "1 1/2 pounds boneless, skinless chicken breasts, trimmed and cut into 1-inch pieces"
+        ],
+        "steps": [
+          "Whisk oil, lemon zest and juice, garlic, oregano, 1/2 teaspoon salt, and 1/2 teaspoon pepper together in medium bowl. Reserve half of oil mixture in second bowl. Add tomatoes, feta, and onion to remaining oil mixture and toss to coat; season and set aside for serving.",
+          "Whisk yogurt into reserved oil mixture. Set aside half of yogurt dressing for serving. Add chicken to remaining yogurt dressing and toss to coat. Thread chicken onto four 12-inch metal skewers.",
+          "Set up grill: charcoal — chimney of 6 quarts briquettes, pour evenly, grate on, covered 5 minutes; gas — all burners high, covered, 15 minutes, leave on high.",
+          "Grill skewers, turning occasionally, until chicken is well browned and registers 160 degrees, about 10 minutes. Slide chicken off skewers onto platter; serve with salad and reserved dressing."
+        ],
+        "tips": [
+          "The yogurt marinade is the whole trick — it protects lean breast meat from drying out on the grill.",
+          "One dressing, three jobs: half dresses the tomato-feta salad, and the yogurt-enriched half splits again into marinade and finishing sauce.",
+          "You will need four 12-inch metal skewers.",
+          "The cherry tomato-feta-red onion salad is built into the recipe — it's what turns the kebabs into a full meal."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Grilled Chicken Souvlaki",
@@ -1077,7 +1106,38 @@
       "title": "Orzo with Shrimp, Feta, and Lemon",
       "page": 158,
       "chapter": "Pasta & Couscous",
-      "fitsMenu": "shrimp (favorite)"
+      "fitsMenu": "shrimp (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          "1 tablespoon grated lemon zest plus 1 tablespoon juice",
+          "Salt and pepper",
+          "1 1/2 pounds extra-large shrimp (21 to 25 per pound), peeled and deveined",
+          "1 tablespoon extra-virgin olive oil, plus extra for serving",
+          "1 onion, chopped fine",
+          "2 garlic cloves, minced",
+          "2 cups orzo",
+          "2 cups chicken broth",
+          "2 cups water",
+          "1/2 cup pitted kalamata olives, chopped coarse",
+          "2 ounces feta cheese, crumbled (1/2 cup)",
+          "2 tablespoons chopped fresh parsley"
+        ],
+        "steps": [
+          "Combine lemon zest, 1/2 teaspoon salt, and 1/2 teaspoon pepper in medium bowl. Add shrimp, toss to coat, and refrigerate until ready to use.",
+          "Heat 1 tablespoon oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add onion and cook until softened, about 5 minutes. Stir in garlic, about 30 seconds. Add orzo and cook, stirring frequently, until coated with oil and lightly browned, about 5 minutes. Stir in broth and water and bring to boil. Cook, stirring occasionally, until orzo is al dente, about 6 minutes. Stir in olives, 1/4 cup feta, and lemon juice; season with salt and pepper.",
+          "Reduce heat to medium-low, nestle shrimp into orzo, cover, and cook until shrimp are opaque throughout, about 5 minutes. Sprinkle with parsley and remaining 1/4 cup feta and drizzle with extra oil. Serve."
+        ],
+        "tips": [
+          "Toss the shrimp with salt, pepper, and lemon ZEST ahead — it infuses them with clean citrus flavor while they wait in the fridge.",
+          "Toasting the orzo (about 5 minutes, until lightly browned) deepens its flavor and coats each grain with oil so they stay separate and distinct.",
+          "Chicken broth (half the liquid) gives a more savory profile than water alone.",
+          "The shrimp cook through GENTLY, nestled into the finished orzo off a covered low heat — that's what keeps them tender, and it keeps the whole dish in one pan.",
+          "Kalamata olives are the briny counterpoint; the feta goes in twice — half stirred in, half sprinkled on top."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Orzo with Greek Sausage and Spiced Yogurt",
@@ -1419,12 +1479,59 @@
     {
       "title": "Sauteed Spinach with Yogurt and Dukkah",
       "page": 225,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          "1/2 cup plain yogurt",
+          "1 1/2 teaspoons grated lemon zest plus 1 teaspoon juice",
+          "3 tablespoons extra-virgin olive oil",
+          "20 ounces curly-leaf spinach, stemmed",
+          "2 garlic cloves, minced",
+          "Salt and pepper",
+          "1/4 cup dukkah"
+        ],
+        "steps": [
+          "Combine yogurt and lemon zest and juice in bowl; set aside for serving. Heat 1 tablespoon oil in Dutch oven over high heat until shimmering. Add spinach 1 handful at a time, stirring and tossing each handful to wilt slightly before adding more. Cook, stirring constantly, until uniformly wilted, about 1 minute. Transfer spinach to colander and squeeze between tongs to release excess liquid.",
+          "Wipe pot dry with paper towels. Add remaining 2 tablespoons oil and garlic to now-empty pot and cook over medium heat until fragrant, about 30 seconds. Add spinach and toss to coat, gently separating leaves to evenly coat with garlic oil. Off heat, season with salt and pepper. Transfer to serving platter, drizzle with yogurt sauce, and sprinkle with dukkah."
+        ],
+        "tips": [
+          "Tagged FAST + VEG. Use CURLY-LEAF spinach — baby spinach wilts down into mush; 2 pounds flat-leaf (about 3 bunches) can substitute.",
+          "Squeeze the cooked spinach between tongs in a colander — driving off the excess moisture is what keeps the dish from being watery.",
+          "The garlic is toasted in the same pan AFTER the spinach comes out, which turns it sweet and nutty rather than raw.",
+          "Dukkah is an Egyptian blend of ground chickpeas, nuts, and spices — ATK prefers their homemade (p.317), but store-bought is a sanctioned substitute."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Sauteed Swiss Chard with Garlic",
       "page": 226,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "2 tablespoons extra-virgin olive oil",
+          "3 garlic cloves, sliced thin",
+          "1 1/2 pounds Swiss chard, stems sliced 1/4 inch thick on bias, leaves sliced into 1/2-inch-wide strips",
+          "Salt and pepper",
+          "2 teaspoons lemon juice"
+        ],
+        "steps": [
+          "Heat oil in 12-inch nonstick skillet over medium-high heat until just shimmering. Add garlic and cook, stirring constantly, until lightly browned, 30 to 60 seconds. Add chard stems and 1/8 teaspoon salt and cook, stirring occasionally, until spotty brown and crisp-tender, about 6 minutes.",
+          "Add two-thirds of chard leaves and cook, tossing with tongs, until just starting to wilt, 30 to 60 seconds. Add remaining chard leaves and continue to cook, stirring frequently, until leaves are tender, about 3 minutes. Off heat, stir in lemon juice and season with salt and pepper to taste. Serve."
+        ],
+        "tips": [
+          "Tagged FAST + VEG. Chard stems fall between spinach's quick stems and kale's tough ribs — slice them thin on the bias and give them a ~6-minute head start with the garlic so they finish with the leaves.",
+          "Add the leaves in two stages, first batch wilting before the rest goes in — that's what gives the range of textures.",
+          "Lemon juice off-heat at the end keeps the dish bright instead of flat and beety. Any variety of Swiss chard works.",
+          "VARIATION - Pancetta & Caramelized Shallots (FAST): omit garlic; brown 3 thinly sliced shallots in 1 tbsp oil 10-12 min; crisp 2 oz pancetta (1/4-inch pieces) in 1 tbsp oil 6-8 min; keep 2 tbsp fat, add 1/8 tsp red pepper flakes with the stems, swap 1 tbsp balsamic for the lemon juice, stir pancetta and shallots in at the end.",
+          "VARIATION - Currants & Pine Nuts (FAST, VEG): reduce garlic to 1 clove, add 1/4 tsp ground cumin with it; swap 2 tsp sherry vinegar for the lemon juice and stir in 3 tbsp dried currants + 3 tbsp toasted pine nuts."
+        ]
+      }
     },
     {
       "title": "Roasted Winter Squash with Tahini and Feta",

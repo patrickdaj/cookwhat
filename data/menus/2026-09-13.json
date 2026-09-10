@@ -232,7 +232,6 @@
       "protein": "chicken",
       "tags": [
         "book",
-        "needs-scan",
         "weeknight",
         "grill"
       ],
@@ -241,14 +240,61 @@
       "servings": 4,
       "ingredients": [
         {
+          "item": "boneless, skinless chicken breasts",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "category": "produce",
+          "note": "1/4 cup sliced"
+        },
+        {
+          "item": "plain yogurt",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest + 3 tbsp juice"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
           "item": "pita bread",
           "qty": 4,
-          "unit": "",
           "category": "bakery",
           "note": "for serving"
         }
       ],
-      "notes": "SCAN p.300. The tomato-feta salad is part of the recipe — veg built in; pita is the carb."
+      "notes": "The tomato-feta salad is part of the recipe — veg built in; pita is the carb. Needs four 12-inch metal skewers. Yogurt marinade keeps the breast meat juicy; half the dressing is the finishing sauce."
     },
     {
       "id": "orzo-with-shrimp-feta-and-lemon-14a863fc",
@@ -262,15 +308,69 @@
       "protein": "shrimp",
       "tags": [
         "book",
-        "needs-scan",
         "weeknight",
         "freezer-clear"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.158. FREEZER SHRIMP — use the bag already in the freezer, don't buy any; thaw overnight in the fridge or 15 min in cold water. One-pot orzo covers protein + carb; the kale is the veg."
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "FREEZER — use the bag on hand, do not buy"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest + juice"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "orzo",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "chicken broth",
+          "qty": 2,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 2,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        }
+      ],
+      "notes": "FREEZER SHRIMP — use the bag already in the freezer, don't buy any; thaw overnight in the fridge or 15 min in cold water. One-pot orzo covers protein + carb; the kale is the veg. Zest the shrimp ahead; toast the orzo ~5 min; nestle shrimp in covered at the end so they stay tender."
     },
     {
       "id": "sauteed-spinach-with-yogurt-and-dukkah-ea7e6d2c",
@@ -284,14 +384,46 @@
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan",
         "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.225. Replaces the kale (now a recorded dislike — your wife's veto is in the config)."
+      "ingredients": [
+        {
+          "item": "curly-leaf spinach",
+          "qty": 20,
+          "unit": "oz",
+          "category": "produce",
+          "note": "NOT baby spinach — it turns to mush; 2 lb flat-leaf works"
+        },
+        {
+          "item": "plain yogurt",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest + juice"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "dukkah",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "spices",
+          "note": "store-bought, or homemade ATK p.317"
+        }
+      ],
+      "notes": "Replaces the kale (now a recorded dislike — your wife's veto is in the config). Dukkah is the store-bought-or-homemade component — grab a jar, or say the word and we scan p.317 and make it from scratch."
     },
     {
       "id": "indoor-paella-e16cfab1",
