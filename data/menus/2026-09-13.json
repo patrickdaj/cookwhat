@@ -69,7 +69,7 @@
     },
     {
       "id": "flank-steak-peperonata-4f2f06d0",
-      "day": "Mon",
+      "day": "Wed",
       "slot": "dinner",
       "role": "main",
       "title": "Flank Steak Peperonata",
@@ -90,7 +90,7 @@
     },
     {
       "id": "herbed-barley-pilaf-3092edac",
-      "day": "Mon",
+      "day": "Wed",
       "slot": "dinner",
       "role": "side",
       "title": "Herbed Barley Pilaf",
@@ -218,7 +218,7 @@
     },
     {
       "id": "broiled-bluefish-with-preserved-lemon-and-zhoug-2b4ff4df",
-      "day": "Wed",
+      "day": "Mon",
       "slot": "dinner",
       "role": "main",
       "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
@@ -240,7 +240,7 @@
     },
     {
       "id": "tabbouleh-4742b80d",
-      "day": "Wed",
+      "day": "Mon",
       "slot": "dinner",
       "role": "side",
       "title": "Tabbouleh",
