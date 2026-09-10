@@ -555,12 +555,48 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "weeknight",
         "omega-3"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.244. Book recipe is bluefish — deliberately made with salmon (always available, same omega-3 credit, same broil + sauce). Uses the preserved-lemon jar from last week."
+      "ingredients": [
+        {
+          "item": "salmon fillets (4-6 oz, 1-1.5 in thick)",
+          "qty": 4,
+          "category": "meat-seafood",
+          "note": "book uses bluefish; salmon by choice"
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "preserved lemon",
+          "category": "pantry",
+          "note": "IN HOUSE — last week's jar (need 1 tbsp minced rind)"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "green zhoug",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": "store-bought, or ATK p.316 — scan it to make from scratch"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "wedges for serving"
+        }
+      ],
+      "notes": "Book recipe is bluefish (p.244) — made with salmon by choice. Broiler 4 in away, coating on top, ~5 min for 1-in fillets; thicker salmon runs a few minutes longer — pull at 140°F per the book, or ~130°F if you like salmon silkier. Zhoug is the store-bought-or-p.316 component."
     },
     {
       "id": "tabbouleh-side",
@@ -576,11 +612,50 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "whole-grain"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.127. Covers both the veg (all that parsley and tomato) and the bulgur carb — replaces the barley pilaf, so no pearl barley needed."
+      "ingredients": [
+        {
+          "item": "tomatoes",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "medium-grind bulgur (NOT cracked wheat)",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "lemon",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1.5,
+          "unit": "cup minced",
+          "category": "produce",
+          "note": "~2 bunches on its own"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "cayenne pepper",
+          "category": "spices",
+          "note": "pinch — bought last week"
+        }
+      ],
+      "notes": "No cooking, but start ~2 hours ahead: tomatoes drain 30 min, bulgur soaks 30-40 in the tomato-lemon juice, salad rests 1 hour. Medium-grind bulgur only — cracked wheat will not work."
     }
   ],
   "notes": "Mon 9/14: eating out (probably steak — that is the week's red meat). Jody guest night is Wednesday. Flank Steak Peperonata (p.308, fully captured) parked for a future week.",

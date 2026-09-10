@@ -1005,7 +1005,35 @@
     {
       "title": "Tabbouleh",
       "page": 127,
-      "chapter": "Rice & Grains"
+      "chapter": "Rice & Grains",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "3 tomatoes, cored and cut into 1/2-inch pieces",
+          "Salt and pepper",
+          "1/2 cup medium-grind bulgur, rinsed",
+          "1/4 cup lemon juice (2 lemons)",
+          "6 tablespoons extra-virgin olive oil",
+          "1/8 teaspoon cayenne pepper",
+          "1 1/2 cups minced fresh parsley",
+          "1/2 cup minced fresh mint",
+          "2 scallions, sliced thin"
+        ],
+        "steps": [
+          "Toss tomatoes with 1/4 teaspoon salt in fine-mesh strainer set over bowl and let drain, tossing occasionally, 30 minutes; reserve 2 tablespoons drained tomato juice. Toss bulgur with 2 tablespoons lemon juice and reserved tomato juice in bowl and let sit until grains begin to soften, 30 to 40 minutes.",
+          "Whisk remaining 2 tablespoons lemon juice, oil, cayenne, and 1/4 teaspoon salt together in large bowl. Add tomatoes, bulgur, parsley, mint, and scallions and toss gently to combine. Cover and let sit at room temperature until flavors have blended and bulgur is tender, about 1 hour. Before serving, toss to recombine and season with salt and pepper."
+        ],
+        "tips": [
+          "Tagged VEG. No cooking at all — but budget ~2 hours of resting: 30 min tomato drain, 30-40 min bulgur soak, then 1 hour for the assembled salad.",
+          "Salting and draining the tomatoes keeps the salad from going soggy; the drained juice + lemon juice is what the bulgur soaks in (never plain water) — that's where the flavor comes from.",
+          "Two mild scallions, not chopped onion — onion overwhelmed the salad in testing.",
+          "Herbs and vegetables go in while the bulgur is still finishing, so everything mingles into one cohesive dish.",
+          "Use MEDIUM-GRIND BULGUR — do not confuse it with cracked wheat, which takes far longer and will not work here.",
+          "VARIATION on the same page: Spiced Tabbouleh (body not fully captured in this scan)."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Warm Farro with Lemon and Herbs",
@@ -1698,7 +1726,34 @@
       "title": "Broiled Bluefish with Preserved Lemon and Zhoug",
       "page": 244,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite)"
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          "4 (4- to 6-ounce) skinless bluefish fillets, 1 to 1 1/2 inches thick",
+          "Salt and pepper",
+          "1/4 cup mayonnaise",
+          "1/4 preserved lemon, pulp and white pith removed, rind rinsed and minced (1 tablespoon)",
+          "1 garlic clove, minced",
+          "1/4 teaspoon sugar",
+          "1/4 cup Green Zhoug (page 316)",
+          "Lemon wedges"
+        ],
+        "steps": [
+          "Adjust oven rack 4 inches from broiler element and heat broiler. Pat bluefish dry with paper towels, season with salt and pepper, and place skinned side down in greased rimmed baking sheet.",
+          "Combine mayonnaise, preserved lemon, garlic, and sugar in bowl, then spread mixture evenly on tops of fillets. Broil until fish flakes apart when gently prodded with paring knife and registers 140 degrees, about 5 minutes. Serve with Green Zhoug and lemon wedges."
+        ],
+        "tips": [
+          "Tagged FAST — two steps, ~5 minutes under the broiler.",
+          "Freshness matters most with bluefish: the longer it sits on ice, the fishier it gets. (Mackerel is the book's named substitute.)",
+          "The mayonnaise is the glue — it keeps the preserved-lemon coating clinging to the fillets while they cook; the 1/4 teaspoon of sugar speeds the browning under the broiler.",
+          "Bluefish's gray-brown flesh turns white when cooked through; the doneness cue is flaking + 140 degrees.",
+          "Green Zhoug is a p.316 sub-component (an Israeli hot sauce of fresh herbs and chiles) — homemade or store-bought.",
+          "No preserved lemons at the store? The book's own recipe is on p.252."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Broiled Grape Leaf-Wrapped Grouper",
