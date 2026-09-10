@@ -249,15 +249,15 @@
       "notes": "SCAN p.300. The tomato-feta salad is part of the recipe — veg built in; pita is the carb."
     },
     {
-      "id": "baked-orzo-with-eggplant-and-tomatoes-910b7acb",
+      "id": "orzo-with-shrimp-feta-and-lemon-14a863fc",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Baked Orzo with Eggplant and Tomatoes",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.160",
+      "title": "Orzo with Shrimp, Feta, and Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.158",
       "sourceUrl": "",
       "cuisine": "mediterranean",
-      "protein": "vegetarian",
+      "protein": "shrimp",
       "tags": [
         "book",
         "needs-scan",
@@ -267,7 +267,27 @@
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.160. Vegetarian one-dish — orzo carb + eggplant and tomatoes as the veg. Mostly hands-off in the oven on a Friday."
+      "notes": "SCAN p.158. Catalog flags shrimp as a favorite. One-pot orzo covers protein + carb; the kale is the veg."
+    },
+    {
+      "id": "garlicky-braised-kale-19b5fc00",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlicky Braised Kale",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.218",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.218. Dark greens for the heart-healthy column."
     }
   ]
 }
