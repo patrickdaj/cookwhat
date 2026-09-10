@@ -165,14 +165,60 @@
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan",
         "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.69. Opens the Salads chapter; bitter greens against the rich risotto."
+      "ingredients": [
+        {
+          "item": "baby arugula",
+          "qty": 6,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "fennel bulb",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "Parmesan cheese",
+          "qty": 1,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "shaved — same wedge as the risotto"
+        }
+      ],
+      "notes": "Opens the Salads chapter; bitter greens against the rich risotto."
     },
     {
       "id": "grilled-chicken-kebabs-with-tomato-feta-salad-53b41188",
@@ -259,15 +305,109 @@
       "protein": "seafood",
       "tags": [
         "book",
-        "needs-scan",
         "weekend",
         "project"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.112. Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights."
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "boneless, skinless chicken thighs",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "Spanish-style chorizo",
+          "qty": 8,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": "dry-cured preferred; fresh chorizo or linguica OK"
+        },
+        {
+          "item": "mussels",
+          "qty": 12,
+          "category": "meat-seafood"
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "14.5-oz can",
+          "category": "canned"
+        },
+        {
+          "item": "Bomba rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "or any Valencia rice; Arborio works — same bag as the risotto"
+        },
+        {
+          "item": "chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "beverages"
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "category": "spices"
+        },
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "wedges for serving"
+        }
+      ],
+      "notes": "Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights. Needs a 6-qt Dutch oven. Optional stovetop socarrat step at the end."
     },
     {
       "id": "flank-steak-peperonata",
@@ -303,11 +443,52 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "whole-grain"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.120. Barley = soluble fiber for the heart-healthy column."
+      "ingredients": [
+        {
+          "item": "pearl barley",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "NOT hulled/quick-cooking/presteamed"
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce"
+        }
+      ],
+      "notes": "Barley = soluble fiber for the heart-healthy column."
     }
   ],
   "notes": "Mon 9/14: eating out. Jody guest night is Wednesday. Bluefish w/ Preserved Lemon & Zhoug (p.244) + Tabbouleh (p.127) bumped to a future week — no omega-3 fish night this week."

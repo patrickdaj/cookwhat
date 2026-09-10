@@ -800,7 +800,50 @@
       "title": "Indoor Paella",
       "page": 112,
       "chapter": "Rice & Grains",
-      "fitsMenu": "seafood"
+      "fitsMenu": "seafood",
+      "scanned": true,
+      "makes": "Serves 6",
+      "captured": {
+        "ingredients": [
+          "1 pound extra-large shrimp (21 to 25 per pound), peeled and deveined",
+          "2 tablespoons extra-virgin olive oil, plus extra as needed",
+          "8 garlic cloves, minced",
+          "Salt and pepper",
+          "1 pound boneless, skinless chicken thighs, trimmed and halved crosswise",
+          "1 red bell pepper, stemmed, seeded, and cut into 1/2-inch-wide strips",
+          "8 ounces Spanish-style chorizo sausage, sliced on bias 1/2 inch thick",
+          "1 onion, chopped fine",
+          "1 (14.5-ounce) can diced tomatoes, drained, minced, and drained again",
+          "2 cups Bomba rice",
+          "3 cups chicken broth",
+          "1/3 cup dry white wine",
+          "1/2 teaspoon saffron threads, crumbled",
+          "1 bay leaf",
+          "12 mussels, scrubbed and debearded",
+          "1/2 cup frozen peas, thawed",
+          "2 teaspoons chopped fresh parsley",
+          "Lemon wedges"
+        ],
+        "steps": [
+          "Adjust oven rack to lower-middle position and heat oven to 350 degrees. Toss shrimp with 1 tablespoon oil, 1 teaspoon garlic, 1/4 teaspoon salt, and 1/4 teaspoon pepper; cover and refrigerate. Pat chicken dry and season with salt and pepper.",
+          "Heat 2 teaspoons oil in Dutch oven over medium-high heat until shimmering. Cook bell pepper until skin begins to blister and turn spotty black, about 4 minutes; transfer to bowl.",
+          "Heat remaining 1 teaspoon oil; brown chicken in single layer, about 3 minutes per side; transfer to bowl. Reduce heat to medium and cook chorizo, stirring frequently, until deeply browned and fat renders, about 5 minutes; transfer to bowl with chicken.",
+          "Add extra oil to fat in pot to equal 2 tablespoons. Cook onion until softened, about 3 minutes; stir in remaining garlic, 1 minute. Stir in tomatoes; cook until darkened and slightly thickened, about 3 minutes. Stir in rice until grains are well coated, about 2 minutes.",
+          "Stir in broth, wine, saffron, bay leaf, and 1/2 teaspoon salt. Return chicken and chorizo to pot, increase heat to medium-high, and bring to boil, stirring occasionally. Cover, transfer pot to oven, and bake until almost all liquid is absorbed, 15 to 20 minutes.",
+          "Remove pot. Scatter shrimp and mussels over rice, pushing hinge side of mussels into rice so they stand up. Cover, return to oven, and bake until shrimp are opaque and mussels have opened, 10 to 15 minutes.",
+          "For optional socarrat: transfer pot to stovetop, remove lid, and cook over medium-high heat about 5 minutes, rotating pot, until bottom layer of rice is well browned and crisp.",
+          "Discard unopened mussels and bay leaf. Arrange bell pepper strips in pinwheel over rice, sprinkle with peas, cover, and let sit 5 minutes. Sprinkle with parsley; serve with lemon wedges."
+        ],
+        "tips": [
+          "A Dutch oven (at least 6 quarts) stands in for the paella pan — no specialty equipment.",
+          "Bomba rice is most traditional; any Valencia rice works, and Arborio is an acceptable substitute.",
+          "Dry-cured Spanish chorizo is the sausage of choice; fresh chorizo or linguica is an acceptable substitute.",
+          "Chicken broth, white wine, saffron, and a bay leaf are the whole seasoning backbone — don't overcomplicate.",
+          "Socarrat (the crusty browned rice layer) doesn't develop in the oven version — use the optional stovetop step 7 to make it before serving.",
+          "VARIATION — Indoor Paella in a Paella Pan: use a 14- to 15-inch pan, increase broth to 3 1/4 cups and wine to 1/2 cup, and cover tightly with foil before it goes in the oven."
+        ],
+        "makes": "Serves 6"
+      }
     },
     {
       "title": "Grilled Paella",
@@ -821,7 +864,35 @@
     {
       "title": "Herbed Barley Pilaf",
       "page": 120,
-      "chapter": "Rice & Grains"
+      "chapter": "Rice & Grains",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "3 tablespoons extra-virgin olive oil",
+          "1 small onion, chopped fine",
+          "Salt and pepper",
+          "1 1/2 cups pearl barley, rinsed",
+          "2 garlic cloves, minced",
+          "1 1/2 teaspoons minced fresh thyme or 1/2 teaspoon dried",
+          "2 1/2 cups water",
+          "1/4 cup minced fresh parsley",
+          "2 tablespoons minced fresh chives",
+          "1 1/2 teaspoons lemon juice"
+        ],
+        "steps": [
+          "Heat oil in large saucepan over medium heat until shimmering. Add onion and 1/2 teaspoon salt; cook until softened, about 5 minutes. Stir in barley, garlic, and thyme and cook, stirring frequently, until barley is lightly toasted and fragrant, about 3 minutes.",
+          "Stir in water and bring to simmer. Reduce heat to low, cover, and simmer until barley is tender and water is absorbed, 20 to 40 minutes.",
+          "Off heat, lay clean dish towel underneath lid and let pilaf sit 10 minutes. Add parsley, chives, and lemon juice, fluff gently with fork, and season with salt and pepper to taste."
+        ],
+        "tips": [
+          "Cooking time swings 20 to 40 minutes depending on how heavily the barley was pearled — the label won't tell you, so start checking at 20.",
+          "Do NOT substitute hulled, hull-less, quick-cooking, or presteamed barley.",
+          "Toasting the barley with the onion before adding water is what brings out the nuttiness.",
+          "The dish-towel-under-the-lid rest absorbs excess moisture; lemon juice at the end is the fresh finish."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Barley with Roasted Carrots, Snow Peas, and Lemon-Yogurt Sauce",
@@ -2241,12 +2312,65 @@
     {
       "title": "Arugula Salad with Fennel and Shaved Parmesan",
       "page": 69,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "6 ounces (6 cups) baby arugula",
+          "1 large fennel bulb, stalks discarded, bulb halved, cored, and sliced thin",
+          "1 1/2 tablespoons lemon juice",
+          "1 small shallot, minced",
+          "1 teaspoon Dijon mustard",
+          "1 teaspoon minced fresh thyme",
+          "1 small garlic clove, minced",
+          "Salt and pepper",
+          "1/4 cup extra-virgin olive oil",
+          "1 ounce Parmesan cheese, shaved"
+        ],
+        "steps": [
+          "Gently toss arugula and fennel together in large bowl.",
+          "Whisk lemon juice, shallot, mustard, thyme, garlic, 1/8 teaspoon salt, and pinch pepper together in small bowl. Whisking constantly, slowly drizzle in oil.",
+          "Drizzle dressing over salad and gently toss to coat. Season with salt and pepper to taste. Serve, topping individual portions with Parmesan."
+        ],
+        "tips": [
+          "Tagged FAST + VEG in the book.",
+          "From the page's technique panel: slowly drizzle the oil into the dressing base while whisking constantly to fully emulsify.",
+          "Dress just before serving; add cheese (and any nuts) after tossing, on the plated portions."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Green Salad with Artichokes and Olives",
       "page": 69,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "1 romaine lettuce heart (6 ounces), cut into 1-inch pieces",
+          "3 ounces (3 cups) baby arugula",
+          "1 cup jarred whole baby artichoke hearts packed in water, quartered, rinsed, and patted dry",
+          "1/3 cup fresh parsley leaves",
+          "1/3 cup pitted kalamata olives, halved",
+          "2 tablespoons white wine vinegar or white balsamic vinegar",
+          "1 small garlic clove, minced",
+          "Salt and pepper",
+          "3 tablespoons extra-virgin olive oil",
+          "1 ounce Asiago cheese, shaved"
+        ],
+        "steps": [
+          "Gently toss romaine, arugula, artichoke hearts, parsley, and olives together in large bowl.",
+          "Whisk vinegar, garlic, 1/4 teaspoon salt, and pinch pepper together in small bowl. Whisking constantly, slowly drizzle in oil.",
+          "Drizzle vinaigrette over salad and gently toss to coat. Season with salt and pepper to taste. Serve, topping individual portions with Asiago."
+        ],
+        "tips": [
+          "Tagged FAST + VEG in the book.",
+          "Bonus capture from the same page scan as the arugula-fennel salad."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Arugula Salad with Figs, Prosciutto, Walnuts, and Parmesan",
