@@ -392,6 +392,11 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   time budget, no project cooking. **Saturday is the project-cooking day.**
 - **Guest Jody can't eat salad** (noted 2026-09) — on Jody nights, skip salads;
   pick a cooked veg or none at all.
+- **Keep chile heat LOW — the user's wife is heat-sensitive** (noted 2026-09).
+  Build spicy dishes mild (seed/reduce chiles, halve gochugaru/cayenne-type
+  amounts) and serve hot condiments (zhoug, harissa, chili crisps, hot salsas)
+  **on the side** so each person doses their own. Warm spice (cumin, cinnamon,
+  smoked paprika) is fine — it's capsaicin heat to watch.
 - Run the CLI as `node bin/cookwhat.js <...>` (or `cookwhat` if linked).
 - A "week" is keyed by its Sunday; pass any date in the week.
 - Data lives in `data/` and is committed so history survives. After meaningful

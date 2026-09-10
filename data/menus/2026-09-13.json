@@ -353,7 +353,7 @@
           "qty": 0.25,
           "unit": "cup",
           "category": "spices",
-          "note": "store-bought, or homemade ATK p.317"
+          "note": "homemade (p.317, captured — chickpea roast takes 40-45 min, make it on the weekend; keeps 1 month fridge) or store-bought. No chile heat in it."
         }
       ],
       "notes": "Book-approved sub: 2 lb flat-leaf spinach (~3 bunches) — only baby spinach is vetoed. Replaces the kale (now a recorded dislike — your wife's veto is in the config). Dukkah is the store-bought-or-homemade component — grab a jar, or say the word and we scan p.317 and make it from scratch."
@@ -520,7 +520,7 @@
           "qty": 0.25,
           "unit": "cup",
           "category": "canned",
-          "note": "store-bought, or ATK p.316 — scan it to make from scratch"
+          "note": "homemade (p.316, captured) or store-bought; MILD BUILD for the wife: 1 seeded chile instead of 2 Thai chiles, and serve on the side. Make no more than 4 days ahead (raw garlic in oil)."
         },
         {
           "item": "lemon",
