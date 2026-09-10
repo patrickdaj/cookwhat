@@ -151,74 +151,7 @@
           "note": "confirm from the NYT card"
         }
       ],
-      "notes": "GUEST NIGHT (Jody) — Wednesday. Your Paprika pick, uncooked till now. Risotto is exempt from the rice rules. Bacon is the week's one indulgence — the rest of the week stays lean. The Paprika capture looks incomplete (no broth/Parmesan lines); double-check the NYT card before shopping."
-    },
-    {
-      "id": "arugula-salad-with-fennel-and-shaved-parmesan-541376c6",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Arugula Salad with Fennel and Shaved Parmesan",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "quick"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "baby arugula",
-          "qty": 6,
-          "unit": "oz",
-          "category": "produce"
-        },
-        {
-          "item": "fennel bulb",
-          "qty": 1,
-          "category": "produce"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "category": "produce"
-        },
-        {
-          "item": "shallot",
-          "qty": 1,
-          "category": "produce"
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry"
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "Parmesan cheese",
-          "qty": 1,
-          "unit": "oz",
-          "category": "dairy",
-          "note": "shaved — same wedge as the risotto"
-        }
-      ],
-      "notes": "Opens the Salads chapter; bitter greens against the rich risotto."
+      "notes": "GUEST NIGHT (Jody) — Wednesday. Your Paprika pick, uncooked till now. Risotto is exempt from the rice rules. Bacon is the week's one indulgence — the rest of the week stays lean. The Paprika capture looks incomplete (no broth/Parmesan lines); double-check the NYT card before shopping. No side — Jody can't eat the salad; the risotto stands alone."
     },
     {
       "id": "grilled-chicken-kebabs-with-tomato-feta-salad-53b41188",

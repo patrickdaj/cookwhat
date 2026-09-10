@@ -390,6 +390,8 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
 
 - **Sunday is pool night (as of 2026-09): treat Sun as a QUICK night** — weeknight
   time budget, no project cooking. **Saturday is the project-cooking day.**
+- **Guest Jody can't eat salad** (noted 2026-09) — on Jody nights, skip salads;
+  pick a cooked veg or none at all.
 - Run the CLI as `node bin/cookwhat.js <...>` (or `cookwhat` if linked).
 - A "week" is keyed by its Sunday; pass any date in the week.
 - Data lives in `data/` and is committed so history survives. After meaningful
