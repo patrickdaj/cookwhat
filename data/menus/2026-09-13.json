@@ -5,37 +5,78 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "indoor-paella-d30ff157",
+      "id": "sauteed-chicken-cutlets-with-romesco-sauce-c9c59cde",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Indoor Paella",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.112",
+      "title": "Sauteed Chicken Cutlets with Romesco Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.290",
       "sourceUrl": "",
       "cuisine": "spanish",
-      "protein": "seafood",
+      "protein": "chicken",
       "tags": [
         "book",
-        "needs-scan",
-        "weekend",
-        "project"
+        "quick",
+        "pool-night",
+        "carried-over"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.112. Weekend project dish — opens the Rice & Grains mains. The week's one rice night (Tuesday's risotto is exempt)."
+      "notes": "POOL NIGHT — quick. Carried over from last week's Wednesday: everything for it is already in the house (nothing on the shopping list). Romesco can be made ahead Saturday."
     },
     {
-      "id": "sauteed-chicken-breasts-with-cherry-tomatoes-zucchini-and-ye-911b3929",
+      "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-ee8a93fb",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "carried-over"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Carried over with the cutlets — ingredients in house. If 45 min is too long before pool, swap for crusty bread and save the pilaf fixings."
+    },
+    {
+      "id": "sauteed-cherry-tomatoes-with-capers-and-anchovies-6323e71f",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Cherry Tomatoes with Capers and Anchovies",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.228",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "quick",
+        "carried-over"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Carried over — ingredients in house; 5 minutes on the stove right before serving."
+    },
+    {
+      "id": "flank-steak-peperonata-4f2f06d0",
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Sauteed Chicken Breasts with Cherry Tomatoes, Zucchini, and Yellow Squash",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.292",
+      "title": "Flank Steak Peperonata",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
       "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "chicken",
+      "cuisine": "italian",
+      "protein": "beef",
       "tags": [
         "book",
         "needs-scan",
@@ -45,7 +86,7 @@
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.292. Veg is built into the main; barley pilaf is the whole-grain carb."
+      "notes": "SCAN p.308. The week's red-meat night — flank is a lean cut, and the peperonata (peppers + onions) is the veg built in. Barley pilaf stays as the whole-grain carb."
     },
     {
       "id": "herbed-barley-pilaf-3092edac",
@@ -77,7 +118,7 @@
       "source": "Paprika import — NYT Cooking",
       "sourceUrl": "https://cooking.nytimes.com/recipes/1017919-butternut-squash-and-bacon-risotto",
       "cuisine": "italian",
-      "protein": "pork",
+      "protein": "bacon",
       "tags": [
         "paprika",
         "uncooked",
@@ -271,24 +312,47 @@
       "notes": "SCAN p.158. FREEZER SHRIMP — use the bag already in the freezer, don't buy any; thaw overnight in the fridge or 15 min in cold water. One-pot orzo covers protein + carb; the kale is the veg."
     },
     {
-      "id": "garlicky-braised-kale-19b5fc00",
+      "id": "sauteed-spinach-with-yogurt-and-dukkah-ea7e6d2c",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Garlicky Braised Kale",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.218",
+      "title": "Sauteed Spinach with Yogurt and Dukkah",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.225",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan"
+        "needs-scan",
+        "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.218. Dark greens for the heart-healthy column."
+      "notes": "SCAN p.225. Replaces the kale (now a recorded dislike — your wife's veto is in the config)."
+    },
+    {
+      "id": "indoor-paella-e16cfab1",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Indoor Paella",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.112",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "seafood",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weekend",
+        "project"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.112. Moved from Sunday — Saturday is the project-cooking day now that Sundays are pool nights."
     }
   ]
 }
