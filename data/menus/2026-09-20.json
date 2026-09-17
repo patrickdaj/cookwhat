@@ -19,13 +19,14 @@
         "needs-scan",
         "pool-night",
         "quick",
-        "light"
+        "light",
+        "freezer-clear"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.260. POOL NIGHT — light and fast: thin fillets, minutes in the pan."
+      "notes": "SCAN p.260. POOL NIGHT — light and fast. Made with the FROZEN WHITE FISH from the freezer (thin fillets sauté in minutes; a thicker fillet just needs an extra minute or two per side). Nothing to buy for the protein."
     },
     {
       "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-168d7d3d",
@@ -320,29 +321,6 @@
       "notes": "SCAN p.88. Cool and crunchy against the warm soup."
     },
     {
-      "id": "red-wine-braised-octopus-11f3aa31",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Red Wine-Braised Octopus",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.285",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "seafood",
-      "tags": [
-        "book",
-        "needs-scan",
-        "weekend",
-        "project",
-        "freezer-clear"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.285. PROJECT DAY, built around the FREEZER OCTOPUS — chunks work fine in a braise (skip the whole-octopus prep; exact quantity check at scan). Thaw overnight Friday."
-    },
-    {
       "id": "roasted-root-vegetables-with-lemon-caper-sauce-47d51840",
       "day": "Sat",
       "slot": "dinner",
@@ -368,8 +346,29 @@
           "note": "for the braising juices"
         }
       ],
-      "notes": "SCAN p.223. Roots cover veg + starch; bread mops the braise."
+      "notes": "SCAN p.223. Roots cover veg + starch; bread mops the shrimp-feta pan juices."
+    },
+    {
+      "id": "greek-style-shrimp-tomatoes-feta-redo",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
+      "activeTimeMin": 30,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "tags": [
+        "book",
+        "redo",
+        "freezer-clear",
+        "weekend"
+      ],
+      "ingredients": [],
+      "notes": "REDO — you rated this 4★ and flagged it in June; first redo since the tally started. Fully captured (p.269), no scan needed. Uses the FREEZER SHRIMP — thaw Friday night or Saturday morning; nothing to buy for the protein. Ingredients to be filled onto the meal from the capture before shopping."
     }
   ],
-  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu deliberately light. Sat built around the freezer octopus."
+  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
 }
