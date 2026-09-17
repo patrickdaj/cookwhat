@@ -359,7 +359,9 @@
       "title": "Lamb Tagine with Figs and North African Spices",
       "page": 326,
       "chapter": "Lamb",
-      "note": "page approx"
+      "note": "page approx",
+      "cooked": true,
+      "cookedOn": "2026-09-08"
     },
     {
       "title": "Braised Lamb Shanks with Bell Peppers and Harissa",
@@ -1175,7 +1177,9 @@
     {
       "title": "Warm Farro with Lemon and Herbs",
       "page": 128,
-      "chapter": "Rice & Grains"
+      "chapter": "Rice & Grains",
+      "cooked": true,
+      "cookedOn": "2026-09-07"
     },
     {
       "title": "Farro Salad with Asparagus, Snap Peas, and Tomatoes",
@@ -1405,7 +1409,9 @@
           "Variation - Carrots, Raisins & Pine Nuts: cook grated carrot in the oil and stir raisins + toasted pine nuts in at the end.",
           "Variation - Dates & Pistachios: fold chopped dates + toasted pistachios in after fluffing."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-08"
     },
     {
       "title": "Spiced Vegetable Couscous",
@@ -1587,7 +1593,9 @@
     {
       "title": "Braised Green Beans with Potatoes and Basil",
       "page": 217,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "cooked": true,
+      "cookedOn": "2026-09-11"
     },
     {
       "title": "Garlicky Braised Kale",
@@ -1728,7 +1736,9 @@
           "VARIATION - Pancetta & Caramelized Shallots (FAST): omit garlic; brown 3 thinly sliced shallots in 1 tbsp oil 10-12 min; crisp 2 oz pancetta (1/4-inch pieces) in 1 tbsp oil 6-8 min; keep 2 tbsp fat, add 1/8 tsp red pepper flakes with the stems, swap 1 tbsp balsamic for the lemon juice, stir pancetta and shallots in at the end.",
           "VARIATION - Currants & Pine Nuts (FAST, VEG): reduce garlic to 1 clove, add 1/4 tsp ground cumin with it; swap 2 tsp sherry vinegar for the lemon juice and stir in 3 tbsp dried currants + 3 tbsp toasted pine nuts."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-07"
     },
     {
       "title": "Roasted Winter Squash with Tahini and Feta",
@@ -2101,7 +2111,9 @@
           "Reduce the wine + tomato juice by half to concentrate the base before adding the rest.",
           "Sicilian sweet-savory balance: raisins + capers + pine nuts. Don't skip the raw pine nut-mint-orange-garlic topping - it brightens the bowl."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-07"
     },
     {
       "title": "Monkfish Tagine",
@@ -2175,7 +2187,9 @@
       "title": "Seared Scallops with Orange-Lime Dressing",
       "page": 273,
       "chapter": "Seafood",
-      "fitsMenu": "seafood"
+      "fitsMenu": "seafood",
+      "cooked": true,
+      "cookedOn": "2026-09-11"
     },
     {
       "title": "Grilled Scallop and Zucchini Skewers with Basil Vinaigrette",
@@ -2825,7 +2839,9 @@
     {
       "title": "Moroccan-Style Carrot Salad with Harissa and Feta",
       "page": 85,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "cooked": true,
+      "cookedOn": "2026-09-08"
     },
     {
       "title": "North African Cauliflower Salad with Chermoula",
