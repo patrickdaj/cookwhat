@@ -257,27 +257,6 @@
       "notes": "Captured (p.120). Start before the steak — cooking time swings 20-40 min with pearling; check at 20."
     },
     {
-      "id": "baked-orzo-with-eggplant-and-tomatoes-4beb34c3",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Baked Orzo with Eggplant and Tomatoes",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.160",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetarian",
-      "tags": [
-        "book",
-        "needs-scan",
-        "weeknight"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.160. The one veggie night — eggplant and tomatoes baked into the orzo, a complete one-dish dinner with the oven doing the work."
-    },
-    {
       "id": "avgolemono-726213b2",
       "day": "Thu",
       "slot": "dinner",
@@ -442,7 +421,29 @@
         }
       ],
       "notes": "REDO — 4★ from June, first redo since the tally started; fully captured, no scan. FREEZER SHRIMP (thaw Friday night). Halve the red pepper flakes for the low-heat house. Check the cabinet for ouzo before buying — you had it in June."
+    },
+    {
+      "id": "whole-wheat-pizza-artichokes-ricotta",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.356",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "activeTimeMin": 40,
+      "totalTimeMin": 60,
+      "servings": 4,
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight",
+        "breads-chapter",
+        "random-pick"
+      ],
+      "ingredients": [],
+      "notes": "SCAN p.356 — AND the whole-wheat dough base page next to it (likely p.355; ATK pizza doughs usually want an overnight fridge rest, so the scan tells us if Tuesday-night prep is needed). The dice pick that finally cracks the Breads & Pizzas chapter. Ricotta + Parmesan as the cheese accent on a whole-grain crust."
     }
   ],
-  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
+  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Wed: random Breads-chapter pizza (dice-picked). Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
 }
