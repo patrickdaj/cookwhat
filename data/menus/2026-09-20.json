@@ -1,0 +1,375 @@
+{
+  "weekOf": "2026-09-20",
+  "createdAt": "2026-09-17T14:42:49.931Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "sauteed-sole-with-fresh-tomato-relish-e866ab14",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Sauteed Sole with Fresh Tomato Relish",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "fish",
+      "tags": [
+        "book",
+        "needs-scan",
+        "pool-night",
+        "quick",
+        "light"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.260. POOL NIGHT — light and fast: thin fillets, minutes in the pan."
+    },
+    {
+      "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-168d7d3d",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.102 — third time on a menu, never actually captured to the catalog; some fixings may still be in the pantry (basmati, frozen peas). Mostly unattended while the sole cooks."
+    },
+    {
+      "id": "sauteed-zucchini-ribbons-with-mint-and-pistachios-c4487eab",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.230",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.230."
+    },
+    {
+      "id": "braised-chicken-thighs-with-moroccan-pistachio-and-currant-s-fc41fb99",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.296. Braise, not grill — keeps distance from last week's kebabs."
+    },
+    {
+      "id": "spiced-vegetable-couscous-4d6e246e",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Spiced Vegetable Couscous",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.162",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "Already captured (p.162) — veg and carb in one, Moroccan pairing with the thighs."
+    },
+    {
+      "id": "flank-steak-peperonata-11b31836",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Flank Steak Peperonata",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "beef",
+      "tags": [
+        "book",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "flank steak",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "red or yellow bell peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "14.5-oz can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "capers (with brine)",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "The parked red-meat anchor, fully captured. Rub the oregano-salt on in the morning (30 min-24 hr); sear to 120-125°F, rest 10, slice thin against the grain."
+    },
+    {
+      "id": "herbed-barley-pilaf-ff7a4bb9",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "whole-grain"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pearl barley (NOT hulled/quick-cooking)",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Captured (p.120). Start before the steak — cooking time swings 20-40 min with pearling; check at 20."
+    },
+    {
+      "id": "baked-orzo-with-eggplant-and-tomatoes-4beb34c3",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Baked Orzo with Eggplant and Tomatoes",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.160",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetarian",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.160. The one veggie night — eggplant and tomatoes baked into the orzo, a complete one-dish dinner with the oven doing the work."
+    },
+    {
+      "id": "avgolemono-726213b2",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Avgolemono",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.59",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weeknight",
+        "light"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.59. LIGHT NIGHT — the silky Greek lemon-chicken-rice soup; catalog flags it a chicken favorite. Opens the Soups chapter."
+    },
+    {
+      "id": "sesame-lemon-cucumber-salad-c561436b",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sesame-Lemon Cucumber Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.88. Cool and crunchy against the warm soup."
+    },
+    {
+      "id": "red-wine-braised-octopus-11f3aa31",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Red Wine-Braised Octopus",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.285",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "seafood",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weekend",
+        "project",
+        "freezer-clear"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.285. PROJECT DAY, built around the FREEZER OCTOPUS — chunks work fine in a braise (skip the whole-octopus prep; exact quantity check at scan). Thaw overnight Friday."
+    },
+    {
+      "id": "roasted-root-vegetables-with-lemon-caper-sauce-47d51840",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "for the braising juices"
+        }
+      ],
+      "notes": "SCAN p.223. Roots cover veg + starch; bread mops the braise."
+    }
+  ],
+  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu deliberately light. Sat built around the freezer octopus."
+}
