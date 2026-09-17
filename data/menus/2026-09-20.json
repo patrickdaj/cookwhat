@@ -366,8 +366,82 @@
         "freezer-clear",
         "weekend"
       ],
-      "ingredients": [],
-      "notes": "REDO — you rated this 4★ and flagged it in June; first redo since the tally started. Fully captured (p.269), no scan needed. Uses the FREEZER SHRIMP — thaw Friday night or Saturday morning; nothing to buy for the protein. Ingredients to be filled onto the meal from the capture before shopping."
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "FREEZER — thaw Fri night; do not buy"
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "you made this in June — check the cabinet before buying"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red or green bell pepper",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "HALVE for the low-heat house — warmth still comes through"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "28-oz can",
+          "category": "canned"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce"
+        }
+      ],
+      "notes": "REDO — 4★ from June, first redo since the tally started; fully captured, no scan. FREEZER SHRIMP (thaw Friday night). Halve the red pepper flakes for the low-heat house. Check the cabinet for ouzo before buying — you had it in June."
     }
   ],
   "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
