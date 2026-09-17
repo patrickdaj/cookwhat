@@ -423,26 +423,25 @@
       "notes": "REDO — 4★ from June, first redo since the tally started; fully captured, no scan. FREEZER SHRIMP (thaw Friday night). Halve the red pepper flakes for the low-heat house. Check the cabinet for ouzo before buying — you had it in June."
     },
     {
-      "id": "whole-wheat-pizza-artichokes-ricotta",
+      "id": "turkish-pide-eggplant-tomatoes",
       "day": "Wed",
       "slot": "dinner",
       "role": "main",
-      "title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.356",
-      "cuisine": "italian",
+      "title": "Turkish Pide with Eggplant and Tomatoes",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.357",
+      "cuisine": "mediterranean",
       "protein": "vegetarian",
       "activeTimeMin": 40,
-      "totalTimeMin": 60,
+      "totalTimeMin": 75,
       "servings": 4,
       "tags": [
         "book",
         "needs-scan",
         "weeknight",
-        "breads-chapter",
-        "random-pick"
+        "breads-chapter"
       ],
       "ingredients": [],
-      "notes": "SCAN p.356 — AND the whole-wheat dough base page next to it (likely p.355; ATK pizza doughs usually want an overnight fridge rest, so the scan tells us if Tuesday-night prep is needed). The dice pick that finally cracks the Breads & Pizzas chapter. Ricotta + Parmesan as the cheese accent on a whole-grain crust."
+      "notes": "SCAN p.357 (include the dough recipe if it points to another page). The cheese-light Breads-chapter pick: boat-shaped Turkish flatbreads where eggplant and tomato are the topping — the veg is built into the bread. If the dough wants an overnight rest, mix it Tuesday night."
     }
   ],
   "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Wed: random Breads-chapter pizza (dice-picked). Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
