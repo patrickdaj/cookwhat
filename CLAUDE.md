@@ -392,6 +392,10 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   time budget, no project cooking. **Saturday is the project-cooking day.**
 - **Guest Jody can't eat salad** (noted 2026-09) — on Jody nights, skip salads;
   pick a cooked veg or none at all.
+- **Wife is going low-cheese (noted 2026-09)** — beyond the existing dairy:low
+  lean: keep cheese OUT of the pot where possible and serve it as a table-side
+  garnish so portions are dosed individually (worked for the feta orzo). Cheese-
+  centerpiece dishes only on request.
 - **Keep chile heat LOW — the user's wife is heat-sensitive** (noted 2026-09).
   Build spicy dishes mild (seed/reduce chiles, halve gochugaru/cayenne-type
   amounts) and serve hot condiments (zhoug, harissa, chili crisps, hot salsas)
