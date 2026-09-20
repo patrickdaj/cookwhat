@@ -1,0 +1,425 @@
+{
+  "weekOf": "2026-09-20",
+  "generatedAt": "2026-09-20T15:08:23.883Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "cauliflower (1 head, ~2 lb)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 12,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous",
+            "Flank Steak Peperonata",
+            "Herbed Barley Pilaf",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous",
+            "Herbed Barley Pilaf",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Flank Steak Peperonata",
+            "Herbed Barley Pilaf",
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red or green bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red or yellow bell peppers",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "flank steak",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "capers (with brine)",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "couscous",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pearl barley (NOT hulled/quick-cooking)",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "dim": "14.5-oz can",
+          "unitLabel": "14.5-oz can",
+          "category": "canned",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "14.5-oz can"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "dim": "28-oz can",
+          "unitLabel": "28-oz can",
+          "category": "canned",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "28-oz can"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Flank Steak Peperonata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ras el hanout",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [],
+  "pendingScans": [
+    {
+      "title": "Sauteed Sole with Fresh Tomato Relish",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
+      "cookbook": true
+    },
+    {
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "cookbook": true
+    },
+    {
+      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
+      "day": "Sun",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.230",
+      "cookbook": true
+    },
+    {
+      "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+      "day": "Mon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "cookbook": true
+    },
+    {
+      "title": "Avgolemono",
+      "day": "Thu",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.59",
+      "cookbook": true
+    },
+    {
+      "title": "Sesame-Lemon Cucumber Salad",
+      "day": "Thu",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "cookbook": true
+    },
+    {
+      "title": "Turkish Pide with Eggplant and Tomatoes",
+      "day": "Wed",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.357",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 27
+}

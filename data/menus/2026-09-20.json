@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-09-20",
   "createdAt": "2026-09-17T14:42:49.931Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -106,8 +106,50 @@
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "Already captured (p.162) — veg and carb in one, Moroccan pairing with the thighs."
+      "ingredients": [
+        {
+          "item": "cauliflower (1 head, ~2 lb)",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "couscous",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest + wedges"
+        },
+        {
+          "item": "chicken or vegetable broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "ras el hanout",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "store-bought, or make ATK p.316 — captured, you have most whole spices"
+        }
+      ],
+      "notes": "Captured (p.162) — cauliflower + red pepper are the veg, couscous the carb. Ras el hanout: buy a jar or make the captured p.316 blend."
     },
     {
       "id": "flank-steak-peperonata-11b31836",
@@ -444,5 +486,6 @@
       "notes": "SCAN p.357 (include the dough recipe if it points to another page). The cheese-light Breads-chapter pick: boat-shaped Turkish flatbreads where eggplant and tomato are the topping — the veg is built into the bread. If the dough wants an overnight rest, mix it Tuesday night."
     }
   ],
-  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Wed: random Breads-chapter pizza (dice-picked). Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed)."
+  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Wed: random Breads-chapter pizza (dice-picked). Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed).",
+  "setAt": "2026-09-20T15:08:23.775Z"
 }
