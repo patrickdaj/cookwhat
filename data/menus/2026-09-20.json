@@ -443,15 +443,57 @@
       "protein": "chicken",
       "tags": [
         "book",
-        "needs-scan",
         "weeknight",
         "light"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.59. LIGHT NIGHT — the silky Greek lemon-chicken-rice soup; catalog flags it a chicken favorite. Opens the Soups chapter."
+      "activeTimeMin": 25,
+      "totalTimeMin": 40,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "qty": 8,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "category": "produce",
+          "note": "zest BEFORE juicing — 12 strips + 1/4 cup juice"
+        },
+        {
+          "item": "green cardamom pods",
+          "qty": 4,
+          "category": "spices",
+          "note": "or 2 whole cloves"
+        },
+        {
+          "item": "eggs",
+          "qty": 4,
+          "category": "dairy",
+          "note": "2 whole + 2 yolks, room temp"
+        },
+        {
+          "item": "boneless skinless chicken breasts (6 oz)",
+          "qty": 2,
+          "category": "meat-seafood",
+          "note": "the book’s chicken variation — cut 1/2\", add with the rice; turns the soup into dinner"
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "category": "produce",
+          "note": "or 3 tbsp fresh mint, garnish"
+        }
+      ],
+      "notes": "Light night, ~40 min. Temper the eggs (whisk 2 cups hot broth in first) and NEVER boil after they go in. Serve immediately — it turns gravy-thick on reheat, so make it right at dinner. Cardamom is warm-aromatic, zero heat."
     },
     {
       "id": "sesame-lemon-cucumber-salad-c561436b",
@@ -465,14 +507,46 @@
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan",
         "quick"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
+      "activeTimeMin": 15,
+      "totalTimeMin": 90,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.88. Cool and crunchy against the warm soup."
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toast 1 min in dry skillet, then off heat"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "1 tbsp juice — or squeeze from the soup lemons"
+        }
+      ],
+      "notes": "START 1-3 HOURS AHEAD: salt cucumbers + weight with a water-filled zip bag in a colander, then rinse/pat dry. Dress within an hour of eating. Recipe’s 1/8 tsp pepper flakes is already mild — keep the “extra” on the side."
     },
     {
       "id": "roasted-root-vegetables-with-lemon-caper-sauce-47d51840",
@@ -485,22 +559,73 @@
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "book",
-        "needs-scan"
+        "book"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
+      "activeTimeMin": 20,
+      "totalTimeMin": 55,
       "servings": 4,
       "ingredients": [
         {
-          "item": "crusty bread",
+          "item": "Brussels sprouts",
           "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "for the braising juices"
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "category": "produce",
+          "note": "plus Tuesday needs 3 — buy ~11 or a bag"
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "category": "produce"
+        },
+        {
+          "item": "garlic cloves",
+          "qty": 6,
+          "category": "produce"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "the Tuesday bunch covers this"
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "check jar"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce"
         }
       ],
-      "notes": "SCAN p.223. Roots cover veg + starch; bread mops the shrimp-feta pan juices."
+      "notes": "One pan covers Saturday’s veg AND starch. 450°, 30-35 min: sprouts cut-side-down in the CENTER, potatoes/carrots on the perimeter, rotate halfway. Toss with parsley-caper-lemon at the end. 1 tsp sugar in the toss = browning."
     },
     {
       "id": "greek-style-shrimp-tomatoes-feta-redo",

@@ -1785,18 +1785,102 @@
     {
       "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
       "page": 223,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "1 pound Brussels sprouts, trimmed and halved",
+          "1 pound red potatoes, unpeeled, cut into 1-inch pieces",
+          "8 shallots, peeled and halved",
+          "4 carrots, peeled and cut into 2-inch lengths, thick ends halved lengthwise",
+          "6 garlic cloves, peeled",
+          "3 tablespoons extra-virgin olive oil",
+          "2 teaspoons minced fresh thyme",
+          "1 teaspoon minced fresh rosemary",
+          "1 teaspoon sugar",
+          "Salt and pepper",
+          "2 tablespoons minced fresh parsley",
+          "1 1/2 tablespoons capers, rinsed and minced",
+          "1 tablespoon lemon juice, plus extra for seasoning"
+        ],
+        "steps": [
+          "Adjust oven rack to middle position and heat oven to 450 degrees. Toss Brussels sprouts, potatoes, shallots, and carrots with garlic, 1 tablespoon oil, thyme, rosemary, sugar, 3/4 teaspoon salt, and 1/4 teaspoon pepper.",
+          "Spread vegetables into single layer on rimmed baking sheet, arranging Brussels sprouts cut side down in center of sheet. Roast until vegetables are tender and golden brown, 30 to 35 minutes, rotating sheet halfway through roasting.",
+          "Whisk parsley, capers, lemon juice, and remaining 2 tablespoons oil together in large bowl. Add roasted vegetables and toss to combine. Season with salt, pepper, and extra lemon juice to taste. Serve."
+        ],
+        "tips": [
+          "Sheet geometry is the trick: delicate Brussels sprouts cut-side-down in the CENTER, hardier potatoes/carrots around the hot perimeter — everything finishes together, sprouts don't char.",
+          "Cut everything into equal-size pieces for even roasting.",
+          "1 tsp sugar in the toss promotes browning.",
+          "Whole garlic cloves and halved shallots roast along and mellow sweet.",
+          "The parsley-caper-lemon toss at the end is the 'sauce' — bright against the caramelized veg. Covers Saturday's veg AND the potato starch in one pan."
+        ]
+      }
     },
     {
       "title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
       "page": 223,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "2 fennel bulbs, halved, cored, and sliced into 1/2-inch wedges",
+          "8 ounces parsnips, peeled and cut into 2-inch pieces",
+          "1 head radicchio, cored and cut into 2-inch wedges",
+          "1 pound red potatoes, unpeeled, cut into 1-inch pieces",
+          "8 shallots, peeled and halved",
+          "6 garlic cloves, peeled",
+          "3 tablespoons extra-virgin olive oil",
+          "2 teaspoons minced fresh thyme",
+          "1 teaspoon minced fresh rosemary",
+          "1 teaspoon sugar",
+          "Salt and pepper",
+          "2 tablespoons chopped fresh basil",
+          "2 tablespoons minced fresh chives",
+          "1 tablespoon lemon juice, plus extra for seasoning"
+        ],
+        "steps": [
+          "Follow Roasted Root Vegetables with Lemon-Caper Sauce, substituting fennel, parsnips, and radicchio for the Brussels sprouts and carrots. Arrange radicchio in center of baking sheet before roasting.",
+          "Omit capers and parsley; add basil and chives to the oil mixture in step 3."
+        ],
+        "tips": [
+          "Variation of the p.223 base recipe — radicchio takes the delicate center spot on the sheet.",
+          "Lemon-basil finish instead of lemon-caper."
+        ]
+      }
     },
     {
       "title": "Grilled Radicchio with Garlic and Rosemary-Infused Oil",
       "page": 224,
       "chapter": "Vegetables",
-      "fitsMenu": "grill"
+      "fitsMenu": "grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "6 tablespoons extra-virgin olive oil",
+          "1 garlic clove, minced",
+          "1 teaspoon minced fresh rosemary",
+          "3 heads radicchio (10 ounces each), quartered",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Microwave oil, garlic, and rosemary in bowl until bubbling, about 1 minute; let mixture steep for 1 minute. Brush radicchio with 1/4 cup oil mixture and season with salt and pepper.",
+          "Grill setup — charcoal: large chimney half filled (3 quarts), pour evenly, heat ~5 minutes. Gas: all burners high, covered, ~15 minutes, then turn to medium.",
+          "Clean and oil cooking grate. Grill radicchio (covered if gas), flipping as needed, until softened and lightly charred, 3 to 5 minutes. Transfer to platter and drizzle with remaining oil mixture. Serve."
+        ],
+        "tips": [
+          "Cut through the CORE end into quarters so the wedges hold together on the grill.",
+          "Coat liberally with oil to avoid singed leaves; microwave-infuse the oil with garlic and rosemary first.",
+          "Turn each wedge twice so every flat side touches the grate.",
+          "FAST tag — a 10-minute grilled side for meat or fish nights."
+        ]
+      }
     },
     {
       "title": "Sauteed Spinach with Yogurt and Dukkah",
@@ -2800,7 +2884,35 @@
       "title": "Avgolemono",
       "page": 59,
       "chapter": "Soups",
-      "fitsMenu": "chicken (favorite)"
+      "fitsMenu": "chicken (favorite)",
+      "scanned": true,
+      "makes": "Serves 6 to 8",
+      "captured": {
+        "makes": "Serves 6 to 8",
+        "ingredients": [
+          "8 cups chicken broth",
+          "1/2 cup long-grain white rice",
+          "12 (4-inch) strips lemon zest plus 1/4 cup juice (2 lemons)",
+          "4 green cardamom pods, crushed, or 2 whole cloves",
+          "1 bay leaf",
+          "1 1/2 teaspoons salt",
+          "2 large eggs plus 2 large yolks, room temperature",
+          "1 scallion, sliced thin, or 3 tablespoons chopped fresh mint"
+        ],
+        "steps": [
+          "Bring broth to boil in medium saucepan over high heat. Stir in rice, lemon zest, cardamom pods, bay leaf, and salt. Reduce to simmer and cook until rice is tender and broth is aromatic, 16 to 20 minutes.",
+          "Gently whisk whole eggs, egg yolks, and lemon juice together in medium bowl. Discard bay leaf, cardamom, and zest strips. Reduce heat to low. Whisking constantly, slowly ladle about 2 cups hot broth into egg mixture and whisk until combined. Pour egg mixture back into saucepan and cook, stirring constantly, until soup is slightly thickened and wisps of steam appear, about 5 minutes (do not simmer or boil). Sprinkle individual portions with scallion and serve immediately."
+        ],
+        "tips": [
+          "Four humble staples: chicken stock, rice, eggs, lemons. The rice starch thickens the broth; a dozen zest strips jump-start the lemon.",
+          "Temper the eggs: whisk ~2 cups hot broth into them FIRST, then pour back in, stirring constantly over low — never simmer or boil after the eggs go in, or they scramble.",
+          "Zest the lemons BEFORE juicing them.",
+          "Serve immediately — it thickens to gravy on standing/reheat, so make it right at dinnertime (it's fast).",
+          "VARIATION — Avgolemono with Chicken: add two 6-oz boneless, skinless breasts, cut into 1/2-inch pieces, to the broth along with the rice (turns the soup into dinner).",
+          "VARIATION — with Saffron: add 1/4 tsp crumbled saffron threads with the rice.",
+          "Crushed green cardamom (or 2 cloves) is the aromatic — warm spice, zero capsaicin."
+        ]
+      }
     },
     {
       "title": "Spicy Moroccan-Style Chicken and Lentil Soup",
@@ -3054,17 +3166,91 @@
     {
       "title": "Sesame-Lemon Cucumber Salad",
       "page": 88,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "3 cucumbers, peeled, halved lengthwise, seeded, and sliced 1/4 inch thick",
+          "Salt and pepper",
+          "1/4 cup rice vinegar",
+          "2 tablespoons toasted sesame oil",
+          "1 tablespoon lemon juice",
+          "1 tablespoon sesame seeds, toasted",
+          "2 teaspoons sugar",
+          "1/8 teaspoon red pepper flakes, plus extra for seasoning"
+        ],
+        "steps": [
+          "Toss cucumbers with 1 tablespoon salt in colander set over large bowl. Weight cucumbers with 1 gallon-size zipper-lock bag filled with water; drain for 1 to 3 hours. Rinse and pat dry.",
+          "Whisk vinegar, oil, lemon juice, sesame seeds, sugar, and pepper flakes together in large bowl. Add cucumbers and toss to coat. Season with salt and pepper to taste. Serve at room temperature or chilled."
+        ],
+        "tips": [
+          "Salt + WEIGHT the cucumbers (water-filled zipper bag in a colander), 1 to 3 hours — pulls more water than salting alone; past 3 hours gains nothing. Start mid-afternoon.",
+          "Toast the sesame seeds in a dry skillet ~1 minute until fragrant, then take the skillet OFF the heat so they don't scorch.",
+          "Best within 1 hour of dressing.",
+          "Only 1/8 tsp pepper flakes — already mild; keep the 'extra' on the side for the heat-tolerant."
+        ]
+      }
     },
     {
       "title": "Yogurt-Mint Cucumber Salad",
       "page": 88,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "3 cucumbers, peeled, halved lengthwise, seeded, and sliced 1/4 inch thick",
+          "1 small red onion, sliced thin",
+          "Salt and pepper",
+          "1 cup plain low-fat yogurt",
+          "1/4 cup minced fresh mint",
+          "2 tablespoons extra-virgin olive oil",
+          "1 garlic clove, minced",
+          "1/2 teaspoon ground cumin"
+        ],
+        "steps": [
+          "Toss cucumbers and onion with 1 tablespoon salt in colander set over large bowl. Weight cucumber-onion mixture with 1 gallon-size zipper-lock bag filled with water; drain for 1 to 3 hours. Rinse and pat dry.",
+          "Whisk yogurt, mint, oil, garlic, and cumin together in large bowl. Add cucumber-onion mixture and toss to coat. Season with salt and pepper to taste. Serve at room temperature or chilled."
+        ],
+        "tips": [
+          "Same salt-and-weight trick as the sesame-lemon version; red onion drains along with the cucumbers.",
+          "Best within 1 hour of dressing.",
+          "No chile at all — the zero-heat cucumber option."
+        ]
+      }
     },
     {
       "title": "Algerian-Style Fennel, Orange, and Olive Salad",
       "page": 88,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "4 blood oranges",
+          "2 fennel bulbs, stalks discarded, bulbs halved, cored, and sliced thin",
+          "1/2 cup pitted oil-cured black olives, quartered",
+          "1/4 cup coarsely chopped fresh mint",
+          "2 tablespoons lemon juice",
+          "Salt and pepper",
+          "1/4 cup extra-virgin olive oil"
+        ],
+        "steps": [
+          "Cut away peel and pith from oranges. Quarter oranges, then slice crosswise into 1/4-inch-thick pieces. Combine oranges, fennel, olives, and mint in large bowl.",
+          "Whisk lemon juice, 1/4 teaspoon salt, and 1/8 teaspoon pepper together in small bowl. Whisking constantly, slowly drizzle in oil. Drizzle dressing over salad and gently toss to coat. Season with salt and pepper to taste. Serve."
+        ],
+        "tips": [
+          "Slice the fennel as thin as possible — thick slices are tough and chewy.",
+          "Blood oranges preferred; navels, tangelos, or Cara Caras work but are bigger — use just 3.",
+          "Cut oranges into bite-size pieces so segments distribute without falling apart; toss gently.",
+          "So simple that ingredient quality is everything.",
+          "VARIATION — Fennel, Orange, and Radish: omit olives, swap 1/4 cup minced tarragon for the mint, add 6 radishes sliced thin."
+        ]
+      }
     },
     {
       "title": "Fennel and Apple Salad with Smoked Mackerel",
