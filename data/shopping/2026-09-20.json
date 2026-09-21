@@ -1,11 +1,35 @@
 {
   "weekOf": "2026-09-20",
-  "generatedAt": "2026-09-20T15:08:23.883Z",
+  "generatedAt": "2026-09-21T14:45:46.708Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "Brussels sprouts",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "cauliflower (1 head, ~2 lb)",
           "qty": 1,
@@ -14,6 +38,18 @@
           "category": "produce",
           "fromMeals": [
             "Spiced Vegetable Couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -55,14 +91,40 @@
           "unit": "bunch"
         },
         {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce",
             "Herbed Barley Pilaf",
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -74,18 +136,21 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Herbed Barley Pilaf"
+            "Herbed Barley Pilaf",
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 12,
+          "qty": 15,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+            "Sauteed Zucchini Ribbons with Mint and Pistachios",
             "Spiced Vegetable Couscous",
             "Flank Steak Peperonata",
             "Herbed Barley Pilaf",
@@ -95,26 +160,56 @@
           "unit": "clove"
         },
         {
-          "item": "lemon",
-          "qty": 3,
+          "item": "garlic cloves",
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 9,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Sole",
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
             "Spiced Vegetable Couscous",
             "Herbed Barley Pilaf",
+            "Avgolemono",
+            "Sesame-Lemon Cucumber Salad",
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "onion",
-          "qty": 3,
+          "item": "lime",
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
             "Flank Steak Peperonata",
             "Herbed Barley Pilaf",
             "Greek-Style Shrimp with Tomatoes and Feta"
@@ -157,12 +252,86 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "scallion",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 11,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "zucchini or yellow summer squash (6-8 oz each)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
     {
       "category": "meat-seafood",
       "items": [
+        {
+          "item": "bone-in chicken thighs (5-7 oz)",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "boneless skinless chicken breasts (6 oz)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "extra-large shrimp (21-25 ct)",
           "qty": 1.5,
@@ -186,12 +355,36 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "sole or flounder fillets (2-3 oz, 1/4-1/2 in)",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Sauteed Sole"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
     {
       "category": "dairy",
       "items": [
+        {
+          "item": "eggs",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "feta cheese",
           "qty": 6,
@@ -207,33 +400,41 @@
       ]
     },
     {
-      "category": "bakery",
-      "items": [
-        {
-          "item": "crusty bread",
-          "qty": 1,
-          "dim": "loaf",
-          "unitLabel": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "loaf"
-        }
-      ]
-    },
-    {
       "category": "pantry",
       "items": [
         {
-          "item": "capers (with brine)",
-          "qty": 2,
+          "item": "basmati rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "capers",
+          "qty": 3.5,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Flank Steak Peperonata"
+            "Flank Steak Peperonata",
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -251,6 +452,30 @@
           "unit": "cup"
         },
         {
+          "item": "dried currants",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "pearl barley (NOT hulled/quick-cooking)",
           "qty": 1.5,
           "dim": "vol",
@@ -261,12 +486,84 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "pistachios",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     },
     {
       "category": "canned",
       "items": [
+        {
+          "item": "chicken broth",
+          "qty": 8,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
         {
           "item": "chicken or vegetable broth",
           "qty": 1,
@@ -321,6 +618,30 @@
           "unit": "tsp"
         },
         {
+          "item": "green cardamom pods",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Avgolemono"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "ras el hanout",
           "qty": 2,
           "dim": "vol",
@@ -334,6 +655,18 @@
         },
         {
           "item": "red pepper flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "red pepper flakes",
           "qty": 0.5,
           "dim": "vol",
           "unitLabel": "tsp",
@@ -343,6 +676,23 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Peas, Scallions, and Lemon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -376,50 +726,10 @@
       ]
     }
   ],
-  "excludedStaples": [],
-  "pendingScans": [
-    {
-      "title": "Sauteed Sole with Fresh Tomato Relish",
-      "day": "Sun",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
-      "cookbook": true
-    },
-    {
-      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
-      "day": "Sun",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
-      "cookbook": true
-    },
-    {
-      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
-      "day": "Sun",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.230",
-      "cookbook": true
-    },
-    {
-      "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
-      "day": "Mon",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
-      "cookbook": true
-    },
-    {
-      "title": "Avgolemono",
-      "day": "Thu",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.59",
-      "cookbook": true
-    },
-    {
-      "title": "Sesame-Lemon Cucumber Salad",
-      "day": "Thu",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
-      "cookbook": true
-    },
-    {
-      "title": "Turkish Pide with Eggplant and Tomatoes",
-      "day": "Wed",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.357",
-      "cookbook": true
-    }
+  "excludedStaples": [
+    "all-purpose flour",
+    "orange blossom water"
   ],
-  "totalItems": 27
+  "pendingScans": [],
+  "totalItems": 55
 }
