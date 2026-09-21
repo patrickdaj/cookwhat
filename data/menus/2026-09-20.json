@@ -6,7 +6,7 @@
   "meals": [
     {
       "id": "sauteed-sole-with-fresh-tomato-relish-e866ab14",
-      "day": "Sun",
+      "day": "Mon",
       "slot": "dinner",
       "role": "main",
       "title": "Sauteed Sole with Fresh Tomato Relish",
@@ -17,7 +17,6 @@
       "tags": [
         "book",
         "needs-scan",
-        "pool-night",
         "quick",
         "light",
         "freezer-clear"
@@ -26,11 +25,11 @@
       "totalTimeMin": null,
       "servings": 4,
       "ingredients": [],
-      "notes": "SCAN p.260. POOL NIGHT — light and fast. Made with the FROZEN WHITE FISH from the freezer (thin fillets sauté in minutes; a thicker fillet just needs an extra minute or two per side). Nothing to buy for the protein."
+      "notes": "SCAN p.260. Shifted from Sunday (ordered out). Made with the FROZEN WHITE FISH from the freezer (thin fillets sauté in minutes; a thicker fillet just needs an extra minute or two per side). Nothing to buy for the protein."
     },
     {
       "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-168d7d3d",
-      "day": "Sun",
+      "day": "Mon",
       "slot": "dinner",
       "role": "side",
       "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
@@ -50,7 +49,7 @@
     },
     {
       "id": "sauteed-zucchini-ribbons-with-mint-and-pistachios-c4487eab",
-      "day": "Sun",
+      "day": "Mon",
       "slot": "dinner",
       "role": "side",
       "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
@@ -71,7 +70,7 @@
     },
     {
       "id": "braised-chicken-thighs-with-moroccan-pistachio-and-currant-s-fc41fb99",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "main",
       "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
@@ -92,7 +91,7 @@
     },
     {
       "id": "spiced-vegetable-couscous-4d6e246e",
-      "day": "Mon",
+      "day": "Tue",
       "slot": "dinner",
       "role": "side",
       "title": "Spiced Vegetable Couscous",
@@ -153,7 +152,7 @@
     },
     {
       "id": "flank-steak-peperonata-11b31836",
-      "day": "Tue",
+      "day": "Wed",
       "slot": "dinner",
       "role": "main",
       "title": "Flank Steak Peperonata",
@@ -226,11 +225,11 @@
           "note": ""
         }
       ],
-      "notes": "The parked red-meat anchor, fully captured. Rub the oregano-salt on in the morning (30 min-24 hr); sear to 120-125°F, rest 10, slice thin against the grain."
+      "notes": "Now Wednesday. Fully captured. Rub the oregano-salt on in the morning (30 min-24 hr); sear to 120-125°F, rest 10, slice thin against the grain."
     },
     {
       "id": "herbed-barley-pilaf-ff7a4bb9",
-      "day": "Tue",
+      "day": "Wed",
       "slot": "dinner",
       "role": "side",
       "title": "Herbed Barley Pilaf",
@@ -463,29 +462,8 @@
         }
       ],
       "notes": "REDO — 4★ from June, first redo since the tally started; fully captured, no scan. FREEZER SHRIMP (thaw Friday night). Halve the red pepper flakes for the low-heat house. Check the cabinet for ouzo before buying — you had it in June."
-    },
-    {
-      "id": "turkish-pide-eggplant-tomatoes",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Turkish Pide with Eggplant and Tomatoes",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.357",
-      "cuisine": "mediterranean",
-      "protein": "vegetarian",
-      "activeTimeMin": 40,
-      "totalTimeMin": 75,
-      "servings": 4,
-      "tags": [
-        "book",
-        "needs-scan",
-        "weeknight",
-        "breads-chapter"
-      ],
-      "ingredients": [],
-      "notes": "SCAN p.357 (include the dough recipe if it points to another page). The cheese-light Breads-chapter pick: boat-shaped Turkish flatbreads where eggplant and tomato are the topping — the veg is built into the bread. If the dough wants an overnight rest, mix it Tuesday night."
     }
   ],
-  "notes": "Week 3 — all-ATK-Mediterranean. Fri 9/25: no dinner. Sun + Thu light. Wed: random Breads-chapter pizza (dice-picked). Freezer-clear week: Sun uses the frozen white fish, Sat the frozen shrimp (octopus was tossed).",
+  "notes": "Week 3 rev: Sun 9/20 ordered out; everything shifted +1 day. Turkish Pide (p.357) dropped — Breads chapter rolls to a future week. Fri off. Sat unchanged (shrimp-feta redo).",
   "setAt": "2026-09-20T15:08:23.775Z"
 }
