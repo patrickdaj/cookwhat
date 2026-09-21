@@ -160,21 +160,68 @@
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Braised Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+      "title": "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "chicken",
       "tags": [
         "book",
-        "needs-scan",
         "weeknight"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.296. Braise, not grill — keeps distance from last week's kebabs."
+      "activeTimeMin": 30,
+      "totalTimeMin": 45,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "bone-in chicken thighs (5-7 oz)",
+          "qty": 8,
+          "category": "meat-seafood",
+          "note": "trim all visible fat"
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "cup leaves",
+          "category": "produce"
+        },
+        {
+          "item": "dried currants",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "one bag also covers Monday’s zucchini ribbons (2 tbsp)"
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "ground cinnamon",
+          "category": "spices",
+          "note": "1 tsp — warm spice, not heat"
+        },
+        {
+          "item": "orange blossom water",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "small bottle, international aisle"
+        }
+      ],
+      "notes": "ROASTED, not braised — the catalog title was wrong; fixed from the scan. Preheat the sheet IN the 450° oven; thighs skin-down 17-22 min to 160°, then broil skin-up ~5 min to 175°. Sauce is 10 pulses in the processor while the chicken rests. Serves 8 — halve, or roast all 8 and bank leftovers."
     },
     {
       "id": "spiced-vegetable-couscous-4d6e246e",
