@@ -753,6 +753,27 @@
         }
       ],
       "notes": "REDO — 4★ from June, first redo since the tally started; fully captured, no scan. FREEZER SHRIMP (thaw Friday night). Halve the red pepper flakes for the low-heat house. Check the cabinet for ouzo before buying — you had it in June."
+    },
+    {
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Gateau Reine de Saba",
+      "source": "NYT Cooking",
+      "url": "https://cooking.nytimes.com/recipes/6793-gateau-reine-de-saba",
+      "cuisine": "french",
+      "protein": "vegetarian",
+      "activeTimeMin": 40,
+      "totalTimeMin": 90,
+      "servings": 8,
+      "tags": [
+        "web",
+        "dessert",
+        "baking",
+        "needs-paste"
+      ],
+      "ingredients": [],
+      "notes": "Julia Child’s Queen of Sheba chocolate-almond cake — the classic under-baked-center torte. NYT is gated: PASTE THE RECIPE TEXT to fill ingredients before shopping. Friday night-off bake — the week’s one rich indulgence, and the savory side of the week stays lean."
     }
   ],
   "notes": "Week 3 rev: Sun 9/20 ordered out; everything shifted +1 day. Turkish Pide (p.357) dropped — Breads chapter rolls to a future week. Fri off. Sat unchanged (shrimp-feta redo).",
