@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-09-20",
-  "generatedAt": "2026-09-21T14:45:46.708Z",
+  "generatedAt": "2026-09-21T14:52:37.077Z",
   "targetServings": null,
   "sections": [
     {
@@ -61,6 +61,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Sauteed Sole with Fresh Tomato Relish",
             "Flank Steak Peperonata"
           ],
           "hasUnquantified": false,
@@ -161,11 +162,12 @@
         },
         {
           "item": "garlic cloves",
-          "qty": 6,
+          "qty": 7,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Sauteed Sole with Fresh Tomato Relish",
             "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
@@ -178,7 +180,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Sauteed Sole",
+            "Sauteed Sole with Fresh Tomato Relish",
             "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
             "Spiced Vegetable Couscous",
             "Herbed Barley Pilaf",
@@ -266,6 +268,18 @@
           "unit": "lb"
         },
         {
+          "item": "ripe tomatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Sole with Fresh Tomato Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "scallion",
           "qty": 3,
           "dim": "",
@@ -280,11 +294,12 @@
         },
         {
           "item": "shallots",
-          "qty": 11,
+          "qty": 12,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Sauteed Sole with Fresh Tomato Relish",
             "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce",
             "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
@@ -363,7 +378,7 @@
           "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Sauteed Sole"
+            "Sauteed Sole with Fresh Tomato Relish"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -498,6 +513,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Sole with Fresh Tomato Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "rice vinegar",
@@ -731,5 +758,5 @@
     "orange blossom water"
   ],
   "pendingScans": [],
-  "totalItems": 55
+  "totalItems": 57
 }

@@ -9,7 +9,7 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Sauteed Sole",
+      "title": "Sauteed Sole with Fresh Tomato Relish",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
       "sourceUrl": "",
       "cuisine": "italian",
@@ -41,9 +41,41 @@
           "qty": 1,
           "category": "produce",
           "note": "wedges"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 2,
+          "category": "produce",
+          "note": "relish — cored, seeded, 1/4-inch pieces"
+        },
+        {
+          "item": "shallot (small)",
+          "qty": 1,
+          "category": "produce",
+          "note": "relish"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "relish — Wednesday’s bunch covers it"
+        },
+        {
+          "item": "garlic clove (small)",
+          "qty": 1,
+          "category": "produce",
+          "note": "relish"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "relish — check cabinet"
         }
       ],
-      "notes": "Shifted from Sunday (ordered out). Base recipe captured (p.260): flour-dredge, 2-3 min first side, 30-60 sec after the two-spatula flip, two batches. The fresh tomato relish is on the FACING page (not scanned) — lemon wedges are the book's own default; scan p.261 anytime to add the relish."
+      "notes": "Shifted from Sunday (ordered out). Base recipe captured (p.260): flour-dredge, 2-3 min first side, 30-60 sec after the two-spatula flip, two batches. The fresh tomato relish is on the FACING page (not scanned) — lemon wedges are the book's own default; scan p.261 anytime to add the relish. RELISH IS BACK (p.261 scanned): mix it first and let it sit 15 min while the fish cooks — no-cook, perfectly timed."
     },
     {
       "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-168d7d3d",
