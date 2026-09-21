@@ -9,14 +9,13 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Sauteed Sole with Fresh Tomato Relish",
+      "title": "Sauteed Sole",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
       "sourceUrl": "",
       "cuisine": "italian",
       "protein": "fish",
       "tags": [
         "book",
-        "needs-scan",
         "quick",
         "light",
         "freezer-clear"
@@ -24,8 +23,27 @@
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.260. Shifted from Sunday (ordered out). Made with the FROZEN WHITE FISH from the freezer (thin fillets sauté in minutes; a thicker fillet just needs an extra minute or two per side). Nothing to buy for the protein."
+      "ingredients": [
+        {
+          "item": "sole or flounder fillets (2-3 oz, 1/4-1/2 in)",
+          "qty": 8,
+          "category": "meat-seafood",
+          "note": "FREEZER white fish — if the bag is thick fillets (cod-style), add a minute or two per side and check at 140°F"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "wedges"
+        }
+      ],
+      "notes": "Shifted from Sunday (ordered out). Base recipe captured (p.260): flour-dredge, 2-3 min first side, 30-60 sec after the two-spatula flip, two batches. The fresh tomato relish is on the FACING page (not scanned) — lemon wedges are the book's own default; scan p.261 anytime to add the relish."
     },
     {
       "id": "basmati-rice-pilaf-with-peas-scallions-and-lemon-168d7d3d",
@@ -38,14 +56,53 @@
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
-        "book",
-        "needs-scan"
+        "book"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.102 — third time on a menu, never actually captured to the catalog; some fixings may still be in the pantry (basmati, frozen peas). Mostly unattended while the sole cooks."
+      "ingredients": [
+        {
+          "item": "basmati rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "zest + 1 tbsp juice"
+        },
+        {
+          "item": "red pepper flakes",
+          "category": "spices",
+          "note": "1/8 tsp — barely warm, fine as-is"
+        },
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "category": "produce"
+        }
+      ],
+      "notes": "Captured at last (p.102, after three menu appearances). Rinse the rice; towel under the lid for the 10-minute rest; peas go in off-heat."
     },
     {
       "id": "sauteed-zucchini-ribbons-with-mint-and-pistachios-c4487eab",
@@ -59,14 +116,44 @@
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan",
         "quick"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.230."
+      "ingredients": [
+        {
+          "item": "zucchini or yellow summer squash (6-8 oz each)",
+          "qty": 4,
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.33,
+          "unit": "cup chopped",
+          "category": "produce"
+        },
+        {
+          "item": "pistachios",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toasted + chopped"
+        }
+      ],
+      "notes": "Captured (p.230). Steep the garlic in the cider vinegar 10+ minutes — the book says don't skip it. Ribbons cook in 3-4 minutes; start checking early."
     },
     {
       "id": "braised-chicken-thighs-with-moroccan-pistachio-and-currant-s-fc41fb99",

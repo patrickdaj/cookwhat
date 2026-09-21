@@ -926,12 +926,68 @@
     {
       "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
       "page": 102,
-      "chapter": "Rice & Grains"
+      "chapter": "Rice & Grains",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "1 tablespoon extra-virgin olive oil",
+          "1 small onion, chopped fine",
+          "Salt and pepper",
+          "1 1/2 cups basmati rice, rinsed",
+          "2 garlic cloves, minced",
+          "1/2 teaspoon ground turmeric",
+          "1/4 teaspoon ground cinnamon",
+          "2 1/4 cups water",
+          "1/4 cup currants",
+          "1/4 cup sliced almonds, toasted"
+        ],
+        "steps": [
+          "Heat oil in large saucepan over medium heat until shimmering. Add onion and 1/4 teaspoon salt; cook until softened, about 5 minutes. Add rice, garlic, turmeric, and cinnamon and cook, stirring frequently, until grain edges begin to turn translucent, about 3 minutes.",
+          "Stir in water and bring to simmer. Reduce heat to low, cover, and simmer gently until rice is tender and water is absorbed, 16 to 18 minutes.",
+          "Off heat, sprinkle currants over pilaf. Cover, laying clean dish towel underneath lid, and let sit 10 minutes. Add almonds, fluff gently with fork, season, and serve."
+        ],
+        "tips": [
+          "Tagged VEG. Rinsing removes excess starch for fluffy, not clumpy, grains; toasting the rice with the aromatics gives nutty depth.",
+          "2 1/4 cups water to 1 1/2 cups rice — deliberately less than the traditional 2:1 for a pleasantly firm texture.",
+          "The dish-towel-under-the-lid rest absorbs excess moisture.",
+          "Long-grain white, jasmine, or Texmati substitute for basmati."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
       "page": 102,
-      "chapter": "Rice & Grains"
+      "chapter": "Rice & Grains",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "1 tablespoon extra-virgin olive oil",
+          "1 small onion, chopped fine",
+          "Salt and pepper",
+          "1 1/2 cups basmati rice, rinsed",
+          "2 garlic cloves, minced",
+          "1 teaspoon grated lemon zest plus 1 tablespoon juice",
+          "1/8 teaspoon red pepper flakes",
+          "2 1/4 cups water",
+          "1/2 cup thawed frozen peas",
+          "2 scallions, sliced thin"
+        ],
+        "steps": [
+          "Follow Basmati Rice Pilaf with Currants and Toasted Almonds (same page), omitting turmeric and cinnamon and stirring 1 teaspoon grated lemon zest and 1/8 teaspoon red pepper flakes into pot with rice.",
+          "Simmer gently, covered, until rice is tender and water absorbed, 16 to 18 minutes.",
+          "Off heat, substitute 1/2 cup thawed frozen peas for the currants; rest 10 minutes with dish towel under lid. Substitute 2 thinly sliced scallions and 1 tablespoon lemon juice for the almonds; fluff, season, serve."
+        ],
+        "tips": [
+          "Tagged VEG. VARIATION of the currant-almond pilaf on the same page — now fully captured after three menu appearances.",
+          "Peas go on OFF heat during the 10-minute rest so they warm through without going drab.",
+          "Same firm-texture water ratio and towel-under-lid rest as the base.",
+          "The 1/8 teaspoon red pepper flakes is barely warm — fine as-is for the low-heat house."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Spiced Basmati Rice with Cauliflower and Pomegranate",
@@ -1763,7 +1819,35 @@
     {
       "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
       "page": 230,
-      "chapter": "Vegetables"
+      "chapter": "Vegetables",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "ingredients": [
+          "1 small garlic clove, minced",
+          "1 tablespoon lemon juice (zest omitted in this variation)",
+          "4 (6- to 8-ounce) zucchini or yellow summer squash, trimmed",
+          "2 tablespoons plus 1 teaspoon extra-virgin olive oil",
+          "Salt and pepper",
+          "1 1/2 teaspoons cider vinegar (in place of the lemon juice, per the variation)",
+          "1/3 cup chopped fresh mint",
+          "2 tablespoons toasted chopped pistachios"
+        ],
+        "steps": [
+          "Combine garlic and cider vinegar (variation swaps it for the base's lemon juice) in large bowl and set aside for at least 10 minutes.",
+          "Using vegetable peeler, shave squash into ribbons: 3 ribbons from one side, turn 90 degrees, 3 more; continue turning and shaving until you reach the seeds; discard core.",
+          "Whisk 2 tablespoons oil, 1/4 teaspoon salt, and 1/8 teaspoon pepper into the garlic mixture.",
+          "Heat remaining 1 teaspoon oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add squash and cook, tossing occasionally with tongs, until softened and translucent, 3 to 4 minutes. Transfer to bowl with dressing, add mint, toss gently, season, and sprinkle with pistachios."
+        ],
+        "tips": [
+          "Tagged FAST + VEG. VARIATION of Sauteed Zucchini Ribbons: omit lemon zest, swap 1 1/2 teaspoons cider vinegar for the lemon juice, mint for parsley, and finish with toasted pistachios.",
+          "Ultrathin peeler ribbons (~1/32 inch) cook so fast they never release their liquid — no pre-salting needed. Discard the watery seed core.",
+          "Steeping the minced garlic in the acid for 10+ minutes mellows its bite — the book says do not skip this.",
+          "Start checking at the low end of the 3-4 minute window; the ribbons overcook fast.",
+          "A mix of zucchini and yellow summer squash is prettiest, but either alone works."
+        ],
+        "makes": "Serves 4 to 6"
+      }
     },
     {
       "title": "Grilled Zucchini and Red Onion with Lemon-Basil Dressing",
@@ -2027,13 +2111,66 @@
       "title": "Whole Roasted Snapper with Citrus Vinaigrette",
       "page": 260,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite)"
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          "6 tablespoons extra-virgin olive oil",
+          "1/4 cup minced fresh cilantro",
+          "2 teaspoons grated lime zest plus 2 tablespoons juice",
+          "2 teaspoons grated orange zest plus 2 tablespoons juice",
+          "1 small shallot, minced",
+          "1/8 teaspoon red pepper flakes",
+          "Salt and pepper",
+          "2 (1 1/2- to 2-pound) whole red snapper, scaled, gutted, fins snipped off with scissors"
+        ],
+        "steps": [
+          "Adjust oven rack to middle position and heat oven to 500 degrees. Line rimmed baking sheet with parchment and grease parchment. Whisk 1/4 cup oil, cilantro, lime juice, orange juice, shallot, and pepper flakes together; season and set aside for serving.",
+          "In separate bowl combine lime zest, orange zest, 1 1/2 teaspoons salt, and 1/2 teaspoon pepper. Rinse snapper, pat dry inside and out. Make 3 or 4 shallow slashes about 2 inches apart on both sides. Sprinkle 1 teaspoon salt mixture in each cavity; brush each fish with 1 tablespoon oil and season outside with remaining salt mixture. Transfer to sheet and let sit 10 minutes.",
+          "Roast until snapper flakes when gently prodded and registers 140 degrees, 15 to 20 minutes.",
+          "Rest 5 minutes. Fillet: vertical cut behind head, cut along top from head to tail, lift meat from bones with spatula starting at head end; repeat on second side. Discard head and skeleton. Rewhisk dressing; serve with snapper."
+        ],
+        "tips": [
+          "Tagged FAST. Bonus capture from the p.260 sole scan.",
+          "Shallow slashes in the skin give even cooking, even seasoning, and a doneness window.",
+          "The citrus salt rub + 10-minute sit infuses the fish; the quick citrus vinaigrette is the finishing punch.",
+          "Sea bass substitutes for snapper; avoid fish over 2 pounds — hard to maneuver on the sheet.",
+          "The page's technique panel shows the two-cut fillet-and-lift method for serving whole fish."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Sauteed Sole with Fresh Tomato Relish",
       "page": 260,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite)"
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "ingredients": [
+          "1/2 cup all-purpose flour",
+          "8 (2- to 3-ounce) skinless sole fillets, 1/4 to 1/2 inch thick",
+          "Salt and pepper",
+          "1/4 cup extra-virgin olive oil",
+          "Lemon wedges"
+        ],
+        "steps": [
+          "Place flour in shallow dish. Pat sole dry with paper towels and season with salt and pepper. Working with 1 fillet at a time, dredge in flour to coat, shaking off any excess.",
+          "Heat 2 tablespoons oil in 12-inch nonstick skillet over medium-high heat until shimmering. Place half of sole in skillet and cook until lightly browned on first side, 2 to 3 minutes. Gently flip sole using 2 spatulas and continue to cook until fish flakes apart when gently prodded with paring knife, 30 to 60 seconds.",
+          "Carefully transfer sole to serving platter and tent loosely with aluminum foil. Wipe skillet clean with paper towels and repeat with remaining 2 tablespoons oil and fillets. Serve with lemon wedges."
+        ],
+        "tips": [
+          "Tagged FAST. Sole's delicate texture and sweet mild flavor want exactly this: a quick turn in a hot nonstick skillet.",
+          "The light flour coating protects the fish and builds a bit of browned crust.",
+          "Flounder substitutes for sole. Do NOT use fillets thinner than 1/4 inch — they overcook very quickly.",
+          "Flip gently with TWO spatulas; the second side needs only 30 to 60 seconds.",
+          "Cook in two batches and wipe the skillet clean between them.",
+          "The cooked fish is 'perfect unadorned or with just a squeeze of lemon' — the two developed relishes (including the fresh tomato one) live on the following page, not captured in this scan."
+        ],
+        "makes": "Serves 4"
+      }
     },
     {
       "title": "Swordfish en Cocotte with Shallots, Cucumber, and Mint",
