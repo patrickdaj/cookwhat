@@ -140,56 +140,6 @@
     {
       "day": "Mon",
       "slot": "dinner",
-      "role": "main",
-      "title": "Grilled Chicken alla Diavola",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.299",
-      "cuisine": "italian",
-      "protein": "chicken",
-      "activeTimeMin": 35,
-      "totalTimeMin": 105,
-      "servings": 4,
-      "tags": [
-        "book",
-        "redo",
-        "grill"
-      ],
-      "ingredients": [
-        {
-          "item": "whole chicken (3.5-4 lb)",
-          "qty": 1,
-          "category": "meat-seafood",
-          "note": "spatchcock; giblets out"
-        },
-        {
-          "item": "garlic heads",
-          "qty": 2,
-          "category": "produce",
-          "note": "plus 4 minced cloves"
-        },
-        {
-          "item": "bay leaves",
-          "qty": 3,
-          "category": "spices"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "HALVED from the book’s 2 tsp for the low-heat house — serve extra flakes/hot oil on the side"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "category": "produce",
-          "note": "wedges"
-        }
-      ],
-      "notes": "REDO — last cooked 6/28, three months out. Brine 1 hr, spatchcock, grill under a foil-wrapped brick or Dutch oven for crisp skin. Start the brine by ~5 for a 7pm dinner."
-    },
-    {
-      "day": "Mon",
-      "slot": "dinner",
       "role": "side",
       "title": "Algerian-Style Fennel, Orange, and Olive Salad",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
@@ -240,28 +190,29 @@
     {
       "day": "Mon",
       "slot": "dinner",
-      "role": "side",
-      "title": "Simple Couscous",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.161",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
+      "role": "main",
+      "title": "Grilled Chicken Souvlaki",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.300",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "activeTimeMin": 35,
+      "totalTimeMin": 75,
       "servings": 4,
       "tags": [
         "book",
-        "quick"
+        "needs-scan",
+        "grill",
+        "new"
       ],
       "ingredients": [
         {
-          "item": "couscous",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "check the box from last week"
+          "item": "pita bread",
+          "qty": 4,
+          "category": "bakery",
+          "note": "for serving"
         }
       ],
-      "notes": "15 minutes, one burner. The box in the pantry likely covers it."
+      "notes": "SCAN p.300 (souvlaki — the column next to the kebabs you scanned before). NEW pick, grill-only. If it references tzatziki as “store-bought or homemade,” grab a tub or scan the tzatziki page too — we don’t do half-enumerated sauces."
     }
   ]
 }
