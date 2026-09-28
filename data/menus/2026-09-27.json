@@ -1,0 +1,461 @@
+{
+  "weekOf": "2026-09-27",
+  "createdAt": "2026-09-28T17:36:11.207Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "roasted-chicken-thighs-with-moroccan-pistachio-and-currant-s-cc00fc8f",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Roasted Chicken Thighs with Moroccan Pistachio and Currant Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.296",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "carried-over",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "bone-in chicken thighs (5-7 oz)",
+          "qty": 8,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "CARRIED OVER — if last week's went in the freezer, thaw them; otherwise buy"
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "the bag should still have them"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.5,
+          "unit": "cup leaves",
+          "category": "produce",
+          "note": "buy fresh if last week's bunch is done"
+        },
+        {
+          "item": "dried currants",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "bought last week"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "bought last week"
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "1 tsp"
+        },
+        {
+          "item": "orange blossom water",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "bought last week"
+        }
+      ],
+      "notes": "Last week's Tuesday, finally cooked. Preheat the sheet in the 450° oven, skin-down 17-22 min to 160°, broil to 175°; 10-pulse sauce while it rests. Serves 8 — halve or bank leftovers."
+    },
+    {
+      "id": "herbed-barley-pilaf-37c4b994",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "carried-over",
+        "whole-grain"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pearl barley (NOT hulled/quick-cooking)",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "bought last week, unused after the couscous swap — or farro"
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "check the herb drawer first"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": "same bunch as the sauce"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "skip if the bunch died — parsley covers it"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "The barley finally gets cooked. Start checking at 20 min; towel under the lid for the rest."
+    },
+    {
+      "id": "sauteed-swiss-chard-with-garlic-1af8efb8",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Swiss Chard with Garlic",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.226",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Swiss chard",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "wedges"
+        }
+      ],
+      "notes": "The quick green from week 1 — stems in first, leaves wilted after, garlic toasted in the same pan."
+    },
+    {
+      "id": "avgolemono-46931f1a",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Avgolemono",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.59",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "carried-over",
+        "light",
+        "soup"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "qty": 8,
+          "unit": "cup",
+          "category": "canned",
+          "note": "cartons bought last week"
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "basmati bag covers it"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "zest BEFORE juicing"
+        },
+        {
+          "item": "green cardamom pods",
+          "qty": 4,
+          "unit": "",
+          "category": "spices",
+          "note": "or 2 whole cloves"
+        },
+        {
+          "item": "eggs",
+          "qty": 4,
+          "unit": "",
+          "category": "dairy",
+          "note": "2 whole + 2 yolks, room temp"
+        },
+        {
+          "item": "boneless skinless chicken breasts (6 oz)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "chicken variation — CARRIED OVER if last week's went in the freezer"
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "or mint, garnish"
+        }
+      ],
+      "notes": "Last week's Thursday, finally cooked. Temper the eggs, never boil after; serve immediately."
+    },
+    {
+      "id": "sesame-lemon-cucumber-salad-11742977",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sesame-Lemon Cucumber Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "carried-over",
+        "make-ahead"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "buy fresh if last week's got eaten"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "in the cabinet from last week"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "in the cabinet"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp juice — soup lemons cover it"
+        }
+      ],
+      "notes": "Start mid-afternoon: 1-3 hr salted drain under a water-bag weight. Dress within an hour of eating."
+    },
+    {
+      "id": "greek-style-shrimp-with-tomatoes-and-feta-fcd25a85",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "redo",
+        "carried-over"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "BUY — the freezer bag went into Saturday's pasta"
+        },
+        {
+          "item": "ouzo",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "cabinet"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "zest"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red or green bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "already halved for the low-heat house"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "28-oz can",
+          "category": "canned",
+          "note": "bought last week, unused"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "feta cheese",
+          "qty": 6,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "bought last week — check the date; light hand in the pot, rest table-side"
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "buy fresh if last week's wilted"
+        }
+      ],
+      "notes": "The redo that got bumped for lazy shrimp pasta — the can, feta, and ouzo are already in the house; only the shrimp is a real buy. Crusty bread for the sauce."
+    },
+    {
+      "id": "crusty-bread-bc086581",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crusty bread",
+      "source": "bakery",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "For the tomato-feta sauce."
+    }
+  ]
+}
