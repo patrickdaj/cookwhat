@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-09-27",
   "createdAt": "2026-09-28T17:36:11.207Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -441,5 +441,6 @@
       ],
       "notes": "Marinate 1-2 hrs (flip the bag every 30 min) — start the bag by ~4:30. Six 12-inch metal skewers: 4 pork, 2 onion. Honey goes into the reserved marinade as the baste. Rub is coriander/cumin/nutmeg/cinnamon — zero chile, wife-safe as written."
     }
-  ]
+  ],
+  "setAt": "2026-09-28T20:30:13.705Z"
 }
