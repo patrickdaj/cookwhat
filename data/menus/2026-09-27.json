@@ -191,20 +191,26 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Chicken Souvlaki",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.300",
-      "cuisine": "greek",
-      "protein": "chicken",
+      "title": "Grilled Spiced Pork Skewers with Onion and Caper Relish",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.313",
+      "cuisine": "mediterranean",
+      "protein": "pork",
       "activeTimeMin": 35,
-      "totalTimeMin": 75,
+      "totalTimeMin": 60,
       "servings": 4,
       "tags": [
         "book",
         "needs-scan",
         "grill",
-        "new"
+        "new",
+        "freezer-protein"
       ],
       "ingredients": [
+        {
+          "item": "boneless pork chops (1 inch)",
+          "category": "meat-seafood",
+          "note": "ALREADY THAWED on the counter — cube for skewers, nothing to buy"
+        },
         {
           "item": "pita bread",
           "qty": 4,
@@ -212,7 +218,7 @@
           "note": "for serving"
         }
       ],
-      "notes": "SCAN p.300 (souvlaki — the column next to the kebabs you scanned before). NEW pick, grill-only. If it references tzatziki as “store-bought or homemade,” grab a tub or scan the tzatziki page too — we don’t do half-enumerated sauces."
+      "notes": "SCAN p.313. Opens the Pork chapter (0/5 cooked). Uses the thawed chops — cube to ~1-inch, which is exactly the recipe’s format. If the spice rub leans on chile heat, build it mild and serve the kick on the side."
     }
   ]
 }
