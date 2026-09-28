@@ -1,0 +1,503 @@
+{
+  "weekOf": "2026-09-27",
+  "generatedAt": "2026-09-28T20:28:25.719Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "arugula",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers",
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 12,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers",
+            "Grilled Tuna Steaks with Romesco",
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "lemon",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Sesame-Lemon Cucumber Salad",
+            "Algerian-Style Fennel, Orange, and Olive Salad",
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onions",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "oranges",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "scallions",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless pork chops (1 inch)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Crusty bread"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "dim": "slice",
+          "unitLabel": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "slice"
+        },
+        {
+          "item": "pita bread",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Fattoush",
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "capers",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "qty": 8,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco",
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers",
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg + cinnamon",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Spiced Pork Skewers with Onion and Caper Relish"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground sumac",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Marinated Shrimp Skewers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "pitted oil-cured black olives"
+  ],
+  "pendingScans": [],
+  "totalItems": 38
+}

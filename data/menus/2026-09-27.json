@@ -13,16 +13,59 @@
       "cuisine": "mediterranean",
       "protein": "shrimp",
       "activeTimeMin": 30,
-      "totalTimeMin": 45,
+      "totalTimeMin": 70,
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "weeknight"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.272. Hot-night pick — the grill keeps the kitchen cool."
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "peeled + deveined"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "category": "produce",
+          "note": "1 tsp zest + wedges"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "cayenne pepper",
+          "category": "spices",
+          "note": "book: 1/4 tsp — use 1/8 or skip for the low-heat house"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "unit": "tbsp minced",
+          "category": "produce",
+          "note": "fattoush bunch covers it"
+        }
+      ],
+      "notes": "Marinate 30-60 min ONLY (past an hour the texture suffers). Shallow cut down the back, pack tight on 4 skewers alternating heads/tails, sugar side down first 3-4 min, flip to cool side 1-2 min. Lime juice at the table, never in the marinade."
     },
     {
       "day": "Tue",
@@ -33,15 +76,69 @@
       "cuisine": "lebanese",
       "protein": "vegetable",
       "activeTimeMin": 20,
-      "totalTimeMin": 30,
+      "totalTimeMin": 35,
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "no-cook"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.92. The tomato-cucumber salad you asked about — crisped pita covers the carb, zero oven beyond toasting."
+      "ingredients": [
+        {
+          "item": "pita breads (8-inch)",
+          "qty": 2,
+          "category": "bakery",
+          "note": "Monday’s pack covers it — these get split and crisped"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "3 tbsp juice"
+        },
+        {
+          "item": "ground sumac",
+          "qty": 4,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "NEW jar — the citrusy signature; international/spice aisle"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "arugula",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "small bag"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce"
+        },
+        {
+          "item": "scallions",
+          "qty": 4,
+          "category": "produce"
+        }
+      ],
+      "notes": "Crisp the oiled pita at 375° (10-14 min) — the oil brushing is what keeps them from going soggy, no seeding/salting needed. Ripe tomatoes make or break it. Extra sumac over each portion."
     },
     {
       "day": "Fri",
@@ -56,12 +153,68 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "omega-3"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.265 (romesco itself is on p.291 if the recipe points there). The romesco FINALLY gets made — third menu it’s been on."
+      "ingredients": [
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "category": "meat-seafood",
+          "note": "halved crosswise = 4 portions"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "unit": "slice",
+          "category": "bakery",
+          "note": "romesco body"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "12-oz jar"
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "same jar as Monday"
+        },
+        {
+          "item": "cayenne pepper",
+          "category": "spices",
+          "note": "1/8 tsp across the whole sauce — gentle; omit if you’d rather"
+        }
+      ],
+      "notes": "FAST. Romesco in the processor first (mayo texture). Honey-oil brush = browning in the short grill window. Wipe the grate with oiled towels 5-10x. 110° rare / 125° medium-rare (~3 min side two); for medium, tent 5 min after."
     },
     {
       "day": "Fri",
@@ -195,12 +348,11 @@
       "source": "The Complete Mediterranean Cookbook (ATK) — p.313",
       "cuisine": "mediterranean",
       "protein": "pork",
-      "activeTimeMin": 35,
-      "totalTimeMin": 60,
+      "activeTimeMin": 40,
+      "totalTimeMin": 110,
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "new",
         "freezer-protein"
@@ -208,17 +360,86 @@
       "ingredients": [
         {
           "item": "boneless pork chops (1 inch)",
+          "qty": 1.5,
+          "unit": "lb",
           "category": "meat-seafood",
-          "note": "ALREADY THAWED on the counter — cube for skewers, nothing to buy"
+          "note": "THAWED on the counter — cube to 1 inch; book uses country-style ribs, chops are leaner so don’t overcook"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "1 tbsp zest"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "check rack"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "ground nutmeg + cinnamon",
+          "category": "spices",
+          "note": "1/2 tsp each"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "onions",
+          "qty": 2,
+          "category": "produce",
+          "note": "1/2-inch rounds, grilled for the relish"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "capers",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check jar"
+        },
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
         },
         {
           "item": "pita bread",
           "qty": 4,
-          "category": "bakery",
-          "note": "for serving"
+          "category": "bakery"
         }
       ],
-      "notes": "SCAN p.313. Opens the Pork chapter (0/5 cooked). Uses the thawed chops — cube to ~1-inch, which is exactly the recipe’s format. If the spice rub leans on chile heat, build it mild and serve the kick on the side."
+      "notes": "Marinate 1-2 hrs (flip the bag every 30 min) — start the bag by ~4:30. Six 12-inch metal skewers: 4 pork, 2 onion. Honey goes into the reserved marinade as the baste. Rub is coriander/cumin/nutmeg/cinnamon — zero chile, wife-safe as written."
     }
   ]
 }

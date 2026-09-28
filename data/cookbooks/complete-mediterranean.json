@@ -270,7 +270,42 @@
       "title": "Grilled Spiced Pork Skewers with Onion and Caper Relish",
       "page": 313,
       "chapter": "Pork",
-      "fitsMenu": "grill"
+      "fitsMenu": "grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "6 tablespoons extra-virgin olive oil",
+          "5 garlic cloves, minced",
+          "1 tablespoon grated lemon zest",
+          "1 tablespoon ground coriander",
+          "2 teaspoons ground cumin",
+          "Salt and pepper",
+          "1/2 teaspoon ground nutmeg",
+          "1/2 teaspoon ground cinnamon",
+          "1 1/2 pounds boneless country-style pork ribs, trimmed and cut into 1-inch pieces",
+          "2 tablespoons honey",
+          "2 onions, sliced into 1/2-inch-thick rounds",
+          "1/2 cup pitted kalamata olives, chopped",
+          "1/4 cup capers, rinsed",
+          "3 tablespoons balsamic vinegar",
+          "2 tablespoons minced fresh parsley"
+        ],
+        "steps": [
+          "Whisk 1/4 cup oil, garlic, lemon zest, coriander, cumin, 1 1/2 teaspoons salt, 1/2 teaspoon pepper, nutmeg, and cinnamon together in medium bowl. Transfer 2 tablespoons marinade to small bowl and set aside. Combine remaining marinade and pork in 1-gallon zipper-lock bag and toss to coat. Press out air, seal, and refrigerate for at least 1 hour or up to 2 hours, flipping bag every 30 minutes.",
+          "Whisk honey into reserved marinade and microwave until fragrant, 15 to 30 seconds. Remove pork from bag and pat dry with paper towels. Thread pork tightly onto four 12-inch metal skewers. Thread onion rounds from side to side onto two 12-inch metal skewers, brush with 1 tablespoon oil, and season with salt and pepper.",
+          "Grill setup — charcoal: large chimney three-quarters filled (4 1/2 quarts). (Grilling and relish steps continue on p.314: grill onions with a head start alongside the pork, basting pork with the honey mixture; chop grilled onions and combine with olives, capers, balsamic, and parsley for the relish.)"
+        ],
+        "tips": [
+          "The book's cut is boneless country-style ribs — quick-cooking with enough fat to stay moist. Boneless loin chops are leaner: don't overshoot doneness, the marinade is doing the moisture work.",
+          "North African rub does double duty — marinade first, then whisked with honey into a basting sauce.",
+          "ZERO chile in the rub (coriander/cumin/nutmeg/cinnamon) — naturally wife-safe.",
+          "You need six 12-inch metal skewers: four pork, two onion.",
+          "Onions get a head start on the grill, then become the relish with olives, capers, balsamic, and parsley.",
+          "Test-kitchen sidebar: avoid 'enhanced' (sodium-injected) pork — spongy texture, salty flavor; if you do have enhanced pork, do not brine it."
+        ]
+      }
     },
     {
       "title": "Greek-Style Braised Pork with Leeks",
@@ -2356,7 +2391,40 @@
       "title": "Grilled Tuna Steaks with Romesco",
       "page": 265,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite); grill"
+      "fitsMenu": "fish (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "1 slice hearty white sandwich bread, crusts removed, lightly toasted, cut into 1/2-inch pieces (1/2 cup)",
+          "1 1/2 tablespoons slivered almonds, toasted",
+          "1 cup jarred roasted red peppers, rinsed, patted dry, chopped coarse",
+          "1 plum tomato, cored, seeded, and chopped",
+          "1/4 cup extra-virgin olive oil",
+          "2 1/4 teaspoons sherry vinegar",
+          "1 garlic clove, minced",
+          "1/8 teaspoon cayenne pepper",
+          "Salt and pepper",
+          "2 teaspoons honey",
+          "1 teaspoon water",
+          "2 (8- to 12-ounce) skinless tuna steaks, 1 inch thick, halved crosswise"
+        ],
+        "steps": [
+          "Process bread and almonds in food processor until nuts are finely ground, 10 to 15 seconds. Add red peppers, tomato, 1 tablespoon oil, vinegar, garlic, cayenne, and 1/2 teaspoon salt. Process until smooth with texture similar to mayonnaise, 20 to 30 seconds, scraping down as needed. Season with salt to taste; set aside for serving.",
+          "Whisk remaining 3 tablespoons oil, honey, water, 1/2 teaspoon salt, and pinch pepper together. Pat tuna dry and generously brush with oil mixture.",
+          "Grill setup — charcoal: full large chimney (6 quarts) over half of grill; gas: all burners high ~15 minutes, leave on high.",
+          "Clean grate, then repeatedly brush with well-oiled paper towels until black and glossy, 5 to 10 times. Grill tuna (hotter side if charcoal, covered if gas) until opaque with dark grill marks on first side, 1 to 3 minutes. Gently flip with 2 spatulas. Cook to 110 degrees (rare, translucent red center, ~1 1/2 min) or 125 degrees (medium-rare, reddish pink center, ~3 min). Serve with sauce. For medium: use medium-rare timing, then tent 5 minutes."
+        ],
+        "tips": [
+          "Tagged FAST — the tuna spends only minutes on the grate.",
+          "Honey in the brushing oil is the browning accelerator (browns faster than sugar) — crucial with such a short grill time.",
+          "The 5-10x oiled-towel grate wipe is what keeps lean tuna from sticking.",
+          "The romesco is IN this recipe — jarred roasted peppers, toasted bread + almonds for body, sherry vinegar punch. Also terrific on toasted bread or as a crudite dip.",
+          "1/8 tsp cayenne across a whole batch of sauce is gentle — fine as-is, or omit and offer hot sauce alongside.",
+          "ATK prefers rare or medium-rare; hold the medium-rare timing and tent 5 min for medium."
+        ]
+      }
     },
     {
       "title": "Bouillabaisse",
@@ -2473,7 +2541,40 @@
       "title": "Grilled Marinated Shrimp Skewers",
       "page": 272,
       "chapter": "Seafood",
-      "fitsMenu": "shrimp (favorite); grill"
+      "fitsMenu": "shrimp (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "MARINADE: 3 tablespoons extra-virgin olive oil",
+          "6 garlic cloves, minced",
+          "1 teaspoon grated lime zest",
+          "1 teaspoon smoked paprika",
+          "1/2 teaspoon ground ginger",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon cayenne pepper",
+          "SHRIMP: 1 1/2 pounds extra-large shrimp (21 to 25 per pound), peeled and deveined",
+          "1/2 teaspoon sugar",
+          "1 tablespoon minced fresh cilantro",
+          "Lime wedges"
+        ],
+        "steps": [
+          "FOR THE MARINADE: Whisk all ingredients together in medium bowl.",
+          "FOR THE SHRIMP: Pat shrimp dry. Using sharp paring knife, make shallow cut down outside curve of shrimp. Add shrimp to marinade and toss to coat. Cover and refrigerate for at least 30 minutes or up to 1 hour.",
+          "Grill setup — charcoal: full large chimney (6 quarts) over half of grill; gas: all burners high ~15 minutes, leave on high.",
+          "Clean and oil grate. Thread shrimp tightly onto four 12-inch metal skewers (about 12 per skewer), alternating direction of heads and tails. Sprinkle 1 side with sugar. Place sugared side down (hotter side if charcoal). Cook without moving until lightly charred, 3 to 4 minutes. Flip, move to cooler side (or all burners off on gas), cover, and cook until opaque throughout, 1 to 2 minutes. Slide off skewers, season, sprinkle with cilantro, serve with lime wedges."
+        ],
+        "tips": [
+          "Moroccan spice logic: lime zest for tang, smoked paprika to accent the grill, cumin + lots of garlic for earthiness.",
+          "The sugar on one side buys browning without overcooking; tight packing slows the cook so they stay juicy.",
+          "The shallow cut down the back opens flesh to the marinade.",
+          "Fresh lime juice is a FINISH only — acid in the marinade degrades shrimp texture.",
+          "MILD BUILD: drop the 1/4 tsp cayenne to 1/8 or omit — the paprika/ginger/cumin do the flavor work; heat lovers get extra at the table.",
+          "Optional pairing per the book: Yogurt-Herb Sauce, p.233."
+        ]
+      }
     },
     {
       "title": "Seared Scallops with Orange-Lime Dressing",
@@ -3287,7 +3388,37 @@
     {
       "title": "Fattoush",
       "page": 92,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "2 (8-inch) pita breads",
+          "7 tablespoons extra-virgin olive oil",
+          "Salt and pepper",
+          "3 tablespoons lemon juice",
+          "4 teaspoons ground sumac, plus extra for sprinkling",
+          "1/4 teaspoon minced garlic",
+          "1 pound ripe tomatoes, cored and cut into 3/4-inch pieces",
+          "1 English cucumber, peeled and sliced 1/8 inch thick",
+          "1 cup arugula, chopped coarse",
+          "1/2 cup chopped fresh cilantro",
+          "1/2 cup chopped fresh mint",
+          "4 scallions, sliced thin"
+        ],
+        "steps": [
+          "Adjust oven rack to middle position and heat oven to 375 degrees. Using kitchen shears, cut around perimeter of each pita and separate into 2 thin rounds; cut each round in half. Place pitas smooth side down on wire rack set in rimmed baking sheet. Brush 3 tablespoons oil on surface (need not be uniform; oil spreads during baking). Season with salt and pepper. Bake until crisp and pale golden brown, 10 to 14 minutes. Cool to room temperature.",
+          "Whisk lemon juice, sumac, garlic, and 1/4 teaspoon salt together in small bowl and let sit for 10 minutes. Whisking constantly, slowly drizzle in remaining 1/4 cup oil.",
+          "Break pitas into 1/2-inch pieces and place in large bowl. Add tomatoes, cucumber, arugula, cilantro, mint, and scallions. Drizzle dressing over salad and gently toss to coat. Season with salt and pepper to taste. Serve, sprinkling individual portions with extra sumac."
+        ],
+        "tips": [
+          "Oil-brushing the pita's craggy side before baking makes it moisture-repellent — no soggy chips, and it lets ATK skip the usual seeding/salting of the vegetables, keeping the cucumber crisp and the tomato seeds/juice in.",
+          "Sumac twice: an ample dose in the dressing AND sprinkled over the finished portions. It's the citrusy signature — you'll need a jar.",
+          "The recipe's success depends on ripe, in-season tomatoes.",
+          "Genuinely no chile anywhere — zero-heat side."
+        ]
+      }
     },
     {
       "title": "French Potato Salad with Dijon and Fines Herbes",
