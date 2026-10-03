@@ -91,7 +91,7 @@
     },
     {
       "id": "grilled-tuna-steaks-with-romesco-8ffa482c",
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "main",
       "title": "Grilled Tuna Steaks with Romesco",
@@ -177,7 +177,7 @@
     },
     {
       "id": "crusty-bread-9064b0f7",
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "side",
       "title": "Crusty bread",
@@ -204,7 +204,7 @@
     },
     {
       "id": "sesame-lemon-cucumber-salad-b0b424a2",
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "side",
       "title": "Sesame-Lemon Cucumber Salad",
@@ -260,7 +260,7 @@
     },
     {
       "id": "grilled-chicken-souvlaki-c7ca6490",
-      "day": "Thu",
+      "day": "Wed",
       "slot": "dinner",
       "role": "main",
       "title": "Grilled Chicken Souvlaki",
@@ -290,7 +290,7 @@
     },
     {
       "id": "cherry-tomato-salad-with-feta-and-olives-37e9aa99",
-      "day": "Thu",
+      "day": "Wed",
       "slot": "dinner",
       "role": "side",
       "title": "Cherry Tomato Salad with Feta and Olives",
@@ -308,93 +308,6 @@
       "servings": 4,
       "ingredients": [],
       "notes": "SCAN p.97. Zero-cook; serve the feta table-side for the low-cheese build."
-    },
-    {
-      "id": "grilled-scallop-and-zucchini-skewers-with-basil-vinaigrette-8332c720",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Grilled Scallop and Zucchini Skewers with Basil Vinaigrette",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.274",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "scallops",
-      "tags": [
-        "book",
-        "needs-scan",
-        "grill",
-        "weekend",
-        "new"
-      ],
-      "activeTimeMin": 35,
-      "totalTimeMin": 50,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.274. Saturday’s “project” without heating the house. Buy DRY scallops (the week-1 lesson). Plan B if scallops look sad: the same skewers work with the counter’s best-looking firm fish."
-    },
-    {
-      "id": "tabbouleh-602439c8",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Tabbouleh",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.127",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "no-cook",
-        "repeat-side"
-      ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 120,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "medium-grind bulgur",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "check pantry — bought in September"
-        },
-        {
-          "item": "tomatoes",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1.5,
-          "unit": "cup minced",
-          "category": "produce",
-          "note": "1-2 bunches"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemons",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "No-cook — bulgur soaks in tomato-lemon juice. Start ~2 hrs ahead (drain 30 + soak 30-40 + rest 60). You made this in September and it worked; veg + carb in one bowl."
     },
     {
       "day": "Sun",
@@ -468,6 +381,106 @@
         }
       ],
       "notes": "Grill-toast slices — the carb next to the fish and its citrus salad."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Salmon Poke Bowls",
+      "source": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/poke-bowl/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "activeTimeMin": 15,
+      "totalTimeMin": 75,
+      "servings": 3,
+      "tags": [
+        "web",
+        "new",
+        "no-cook",
+        "omega-3",
+        "rice"
+      ],
+      "ingredients": [
+        {
+          "item": "sashimi-grade salmon",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "JOC splits 1/2 lb tuna + 1/2 lb salmon — going all-salmon per your call. Ask the counter for sushi/sashimi-grade, or buy commercially FROZEN salmon and thaw: freezing is what makes raw-safe"
+        },
+        {
+          "item": "soy sauce",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "rice vinegar (unseasoned)",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "sweet onion",
+          "qty": 0.25,
+          "category": "produce"
+        },
+        {
+          "item": "scallion",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "Japanese short-grain rice",
+          "qty": 1.67,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "~3 donburi servings; sushi rice works"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "category": "produce",
+          "note": "topping"
+        },
+        {
+          "item": "shelled edamame",
+          "qty": 1,
+          "unit": "cup",
+          "category": "frozen",
+          "note": "topping — quick boil"
+        },
+        {
+          "item": "Persian or Japanese cucumber",
+          "qty": 2,
+          "category": "produce",
+          "note": "topping"
+        },
+        {
+          "item": "red radishes",
+          "qty": 3,
+          "category": "produce",
+          "note": "topping — optional"
+        }
+      ],
+      "notes": "NO-COOK except the rice pot — the heat-wave dinner. Marinate the cubed salmon in the sesame-soy at least 1 hour. JOC lists Hawaiian ogo seaweed — skip it or crumble a little nori instead. Wife out: scale down or bank the extra marinated fish for lunch (eat raw fish within a day)."
     }
   ]
 }
