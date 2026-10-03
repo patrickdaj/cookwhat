@@ -481,6 +481,75 @@
         }
       ],
       "notes": "NO-COOK except the rice pot — the heat-wave dinner. Marinate the cubed salmon in the sesame-soy at least 1 hour. JOC lists Hawaiian ogo seaweed — skip it or crumble a little nori instead. Serves 3 as written — right-sized for the two of you with seconds. Mild by nature; any sriracha/spicy-mayo drizzle goes on YOUR bowl only."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Japanese Kani Salad",
+      "source": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/crab-salad-with-ponzu-mayonnaise-dressing/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "tags": [
+        "web",
+        "new",
+        "no-cook"
+      ],
+      "ingredients": [
+        {
+          "item": "imitation crab (kanikama)",
+          "qty": 5,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": "one package; refrigerated seafood case"
+        },
+        {
+          "item": "English cucumber",
+          "qty": 0.5,
+          "category": "produce",
+          "note": "buy 2 total — fattoush Sunday uses one"
+        },
+        {
+          "item": "corn (frozen or canned)",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen",
+          "note": "check freezer first"
+        },
+        {
+          "item": "Kewpie mayonnaise",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "the squeeze bottle keeps forever"
+        },
+        {
+          "item": "ponzu",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "small bottle, Asian aisle — or soy + squeeze of lemon"
+        },
+        {
+          "item": "soy sauce",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "same jar as the poke"
+        }
+      ],
+      "notes": "The poke-shop crab mix — JOC’s version is ponzu-bright rather than mayo-drowned, and MILD as written: the spicy-kani effect is just sriracha swirled into Kewpie, so do that on your own bowl only. Shred the crab sticks by hand. Zero cooking."
     }
   ]
 }
