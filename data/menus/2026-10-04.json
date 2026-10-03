@@ -1,0 +1,670 @@
+{
+  "weekOf": "2026-10-04",
+  "createdAt": "2026-10-03T22:09:08.744Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "grilled-marinated-shrimp-skewers-9d7af064",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Marinated Shrimp Skewers",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.272",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "grill",
+        "carried-over",
+        "pool-night"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 70,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21-25 ct)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "peeled + deveined"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest + wedges"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "book: 1/4 tsp — use 1/8 or skip for the low-heat house"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "unit": "tbsp minced",
+          "category": "produce",
+          "note": "fattoush bunch covers it"
+        }
+      ],
+      "notes": "POOL NIGHT and it fits: marinade is only 30-60 min, grill time ~6 min. Mild build: 1/8 tsp cayenne or skip."
+    },
+    {
+      "id": "fattoush-4352440b",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Fattoush",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.92",
+      "sourceUrl": "",
+      "cuisine": "lebanese",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "carried-over",
+        "no-cook"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 35,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pita breads (8-inch)",
+          "qty": 2,
+          "unit": "",
+          "category": "bakery",
+          "note": "Monday’s pack covers it — these get split and crisped"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "3 tbsp juice"
+        },
+        {
+          "item": "ground sumac",
+          "qty": 4,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "NEW jar — the citrusy signature; international/spice aisle"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "arugula",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "small bag"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "NO OVEN version: grill-toast the oiled pita rounds ~1-2 min per side instead of baking, then break into chips. No sumac found — use 1 tbsp za’atar + 1 tsp lemon zest in the dressing, za’atar sprinkle to serve."
+    },
+    {
+      "id": "grilled-spiced-pork-skewers-with-onion-and-caper-relish-e41af045",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Spiced Pork Skewers with Onion and Caper Relish",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.313",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "pork",
+      "tags": [
+        "book",
+        "grill",
+        "carried-over",
+        "weeknight"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": 110,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless country-style pork ribs",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "the book’s actual cut this time — the chops became sick-day dinner"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp zest"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "check rack"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground nutmeg + cinnamon",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "1/2 tsp each"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "onions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1/2-inch rounds, grilled for the relish"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check jar"
+        },
+        {
+          "item": "balsamic vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "Marinate 1-2 hrs (flip every 30 min), six 12-inch skewers (4 pork, 2 onion), honey-baste. Rub is zero-chile."
+    },
+    {
+      "id": "algerian-style-fennel-orange-and-olive-salad-6c847ea3",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Algerian-Style Fennel, Orange, and Olive Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "algerian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "no-cook",
+        "carried-over"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "oranges",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "book prefers 4 blood oranges; 3 navels/Caras work"
+        },
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "slice as thin as possible"
+        },
+        {
+          "item": "pitted oil-cured black olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup chopped",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tbsp juice"
+        }
+      ],
+      "notes": "No-cook, brand-new pick from the Salads chapter. Whisk the oil into the lemon juice slowly; toss gently so the orange pieces hold."
+    },
+    {
+      "id": "pita-84e4e7d7",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Pita",
+      "source": "bakery",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "activeTimeMin": 2,
+      "totalTimeMin": 2,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "note": "Sunday’s pack can cover it"
+        }
+      ],
+      "notes": "Warm on the grill."
+    },
+    {
+      "id": "grilled-tuna-steaks-with-romesco-8ffa482c",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Tuna Steaks with Romesco",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.265",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "tuna",
+      "tags": [
+        "book",
+        "grill",
+        "carried-over",
+        "omega-3"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "halved crosswise = 4 portions"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "unit": "slice",
+          "category": "bakery",
+          "note": "romesco body"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "12-oz jar"
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "same jar as Monday"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "1/8 tsp across the whole sauce — gentle; omit if you’d rather"
+        }
+      ],
+      "notes": "FAST. Romesco in the processor first (mayo texture). Honey-oil brush = browning in the short grill window. Wipe the grate with oiled towels 5-10x. 110° rare / 125° medium-rare (~3 min side two); for medium, tent 5 min after."
+    },
+    {
+      "id": "crusty-bread-9064b0f7",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crusty bread",
+      "source": "bakery",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "Grill-toast slices next to the tuna; great with romesco."
+    },
+    {
+      "id": "sesame-lemon-cucumber-salad-b0b424a2",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sesame-Lemon Cucumber Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "make-ahead"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 90,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp juice"
+        }
+      ],
+      "notes": "Cool make-ahead side — 1-3 hr salted drain, dress within an hour of eating."
+    },
+    {
+      "id": "grilled-chicken-souvlaki-c7ca6490",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Chicken Souvlaki",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.300",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "needs-scan",
+        "grill",
+        "new"
+      ],
+      "activeTimeMin": 35,
+      "totalTimeMin": 75,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "SCAN p.300-301 (the souvlaki column next to the kebabs). If tzatziki is “store-bought or homemade,” buy a tub or scan the tzatziki page — no half-enumerated sauces."
+    },
+    {
+      "id": "cherry-tomato-salad-with-feta-and-olives-37e9aa99",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Cherry Tomato Salad with Feta and Olives",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.97",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "no-cook"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.97. Zero-cook; serve the feta table-side for the low-cheese build."
+    },
+    {
+      "id": "grilled-scallop-and-zucchini-skewers-with-basil-vinaigrette-8332c720",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Scallop and Zucchini Skewers with Basil Vinaigrette",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.274",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "scallops",
+      "tags": [
+        "book",
+        "needs-scan",
+        "grill",
+        "weekend",
+        "new"
+      ],
+      "activeTimeMin": 35,
+      "totalTimeMin": 50,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.274. Saturday’s “project” without heating the house. Buy DRY scallops (the week-1 lesson). Plan B if scallops look sad: the same skewers work with the counter’s best-looking firm fish."
+    },
+    {
+      "id": "tabbouleh-602439c8",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Tabbouleh",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.127",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "no-cook",
+        "repeat-side"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 120,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "medium-grind bulgur",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check pantry — bought in September"
+        },
+        {
+          "item": "tomatoes",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1.5,
+          "unit": "cup minced",
+          "category": "produce",
+          "note": "1-2 bunches"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "No-cook — bulgur soaks in tomato-lemon juice. Start ~2 hrs ahead (drain 30 + soak 30-40 + rest 60). You made this in September and it worked; veg + carb in one bowl."
+    }
+  ]
+}
