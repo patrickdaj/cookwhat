@@ -305,7 +305,9 @@
           "Onions get a head start on the grill, then become the relish with olives, capers, balsamic, and parsley.",
           "Test-kitchen sidebar: avoid 'enhanced' (sodium-injected) pork — spongy texture, salty flavor; if you do have enhanced pork, do not brine it."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-01"
     },
     {
       "title": "Greek-Style Braised Pork with Leeks",
@@ -2574,7 +2576,9 @@
           "MILD BUILD: drop the 1/4 tsp cayenne to 1/8 or omit — the paprika/ginger/cumin do the flavor work; heat lovers get extra at the table.",
           "Optional pairing per the book: Yogurt-Herb Sauce, p.233."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-09-29"
     },
     {
       "title": "Seared Scallops with Orange-Lime Dressing",
