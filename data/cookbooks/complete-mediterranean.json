@@ -242,12 +242,76 @@
       "title": "Chicken Bouillabaisse",
       "page": 301,
       "chapter": "Poultry",
-      "fitsMenu": "chicken (favorite)"
+      "fitsMenu": "chicken (favorite)",
+      "scanned": true,
+      "makes": "Serves 6",
+      "captured": {
+        "makes": "Serves 6",
+        "ingredients": [
+          "3 pounds bone-in chicken pieces (split breasts cut in half, drumsticks, and/or thighs), trimmed",
+          "Salt and pepper",
+          "2 tablespoons extra-virgin olive oil",
+          "1 large leek, white and light green parts only, halved lengthwise, sliced thin, washed thoroughly",
+          "1 small fennel bulb, stalks discarded, bulb halved, cored, sliced thin",
+          "4 garlic cloves, minced",
+          "1 tablespoon tomato paste",
+          "1 tablespoon all-purpose flour",
+          "1/4 teaspoon saffron threads, crumbled",
+          "1/4 teaspoon cayenne pepper",
+          "3 cups chicken broth",
+          "1 (14.5-ounce) can diced tomatoes, drained",
+          "12 ounces Yukon Gold potatoes, unpeeled, cut into 3/4-inch pieces",
+          "1/2 cup dry white wine",
+          "1/4 cup pastis or Pernod",
+          "1 (3-inch) strip orange zest",
+          "1 tablespoon chopped fresh tarragon or parsley"
+        ],
+        "steps": [
+          "Adjust oven racks to upper-middle and lowest positions; heat oven to 375 degrees. Pat chicken dry, season. Heat oil in Dutch oven over medium-high until just smoking. Brown chicken well, 5 to 8 minutes per side; transfer to plate.",
+          "Add leek and fennel to fat and cook, stirring often, until beginning to soften, about 4 minutes. Stir in garlic, tomato paste, flour, saffron, and cayenne; cook until fragrant, about 30 seconds. Slowly whisk in broth, scraping up browned bits. Stir in tomatoes, potatoes, wine, pastis, and orange zest. Bring to simmer and cook 10 minutes.",
+          "Nestle thighs and drumsticks into pot with skin above surface of liquid; cook uncovered 5 minutes. Nestle breast pieces, keeping skin above liquid. Transfer to upper rack and cook uncovered until breasts register 145 and thighs/drumsticks 160, 10 to 20 minutes.",
+          "Remove pot; heat broiler. Broil until skin is crisp, breasts 160 and drumsticks/thighs 175, 5 to 10 minutes (pull individual pieces as they hit temp).",
+          "Skim excess fat, stir in tarragon, season, serve in wide shallow bowls."
+        ],
+        "tips": [
+          "Bonus capture — the pages where the souvlaki was supposed to be! An OVEN dish: save it for the first cool week; it's a terrific one.",
+          "The chicken rests ON the potatoes with skin above the liquid, so browned skin stays crisp through the braise; a broiler blast finishes it.",
+          "Pastis goes in early so the alcohol cooks off, leaving a hint of anise sweetness; white wine + orange zest build the Provencal broth.",
+          "Serve with Rouille (p.302, captured) and Garlic Toasts (p.56).",
+          "1/4 tsp cayenne across 6 servings — halve it for the house as usual."
+        ]
+      }
     },
     {
       "title": "Rouille",
       "page": 301,
-      "chapter": "Poultry"
+      "chapter": "Poultry",
+      "scanned": true,
+      "makes": "Makes 1 cup",
+      "captured": {
+        "makes": "Makes 1 cup",
+        "ingredients": [
+          "3 tablespoons boiling water",
+          "1/4 teaspoon saffron threads, crumbled",
+          "1 (3-inch) piece baguette, crusts removed, torn into 1-inch pieces (1 cup)",
+          "4 teaspoons lemon juice",
+          "1 large egg yolk",
+          "2 teaspoons Dijon mustard",
+          "2 small garlic cloves, minced",
+          "1/4 teaspoon cayenne pepper",
+          "1/2 cup vegetable oil",
+          "1/2 cup extra-virgin olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Combine boiling water and saffron; steep 5 minutes. Stir in bread pieces and lemon juice; soak 5 minutes. Whisk-mash soaked bread to uniform paste, 1 to 2 minutes. Whisk in egg yolk, mustard, garlic, and cayenne until smooth, about 15 seconds. Whisking constantly, slowly drizzle in vegetable oil to mayonnaise consistency, then slowly whisk in olive oil. Season."
+        ],
+        "tips": [
+          "Tagged FAST + VEG. The saffron-garlic mayonnaise that finishes bouillabaisse.",
+          "Keeps refrigerated up to 1 week; doubles as a sauce for vegetables and fish.",
+          "1/4 tsp cayenne per full cup — scale to the house."
+        ]
+      }
     },
     {
       "title": "Chicken Tagine with Chickpeas and Apricots",
@@ -415,7 +479,46 @@
       "title": "Grilled Lamb Kofte",
       "page": 321,
       "chapter": "Lamb",
-      "fitsMenu": "grill"
+      "fitsMenu": "grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "1/2 cup pine nuts",
+          "4 garlic cloves, peeled and smashed",
+          "1 1/2 teaspoons hot smoked paprika",
+          "1 teaspoon salt",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon pepper",
+          "1/4 teaspoon ground coriander",
+          "1/4 teaspoon ground cloves",
+          "1/8 teaspoon ground nutmeg",
+          "1/8 teaspoon ground cinnamon",
+          "1 1/2 pounds ground lamb",
+          "1/2 cup grated onion, drained",
+          "1/3 cup minced fresh parsley",
+          "1/3 cup minced fresh mint",
+          "1 1/2 teaspoons unflavored gelatin",
+          "1 (13 by 9-inch) disposable aluminum roasting pan (if using charcoal)",
+          "1 recipe Tahini-Yogurt Sauce (page 233)"
+        ],
+        "steps": [
+          "Process pine nuts, garlic, paprika, salt, cumin, pepper, coriander, cloves, nutmeg, and cinnamon in food processor until coarse paste forms, 30 to 45 seconds; transfer to large bowl. Add ground lamb, onion, parsley, mint, and gelatin and knead with your hands until thoroughly combined and mixture feels slightly sticky, about 2 minutes.",
+          "Divide mixture into 8 equal portions. Shape each into 5-inch-long cylinder about 1 inch in diameter. Using eight 12-inch metal skewers, thread 1 cylinder onto each skewer, pressing gently to adhere. Transfer to lightly greased baking sheet, cover with plastic, and refrigerate for at least 1 hour or up to 24 hours.",
+          "Grill setup — charcoal: poke twelve 1/2-inch holes in bottom of disposable pan, place pan in center of grill, light chimney two-thirds filled (4 quarts), pour into pan; heat ~5 minutes. Gas: all burners high, ~15 minutes, leave on high.",
+          "Clean and oil grate. Place skewers on grill (directly over coals if charcoal) at 45-degree angle to grate. Cook (covered if gas) until browned and meat easily releases, 4 to 7 minutes. Flip and cook until browned on second side and meat registers 160 degrees, about 6 minutes. Serve with Tahini-Yogurt Sauce."
+        ],
+        "tips": [
+          "Gelatin replaces the usual bread-milk panade — firms the meat onto the skewer and keeps it juicy without pastiness.",
+          "Ground pine nuts in the paste prevent toughness and add richness.",
+          "The fridge hour (up to 24) is what sets the cylinders on the skewers — don't skip it.",
+          "You need eight 12-inch metal skewers; the concentrated charcoal-in-a-pan fire mimics a traditional kofte grill.",
+          "MILD BUILD: the 1 1/2 tsp is HOT smoked paprika — use sweet smoked paprika for the house and offer heat at the table.",
+          "Serve with rice pilaf, or as pita sandwiches with sliced red onion and chopped mint.",
+          "Tahini-Yogurt Sauce (p.233) is the named sub-component — enumerate it before shopping."
+        ]
+      }
     },
     {
       "title": "Grilled Greek-Style Lamb Pita Sandwiches",
@@ -2271,13 +2374,75 @@
       "title": "Pan-Roasted Sea Bass with Wild Mushrooms",
       "page": 256,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite)"
+      "fitsMenu": "fish (favorite)",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "1/2 cup water",
+          "1/3 ounce dried porcini mushrooms",
+          "4 (4- to 6-ounce) skinless sea bass fillets, 1 to 1 1/2 inches thick",
+          "1/4 cup extra-virgin olive oil, plus extra for serving",
+          "Salt and pepper",
+          "1 sprig fresh rosemary",
+          "1 red onion, halved and sliced thin",
+          "12 ounces portobello mushroom caps, halved and sliced 1/2 inch thick",
+          "1 pound cremini mushrooms, trimmed, halved if small or quartered if large",
+          "2 garlic cloves, minced",
+          "1 tablespoon minced fresh parsley",
+          "Lemon wedges"
+        ],
+        "steps": [
+          "Microwave water and porcini in covered bowl until steaming, about 1 minute. Let sit until softened, about 5 minutes. Drain through fine-mesh strainer lined with coffee filter, reserve liquid, mince porcini.",
+          "Adjust rack to lower-middle, heat oven to 475 degrees. Pat sea bass dry, rub with 2 tablespoons oil, season.",
+          "Heat remaining 2 tablespoons oil and rosemary in 12-inch ovensafe skillet over medium-high until shimmering. Add onion, portobellos, cremini, and 1/2 teaspoon salt; cook until mushrooms release liquid and begin to brown, 8 to 10 minutes. Stir in garlic and porcini, 30 seconds.",
+          "Off heat, stir in reserved porcini liquid. Nestle sea bass skinned side down, transfer to oven, roast until fish flakes and registers 140 degrees, 10 to 12 minutes. Sprinkle with parsley, drizzle extra oil, serve with lemon wedges."
+        ],
+        "tips": [
+          "Bonus capture from the p.256 scan — an oven dish for when the weather breaks.",
+          "Fish roasts right on top of the sauteed mushrooms so the flavors meld; porcini liquid reduces into the sauce.",
+          "Cod and snapper substitute for the sea bass."
+        ]
+      }
     },
     {
       "title": "Grilled Sea Bass with Citrus and Black Olive Salad",
       "page": 256,
       "chapter": "Seafood",
-      "fitsMenu": "fish (favorite); grill"
+      "fitsMenu": "fish (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4",
+      "captured": {
+        "makes": "Serves 4",
+        "ingredients": [
+          "2 oranges",
+          "1 red grapefruit",
+          "1/4 cup pitted kalamata olives, chopped",
+          "2 tablespoons minced fresh parsley",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon paprika",
+          "Pinch cayenne pepper",
+          "Salt and pepper",
+          "4 (4- to 6-ounce) skinless sea bass fillets, 1 to 1 1/2 inches thick",
+          "2 tablespoons extra-virgin olive oil"
+        ],
+        "steps": [
+          "Cut away peel and pith from oranges and grapefruit. Quarter oranges, then slice crosswise into 1/2-inch-thick pieces. Cut grapefruit into 8 wedges, then slice wedges crosswise into 1/2-inch-thick pieces. Combine oranges, grapefruit, olives, parsley, cumin, paprika, and cayenne in bowl. Season with salt to taste, cover, and set aside for serving.",
+          "Pat sea bass dry with paper towels, rub with oil, and season with salt and pepper.",
+          "Grill setup — charcoal: full large chimney (6 quarts) over half of grill, ~5 minutes. Gas: all burners high ~15 minutes, then primary on high, others medium-low.",
+          "Clean grate, then brush repeatedly with well-oiled paper towels until black and glossy, 5 to 10 times. Place sea bass on hotter part and cook uncovered until well browned, about 10 minutes, gently flipping with 2 spatulas halfway.",
+          "Gently move to cooler part and cook uncovered until fish flakes when prodded and registers 140 degrees, 3 to 6 minutes. Serve with salad."
+        ],
+        "tips": [
+          "Tagged FAST. Seek out THICK fillets (1 to 1 1/2 inches); sea bass skin is too tough to eat, so it's removed and the fish rubbed with oil against sticking.",
+          "Salting the fish before grilling helps prevent off-flavors; cooking it through over the hottest part builds the flavor.",
+          "Cod and snapper are the book's named substitutes — your plan-B at the counter.",
+          "Use only the citrus PIECES in the relish, not the juices — juice waters down flavor and texture.",
+          "The pinch of cayenne across the whole salad is trivial — keep or skip.",
+          "Tail-end fillets: tuck the thin end under itself so it cooks at the same rate."
+        ]
+      }
     },
     {
       "title": "Grilled Whole Sea Bass with Salmoriglio Sauce",
@@ -3448,7 +3613,38 @@
     {
       "title": "Cherry Tomato Salad with Feta and Olives",
       "page": 97,
-      "chapter": "Salads"
+      "chapter": "Salads",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "1 1/2 pounds cherry tomatoes, quartered",
+          "1/2 teaspoon sugar",
+          "Salt and pepper",
+          "1 small cucumber, peeled, halved lengthwise, seeded, and cut into 1/2-inch pieces",
+          "1/2 cup pitted kalamata olives, chopped",
+          "4 ounces feta cheese, crumbled (1 cup)",
+          "3 tablespoons chopped fresh parsley",
+          "1 shallot, minced",
+          "1 tablespoon red wine vinegar",
+          "2 garlic cloves, minced",
+          "2 teaspoons minced fresh oregano",
+          "2 tablespoons extra-virgin olive oil"
+        ],
+        "steps": [
+          "Toss tomatoes with sugar and 1/4 teaspoon salt in bowl and let sit for 30 minutes. Transfer to salad spinner and spin until seeds and excess liquid have been removed, 45 to 60 seconds, redistributing several times. Add tomatoes, cucumber, olives, feta, and parsley to large bowl; set aside.",
+          "Strain 1/2 cup tomato liquid through fine-mesh strainer; discard the rest. Bring tomato liquid, shallot, vinegar, garlic, and oregano to simmer in small saucepan over medium heat and reduce to 3 tablespoons, 6 to 8 minutes. Cool ~5 minutes. Whisking constantly, slowly drizzle in oil. Drizzle dressing over salad and gently toss. Season and serve."
+        ],
+        "tips": [
+          "The trick: salt + sugar + 30 minutes, then a salad spinner strips the seeds and excess juice — and that juice gets REDUCED into the dressing, so no flavor is thrown away.",
+          "No spinner? Plastic-wrap the bowl after the 30-minute sit and gently shake, then strain.",
+          "Grape tomatoes halved along the equator substitute for cherry.",
+          "The one stovetop touch is a 6-8 minute reduction in a small saucepan — negligible heat.",
+          "Feta is 4 oz — crumble half in, pass the rest at the table for the low-cheese build.",
+          "VARIATION — Basil and Fresh Mozzarella: omit cucumber/olives/feta/parsley/garlic/oregano; balsamic for red wine vinegar; add 1 1/2 cups torn basil + 8 oz fresh mozzarella in 1/2-inch pieces, patted dry."
+        ]
+      }
     },
     {
       "title": "Tomato and Burrata Salad with Pangrattato and Basil",

@@ -300,14 +300,69 @@
       "protein": "vegetable",
       "tags": [
         "book",
-        "needs-scan",
         "no-cook"
       ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 15,
+      "activeTimeMin": 20,
+      "totalTimeMin": 50,
       "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.97. Zero-cook; serve the feta table-side for the low-cheese build."
+      "ingredients": [
+        {
+          "item": "cherry tomatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce"
+        },
+        {
+          "item": "cucumber (small)",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "same jar as Monday"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "half in, half table-side"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce"
+        }
+      ],
+      "notes": "Start 50 min ahead: tomatoes sit salted 30 min, spin out seeds/juice, then the strained juice reduces (6-8 min, the week’s only saucepan) into the dressing. No spinner: plastic-wrap shake method."
     },
     {
       "day": "Sun",
@@ -317,25 +372,97 @@
       "source": "The Complete Mediterranean Cookbook (ATK) — p.321",
       "cuisine": "turkish",
       "protein": "lamb",
-      "activeTimeMin": 30,
-      "totalTimeMin": 50,
+      "activeTimeMin": 35,
+      "totalTimeMin": 110,
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "new",
         "pool-night"
       ],
       "ingredients": [
         {
+          "item": "ground lamb",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "SWEET smoked paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "book says HOT smoked paprika — sweet keeps it wife-safe, heat at the table"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "ground coriander + cloves",
+          "category": "spices",
+          "note": "1/4 tsp each; nutmeg + cinnamon 1/8 tsp each — rack check"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "category": "produce",
+          "note": "1/2 cup grated, drained"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.33,
+          "unit": "cup minced",
+          "category": "produce"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.33,
+          "unit": "cup minced",
+          "category": "produce",
+          "note": "one bunch covers kofte + sandwiches garnish"
+        },
+        {
+          "item": "unflavored gelatin",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "one Knox packet"
+        },
+        {
           "item": "pita bread",
           "qty": 4,
           "category": "bakery",
-          "note": "for wrapping"
+          "note": "sandwich style, with sliced red onion + mint"
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "category": "produce",
+          "note": "sliced, for the pitas"
+        },
+        {
+          "item": "Tahini-Yogurt Sauce (p.233)",
+          "category": "pantry",
+          "note": "NEEDS-SCAN: p.233 — the sauce page; Greek yogurt + tahini are the likely buys"
         }
       ],
-      "notes": "SCAN p.321. POOL-NIGHT quick: mix, form onto skewers, ~10 min on the grill. Kofte usually comes with a yogurt-garlic sauce — if the recipe includes it, the scan covers it; enumerate it either way. Warm spices (not chile) typically carry kofte — check the scan and halve any cayenne-type amount."
+      "notes": "POOL NIGHT, grill-only. Shape the 8 cylinders onto skewers in the AFTERNOON — they need at least 1 hr in the fridge to set (that’s what keeps them on the skewer). Grill 45° to the grate, 4-7 min, flip, to 160°. Eight 12-inch skewers. SCAN p.233 for the Tahini-Yogurt Sauce before shopping — it’s the named sauce and we don’t do half-enumerated sauces."
     },
     {
       "day": "Mon",
@@ -350,12 +477,47 @@
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "new"
       ],
-      "ingredients": [],
-      "notes": "SCAN p.256. The citrus-and-olive salad is built into the recipe — veg component included. PLAN B at the counter: if no sea bass, the same treatment works on the best firm fillet they have (snapper, grouper) — don’t gamble a fishless night."
+      "ingredients": [
+        {
+          "item": "skinless sea bass fillets (4-6 oz, 1-1.5 in thick)",
+          "qty": 4,
+          "category": "meat-seafood",
+          "note": "plan B: cod or snapper — the book’s own subs"
+        },
+        {
+          "item": "oranges",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "red grapefruit",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "jar also feeds Wed’s tomato salad"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "Sunday’s bunch"
+        },
+        {
+          "item": "ground cumin + paprika",
+          "category": "spices",
+          "note": "1/2 tsp each; the pinch of cayenne is optional"
+        }
+      ],
+      "notes": "FAST. Thick fillets only; salt before grilling. Hot side ~10 min (flip halfway, 2 spatulas), cool side 3-6 min to 140°. Citrus PIECES only in the salad — no juice. Tail-end fillets: tuck the thin end under."
     },
     {
       "day": "Mon",
