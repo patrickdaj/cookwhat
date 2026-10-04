@@ -506,10 +506,24 @@
         {
           "item": "Tahini-Yogurt Sauce (p.233)",
           "category": "pantry",
-          "note": "NEEDS-SCAN: p.233 — the sauce page; Greek yogurt + tahini are the likely buys"
+          "note": "1/3 cup tahini + 1/3 cup Greek yogurt + 1/4 cup water + 3 tbsp lemon juice + 1 garlic + 3/4 tsp salt; whisk, sit 30 min — make in the morning, keeps 4 days"
+        },
+        {
+          "item": "tahini",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "plain Greek yogurt",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "small tub also covers tzatziki if making the p.233 cucumber-yogurt for Wednesday"
         }
       ],
-      "notes": "POOL NIGHT, grill-only. Shape the 8 cylinders onto skewers in the AFTERNOON — they need at least 1 hr in the fridge to set (that’s what keeps them on the skewer). Grill 45° to the grate, 4-7 min, flip, to 160°. Eight 12-inch skewers. SCAN p.233 for the Tahini-Yogurt Sauce before shopping — it’s the named sauce and we don’t do half-enumerated sauces."
+      "notes": "POOL NIGHT, grill-only. Shape the 8 cylinders onto skewers in the AFTERNOON — they need at least 1 hr in the fridge to set (that’s what keeps them on the skewer). Grill 45° to the grate, 4-7 min, flip, to 160°. Eight 12-inch skewers. Sauce enumerated from p.233 — whisk it in the morning."
     },
     {
       "day": "Mon",
