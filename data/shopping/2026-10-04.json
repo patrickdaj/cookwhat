@@ -1,0 +1,774 @@
+{
+  "weekOf": "2026-10-04",
+  "generatedAt": "2026-10-04T17:02:54.071Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "arugula",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "cucumbers",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad",
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh oregano",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki",
+            "Cherry Tomato Salad with Feta and Olives",
+            "Grilled Sea Bass with Citrus and Black Olive Salad",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 7,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco",
+            "Cherry Tomato Salad with Feta and Olives",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Sesame-Lemon Cucumber Salad",
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "oranges",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Sea Bass with Citrus and Black Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "Persian or Japanese cucumber",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red grapefruit",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Sea Bass with Citrus and Black Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red radishes",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "scallion",
+          "qty": 5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "sweet onion",
+          "qty": 0.25,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ground lamb",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "imitation crab (kanikama)",
+          "qty": 5,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "sashimi-grade salmon",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "skinless sea bass fillets (4-6 oz, 1-1.5 in thick)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Sea Bass with Citrus and Black Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "tzatziki",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty bread",
+          "qty": 2,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Crusty bread"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "dim": "slice",
+          "unitLabel": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "slice"
+        },
+        {
+          "item": "pita bread",
+          "qty": 12,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Fattoush",
+            "Grilled Chicken Souvlaki",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "honey",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco",
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Japanese short-grain rice",
+          "qty": 80.16,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "Kewpie mayonnaise",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives",
+            "Grilled Sea Bass with Citrus and Black Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "ponzu",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Cherry Tomato Salad with Feta and Olives"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 14,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad",
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Tahini-Yogurt Sauce (p.233)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad",
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon Poke Bowls",
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "unflavored gelatin",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Chicken Souvlaki"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground coriander + cloves",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cumin + paprika",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Sea Bass with Citrus and Black Olive Salad"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground sumac",
+          "qty": 4,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "SWEET smoked paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "corn (frozen or canned)",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Japanese Kani Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "shelled edamame",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "Salmon Poke Bowls"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "soy sauce"
+  ],
+  "pendingScans": [],
+  "totalItems": 59
+}

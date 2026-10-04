@@ -236,7 +236,41 @@
       "title": "Grilled Chicken Souvlaki",
       "page": 300,
       "chapter": "Poultry",
-      "fitsMenu": "chicken (favorite); grill"
+      "fitsMenu": "chicken (favorite); grill",
+      "scanned": true,
+      "makes": "Serves 4 to 6",
+      "captured": {
+        "makes": "Serves 4 to 6",
+        "ingredients": [
+          "Salt and pepper",
+          "1 1/2 pounds boneless, skinless chicken breasts, trimmed and cut into 1-inch pieces",
+          "1/3 cup extra-virgin olive oil",
+          "2 tablespoons minced fresh parsley",
+          "1 teaspoon finely grated lemon zest plus 1/4 cup juice (2 lemons)",
+          "1 teaspoon honey",
+          "1 teaspoon dried oregano",
+          "1 green bell pepper, quartered, stemmed, seeded, each quarter cut into 4 pieces",
+          "1 small red onion, halved through root end, each half cut into 4 chunks",
+          "4-6 (8-inch) pita breads",
+          "1 cup Tzatziki (page 19)"
+        ],
+        "steps": [
+          "Dissolve 2 tablespoons salt in 1 quart cold water. Submerge chicken, cover, refrigerate 30 minutes. Combine oil, parsley, lemon zest and juice, honey, oregano, and 1/2 teaspoon pepper in medium bowl. Reserve 1/4 cup oil mixture in large bowl.",
+          "Remove chicken from brine, pat dry. Toss with remaining oil mixture. Per 12-inch skewer: thread 4 pieces of bell pepper concave side up, one-quarter of the chicken, then 2 chunks of onion. Repeat on 3 more skewers. Lightly moisten 2 pitas with water; sandwich unmoistened pitas between moistened ones and wrap stack tightly in lightly greased heavy-duty foil.",
+          "Grill setup — charcoal: large chimney mounded (7 quarts) over half of grill. Gas: all burners high ~15 minutes, then primary on high and other burner(s) OFF.",
+          "Clean and oil grate. Skewers on hotter side, turning occasionally, until well browned and chicken registers 160 degrees, 15 to 20 minutes. Slide chicken and vegetables off skewers into the bowl of reserved oil mixture, toss gently, breaking up onion chunks. Cover loosely with foil while pitas heat.",
+          "Pita packet on cooler side, flipping occasionally, ~5 minutes. Spread each warm pita with 2 tablespoons tzatziki on a 12-inch foil square, pile a quarter of the chicken and vegetables in the middle, roll into a cylinder, serve."
+        ],
+        "tips": [
+          "30-minute BRINE (not the traditional overnight acidic marinade) keeps lean breast juicy; skip the brine entirely if using kosher chicken.",
+          "The lemon-honey-oregano oil is split: most coats the raw chicken, and the reserved 1/4 cup dresses the COOKED chicken — bright exterior, no raw-marinade waste.",
+          "Pepper and onion pieces on the skewer ends shield the end chunks of chicken from overcooking.",
+          "The foil pita trick: moisten the outer two, sandwich the dry ones inside, warm the packet on the cooler side.",
+          "Wrap style, or skip the pita and serve chicken, vegetables, and tzatziki over rice.",
+          "Four 12-inch metal skewers; zero chile anywhere.",
+          "Tzatziki (p.19) is the named 1-cup sub-component — tub or scan; the book prefers its homemade Pita Bread (p.344) but store-bought is sanctioned."
+        ]
+      }
     },
     {
       "title": "Chicken Bouillabaisse",

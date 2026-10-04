@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-10-04",
   "createdAt": "2026-10-03T22:09:08.744Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -270,23 +270,70 @@
       "protein": "chicken",
       "tags": [
         "book",
-        "needs-scan",
         "grill",
         "new"
       ],
-      "activeTimeMin": 35,
-      "totalTimeMin": 75,
+      "activeTimeMin": 40,
+      "totalTimeMin": 80,
       "servings": 4,
       "ingredients": [
         {
-          "item": "pita bread",
-          "qty": 4,
-          "unit": "",
-          "category": "bakery",
-          "note": ""
+          "item": "boneless skinless chicken breasts",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "1-inch pieces; 30-min brine"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "category": "produce",
+          "note": "1 tsp zest + 1/4 cup juice"
+        },
+        {
+          "item": "green bell pepper",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "red onion (small)",
+          "qty": 1,
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "the week’s bunch covers it"
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "jar"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "pita breads (8-inch)",
+          "qty": 6,
+          "category": "bakery"
+        },
+        {
+          "item": "tzatziki",
+          "qty": 1,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "BUY A TUB — or scan p.19 and we make it (Greek yogurt + cucumber + dill + garlic)"
         }
       ],
-      "notes": "SCAN p.300-301 (the souvlaki column next to the kebabs). If tzatziki is “store-bought or homemade,” buy a tub or scan the tzatziki page — no half-enumerated sauces."
+      "notes": "Brine 30 min while the grill heats — no long marinade. Pepper concave-side-up first and onion last on each skewer protect the chicken ends. Toss the COOKED chicken in the reserved 1/4 cup lemon-honey oil. Warm the foil pita packet on the cool side. Zero chile — wife-safe as written."
     },
     {
       "id": "cherry-tomato-salad-with-feta-and-olives-37e9aa99",
@@ -713,5 +760,6 @@
       ],
       "notes": "The poke-shop crab mix — JOC’s version is ponzu-bright rather than mayo-drowned, and MILD as written: the spicy-kani effect is just sriracha swirled into Kewpie, so do that on your own bowl only. Shred the crab sticks by hand. Zero cooking."
     }
-  ]
+  ],
+  "setAt": "2026-10-04T17:02:53.936Z"
 }
