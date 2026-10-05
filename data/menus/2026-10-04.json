@@ -330,10 +330,10 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Sea Bass with Citrus and Black Olive Salad",
+      "title": "Grilled Cod with Citrus and Black Olive Salad",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.256",
       "cuisine": "mediterranean",
-      "protein": "sea bass",
+      "protein": "cod",
       "activeTimeMin": 30,
       "totalTimeMin": 40,
       "servings": 4,
@@ -344,10 +344,10 @@
       ],
       "ingredients": [
         {
-          "item": "skinless sea bass fillets (4-6 oz, 1-1.5 in thick)",
+          "item": "skinless cod fillets (4-6 oz, 1-1.5 in thick)",
           "qty": 4,
           "category": "meat-seafood",
-          "note": "plan B: cod or snapper — the book’s own subs"
+          "note": "cod = the book’s own named sub for sea bass (p.256); thick center-cut"
         },
         {
           "item": "oranges",
@@ -379,7 +379,7 @@
           "note": "1/2 tsp each; the pinch of cayenne is optional"
         }
       ],
-      "notes": "FAST. Thick fillets only; salt before grilling. Hot side ~10 min (flip halfway, 2 spatulas), cool side 3-6 min to 140°. Citrus PIECES only in the salad — no juice. Tail-end fillets: tuck the thin end under."
+      "notes": "Book recipe is Grilled Sea Bass (p.256) — made with cod, its named substitute. FAST. Thick fillets only; salt before grilling. Hot side ~10 min (flip halfway, 2 spatulas), cool side 3-6 min to 140°. Citrus PIECES only in the salad — no juice. Tail-end fillets: tuck the thin end under."
     },
     {
       "day": "Mon",
@@ -410,7 +410,7 @@
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Salmon Poke Bowls",
+      "title": "Seared Salmon Poke Bowls",
       "source": "Just One Cookbook",
       "url": "https://www.justonecookbook.com/poke-bowl/",
       "cuisine": "japanese",
@@ -421,17 +421,17 @@
       "tags": [
         "web",
         "new",
-        "no-cook",
         "omega-3",
-        "rice"
+        "rice",
+        "cooked-poke"
       ],
       "ingredients": [
         {
-          "item": "sashimi-grade salmon",
+          "item": "salmon fillet",
           "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "JOC splits 1/2 lb tuna + 1/2 lb salmon — going all-salmon per your call. Ask the counter for sushi/sashimi-grade, or buy commercially FROZEN salmon and thaw: freezing is what makes raw-safe"
+          "note": "regular salmon — cooking it lightly"
         },
         {
           "item": "soy sauce",
@@ -504,7 +504,7 @@
           "note": "topping — optional"
         }
       ],
-      "notes": "NO-COOK except the rice pot — the heat-wave dinner. Marinate the cubed salmon in the sesame-soy at least 1 hour. JOC lists Hawaiian ogo seaweed — skip it or crumble a little nori instead. Serves 3 as written — right-sized for the two of you with seconds. Mild by nature; any sriracha/spicy-mayo drizzle goes on YOUR bowl only."
+      "notes": "COOKED-POKE VERSION of JOC’s bowl: sear the salmon 2-3 min a side to ~125°F, cool, cube, then marinate (3 tbsp soy + 1 tbsp sesame oil + 2 tsp rice vinegar) 30-60 min. Rice pot + one quick sear. Spicy-mayo on your bowl only."
     },
     {
       "day": "Thu",
