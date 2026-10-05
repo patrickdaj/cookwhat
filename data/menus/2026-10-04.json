@@ -263,9 +263,10 @@
       "ingredients": [
         {
           "item": "cherry tomatoes",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "lb",
-          "category": "produce"
+          "category": "produce",
+          "note": "trimmed from the book’s 1.5 lb"
         },
         {
           "item": "cucumber (small)",
