@@ -239,16 +239,9 @@
           "item": "pita breads (8-inch)",
           "qty": 6,
           "category": "bakery"
-        },
-        {
-          "item": "tzatziki",
-          "qty": 1,
-          "unit": "cup",
-          "category": "dairy",
-          "note": "BUY A TUB — or scan p.19 and we make it (Greek yogurt + cucumber + dill + garlic)"
         }
       ],
-      "notes": "Brine 30 min while the grill heats — no long marinade. Pepper concave-side-up first and onion last on each skewer protect the chicken ends. Toss the COOKED chicken in the reserved 1/4 cup lemon-honey oil. Warm the foil pita packet on the cool side. Zero chile — wife-safe as written."
+      "notes": "Brine 30 min while the grill heats — no long marinade. Pepper concave-side-up first and onion last on each skewer protect the chicken ends. Toss the COOKED chicken in the reserved 1/4 cup lemon-honey oil. Warm the foil pita packet on the cool side. Zero chile — wife-safe as written. Tzatziki is the homemade p.233 side."
     },
     {
       "id": "cherry-tomato-salad-with-feta-and-olives-37e9aa99",
@@ -574,6 +567,53 @@
         }
       ],
       "notes": "The poke-shop crab mix — JOC’s version is ponzu-bright rather than mayo-drowned, and MILD as written: the spicy-kani effect is just sriracha swirled into Kewpie, so do that on your own bowl only. Shred the crab sticks by hand. Zero cooking."
+    },
+    {
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Homemade Tzatziki (Cucumber-Yogurt Sauce)",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.233",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "tags": [
+        "book",
+        "no-cook",
+        "sauce",
+        "half-batch"
+      ],
+      "ingredients": [
+        {
+          "item": "plain Greek yogurt",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "item": "fresh dill",
+          "qty": 1,
+          "unit": "tbsp minced",
+          "category": "produce",
+          "note": "or mint/parsley"
+        },
+        {
+          "item": "cucumber",
+          "qty": 0.5,
+          "category": "produce",
+          "note": "peeled, halved, seeded, shredded"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small; in the house"
+        }
+      ],
+      "notes": "HALF batch of p.233 (~1 1/4 cups): 1/2 cup yogurt + 1 tbsp EVOO + 1 tbsp dill + 1 small garlic + 1/2 shredded cucumber, whisk, season. Make day-of — keeps 1 day. Replaces the store tub (hard to find)."
     }
   ],
   "setAt": "2026-10-04T17:02:53.936Z"
