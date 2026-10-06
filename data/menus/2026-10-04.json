@@ -410,7 +410,7 @@
       "cuisine": "japanese",
       "protein": "salmon",
       "activeTimeMin": 15,
-      "totalTimeMin": 75,
+      "totalTimeMin": 45,
       "servings": 3,
       "tags": [
         "web",
@@ -425,7 +425,7 @@
           "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "regular salmon — cooking it lightly"
+          "note": "regular (not sushi-grade) salmon — cooked to 145°F"
         },
         {
           "item": "soy sauce",
@@ -498,7 +498,7 @@
           "note": "topping — optional"
         }
       ],
-      "notes": "COOKED-POKE VERSION of JOC’s bowl: sear the salmon 2-3 min a side to ~125°F, cool, cube, then marinate (3 tbsp soy + 1 tbsp sesame oil + 2 tsp rice vinegar) 30-60 min. Rice pot + one quick sear. Spicy-mayo on your bowl only."
+      "notes": "COOKED-POKE VERSION of JOC’s bowl (salmon is not sushi-grade): sear ~4 min + 2-3 min to 145°F (FDA), chill 15-20 min, break into big flakes, marinate (3 tbsp soy + 1 tbsp sesame oil + 2 tsp rice vinegar) only 10-15 min before serving so it doesn’t go mushy. Home freezers are too warm (-4°F x 7 days needed) to make it raw-safe. Spicy-mayo on your bowl only."
     },
     {
       "day": "Thu",
