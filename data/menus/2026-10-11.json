@@ -625,97 +625,140 @@
       "notes": "NO OVEN version: grill-toast the oiled pita rounds ~1-2 min per side instead of baking, then break into chips. No sumac found — use 1 tbsp za’atar + 1 tsp lemon zest in the dressing, za’atar sprinkle to serve."
     },
     {
-      "id": "shrimp-lo-mein-92acaf7d",
-      "day": "Fri",
       "slot": "dinner",
+      "servings": 2,
+      "day": "Fri",
       "role": "main",
-      "title": "Shrimp Lo Mein",
-      "source": "The Woks of Life",
-      "sourceUrl": "https://thewoksoflife.com/shrimp-lo-mein/",
-      "cuisine": "chinese",
-      "protein": "shrimp",
+      "title": "Teriyaki Salmon",
+      "source": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/teriyaki-salmon-recipe/",
+      "cuisine": "japanese",
+      "protein": "salmon",
       "tags": [
         "web",
         "new",
-        "wok",
-        "one-pan"
+        "quick",
+        "omega-3"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
       "ingredients": [
         {
-          "item": "shrimp (31/40), peeled + deveined",
-          "qty": 12,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "fresh pre-cooked lo mein noodles",
-          "qty": 1,
-          "unit": "lb",
-          "category": "pantry",
-          "note": "refrigerated Asian noodle case"
-        },
-        {
-          "item": "snow peas",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mung bean sprouts",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "mushrooms",
-          "qty": 4,
-          "unit": "oz",
-          "category": "produce",
-          "note": "recipe also allows carrot, napa, bamboo shoots, water chestnuts"
-        },
-        {
-          "item": "carrot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "scallions",
+          "item": "skin-on salmon fillets (3/4 in thick)",
           "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "in the house"
+          "category": "meat-seafood",
+          "note": "~3/4 lb; recipe serves 2"
         },
         {
-          "item": "oyster sauce",
+          "item": "all-purpose flour",
           "qty": 1,
           "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "category": "pantry"
         },
         {
-          "item": "dark soy sauce",
+          "item": "soy sauce",
           "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": "+ 1 1/2 tbsp regular soy (in the house)"
+          "unit": "tbsp",
+          "category": "pantry"
         },
         {
-          "item": "Shaoxing wine",
+          "item": "sake",
           "qty": 1,
           "unit": "tbsp",
           "category": "beverages",
-          "note": "or dry sherry"
+          "note": "+ a splash to steam; dry sherry works"
+        },
+        {
+          "item": "mirin",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "or sake/water + pinch of sugar"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy"
         }
       ],
-      "notes": "One wok, 30 min — noodles, veg, shrimp in one bowl. Zero chile; white pepper only."
+      "notes": "MEGA EASY: 15 min, one pan. Flour-dust, sear skin-side down, splash of sake + lid to steam, reduce the 4-ingredient sauce in the pan and spoon over. JOC pulls at 125-130°F.",
+      "activeTimeMin": 15,
+      "totalTimeMin": 15
+    },
+    {
+      "slot": "dinner",
+      "servings": 4,
+      "day": "Fri",
+      "role": "side",
+      "title": "Japanese Spinach Salad with Sesame Dressing (Gomaae)",
+      "source": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "item": "spinach (bunch, not baby)",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Blanch stems 20 sec, leaves 30-45 sec in salted water, ice bath, squeeze hard, cut 1-inch. Re-toast and grind the sesame, leaving some whole.",
+      "activeTimeMin": 15,
+      "totalTimeMin": 15
+    },
+    {
+      "slot": "dinner",
+      "servings": 4,
+      "day": "Fri",
+      "role": "side",
+      "title": "Steamed rice",
+      "source": "pantry",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "ingredients": [
+        {
+          "item": "Japanese short-grain rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "in the house"
+        }
+      ],
+      "activeTimeMin": 2,
+      "totalTimeMin": 25
     }
   ]
 }
