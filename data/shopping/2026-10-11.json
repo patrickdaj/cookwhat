@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-11",
-  "generatedAt": "2026-10-10T17:59:19.147Z",
+  "generatedAt": "2026-10-10T18:01:21.732Z",
   "targetServings": null,
   "sections": [
     {
@@ -270,6 +270,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "prosciutto",
+          "qty": 3,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "skin-on salmon fillets (3/4 in thick)",
@@ -703,19 +715,6 @@
     "sugar",
     "unsalted butter"
   ],
-  "pendingScans": [
-    {
-      "title": "Thin-Crust Pizza",
-      "day": "Tue",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
-      "cookbook": true
-    },
-    {
-      "title": "Mushroom and Fennel Pizza Topping",
-      "day": "Tue",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 54
+  "pendingScans": [],
+  "totalItems": 55
 }

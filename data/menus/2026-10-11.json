@@ -174,48 +174,6 @@
       "notes": "Cool make-ahead side — 1-3 hr salted drain, dress within an hour of eating."
     },
     {
-      "id": "thin-crust-pizza-342a445b",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Thin-Crust Pizza",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetarian",
-      "tags": [
-        "book",
-        "needs-scan",
-        "pizza",
-        "cheese-ok"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.354-355. Cheese is a go this time. ATK thin-crust doughs often want a long cold rise — if the scan says 24 hr+, start Sunday or use store-bought dough."
-    },
-    {
-      "id": "mushroom-and-fennel-pizza-topping-b1796e94",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Mushroom and Fennel Pizza Topping",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "needs-scan"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.354. Veg rides on the pizza. Same page has olive-caper-garlic and prosciutto-arugula toppings if you’d rather."
-    },
-    {
       "id": "roasted-chicken-thighs-with-fennel-olive-and-orange-sauce-9b609edc",
       "day": "Wed",
       "slot": "dinner",
@@ -759,6 +717,35 @@
       ],
       "activeTimeMin": 2,
       "totalTimeMin": 25
+    },
+    {
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.356",
+      "cuisine": "italian",
+      "protein": "prosciutto",
+      "activeTimeMin": 30,
+      "totalTimeMin": 60,
+      "servings": 4,
+      "tags": [
+        "book",
+        "needs-scan",
+        "pizza",
+        "cheese-ok",
+        "user-mod"
+      ],
+      "ingredients": [
+        {
+          "item": "prosciutto",
+          "qty": 3,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": "user addition, not in the book recipe; lay on in the last minute"
+        }
+      ],
+      "notes": "SCAN p.356 (plus dough page if referenced). Prosciutto is the household’s addition — a small cured-meat accent. Figs + honey sweet, feta + prosciutto salty; go light on added salt."
     }
   ]
 }
