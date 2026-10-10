@@ -937,7 +937,49 @@
     {
       "title": "Whole-Wheat Pizza with Feta, Figs, and Honey",
       "page": 356,
-      "chapter": "Breads & Pizzas"
+      "chapter": "Breads & Pizzas",
+      "scanned": true,
+      "makes": "Makes two 13-inch pizzas, serving 4 to 6",
+      "captured": {
+        "makes": "Makes two 13-inch pizzas, serving 4 to 6",
+        "ingredients": [
+          "DOUGH: 1 1/2 cups (8 1/4 ounces) whole-wheat flour",
+          "1 cup (5 1/2 ounces) bread flour",
+          "2 teaspoons honey",
+          "3/4 teaspoon instant or rapid-rise yeast",
+          "1 1/4 cups ice water",
+          "2 tablespoons extra-virgin olive oil",
+          "1 3/4 teaspoons salt",
+          "GARLIC OIL AND TOPPINGS: 2 tablespoons extra-virgin olive oil",
+          "2 garlic cloves, minced",
+          "1/2 teaspoon pepper",
+          "1/2 teaspoon dried thyme",
+          "1/8 teaspoon salt",
+          "1 cup fresh basil leaves",
+          "4 ounces feta cheese, crumbled (1 cup)",
+          "8 ounces fresh figs, stemmed and quartered lengthwise (1 1/2 cups)",
+          "2 tablespoons honey"
+        ],
+        "steps": [
+          "FOR THE DOUGH: Pulse whole-wheat flour, bread flour, honey, and yeast in food processor until combined, about 5 pulses. With processor running, slowly add ice water and process until dough is just combined and no dry flour remains, about 10 seconds. Let dough rest 10 minutes.",
+          "Add oil and salt and process until dough forms satiny, sticky ball that clears sides of bowl, 45 to 60 seconds. Knead by hand on lightly oiled counter into smooth ball, about 30 seconds. Place seam side down in lightly greased large bowl, cover tightly with plastic, and refrigerate for at least 18 hours or up to 2 days.",
+          "FOR THE GARLIC OIL: Heat oil in 8-inch skillet over medium-low until shimmering. Add garlic, pepper, thyme, and salt and cook, stirring constantly, until fragrant, about 30 seconds. Transfer to bowl and cool completely before using.",
+          "One hour before baking, adjust oven rack 4 inches from broiler element, set baking stone on rack, and heat oven to 500 degrees. Press dough to deflate, divide in half, cover loosely with greased plastic. Pat 1 piece into 4-inch round and fold edges toward center until ball forms.",
+          "Flip seam side down and drag in small circles on counter with cupped hands until taut and round. Repeat with second piece. Space balls 3 inches apart, cover loosely with greased plastic, and rest 1 hour.",
+          "Heat broiler 10 minutes. Generously flour 1 dough ball, flatten on well-floured counter into 8-inch round with fingertips, leaving 1-inch outer edge slightly thicker. Stretch into 12-inch round by hand, working along edge with quarter turns.",
+          "Transfer to well-floured pizza peel and stretch into 13-inch round. Spread half of garlic oil, leaving 1/4-inch border. Layer 1/2 cup basil, sprinkle 1/2 cup feta, then 3/4 cup figs.",
+          "Slide onto stone and return oven to 500 degrees. Bake until crust is well browned and cheese partially browned, 8 to 10 minutes, rotating halfway. Transfer to wire rack, drizzle 1 tablespoon honey, cool 5 minutes before slicing. Heat broiler 10 minutes and repeat with remaining dough, garlic oil, and toppings, returning oven to 500 degrees when pizza goes on stone."
+        ],
+        "tips": [
+          "DOUGH NEEDS 18 HOURS TO 2 DAYS IN THE FRIDGE — make it the day before at the latest.",
+          "Whole-wheat alone is dense; the bread flour adds structure. ATK recommends King Arthur bread flour.",
+          "Ice water keeps the dough from overheating in the food processor.",
+          "The dough is wet on purpose (easier to stretch, better chew) — so the stone is heated under the BROILER, not just at 500, so the crust browns before the toppings overcook. Check your stone's manufacturer: some crack under broiler heat.",
+          "Garlic-thyme oil instead of tomato sauce — sauce and mozzarella clashed with the earthy crust.",
+          "Shape the second dough ball while the first bakes, but don't top it until right before it goes in.",
+          "Variations on p.356-357: Artichokes, Ricotta, and Parmesan; Pesto and Goat Cheese."
+        ]
+      }
     },
     {
       "title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan",

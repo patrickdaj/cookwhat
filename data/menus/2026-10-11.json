@@ -726,26 +726,87 @@
       "source": "The Complete Mediterranean Cookbook (ATK) — p.356",
       "cuisine": "italian",
       "protein": "prosciutto",
-      "activeTimeMin": 30,
-      "totalTimeMin": 60,
+      "activeTimeMin": 45,
+      "totalTimeMin": 150,
       "servings": 4,
       "tags": [
         "book",
-        "needs-scan",
         "pizza",
         "cheese-ok",
         "user-mod"
       ],
       "ingredients": [
         {
+          "item": "whole-wheat flour",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "8 1/4 oz"
+        },
+        {
+          "item": "bread flour",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "5 1/2 oz; ATK likes King Arthur"
+        },
+        {
+          "item": "instant or rapid-rise yeast",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "one packet is plenty"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "+ 2 tsp in the dough; in the house"
+        },
+        {
+          "item": "fresh figs",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": "stemmed, quartered"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "unit": "cup leaves",
+          "category": "produce"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "check what’s left from last week"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": "in the house"
+        },
+        {
+          "item": "dried thyme",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "rack"
+        },
+        {
           "item": "prosciutto",
           "qty": 3,
           "unit": "oz",
           "category": "meat-seafood",
-          "note": "user addition, not in the book recipe; lay on in the last minute"
+          "note": "household addition; lay on after baking with the honey"
         }
       ],
-      "notes": "SCAN p.356 (plus dough page if referenced). Prosciutto is the household’s addition — a small cured-meat accent. Figs + honey sweet, feta + prosciutto salty; go light on added salt."
+      "notes": "MAKE THE DOUGH BY MONDAY EVENING (18 hr-2 day cold rise). Tue: stone on rack 4 in. under broiler, 500° oven 1 hr ahead; shape balls and rest 1 hr; broil 10 min before each pizza; bake 8-10 min. Prosciutto + honey drizzle go on right out of the oven. Two 13-inch pizzas."
     }
   ]
 }

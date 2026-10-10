@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-11",
-  "generatedAt": "2026-10-10T18:01:21.732Z",
+  "generatedAt": "2026-10-10T18:08:15.015Z",
   "targetServings": null,
   "sections": [
     {
@@ -43,6 +43,18 @@
           "unit": ""
         },
         {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
           "item": "fresh chives",
           "qty": 1,
           "dim": "bunch",
@@ -65,6 +77,18 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "fresh figs",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "fresh mint",
@@ -107,14 +131,15 @@
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 8,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Grilled Tuna Steaks with Romesco",
             "Sauteed Zucchini Ribbons with Mint and Pistachios",
-            "Grilled Lamb Kofte"
+            "Grilled Lamb Kofte",
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -313,6 +338,18 @@
       "category": "dairy",
       "items": [
         {
+          "item": "feta cheese",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
           "item": "plain Greek yogurt",
           "qty": 15.84,
           "dim": "vol",
@@ -384,6 +421,18 @@
           "unit": ""
         },
         {
+          "item": "bread flour",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "cider vinegar",
           "qty": 0.5,
           "dim": "vol",
@@ -397,15 +446,28 @@
         },
         {
           "item": "honey",
-          "qty": 2,
+          "qty": 8,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Grilled Tuna Steaks with Romesco"
+            "Grilled Tuna Steaks with Romesco",
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
+        },
+        {
+          "item": "instant or rapid-rise yeast",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "Japanese short-grain rice",
@@ -598,6 +660,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "whole-wheat flour",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -615,6 +689,18 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "dried thyme",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Whole-Wheat Pizza with Feta, Figs, and Honey (+ prosciutto)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "ground coriander + cloves",
@@ -716,5 +802,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 55
+  "totalItems": 62
 }
