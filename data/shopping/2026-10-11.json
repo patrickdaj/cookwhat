@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-11",
-  "generatedAt": "2026-10-10T17:51:57.565Z",
+  "generatedAt": "2026-10-10T17:58:02.457Z",
   "targetServings": null,
   "sections": [
     {
@@ -268,18 +268,6 @@
           "unit": "cup"
         },
         {
-          "item": "spinach (bunch, not baby)",
-          "qty": 8,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Japanese Spinach Salad with Sesame Dressing (Gomaae)"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "zucchini or yellow squash (6-8 oz)",
           "qty": 4,
           "dim": "",
@@ -331,18 +319,6 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
-        },
-        {
-          "item": "skin-on salmon fillets (3/4 in thick)",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Teriyaki Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         },
         {
           "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
@@ -469,18 +445,6 @@
           "unit": "tsp"
         },
         {
-          "item": "Japanese short-grain rice",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Steamed rice"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "jarred roasted red peppers",
           "qty": 1,
           "dim": "vol",
@@ -491,18 +455,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "mirin",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Teriyaki Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "oyster sauce",
@@ -649,18 +601,6 @@
           "unit": "tbsp"
         },
         {
-          "item": "toasted white sesame seeds",
-          "qty": 3,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Japanese Spinach Salad with Sesame Dressing (Gomaae)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "unflavored gelatin",
           "qty": 0.5,
           "dim": "vol",
@@ -767,18 +707,6 @@
       "category": "beverages",
       "items": [
         {
-          "item": "sake",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Teriyaki Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "Shaoxing wine",
           "qty": 1,
           "dim": "vol",
@@ -794,10 +722,6 @@
     }
   ],
   "excludedStaples": [
-    "all-purpose flour",
-    "soy sauce",
-    "sugar",
-    "unsalted butter",
     "pitted oil-cured black olives",
     "dark soy sauce"
   ],
@@ -815,5 +739,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 62
+  "totalItems": 56
 }
