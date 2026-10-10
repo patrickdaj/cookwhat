@@ -1,0 +1,871 @@
+{
+  "weekOf": "2026-10-11",
+  "createdAt": "2026-10-10T17:51:46.884Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "teriyaki-salmon-9520abdd",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Teriyaki Salmon",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/teriyaki-salmon-recipe/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "tags": [
+        "web",
+        "new",
+        "quick",
+        "omega-3",
+        "pool-night"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets (3/4 in thick)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "~3/4 lb; recipe serves 2"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "soy sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sake",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "+ a splash to steam; dry sherry works"
+        },
+        {
+          "item": "mirin",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "or sake/water + pinch of sugar"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "MEGA EASY: 15 min, one pan. Flour-dust, sear skin-side down, splash of sake + lid to steam, reduce the 4-ingredient sauce in the pan and spoon over. JOC pulls at 125-130°F."
+    },
+    {
+      "id": "japanese-spinach-salad-with-sesame-dressing-gomaae-ab398853",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Japanese Spinach Salad with Sesame Dressing (Gomaae)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "spinach (bunch, not baby)",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Blanch stems 20 sec, leaves 30-45 sec in salted water, ice bath, squeeze hard, cut 1-inch. Re-toast and grind the sesame, leaving some whole."
+    },
+    {
+      "id": "steamed-rice-f6c468c8",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Steamed rice",
+      "source": "pantry",
+      "sourceUrl": "",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Japanese short-grain rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "in the house"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "grilled-tuna-steaks-with-romesco-8ffa482c",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Tuna Steaks with Romesco",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.265",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "tuna",
+      "tags": [
+        "book",
+        "grill",
+        "carried-over",
+        "omega-3"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "halved crosswise = 4 portions"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "unit": "slice",
+          "category": "bakery",
+          "note": "romesco body"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "12-oz jar"
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "same jar as Monday"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "1/8 tsp across the whole sauce — gentle; omit if you’d rather"
+        }
+      ],
+      "notes": "FAST. Romesco in the processor first (mayo texture). Honey-oil brush = browning in the short grill window. Wipe the grate with oiled towels 5-10x. 110° rare / 125° medium-rare (~3 min side two); for medium, tent 5 min after."
+    },
+    {
+      "id": "crusty-bread-9064b0f7",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Crusty bread",
+      "source": "bakery",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "accompaniment"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
+        }
+      ],
+      "notes": "Grill-toast slices next to the tuna; great with romesco."
+    },
+    {
+      "id": "sesame-lemon-cucumber-salad-b0b424a2",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sesame-Lemon Cucumber Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "make-ahead"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 90,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp juice"
+        }
+      ],
+      "notes": "Cool make-ahead side — 1-3 hr salted drain, dress within an hour of eating."
+    },
+    {
+      "id": "thin-crust-pizza-342a445b",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thin-Crust Pizza",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "book",
+        "needs-scan",
+        "pizza",
+        "cheese-ok"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.354-355. Cheese is a go this time. ATK thin-crust doughs often want a long cold rise — if the scan says 24 hr+, start Sunday or use store-bought dough."
+    },
+    {
+      "id": "mushroom-and-fennel-pizza-topping-b1796e94",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Mushroom and Fennel Pizza Topping",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.354. Veg rides on the pizza. Same page has olive-caper-garlic and prosciutto-arugula toppings if you’d rather."
+    },
+    {
+      "id": "roasted-chicken-thighs-with-fennel-olive-and-orange-sauce-9b609edc",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.297",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "weeknight"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in chicken thighs (5-7 oz)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "half of the book’s 8"
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.4,
+          "unit": "cup leaves",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "pitted oil-cured black olives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "anchovy fillet",
+          "qty": 1,
+          "unit": "",
+          "category": "pantry",
+          "note": "or skip"
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1/2 tsp zest"
+        },
+        {
+          "item": "ground fennel seed",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "a pinch, low-heat"
+        }
+      ],
+      "notes": "Same crispy-skin method as the pistachio-currant thighs: sheet preheated at 450°, skin-down to 160°, broil to 175°. Sauce = 10 pulses in the processor. Halved to 4 thighs."
+    },
+    {
+      "id": "herbed-barley-pilaf-ab2d9651",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "whole-grain"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pearl barley",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check pantry — bought in September, never cooked"
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "yellow in the house"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "or 1/2 tsp dried"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Start checking at 20 min; towel under the lid for the rest."
+    },
+    {
+      "id": "sauteed-zucchini-ribbons-with-mint-and-pistachios-b23a04a3",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.230",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "zucchini or yellow squash (6-8 oz)",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "in the house"
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "cabinet"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "produce",
+          "note": "same bunch as Thursday"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "check — maybe left from September"
+        }
+      ],
+      "notes": "The real veg for Wednesday. Peeler ribbons, 3-4 min in the pan; steep the garlic in the vinegar 10 min first."
+    },
+    {
+      "id": "grilled-lamb-kofte-b6d6072b",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Grilled Lamb Kofte",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.321",
+      "sourceUrl": "",
+      "cuisine": "turkish",
+      "protein": "lamb",
+      "tags": [
+        "book",
+        "grill",
+        "carried-over"
+      ],
+      "activeTimeMin": 35,
+      "totalTimeMin": 110,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground lamb",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "buy fresh unless last week’s went in the freezer"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "SWEET smoked paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "book says HOT smoked paprika — sweet keeps it wife-safe, heat at the table"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground coriander + cloves",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "1/4 tsp each; nutmeg + cinnamon 1/8 tsp each — rack check"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1/2 cup grated, drained"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.33,
+          "unit": "cup minced",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.33,
+          "unit": "cup minced",
+          "category": "produce",
+          "note": "one bunch covers kofte + sandwiches garnish"
+        },
+        {
+          "item": "unflavored gelatin",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "one Knox packet"
+        },
+        {
+          "item": "pita bread",
+          "qty": 4,
+          "unit": "",
+          "category": "bakery",
+          "note": "sandwich style, with sliced red onion + mint"
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced, for the pitas"
+        },
+        {
+          "item": "Tahini-Yogurt Sauce (p.233)",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "1/3 cup tahini + 1/3 cup Greek yogurt + 1/4 cup water + 3 tbsp lemon juice + 1 garlic + 3/4 tsp salt; whisk, sit 30 min — make in the morning, keeps 4 days"
+        },
+        {
+          "item": "tahini",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check cabinet"
+        },
+        {
+          "item": "plain Greek yogurt",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "small tub also covers tzatziki if making the p.233 cucumber-yogurt for Wednesday"
+        }
+      ],
+      "notes": "Last Sunday’s skipped dinner, now Thursday. Shape the 8 skewers the night before or that afternoon (fridge 1-24 hr). 10 min on the grill. Sweet smoked paprika, not hot. Tahini-yogurt sauce (p.233) in the morning."
+    },
+    {
+      "id": "fattoush-4352440b",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Fattoush",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.92",
+      "sourceUrl": "",
+      "cuisine": "lebanese",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "carried-over",
+        "no-cook"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 35,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "pita breads (8-inch)",
+          "qty": 2,
+          "unit": "",
+          "category": "bakery",
+          "note": "Monday’s pack covers it — these get split and crisped"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "3 tbsp juice"
+        },
+        {
+          "item": "za'atar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "stands in for sumac (+1 tsp lemon zest); in the house"
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "arugula",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "small bag"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup chopped",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "NO OVEN version: grill-toast the oiled pita rounds ~1-2 min per side instead of baking, then break into chips. No sumac found — use 1 tbsp za’atar + 1 tsp lemon zest in the dressing, za’atar sprinkle to serve."
+    },
+    {
+      "id": "shrimp-lo-mein-92acaf7d",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Shrimp Lo Mein",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/shrimp-lo-mein/",
+      "cuisine": "chinese",
+      "protein": "shrimp",
+      "tags": [
+        "web",
+        "new",
+        "wok",
+        "one-pan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "shrimp (31/40), peeled + deveined",
+          "qty": 12,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh pre-cooked lo mein noodles",
+          "qty": 1,
+          "unit": "lb",
+          "category": "pantry",
+          "note": "refrigerated Asian noodle case"
+        },
+        {
+          "item": "snow peas",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mung bean sprouts",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mushrooms",
+          "qty": 4,
+          "unit": "oz",
+          "category": "produce",
+          "note": "recipe also allows carrot, napa, bamboo shoots, water chestnuts"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "in the house"
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dark soy sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "+ 1 1/2 tbsp regular soy (in the house)"
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "or dry sherry"
+        }
+      ],
+      "notes": "One wok, 30 min — noodles, veg, shrimp in one bowl. Zero chile; white pepper only."
+    }
+  ]
+}

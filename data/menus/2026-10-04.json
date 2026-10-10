@@ -5,177 +5,8 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "grilled-tuna-steaks-with-romesco-8ffa482c",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Grilled Tuna Steaks with Romesco",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.265",
-      "sourceUrl": "",
-      "cuisine": "spanish",
-      "protein": "tuna",
-      "tags": [
-        "book",
-        "grill",
-        "carried-over",
-        "omega-3"
-      ],
-      "activeTimeMin": 30,
-      "totalTimeMin": 40,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": "halved crosswise = 4 portions"
-        },
-        {
-          "item": "hearty white sandwich bread",
-          "qty": 1,
-          "unit": "slice",
-          "category": "bakery",
-          "note": "romesco body"
-        },
-        {
-          "item": "slivered almonds",
-          "qty": 1.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "jarred roasted red peppers",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "12-oz jar"
-        },
-        {
-          "item": "plum tomato",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "sherry vinegar",
-          "qty": 2.25,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": "check cabinet"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": "same jar as Monday"
-        },
-        {
-          "item": "cayenne pepper",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": "1/8 tsp across the whole sauce — gentle; omit if you’d rather"
-        }
-      ],
-      "notes": "FAST. Romesco in the processor first (mayo texture). Honey-oil brush = browning in the short grill window. Wipe the grate with oiled towels 5-10x. 110° rare / 125° medium-rare (~3 min side two); for medium, tent 5 min after."
-    },
-    {
-      "id": "crusty-bread-9064b0f7",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Crusty bread",
-      "source": "bakery",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "accompaniment"
-      ],
-      "activeTimeMin": 0,
-      "totalTimeMin": 0,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "crusty bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": ""
-        }
-      ],
-      "notes": "Grill-toast slices next to the tuna; great with romesco."
-    },
-    {
-      "id": "sesame-lemon-cucumber-salad-b0b424a2",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Sesame-Lemon Cucumber Salad",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "make-ahead"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 90,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "cucumbers",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "cabinet"
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "cabinet"
-        },
-        {
-          "item": "sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1 tbsp juice"
-        }
-      ],
-      "notes": "Cool make-ahead side — 1-3 hr salted drain, dress within an hour of eating."
-    },
-    {
       "id": "grilled-chicken-souvlaki-c7ca6490",
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "main",
       "title": "Grilled Chicken Souvlaki",
@@ -245,7 +76,7 @@
     },
     {
       "id": "cherry-tomato-salad-with-feta-and-olives-37e9aa99",
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "side",
       "title": "Cherry Tomato Salad with Feta and Olives",
@@ -570,7 +401,7 @@
       "notes": "The poke-shop crab mix — JOC’s version is ponzu-bright rather than mayo-drowned, and MILD as written: the spicy-kani effect is just sriracha swirled into Kewpie, so do that on your own bowl only. Shred the crab sticks by hand. Zero cooking."
     },
     {
-      "day": "Wed",
+      "day": "Sat",
       "slot": "dinner",
       "role": "side",
       "title": "Homemade Tzatziki (Cucumber-Yogurt Sauce)",

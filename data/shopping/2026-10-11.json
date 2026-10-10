@@ -1,0 +1,819 @@
+{
+  "weekOf": "2026-10-11",
+  "generatedAt": "2026-10-10T17:51:57.565Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "arugula",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "English cucumber",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios",
+            "Grilled Lamb Kofte",
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco",
+            "Sauteed Zucchini Ribbons with Mint and Pistachios",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad",
+            "Herbed Barley Pilaf",
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "mung bean sprouts",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "mushrooms",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "onion",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf",
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "plum tomato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ripe tomatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "scallions",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fattoush",
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "snow peas",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "spinach (bunch, not baby)",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Spinach Salad with Sesame Dressing (Gomaae)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "zucchini or yellow squash (6-8 oz)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in chicken thighs (5-7 oz)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "ground lamb",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "shrimp (31/40), peeled + deveined",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "skin-on salmon fillets (3/4 in thick)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Teriyaki Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "skinless tuna steaks (8-12 oz, 1 inch thick)",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "plain Greek yogurt",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Crusty bread"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        },
+        {
+          "item": "hearty white sandwich bread",
+          "qty": 1,
+          "dim": "slice",
+          "unitLabel": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "slice"
+        },
+        {
+          "item": "pita bread",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Grilled Lamb Kofte",
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "anchovy fillet",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "fresh pre-cooked lo mein noodles",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "pantry",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "Japanese short-grain rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Steamed rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "jarred roasted red peppers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "mirin",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Teriyaki Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "pearl barley",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "slivered almonds",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "tahini",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "Tahini-Yogurt Sauce (p.233)",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted white sesame seeds",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Spinach Salad with Sesame Dressing (Gomaae)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "unflavored gelatin",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Tuna Steaks with Romesco"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground coriander + cloves",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground fennel seed",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Roasted Chicken Thighs with Fennel, Olive, and Orange Sauce"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "SWEET smoked paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Lamb Kofte"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "za'atar",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Fattoush"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "sake",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Teriyaki Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Shrimp Lo Mein"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "all-purpose flour",
+    "soy sauce",
+    "sugar",
+    "unsalted butter",
+    "pitted oil-cured black olives",
+    "dark soy sauce"
+  ],
+  "pendingScans": [
+    {
+      "title": "Thin-Crust Pizza",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
+      "cookbook": true
+    },
+    {
+      "title": "Mushroom and Fennel Pizza Topping",
+      "day": "Tue",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.354",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 62
+}
