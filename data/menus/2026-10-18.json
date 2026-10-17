@@ -9,11 +9,11 @@
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Pan-Roasted Sea Bass with Wild Mushrooms",
+      "title": "Pan-Roasted Cod with Wild Mushrooms",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.256",
       "sourceUrl": "",
       "cuisine": "italian",
-      "protein": "sea bass",
+      "protein": "cod",
       "tags": [
         "book",
         "new",
@@ -24,11 +24,10 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "skinless sea bass fillets (4-6 oz, 1-1.5 in thick)",
+          "item": "skinless cod fillets (4-6 oz, 1-1.5 in thick)",
           "qty": 4,
-          "unit": "",
           "category": "meat-seafood",
-          "note": "cod or snapper are the book’s subs"
+          "note": "cod is the book’s own named sub for sea bass (p.256); thick center-cut pieces"
         },
         {
           "item": "dried porcini mushrooms",
@@ -94,7 +93,7 @@
           "note": "to strain the porcini liquid"
         }
       ],
-      "notes": "Fish roasts right on the sauteed mushrooms (475°, 10-12 min to 140°) and the porcini liquid becomes the sauce. One ovensafe 12-inch skillet."
+      "notes": "Book recipe is Pan-Roasted Sea Bass with Wild Mushrooms (p.256), made with cod, its named substitute. Fish roasts right on the sauteed mushrooms (475°, 10-12 min to 140°) and the porcini liquid becomes the sauce. One ovensafe 12-inch skillet. Cod flakes more readily than bass — check at the low end (10 min) for 140°F and move it gently."
     },
     {
       "id": "basmati-rice-pilaf-with-currants-and-toasted-almonds-eb1aba55",
