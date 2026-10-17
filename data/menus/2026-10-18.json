@@ -1,0 +1,562 @@
+{
+  "weekOf": "2026-10-18",
+  "createdAt": "2026-10-17T13:55:03.512Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "pan-roasted-sea-bass-with-wild-mushrooms-5723ab94",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pan-Roasted Sea Bass with Wild Mushrooms",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.256",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "sea bass",
+      "tags": [
+        "book",
+        "new",
+        "weeknight"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "skinless sea bass fillets (4-6 oz, 1-1.5 in thick)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "cod or snapper are the book’s subs"
+        },
+        {
+          "item": "dried porcini mushrooms",
+          "qty": 0.33,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "portobello mushroom caps",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "cremini mushrooms",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "wedges"
+        },
+        {
+          "item": "coffee filter",
+          "qty": null,
+          "unit": "",
+          "category": "other",
+          "note": "to strain the porcini liquid"
+        }
+      ],
+      "notes": "Fish roasts right on the sauteed mushrooms (475°, 10-12 min to 140°) and the porcini liquid becomes the sauce. One ovensafe 12-inch skillet."
+    },
+    {
+      "id": "basmati-rice-pilaf-with-currants-and-toasted-almonds-eb1aba55",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "basmati rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried currants",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "check — left from the pistachio-currant thighs"
+        },
+        {
+          "item": "sliced almonds",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "ground turmeric + cinnamon",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "warm spice, no heat"
+        }
+      ],
+      "notes": "The base version of the pilaf you’ve made as the peas-and-lemon variation. Rinse the rice; towel under the lid."
+    },
+    {
+      "id": "chicken-bouillabaisse-2537a4d4",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Bouillabaisse",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.301",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "guest",
+        "seafood-free"
+      ],
+      "activeTimeMin": 45,
+      "totalTimeMin": 80,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "bone-in chicken pieces (thighs/drumsticks/split breasts)",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "leek (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fennel bulb (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomato paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "+ 1/4 tsp more for the rouille"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "book: 1/4 tsp — halve it for the house"
+        },
+        {
+          "item": "chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "14.5-oz can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "pastis/Pernod — or your ouzo",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": "same anise flavor; ouzo is in the cabinet"
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "one 3-inch strip of zest"
+        },
+        {
+          "item": "fresh tarragon or parsley",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "RICK NIGHT — he’s allergic to all seafood. Despite the name this is chicken in a Provencal saffron-fennel broth; no fish or fish products anywhere (no anchovy, fish sauce, or Worcestershire). Chicken rests on the potatoes with skin above the liquid, oven at 375°, then a broiler blast for crisp skin. Serve in wide shallow bowls."
+    },
+    {
+      "id": "garlic-toasts-8f37e7a0",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Toasts",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "needs-scan",
+        "guest"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.56 (the book points here for the bouillabaisse toasts). Fallback: grilled baguette slices rubbed with a cut garlic clove."
+    },
+    {
+      "id": "rouille-f8d38725",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Rouille",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.302",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "sauce",
+        "guest"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "baguette",
+          "qty": 1,
+          "unit": "",
+          "category": "bakery",
+          "note": "a 3-inch piece for the rouille; the rest for toasts"
+        },
+        {
+          "item": "egg",
+          "qty": 1,
+          "unit": "",
+          "category": "dairy",
+          "note": "yolk only — the rouille is raw-yolk, like mayo"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "4 tsp juice"
+        },
+        {
+          "item": "vegetable oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Saffron-garlic mayo spooned onto each bowl. Halve the 1/4 tsp cayenne. Keeps a week."
+    },
+    {
+      "id": "shrimp-lo-mein-c7462882",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Shrimp Lo Mein",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/shrimp-lo-mein/",
+      "cuisine": "chinese",
+      "protein": "shrimp",
+      "tags": [
+        "web",
+        "new",
+        "wok",
+        "one-pan"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 30,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "shrimp (31/40), peeled + deveined",
+          "qty": 12,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "fresh pre-cooked lo mein noodles",
+          "qty": 1,
+          "unit": "lb",
+          "category": "pantry",
+          "note": "refrigerated Asian noodle case"
+        },
+        {
+          "item": "snow peas",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mung bean sprouts",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "mushrooms",
+          "qty": 4,
+          "unit": "oz",
+          "category": "produce",
+          "note": "recipe also allows carrot, napa, bamboo shoots, water chestnuts"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "in the house"
+        },
+        {
+          "item": "oyster sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dark soy sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": "+ 1 1/2 tbsp regular soy (in the house)"
+        },
+        {
+          "item": "Shaoxing wine",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "or dry sherry"
+        }
+      ],
+      "notes": "One wok, 30 min — noodles, veg, shrimp in one bowl. Zero chile; white pepper only."
+    },
+    {
+      "id": "rigatoni-with-warm-spiced-beef-ragu-c973b582",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Rigatoni with Warm-Spiced Beef Ragu",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.156",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "beef",
+      "tags": [
+        "book",
+        "needs-scan",
+        "weekend",
+        "project"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 180,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "SCAN p.156. Saturday project: a slow braise that mostly cooks itself. The week’s one red meat. Parmesan at the table for the low-cheese house."
+    },
+    {
+      "id": "green-salad-with-artichokes-and-olives-05ed5bf9",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Green Salad with Artichokes and Olives",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "no-cook"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "1 romaine lettuce heart (6 ounces), cut into 1-inch pieces",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "3 ounces (3 cups) baby arugula",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "1 cup jarred whole baby artichoke hearts packed in water, quartered, rinsed, and patted dry",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "1/3 cup fresh parsley leaves",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "1/3 cup pitted kalamata olives, halved",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "2 tablespoons white wine vinegar or white balsamic vinegar",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "1 small garlic clove, minced",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Salt and pepper",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "3 tablespoons extra-virgin olive oil",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "1 ounce Asiago cheese, shaved",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "No-cook side to cut the ragu. Captured from your p.69 scan."
+    }
+  ]
+}
