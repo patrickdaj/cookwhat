@@ -272,7 +272,9 @@
           "Four 12-inch metal skewers; zero chile anywhere.",
           "Tzatziki (p.19) is the named 1-cup sub-component — tub or scan; the book prefers its homemade Pita Bread (p.344) but store-bought is sanctioned."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-10"
     },
     {
       "title": "Chicken Bouillabaisse",
@@ -1431,7 +1433,9 @@
           "The dish-towel-under-the-lid rest absorbs excess moisture; lemon juice at the end is the fresh finish."
         ],
         "makes": "Serves 4 to 6"
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-14"
     },
     {
       "title": "Barley with Roasted Carrots, Snow Peas, and Lemon-Yogurt Sauce",
@@ -2790,7 +2794,9 @@
           "1/8 tsp cayenne across a whole batch of sauce is gentle — fine as-is, or omit and offer hot sauce alongside.",
           "ATK prefers rare or medium-rare; hold the medium-rare timing and tent 5 min for medium."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-12"
     },
     {
       "title": "Bouillabaisse",
