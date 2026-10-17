@@ -2414,7 +2414,9 @@
           "Cilantro, mint, parsley, or tarragon can substitute for the dill.",
           "This is effectively the house tzatziki — a ready stand-in for the souvlaki's p.19 tub."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-10"
     },
     {
       "title": "Garlic Aioli",
