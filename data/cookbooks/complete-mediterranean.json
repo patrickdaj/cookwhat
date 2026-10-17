@@ -152,7 +152,9 @@
           "Bonus capture from the p.297 scan."
         ],
         "makes": "Serves 8"
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-14"
     },
     {
       "title": "Za'atar-Rubbed Butterflied Chicken",
@@ -979,7 +981,9 @@
           "Shape the second dough ball while the first bakes, but don't top it until right before it goes in.",
           "Variations on p.356-357: Artichokes, Ricotta, and Parmesan; Pesto and Goat Cheese."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-13"
     },
     {
       "title": "Whole-Wheat Pizza with Artichokes, Ricotta, and Parmesan",
