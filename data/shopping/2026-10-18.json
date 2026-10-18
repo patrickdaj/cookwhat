@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:47:41.621Z",
+  "generatedAt": "2026-10-18T18:48:04.859Z",
   "targetServings": null,
   "sections": [
     {
@@ -338,18 +338,6 @@
           "unit": "tsp"
         },
         {
-          "item": "dried currants",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Basmati Rice Pilaf with Currants and Toasted Almonds"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "fresh pre-cooked lo mein noodles",
           "qty": 1,
           "dim": "lb",
@@ -360,6 +348,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "golden raisins",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "oyster sauce",
