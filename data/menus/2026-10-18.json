@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-10-18",
   "createdAt": "2026-10-17T13:55:03.512Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -273,27 +273,6 @@
       "notes": "RICK NIGHT — he’s allergic to all seafood. Despite the name this is chicken in a Provencal saffron-fennel broth; no fish or fish products anywhere (no anchovy, fish sauce, or Worcestershire). Chicken rests on the potatoes with skin above the liquid, oven at 375°, then a broiler blast for crisp skin. Serve in wide shallow bowls."
     },
     {
-      "id": "garlic-toasts-8f37e7a0",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Garlic Toasts",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
-      "sourceUrl": "",
-      "cuisine": "french",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "needs-scan",
-        "guest"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 15,
-      "servings": 4,
-      "ingredients": [],
-      "notes": "SCAN p.56 (the book points here for the bouillabaisse toasts). Fallback: grilled baguette slices rubbed with a cut garlic clove."
-    },
-    {
       "id": "rouille-f8d38725",
       "day": "Wed",
       "slot": "dinner",
@@ -349,7 +328,7 @@
           "note": ""
         }
       ],
-      "notes": "Saffron-garlic mayo spooned onto each bowl. Halve the 1/4 tsp cayenne. Keeps a week."
+      "notes": "Saffron-garlic mayo spooned onto each bowl. Halve the 1/4 tsp cayenne. Keeps a week. Toast the rest of the baguette and rub with garlic to serve alongside (book suggests Garlic Toasts p.56; not scanned)."
     },
     {
       "id": "shrimp-lo-mein-c7462882",
@@ -801,5 +780,6 @@
         }
       ]
     }
-  ]
+  ],
+  "setAt": "2026-10-18T18:18:04.388Z"
 }
