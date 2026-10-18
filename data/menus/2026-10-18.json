@@ -638,71 +638,6 @@
     {
       "day": "Tue",
       "slot": "dinner",
-      "role": "main",
-      "title": "Spicy Braised Tofu (Dubu-jorim)",
-      "source": "Maangchi",
-      "url": "https://www.maangchi.com/recipe/dubu-jorim",
-      "cuisine": "korean",
-      "protein": "tofu",
-      "activeTimeMin": 30,
-      "totalTimeMin": 30,
-      "servings": 3,
-      "tags": [
-        "web",
-        "new",
-        "weeknight",
-        "vegetarian"
-      ],
-      "ingredients": [
-        {
-          "item": "firm tofu",
-          "qty": 18,
-          "unit": "oz",
-          "category": "produce",
-          "note": "one package"
-        },
-        {
-          "item": "onion",
-          "qty": 0.5,
-          "unit": "cup minced",
-          "category": "produce",
-          "note": "yellow in the house"
-        },
-        {
-          "item": "green onions",
-          "qty": 2,
-          "category": "produce"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce"
-        },
-        {
-          "item": "gochugaru (Korean chili flakes)",
-          "qty": 0.5,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": "HALVED from Maangchi’s 1 tbsp for the low-heat house; Asian aisle"
-        },
-        {
-          "item": "soy sauce",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry"
-        },
-        {
-          "item": "toasted sesame oil + sesame seeds",
-          "category": "pantry",
-          "note": "1 tsp each; cabinet"
-        }
-      ],
-      "notes": "Pan-fry the tofu slabs until golden on both sides (~15 min), soften onion/garlic/green onion in the same pan, add the soy-gochugaru-water sauce, return the tofu to soak it up. Gochugaru halved for your wife; pass extra at the table. Good hot or cold."
-    },
-    {
-      "day": "Tue",
-      "slot": "dinner",
       "role": "side",
       "title": "Spinach Side Dish (Sigeumchi-namul)",
       "source": "Maangchi",
@@ -754,7 +689,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Blanch 30-60 sec, cold rinse, squeeze hard, cut, mix by hand. Skip the optional shredded red pepper."
+      "notes": "Blanch 30-60 sec, cold rinse, squeeze hard, cut, mix by hand. Skip the optional shredded red pepper. Pairs fine with the Japanese salmon."
     },
     {
       "day": "Tue",
@@ -779,6 +714,87 @@
           "note": "in the house"
         }
       ]
+    },
+    {
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Salmon in Foil (Japanese Foil-Steamed Salmon)",
+      "source": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/salmon-foil/",
+      "cuisine": "japanese",
+      "protein": "salmon",
+      "activeTimeMin": 15,
+      "totalTimeMin": 30,
+      "servings": 2,
+      "tags": [
+        "paprika",
+        "uncooked",
+        "weeknight",
+        "omega-3"
+      ],
+      "ingredients": [
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 2,
+          "category": "meat-seafood"
+        },
+        {
+          "item": "onion",
+          "qty": 0.5,
+          "category": "produce",
+          "note": "in the house"
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "unit": "2-inch piece",
+          "category": "produce"
+        },
+        {
+          "item": "shimeji mushrooms",
+          "qty": 0.5,
+          "unit": "package",
+          "category": "produce",
+          "note": "~50 g; Asian market or larger grocers"
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 2,
+          "category": "produce"
+        },
+        {
+          "item": "chives",
+          "category": "produce",
+          "note": "garnish"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "2 slices"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "dairy"
+        },
+        {
+          "item": "ponzu",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "or soy + a squeeze of lemon"
+        },
+        {
+          "item": "sake or dry white wine",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages"
+        }
+      ],
+      "notes": "From your saved Just One Cookbook recipes, never cooked. Veg and fish steam together in sealed foil packets; finish with ponzu at the table. No chile. Amounts from a copy of the JOC card; the live page is the final word."
     }
   ],
   "setAt": "2026-10-18T18:18:04.388Z"

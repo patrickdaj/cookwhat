@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:18:04.502Z",
+  "generatedAt": "2026-10-18T18:20:06.321Z",
   "targetServings": null,
   "sections": [
     {
@@ -29,6 +29,30 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "carrot",
+          "qty": 1,
+          "dim": "2-inch piece",
+          "unitLabel": "2-inch piece",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "2-inch piece"
+        },
+        {
+          "item": "chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "cremini mushrooms",
@@ -65,18 +89,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "firm tofu",
-          "qty": 18,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Spicy Braised Tofu (Dubu-jorim)"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "fresh cilantro",
@@ -142,7 +154,7 @@
         },
         {
           "item": "garlic",
-          "qty": 12,
+          "qty": 11,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -150,7 +162,6 @@
             "Pan-Roasted Cod with Wild Mushrooms",
             "Chicken Bouillabaisse",
             "Grilled Lamb Kofte",
-            "Spicy Braised Tofu (Dubu-jorim)",
             "Spinach Side Dish (Sigeumchi-namul)"
           ],
           "hasUnquantified": false,
@@ -158,12 +169,11 @@
         },
         {
           "item": "green onion",
-          "qty": 3,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Spicy Braised Tofu (Dubu-jorim)",
             "Spinach Side Dish (Sigeumchi-namul)"
           ],
           "hasUnquantified": false,
@@ -183,14 +193,15 @@
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Cod with Wild Mushrooms",
             "Rouille",
-            "Fattoush"
+            "Fattoush",
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -221,28 +232,17 @@
         },
         {
           "item": "onion",
-          "qty": 2,
+          "qty": 2.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Basmati Rice Pilaf with Currants and Toasted Almonds",
-            "Grilled Lamb Kofte"
+            "Grilled Lamb Kofte",
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "onion",
-          "qty": 0.5,
-          "dim": "cup minced",
-          "unitLabel": "cup minced",
-          "category": "produce",
-          "fromMeals": [
-            "Spicy Braised Tofu (Dubu-jorim)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup minced"
         },
         {
           "item": "orange",
@@ -305,6 +305,30 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "shiitake mushrooms",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shimeji mushrooms",
+          "qty": 0.5,
+          "dim": "package",
+          "unitLabel": "package",
+          "category": "produce",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "package"
         },
         {
           "item": "snow peas",
@@ -382,6 +406,18 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        },
+        {
+          "item": "skin-on salmon fillets",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "skinless cod fillets (4-6 oz, 1-1.5 in thick)",
@@ -544,6 +580,18 @@
           "unit": "cup"
         },
         {
+          "item": "ponzu",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "short-grain rice",
           "qty": 1.5,
           "dim": "vol",
@@ -602,18 +650,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "toasted sesame oil + sesame seeds",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Spicy Braised Tofu (Dubu-jorim)"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         },
         {
           "item": "toasted sesame seeds",
@@ -696,18 +732,6 @@
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "gochugaru (Korean chili flakes)",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Spicy Braised Tofu (Dubu-jorim)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "ground coriander + cloves",
@@ -811,6 +835,18 @@
           "unit": "cup"
         },
         {
+          "item": "sake or dry white wine",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "Shaoxing wine",
           "qty": 1,
           "dim": "vol",
@@ -845,8 +881,9 @@
   "excludedStaples": [
     "vegetable oil",
     "dark soy sauce",
-    "soy sauce"
+    "soy sauce",
+    "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 65
+  "totalItems": 68
 }
