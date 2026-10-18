@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:43:57.391Z",
+  "generatedAt": "2026-10-18T18:47:41.621Z",
   "targetServings": null,
   "sections": [
     {
@@ -227,7 +227,7 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "bone-in chicken pieces (thighs/drumsticks/split breasts)",
+          "item": "bone-in, skin-on chicken thighs",
           "qty": 3,
           "dim": "lb",
           "unitLabel": "lb",
