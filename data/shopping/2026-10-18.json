@@ -1,23 +1,11 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:20:06.321Z",
+  "generatedAt": "2026-10-18T18:39:55.323Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "arugula",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
         {
           "item": "carrot",
           "qty": 1,
@@ -67,18 +55,6 @@
           "unit": "lb"
         },
         {
-          "item": "English cucumber",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "fennel bulb (small)",
           "qty": 1,
           "dim": "",
@@ -91,39 +67,13 @@
           "unit": ""
         },
         {
-          "item": "fresh cilantro",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Grilled Lamb Kofte",
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms",
-            "Grilled Lamb Kofte"
+            "Pan-Roasted Cod with Wild Mushrooms"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -154,14 +104,13 @@
         },
         {
           "item": "garlic",
-          "qty": 11,
+          "qty": 7,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Cod with Wild Mushrooms",
             "Chicken Bouillabaisse",
-            "Grilled Lamb Kofte",
             "Spinach Side Dish (Sigeumchi-namul)"
           ],
           "hasUnquantified": false,
@@ -193,14 +142,13 @@
         },
         {
           "item": "lemon",
-          "qty": 4,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Cod with Wild Mushrooms",
             "Rouille",
-            "Fattoush",
             "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
@@ -232,13 +180,12 @@
         },
         {
           "item": "onion",
-          "qty": 2.5,
+          "qty": 1.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Basmati Rice Pilaf with Currants and Toasted Almonds",
-            "Grilled Lamb Kofte",
             "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
@@ -270,38 +217,24 @@
         },
         {
           "item": "red onion",
-          "qty": 2,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms",
-            "Grilled Lamb Kofte"
+            "Pan-Roasted Cod with Wild Mushrooms"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
-          "item": "ripe tomatoes",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "scallions",
-          "qty": 6,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Lo Mein",
-            "Fattoush"
+            "Shrimp Lo Mein"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -384,18 +317,6 @@
           "unit": "lb"
         },
         {
-          "item": "ground lamb",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "shrimp (31/40), peeled + deveined",
           "qty": 12,
           "dim": "oz",
@@ -447,18 +368,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "plain Greek yogurt",
-          "qty": 15.84,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         }
       ]
     },
@@ -473,19 +382,6 @@
           "category": "bakery",
           "fromMeals": [
             "Rouille"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "pita bread",
-          "qty": 6,
-          "dim": "",
-          "unitLabel": "",
-          "category": "bakery",
-          "fromMeals": [
-            "Grilled Lamb Kofte",
-            "Fattoush"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -568,18 +464,6 @@
           "unit": "tbsp"
         },
         {
-          "item": "pine nuts",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "ponzu",
           "qty": 2,
           "dim": "vol",
@@ -616,30 +500,6 @@
           "unit": "cup"
         },
         {
-          "item": "tahini",
-          "qty": 15.84,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "Tahini-Yogurt Sauce (p.233)",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
           "item": "toasted sesame oil",
           "qty": 0.5,
           "dim": "vol",
@@ -662,18 +522,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "unflavored gelatin",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
@@ -734,30 +582,6 @@
           "unit": ""
         },
         {
-          "item": "ground coriander + cloves",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "ground turmeric + cinnamon",
           "qty": null,
           "dim": "",
@@ -780,30 +604,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "SWEET smoked paprika",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Lamb Kofte"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "za'atar",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Fattoush"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
@@ -885,5 +685,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 68
+  "totalItems": 52
 }
