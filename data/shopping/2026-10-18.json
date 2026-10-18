@@ -1,34 +1,49 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:40:38.197Z",
+  "generatedAt": "2026-10-18T18:43:57.391Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
         {
-          "item": "carrot",
+          "item": "baby bella (cremini) mushrooms",
+          "qty": 35,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Pan-Roasted Cod with Wild Mushrooms",
+            "Shrimp Lo Mein",
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "bean sprouts",
           "qty": 1,
-          "dim": "",
-          "unitLabel": "",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
             "Shrimp Lo Mein"
           ],
           "hasUnquantified": false,
-          "unit": ""
+          "unit": "cup"
         },
         {
           "item": "carrot",
-          "qty": 1,
-          "dim": "2-inch piece",
-          "unitLabel": "2-inch piece",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Shrimp Lo Mein",
             "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
-          "unit": "2-inch piece"
+          "unit": ""
         },
         {
           "item": "chives",
@@ -41,18 +56,6 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
-        },
-        {
-          "item": "cremini mushrooms",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
         },
         {
           "item": "fennel bulb (small)",
@@ -73,7 +76,8 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms"
+            "Pan-Roasted Cod with Wild Mushrooms",
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -91,54 +95,19 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh tarragon or parsley",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken Bouillabaisse"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "garlic",
-          "qty": 7,
+          "qty": 8,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Cod with Wild Mushrooms",
             "Chicken Bouillabaisse",
-            "Spinach Side Dish (Sigeumchi-namul)"
-          ],
-          "hasUnquantified": false,
-          "unit": "clove"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "dim": "large clove",
-          "unitLabel": "large clove",
-          "category": "produce",
-          "fromMeals": [
+            "Spinach Side Dish (Sigeumchi-namul)",
             "Garlic Toasts"
           ],
           "hasUnquantified": false,
-          "unit": "large clove"
-        },
-        {
-          "item": "green onion",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Spinach Side Dish (Sigeumchi-namul)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
+          "unit": "clove"
         },
         {
           "item": "leek (large)",
@@ -154,7 +123,7 @@
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -165,30 +134,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "mung bean sprouts",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Shrimp Lo Mein"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "mushrooms",
-          "qty": 4,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Shrimp Lo Mein"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "onion",
@@ -216,18 +161,6 @@
           "unit": ""
         },
         {
-          "item": "portobello mushroom caps",
-          "qty": 12,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "red onion",
           "qty": 1,
           "dim": "",
@@ -241,39 +174,16 @@
         },
         {
           "item": "scallions",
-          "qty": 2,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Shrimp Lo Mein"
+            "Shrimp Lo Mein",
+            "Spinach Side Dish (Sigeumchi-namul)"
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "shiitake mushrooms",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "shimeji mushrooms",
-          "qty": 0.5,
-          "dim": "package",
-          "unitLabel": "package",
-          "category": "produce",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false,
-          "unit": "package"
         },
         {
           "item": "snow peas",
@@ -397,18 +307,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "baguette",
-          "qty": 8,
-          "dim": "1-inch slices",
-          "unitLabel": "1-inch slices",
-          "category": "bakery",
-          "fromMeals": [
-            "Garlic Toasts"
-          ],
-          "hasUnquantified": false,
-          "unit": "1-inch slices"
         }
       ]
     },
@@ -452,18 +350,6 @@
           "unit": "cup"
         },
         {
-          "item": "dried porcini mushrooms",
-          "qty": 0.33,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "fresh pre-cooked lo mein noodles",
           "qty": 1,
           "dim": "lb",
@@ -483,18 +369,6 @@
           "category": "pantry",
           "fromMeals": [
             "Shrimp Lo Mein"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "ponzu",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -554,11 +428,12 @@
       "items": [
         {
           "item": "chicken broth",
-          "qty": 3,
+          "qty": 3.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
+            "Pan-Roasted Cod with Wild Mushrooms",
             "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
@@ -636,15 +511,16 @@
       "items": [
         {
           "item": "dry white wine",
-          "qty": 0.5,
+          "qty": 9,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Chicken Bouillabaisse"
+            "Chicken Bouillabaisse",
+            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
           ],
           "hasUnquantified": false,
-          "unit": "cup"
+          "unit": "tbsp"
         },
         {
           "item": "pastis/Pernod — or your ouzo",
@@ -659,18 +535,6 @@
           "unit": "cup"
         },
         {
-          "item": "sake or dry white wine",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "beverages",
-          "fromMeals": [
-            "Salmon in Foil (Japanese Foil-Steamed Salmon)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "Shaoxing wine",
           "qty": 1,
           "dim": "vol",
@@ -683,23 +547,6 @@
           "unit": "tbsp"
         }
       ]
-    },
-    {
-      "category": "other",
-      "items": [
-        {
-          "item": "coffee filter",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "other",
-          "fromMeals": [
-            "Pan-Roasted Cod with Wild Mushrooms"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
-        }
-      ]
     }
   ],
   "excludedStaples": [
@@ -709,5 +556,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 54
+  "totalItems": 41
 }

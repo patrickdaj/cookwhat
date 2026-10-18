@@ -30,25 +30,11 @@
           "note": "cod is the book’s own named sub for sea bass (p.256); thick center-cut pieces"
         },
         {
-          "item": "dried porcini mushrooms",
-          "qty": 0.33,
-          "unit": "oz",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "portobello mushroom caps",
-          "qty": 12,
+          "item": "baby bella (cremini) mushrooms",
+          "qty": 28,
           "unit": "oz",
           "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "cremini mushrooms",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
+          "note": "replaces the book’s portobello + cremini + dried porcini"
         },
         {
           "item": "red onion",
@@ -86,14 +72,14 @@
           "note": "wedges"
         },
         {
-          "item": "coffee filter",
-          "qty": null,
-          "unit": "",
-          "category": "other",
-          "note": "to strain the porcini liquid"
+          "item": "chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": "replaces the porcini soaking liquid"
         }
       ],
-      "notes": "Book recipe is Pan-Roasted Sea Bass with Wild Mushrooms (p.256), made with cod, its named substitute. Fish roasts right on the sauteed mushrooms (475°, 10-12 min to 140°) and the porcini liquid becomes the sauce. One ovensafe 12-inch skillet. Cod flakes more readily than bass — check at the low end (10 min) for 140°F and move it gently."
+      "notes": "Book recipe is Pan-Roasted Sea Bass with Wild Mushrooms (p.256), made with cod, its named substitute. Fish roasts right on the sauteed mushrooms (475°, 10-12 min to 140°) and the porcini liquid becomes the sauce. One ovensafe 12-inch skillet. Cod flakes more readily than bass — check at the low end (10 min) for 140°F and move it gently. Simplified for shopping: all baby bella mushrooms (no portobello/porcini); use 1/2 cup chicken broth where the book uses the porcini liquid. Brown the mushrooms well — that’s where the flavor comes from now."
     },
     {
       "id": "basmati-rice-pilaf-with-currants-and-toasted-almonds-eb1aba55",
@@ -263,7 +249,7 @@
           "note": "one 3-inch strip of zest"
         },
         {
-          "item": "fresh tarragon or parsley",
+          "item": "fresh parsley",
           "qty": 1,
           "unit": "tbsp",
           "category": "produce",
@@ -372,18 +358,18 @@
           "note": ""
         },
         {
-          "item": "mung bean sprouts",
+          "item": "bean sprouts",
           "qty": 1,
           "unit": "cup",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "mushrooms",
+          "item": "baby bella (cremini) mushrooms",
           "qty": 4,
           "unit": "oz",
           "category": "produce",
-          "note": "recipe also allows carrot, napa, bamboo shoots, water chestnuts"
+          "note": "sliced"
         },
         {
           "item": "carrot",
@@ -418,7 +404,7 @@
           "qty": 1,
           "unit": "tbsp",
           "category": "beverages",
-          "note": "or dry sherry"
+          "note": "Asian aisle; dry sherry or the white wine works too"
         }
       ],
       "notes": "One wok, 30 min — noodles, veg, shrimp in one bowl. Zero chile; white pepper only."
@@ -448,7 +434,7 @@
           "category": "produce"
         },
         {
-          "item": "green onion",
+          "item": "scallions",
           "qty": 1,
           "category": "produce"
         },
@@ -536,20 +522,16 @@
         {
           "item": "carrot",
           "qty": 1,
-          "unit": "2-inch piece",
-          "category": "produce"
-        },
-        {
-          "item": "shimeji mushrooms",
-          "qty": 0.5,
-          "unit": "package",
+          "unit": "",
           "category": "produce",
-          "note": "~50 g; Asian market or larger grocers"
+          "note": "only a 2-inch piece needed"
         },
         {
-          "item": "shiitake mushrooms",
-          "qty": 2,
-          "category": "produce"
+          "item": "baby bella (cremini) mushrooms",
+          "qty": 3,
+          "category": "produce",
+          "unit": "oz",
+          "note": "sliced; stands in for shiitake + shimeji"
         },
         {
           "item": "chives",
@@ -569,20 +551,26 @@
           "category": "dairy"
         },
         {
-          "item": "ponzu",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "or soy + a squeeze of lemon"
-        },
-        {
-          "item": "sake or dry white wine",
+          "item": "dry white wine",
           "qty": 1,
           "unit": "tbsp",
           "category": "beverages"
+        },
+        {
+          "item": "soy sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "+ lemon squeeze, in place of ponzu"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "note": "squeeze into the soy (ponzu sub)"
         }
       ],
-      "notes": "From your saved Just One Cookbook recipes, never cooked. Veg and fish steam together in sealed foil packets; finish with ponzu at the table. No chile. Amounts from a copy of the JOC card; the live page is the final word."
+      "notes": "From your saved Just One Cookbook recipes, never cooked. Veg and fish steam together in sealed foil packets; finish with ponzu at the table. No chile. Amounts from a copy of the JOC card; the live page is the final word. Simplified: baby bellas instead of shiitake/shimeji; soy + lemon instead of ponzu; white wine for sake."
     },
     {
       "day": "Wed",
@@ -602,20 +590,13 @@
       ],
       "ingredients": [
         {
-          "item": "baguette",
-          "qty": 8,
-          "unit": "1-inch slices",
-          "category": "bakery",
-          "note": "same loaf as the rouille"
-        },
-        {
           "item": "garlic",
           "qty": 1,
-          "unit": "large clove",
+          "unit": "clove",
           "category": "produce"
         }
       ],
-      "notes": "Broil 6 inches from the element, ~4 min flipping as needed; rub hot toasts with garlic, drizzle with olive oil, salt and pepper."
+      "notes": "Broil 6 inches from the element, ~4 min flipping as needed; rub hot toasts with garlic, drizzle with olive oil, salt and pepper. Bread comes from the rouille’s baguette."
     }
   ],
   "setAt": "2026-10-18T18:18:04.388Z"
