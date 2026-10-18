@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-18T18:39:55.323Z",
+  "generatedAt": "2026-10-18T18:40:38.197Z",
   "targetServings": null,
   "sections": [
     {
@@ -115,6 +115,18 @@
           ],
           "hasUnquantified": false,
           "unit": "clove"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "dim": "large clove",
+          "unitLabel": "large clove",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Toasts"
+          ],
+          "hasUnquantified": false,
+          "unit": "large clove"
         },
         {
           "item": "green onion",
@@ -385,6 +397,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "baguette",
+          "qty": 8,
+          "dim": "1-inch slices",
+          "unitLabel": "1-inch slices",
+          "category": "bakery",
+          "fromMeals": [
+            "Garlic Toasts"
+          ],
+          "hasUnquantified": false,
+          "unit": "1-inch slices"
         }
       ]
     },
@@ -685,5 +709,5 @@
     "unsalted butter"
   ],
   "pendingScans": [],
-  "totalItems": 52
+  "totalItems": 54
 }

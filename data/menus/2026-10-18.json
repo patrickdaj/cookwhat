@@ -328,7 +328,7 @@
           "note": ""
         }
       ],
-      "notes": "Saffron-garlic mayo spooned onto each bowl. Halve the 1/4 tsp cayenne. Keeps a week. Toast the rest of the baguette and rub with garlic to serve alongside (book suggests Garlic Toasts p.56; not scanned)."
+      "notes": "Saffron-garlic mayo spooned onto each bowl. Halve the 1/4 tsp cayenne. Keeps a week."
     },
     {
       "id": "shrimp-lo-mein-c7462882",
@@ -583,6 +583,39 @@
         }
       ],
       "notes": "From your saved Just One Cookbook recipes, never cooked. Veg and fish steam together in sealed foil packets; finish with ponzu at the table. No chile. Amounts from a copy of the JOC card; the live page is the final word."
+    },
+    {
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Toasts",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "activeTimeMin": 5,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "tags": [
+        "book",
+        "new",
+        "guest"
+      ],
+      "ingredients": [
+        {
+          "item": "baguette",
+          "qty": 8,
+          "unit": "1-inch slices",
+          "category": "bakery",
+          "note": "same loaf as the rouille"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "large clove",
+          "category": "produce"
+        }
+      ],
+      "notes": "Broil 6 inches from the element, ~4 min flipping as needed; rub hot toasts with garlic, drizzle with olive oil, salt and pepper."
     }
   ],
   "setAt": "2026-10-18T18:18:04.388Z"

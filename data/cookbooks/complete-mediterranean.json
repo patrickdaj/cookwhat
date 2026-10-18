@@ -3906,6 +3906,32 @@
           "Gentle 300-degree oven braise to 195 degrees for silky thighs."
         ]
       }
+    },
+    {
+      "title": "Garlic Toasts",
+      "page": 56,
+      "chapter": "Soups",
+      "scanned": true,
+      "makes": "Makes 8 slices",
+      "captured": {
+        "makes": "Makes 8 slices",
+        "ingredients": [
+          "8 (1-inch-thick) slices rustic bread",
+          "1 large garlic clove, peeled",
+          "3 tablespoons extra-virgin olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Adjust oven rack 6 inches from broiler element and heat broiler. Spread bread evenly in rimmed baking sheet and broil, flipping as needed, until well toasted on both sides, about 4 minutes.",
+          "Briefly rub 1 side of each toast with garlic, drizzle with oil, and season with salt and pepper to taste. Serve."
+        ],
+        "tips": [
+          "FAST + VEG. Sidebar on p.56; the book suggests it for the bouillabaisses and soups.",
+          "Use a high-quality crusty bread such as a baguette — not sliced sandwich bread.",
+          "Rack 6 inches from the broiler; flip as needed, about 4 minutes total.",
+          "Rub the garlic on while the toast is hot so it grates into the crust."
+        ]
+      }
     }
   ]
 }
