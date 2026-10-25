@@ -201,7 +201,7 @@
           "qty": 3,
           "unit": "",
           "category": "produce",
-          "note": ""
+          "note": "or 1 small yellow onion"
         },
         {
           "item": "garlic",
@@ -211,18 +211,11 @@
           "note": ""
         },
         {
-          "item": "Thai bird chilies",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "recipe uses 3. Use 1, seeded, or skip it and put chili flakes on the table"
-        },
-        {
           "item": "fish sauce",
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
-          "note": ""
+          "note": "Asian aisle; if none, 1 extra tbsp soy + squeeze of lime"
         },
         {
           "item": "chicken broth",
@@ -232,11 +225,11 @@
           "note": ""
         },
         {
-          "item": "Thai basil",
-          "qty": 1,
-          "unit": "bunch",
+          "item": "fresh basil",
+          "qty": 2,
+          "unit": "pack",
           "category": "produce",
-          "note": "regular basil works if the store has no Thai/holy basil"
+          "note": "regular sweet basil, big handful; Thai/holy basil only if easy to find"
         },
         {
           "item": "jasmine rice",
@@ -246,7 +239,7 @@
           "note": ""
         }
       ],
-      "notes": "A 10-minute stir-fry over jasmine rice. Built mild: one seeded chile in the pan, and heat on the side."
+      "notes": "A 10-minute stir-fry over jasmine rice. Grocery-store build: regular basil, no Thai chiles (red pepper flakes on the table for anyone who wants heat)."
     },
     {
       "id": "garlic-baby-bok-choy-stir-fry-941842eb",
@@ -272,7 +265,7 @@
           "qty": 1,
           "unit": "lb",
           "category": "produce",
-          "note": ""
+          "note": "or 1 regular head of bok choy, chopped"
         },
         {
           "item": "garlic",

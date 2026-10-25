@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-25",
-  "generatedAt": "2026-10-25T16:29:36.416Z",
+  "generatedAt": "2026-10-25T16:31:27.223Z",
   "targetServings": null,
   "sections": [
     {
@@ -77,6 +77,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh cilantro",
@@ -231,30 +243,6 @@
         {
           "item": "shallots",
           "qty": 3,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "Thai basil",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "Thai bird chilies",
-          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -589,5 +577,5 @@
   ],
   "excludedStaples": [],
   "pendingScans": [],
-  "totalItems": 45
+  "totalItems": 44
 }
