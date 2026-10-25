@@ -1,0 +1,617 @@
+{
+  "weekOf": "2026-10-25",
+  "createdAt": "2026-10-25T15:00:15.919Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "avgolemono-with-chicken-c13b00ba",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Avgolemono with Chicken",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.59",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "weeknight",
+        "easy",
+        "one-pot"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "qty": 4,
+          "unit": "cup",
+          "category": "canned",
+          "note": "half batch — the soup thickens to gravy on reheating, so make what you'll eat"
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "boneless skinless chicken breasts",
+          "qty": 2,
+          "unit": "6-oz",
+          "category": "meat-seafood",
+          "note": "full amount from the book's with-chicken variation, so it's a real dinner; cut into 1/2-inch pieces"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "6 strips zest (zest before juicing) + 2 tbsp juice"
+        },
+        {
+          "item": "whole cloves",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": "or 2 crushed green cardamom pods"
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "egg",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "note": "1 whole egg + 1 yolk, room temperature"
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Greek lemon-chicken-rice soup; half batch of the book recipe with the full chicken from its variation. Simmer broth, rice, zest strips, clove, bay, salt and chicken ~15 min. Temper the eggs: whisk ~1 cup hot broth into the egg-lemon mix, then pour it back over LOW heat. Never boil once the eggs go in. Serve right away."
+    },
+    {
+      "id": "algerian-style-fennel-orange-and-olive-salad-9c337009",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Algerian-Style Fennel, Orange, and Olive Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "no-cook"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "navel oranges",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "book prefers 4 blood oranges; with bigger navels, use 3"
+        },
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "slice as thin as possible"
+        },
+        {
+          "item": "pitted black olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "oil-cured per the book; kalamatas fine"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tbsp juice for the dressing"
+        }
+      ],
+      "notes": "No cooking. Bright, juicy, and loaded with vitamin C. Dress right before serving."
+    },
+    {
+      "id": "mediterranean-baked-fish-with-tomatoes-and-capers-6ea186a1",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Mediterranean Baked Fish with Tomatoes and Capers",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
+      "cuisine": "mediterranean",
+      "protein": "cod",
+      "tags": [
+        "paprika",
+        "new",
+        "weeknight",
+        "easy",
+        "one-pan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "cod fillets (or any firm white fish)",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "28-oz can",
+          "category": "canned",
+          "note": "recipe says 3 cups diced, and good canned tomatoes are fine. Better than October fresh tomatoes."
+        },
+        {
+          "item": "red onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 10,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "golden raisins",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "left over from last week's pilaf"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "zest + juice of half"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "garnish"
+        },
+        {
+          "item": "couscous",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the article serves it over couscous. It takes 5 minutes: boiling broth/water, cover, fluff."
+        }
+      ],
+      "notes": "Simmer a quick tomato-caper-raisin sauce with warm spices, pour it over the fish, and bake ~15 min at 400°F. Skip the optional cayenne (low-heat house). The chunky tomato sauce is the vegetable; couscous soaks it up."
+    },
+    {
+      "id": "thai-basil-chicken-gai-pad-krapow-c00384ff",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thai Basil Chicken (Gai Pad Krapow)",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
+      "cuisine": "thai",
+      "protein": "chicken",
+      "tags": [
+        "paprika",
+        "new",
+        "weeknight",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Thai bird chilies",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "recipe uses 3. Use 1, seeded, or skip it and put chili flakes on the table"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chicken broth",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "Thai basil",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "regular basil works if the store has no Thai/holy basil"
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "A 10-minute stir-fry over jasmine rice. Built mild: one seeded chile in the pan, and heat on the side."
+    },
+    {
+      "id": "garlic-baby-bok-choy-stir-fry-941842eb",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Baby Bok Choy Stir-Fry",
+      "source": "The Woks of Life",
+      "sourceUrl": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "tags": [
+        "paprika",
+        "new",
+        "quick"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "baby bok choy",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "white pepper",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "or black"
+        }
+      ],
+      "notes": "Wash well (grit hides at the base), stir-fry hot with garlic, finish with a pinch of sugar and salt."
+    },
+    {
+      "id": "shrimp-fajitas-532b4693",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Shrimp Fajitas",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/shrimp-fajitas/",
+      "cuisine": "mexican",
+      "protein": "shrimp",
+      "tags": [
+        "paprika",
+        "new",
+        "weeknight",
+        "easy"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "large shrimp, peeled + deveined",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "bell peppers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "mixed colors"
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "half the recipe's 1 tbsp, for low heat"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "juice + wedges"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "flour tortillas",
+          "qty": 8,
+          "unit": "",
+          "category": "bakery",
+          "note": "small/fajita size"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Season the shrimp, sear the peppers and onion, then sear the shrimp. The whole dinner comes from one skillet. Skip the sour cream; avocado is the creamy part (heart-healthy). Chili powder halved."
+    },
+    {
+      "id": "oyakodon-chicken-and-egg-rice-bowl-4f5174fa",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Oyakodon (Chicken and Egg Rice Bowl)",
+      "source": "Just One Cookbook",
+      "sourceUrl": "https://www.justonecookbook.com/oyakodon/",
+      "cuisine": "japanese",
+      "protein": "chicken",
+      "tags": [
+        "paprika",
+        "new",
+        "comfort"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 10,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "egg",
+          "qty": 4,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "dashi granules",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "for 1/2 cup dashi (Asian aisle). Low-sodium chicken broth works in a pinch."
+        },
+        {
+          "item": "mirin",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dry sherry",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "recipe's sake sub; or omit"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "in place of mitsuba"
+        },
+        {
+          "item": "short-grain rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Japanese comfort food: chicken and onion simmered in sweet dashi-soy, eggs drizzled in two stages until just set, slid over rice. Serves exactly 2. Skip the shichimi (or keep it on the table)."
+    },
+    {
+      "id": "sesame-lemon-cucumber-salad-1d5b4e20",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sesame-Lemon Cucumber Salad",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
+      "sourceUrl": "",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "no-cook"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp juice"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Salt and weight the sliced cucumbers 1–3 hours (hands-off; start mid-afternoon), then toss with the dressing. Only 1/8 tsp pepper flakes, so it's already mild. Cool and crisp against the warm rice bowl."
+    }
+  ]
+}
