@@ -1,0 +1,544 @@
+{
+  "weekOf": "2026-10-25",
+  "generatedAt": "2026-10-25T15:00:46.197Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "avocado",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "baby bok choy",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Garlic Baby Bok Choy Stir-Fry"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "bell peppers",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 24,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
+            "Thai Basil Chicken (Gai Pad Krapow)",
+            "Garlic Baby Bok Choy Stir-Fry",
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Avgolemono with Chicken",
+            "Algerian-Style Fennel, Orange, and Olive Salad",
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "navel oranges",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion (small)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "Thai basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "Thai bird chilies",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "qty": 2,
+          "dim": "6-oz",
+          "unitLabel": "6-oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "6-oz"
+        },
+        {
+          "item": "cod fillets (or any firm white fish)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ground chicken",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "large shrimp, peeled + deveined",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "egg",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "flour tortillas",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "couscous",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "golden raisins",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "long-grain white rice",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "pitted black olives",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Algerian-Style Fennel, Orange, and Olive Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "chicken broth",
+          "qty": 207.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Avgolemono with Chicken",
+            "Thai Basil Chicken (Gai Pad Krapow)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "dim": "28-oz can",
+          "unitLabel": "28-oz can",
+          "category": "canned",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "28-oz can"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion powder",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "smoked paprika",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Shrimp Fajitas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "white pepper",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Garlic Baby Bok Choy Stir-Fry"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "whole cloves",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Avgolemono with Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [],
+  "pendingScans": [],
+  "totalItems": 41
+}

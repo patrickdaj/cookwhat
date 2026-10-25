@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-10-25",
   "createdAt": "2026-10-25T15:00:15.919Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -477,141 +477,7 @@
         }
       ],
       "notes": "Season the shrimp, sear the peppers and onion, then sear the shrimp. The whole dinner comes from one skillet. Skip the sour cream; avocado is the creamy part (heart-healthy). Chili powder halved."
-    },
-    {
-      "id": "oyakodon-chicken-and-egg-rice-bowl-4f5174fa",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Oyakodon (Chicken and Egg Rice Bowl)",
-      "source": "Just One Cookbook",
-      "sourceUrl": "https://www.justonecookbook.com/oyakodon/",
-      "cuisine": "japanese",
-      "protein": "chicken",
-      "tags": [
-        "paprika",
-        "new",
-        "comfort"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 10,
-          "unit": "oz",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "egg",
-          "qty": 4,
-          "unit": "",
-          "category": "dairy",
-          "note": ""
-        },
-        {
-          "item": "dashi granules",
-          "qty": null,
-          "unit": "",
-          "category": "pantry",
-          "note": "for 1/2 cup dashi (Asian aisle). Low-sodium chicken broth works in a pinch."
-        },
-        {
-          "item": "mirin",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "dry sherry",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "beverages",
-          "note": "recipe's sake sub; or omit"
-        },
-        {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "in place of mitsuba"
-        },
-        {
-          "item": "short-grain rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Japanese comfort food: chicken and onion simmered in sweet dashi-soy, eggs drizzled in two stages until just set, slid over rice. Serves exactly 2. Skip the shichimi (or keep it on the table)."
-    },
-    {
-      "id": "sesame-lemon-cucumber-salad-1d5b4e20",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Sesame-Lemon Cucumber Salad",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.88",
-      "sourceUrl": "",
-      "cuisine": "japanese",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "new",
-        "no-cook"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "cucumbers",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1 tbsp juice"
-        },
-        {
-          "item": "sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Salt and weight the sliced cucumbers 1–3 hours (hands-off; start mid-afternoon), then toss with the dressing. Only 1/8 tsp pepper flakes, so it's already mild. Cool and crisp against the warm rice bowl."
     }
-  ]
+  ],
+  "setAt": "2026-10-25T15:00:45.860Z"
 }
