@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-25",
-  "generatedAt": "2026-10-25T16:04:08.849Z",
+  "generatedAt": "2026-10-25T16:29:36.416Z",
   "targetServings": null,
   "sections": [
     {
@@ -109,6 +109,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
@@ -128,11 +129,12 @@
         },
         {
           "item": "garlic",
-          "qty": 17,
+          "qty": 27,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Baby Bok Choy Stir-Fry",
             "Shrimp Fajitas",
@@ -160,7 +162,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Avgolemono with Chicken",
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Algerian-Style Fennel, Orange, and Olive Salad"
           ],
           "hasUnquantified": false,
@@ -215,13 +217,13 @@
           "unit": ""
         },
         {
-          "item": "scallions",
+          "item": "red onion (small)",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Avgolemono with Chicken"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -292,16 +294,16 @@
           "unit": ""
         },
         {
-          "item": "boneless skinless chicken breasts",
-          "qty": 2,
-          "dim": "6-oz",
-          "unitLabel": "6-oz",
+          "item": "cod fillets (or any firm white fish)",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Avgolemono with Chicken"
+            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false,
-          "unit": "6-oz"
+          "unit": "lb"
         },
         {
           "item": "ground chicken",
@@ -326,23 +328,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        }
-      ]
-    },
-    {
-      "category": "dairy",
-      "items": [
-        {
-          "item": "egg",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "Avgolemono with Chicken"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -379,6 +364,30 @@
       "category": "pantry",
       "items": [
         {
+          "item": "capers",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "couscous",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "fish sauce",
           "qty": 1,
           "dim": "vol",
@@ -391,6 +400,18 @@
           "unit": "tbsp"
         },
         {
+          "item": "golden raisins",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "jasmine rice",
           "qty": 1.5,
           "dim": "vol",
@@ -398,18 +419,6 @@
           "category": "pantry",
           "fromMeals": [
             "Thai Basil Chicken (Gai Pad Krapow)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "long-grain white rice",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Avgolemono with Chicken"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -433,24 +442,24 @@
       "items": [
         {
           "item": "chicken broth",
-          "qty": 207.84,
+          "qty": 15.84,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Avgolemono with Chicken",
             "Thai Basil Chicken (Gai Pad Krapow)"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
         },
         {
-          "item": "crushed tomatoes",
-          "qty": 1,
+          "item": "diced tomatoes",
+          "qty": 2,
           "dim": "28-oz can",
           "unitLabel": "28-oz can",
           "category": "canned",
           "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
@@ -461,18 +470,6 @@
     {
       "category": "spices",
       "items": [
-        {
-          "item": "bay leaf",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Avgolemono with Chicken"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
         {
           "item": "chili powder",
           "qty": 0.5,
@@ -498,16 +495,29 @@
           "unit": "tsp"
         },
         {
+          "item": "ground coriander",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "ground cumin",
           "qty": 0.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Shrimp Fajitas"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "tbsp"
         },
         {
           "item": "onion powder",
@@ -534,6 +544,18 @@
           "unit": "tsp"
         },
         {
+          "item": "sweet paprika",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mediterranean Baked Fish with Tomatoes and Capers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "white pepper",
           "qty": null,
           "dim": "",
@@ -543,18 +565,6 @@
             "Garlic Baby Bok Choy Stir-Fry"
           ],
           "hasUnquantified": true,
-          "unit": ""
-        },
-        {
-          "item": "whole cloves",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Avgolemono with Chicken"
-          ],
-          "hasUnquantified": false,
           "unit": ""
         }
       ]
@@ -579,5 +589,5 @@
   ],
   "excludedStaples": [],
   "pendingScans": [],
-  "totalItems": 44
+  "totalItems": 45
 }
