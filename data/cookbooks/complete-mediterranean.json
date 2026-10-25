@@ -318,7 +318,9 @@
           "Serve with Rouille (p.302, captured) and Garlic Toasts (p.56).",
           "1/4 tsp cayenne across 6 servings — halve it for the house as usual."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-21"
     },
     {
       "title": "Rouille",
@@ -349,7 +351,9 @@
           "Keeps refrigerated up to 1 week; doubles as a sauce for vegetables and fish.",
           "1/4 tsp cayenne per full cup — scale to the house."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-21"
     },
     {
       "title": "Chicken Tagine with Chickpeas and Apricots",
@@ -1239,7 +1243,9 @@
           "Long-grain white, jasmine, or Texmati substitute for basmati."
         ],
         "makes": "Serves 4 to 6"
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-19"
     },
     {
       "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
@@ -2609,7 +2615,9 @@
           "Fish roasts right on top of the sauteed mushrooms so the flavors meld; porcini liquid reduces into the sauce.",
           "Cod and snapper substitute for the sea bass."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-19"
     },
     {
       "title": "Grilled Sea Bass with Citrus and Black Olive Salad",
@@ -3931,7 +3939,9 @@
           "Rack 6 inches from the broiler; flip as needed, about 4 minutes total.",
           "Rub the garlic on while the toast is hot so it grates into the crust."
         ]
-      }
+      },
+      "cooked": true,
+      "cookedOn": "2026-10-21"
     }
   ]
 }
