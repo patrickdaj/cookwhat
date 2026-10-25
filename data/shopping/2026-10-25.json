@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-25",
-  "generatedAt": "2026-10-25T15:00:46.197Z",
+  "generatedAt": "2026-10-25T16:04:08.849Z",
   "targetServings": null,
   "sections": [
     {
@@ -17,6 +17,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "baby bella mushrooms",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "baby bok choy",
@@ -41,6 +53,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "celery",
+          "qty": 2,
+          "dim": "rib",
+          "unitLabel": "rib",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": "rib"
         },
         {
           "item": "fennel bulbs",
@@ -85,36 +109,59 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 24,
+          "qty": 17,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Thai Basil Chicken (Gai Pad Krapow)",
             "Garlic Baby Bok Choy Stir-Fry",
-            "Shrimp Fajitas"
+            "Shrimp Fajitas",
+            "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
           "unit": "clove"
         },
         {
+          "item": "green bell pepper",
+          "qty": 0.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "lemon",
-          "qty": 3,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Avgolemono with Chicken",
-            "Algerian-Style Fennel, Orange, and Olive Salad",
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Algerian-Style Fennel, Orange, and Olive Salad"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -156,13 +203,13 @@
           "unit": ""
         },
         {
-          "item": "red onion (small)",
-          "qty": 1,
+          "item": "red bell pepper",
+          "qty": 0.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -214,12 +261,36 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "yellow onion (small)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
     {
       "category": "meat-seafood",
       "items": [
+        {
+          "item": "bone-in chicken thighs",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "boneless skinless chicken breasts",
           "qty": 2,
@@ -231,18 +302,6 @@
           ],
           "hasUnquantified": false,
           "unit": "6-oz"
-        },
-        {
-          "item": "cod fillets (or any firm white fish)",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
         },
         {
           "item": "ground chicken",
@@ -291,6 +350,18 @@
       "category": "bakery",
       "items": [
         {
+          "item": "crusty whole-grain bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        },
+        {
           "item": "flour tortillas",
           "qty": 8,
           "dim": "",
@@ -308,30 +379,6 @@
       "category": "pantry",
       "items": [
         {
-          "item": "capers",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "couscous",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "fish sauce",
           "qty": 1,
           "dim": "vol",
@@ -342,18 +389,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "golden raisins",
-          "qty": 15.84,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         },
         {
           "item": "jasmine rice",
@@ -410,13 +445,13 @@
           "unit": "tsp"
         },
         {
-          "item": "diced tomatoes",
+          "item": "crushed tomatoes",
           "qty": 1,
           "dim": "28-oz can",
           "unitLabel": "28-oz can",
           "category": "canned",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
           "unit": "28-oz can"
@@ -451,16 +486,16 @@
           "unit": "tbsp"
         },
         {
-          "item": "ground coriander",
-          "qty": 0.5,
+          "item": "dried oregano",
+          "qty": 1,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
+            "Easy Chicken Cacciatore (Crock-Pot)"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
         },
         {
           "item": "ground cumin",
@@ -469,11 +504,10 @@
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers",
             "Shrimp Fajitas"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
         },
         {
           "item": "onion powder",
@@ -495,18 +529,6 @@
           "category": "spices",
           "fromMeals": [
             "Shrimp Fajitas"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Mediterranean Baked Fish with Tomatoes and Capers"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -536,9 +558,26 @@
           "unit": ""
         }
       ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry red wine",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Easy Chicken Cacciatore (Crock-Pot)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
     }
   ],
   "excludedStaples": [],
   "pendingScans": [],
-  "totalItems": 41
+  "totalItems": 44
 }

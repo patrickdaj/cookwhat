@@ -142,116 +142,8 @@
       "notes": "No cooking. Bright, juicy, and loaded with vitamin C. Dress right before serving."
     },
     {
-      "id": "mediterranean-baked-fish-with-tomatoes-and-capers-6ea186a1",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Mediterranean Baked Fish with Tomatoes and Capers",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/mediterranean-baked-fish-recipe-tomato-capers/",
-      "cuisine": "mediterranean",
-      "protein": "cod",
-      "tags": [
-        "paprika",
-        "new",
-        "weeknight",
-        "easy",
-        "one-pan"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "cod fillets (or any firm white fish)",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "diced tomatoes",
-          "qty": 1,
-          "unit": "28-oz can",
-          "category": "canned",
-          "note": "recipe says 3 cups diced, and good canned tomatoes are fine. Better than October fresh tomatoes."
-        },
-        {
-          "item": "red onion (small)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 10,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "capers",
-          "qty": 1.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "golden raisins",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "left over from last week's pilaf"
-        },
-        {
-          "item": "ground coriander",
-          "qty": 1.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "zest + juice of half"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": "garnish"
-        },
-        {
-          "item": "couscous",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "the article serves it over couscous. It takes 5 minutes: boiling broth/water, cover, fluff."
-        }
-      ],
-      "notes": "Simmer a quick tomato-caper-raisin sauce with warm spices, pour it over the fish, and bake ~15 min at 400°F. Skip the optional cayenne (low-heat house). The chunky tomato sauce is the vegetable; couscous soaks it up."
-    },
-    {
       "id": "thai-basil-chicken-gai-pad-krapow-c00384ff",
-      "day": "Thu",
+      "day": "Fri",
       "slot": "dinner",
       "role": "main",
       "title": "Thai Basil Chicken (Gai Pad Krapow)",
@@ -330,7 +222,7 @@
     },
     {
       "id": "garlic-baby-bok-choy-stir-fry-941842eb",
-      "day": "Thu",
+      "day": "Fri",
       "slot": "dinner",
       "role": "side",
       "title": "Garlic Baby Bok Choy Stir-Fry",
@@ -373,7 +265,7 @@
     },
     {
       "id": "shrimp-fajitas-532b4693",
-      "day": "Fri",
+      "day": "Thu",
       "slot": "dinner",
       "role": "main",
       "title": "Shrimp Fajitas",
@@ -477,7 +369,121 @@
         }
       ],
       "notes": "Season the shrimp, sear the peppers and onion, then sear the shrimp. The whole dinner comes from one skillet. Skip the sour cream; avocado is the creamy part (heart-healthy). Chili powder halved."
+    },
+    {
+      "id": "easy-chicken-cacciatore-crock-pot-tmd",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Easy Chicken Cacciatore (Crock-Pot)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/chicken-cacciatore-recipe/",
+      "cuisine": "italian",
+      "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "slow-cooker",
+        "weeknight"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 500,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "bone-in chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "skin-on to brown; pull the skin off before serving (or buy skinless)"
+        },
+        {
+          "item": "yellow onion (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "celery",
+          "qty": 2,
+          "unit": "rib",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "green bell pepper",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "baby bella mushrooms",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": "or white"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 3,
+          "unit": "sprig",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dry red wine",
+          "qty": 1,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "crushed tomatoes",
+          "qty": 1,
+          "unit": "28-oz can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "crusty whole-grain bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "for the sauce"
+        }
+      ],
+      "notes": "Therapy night, so use the crock pot. Brown the thighs in olive oil, put them in the slow cooker, top with the vegetables, seasonings, wine, and tomatoes, then cook LOW 8 hr (or HIGH 4). Skip the pinch of red pepper flakes (low-heat house). Heart-healthy: pull the skin after browning or use skinless. Ingredient list from the site's stovetop/crock-pot recipe."
     }
   ],
-  "setAt": "2026-10-25T15:00:45.860Z"
+  "setAt": "2026-10-25T16:04:08.746Z"
 }
