@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-25",
-  "generatedAt": "2026-10-25T16:31:27.223Z",
+  "generatedAt": "2026-10-25T19:52:19.893Z",
   "targetServings": null,
   "sections": [
     {
@@ -283,7 +283,7 @@
         },
         {
           "item": "cod fillets (or any firm white fish)",
-          "qty": 1.5,
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
@@ -307,7 +307,7 @@
         },
         {
           "item": "large shrimp, peeled + deveined",
-          "qty": 1.5,
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",

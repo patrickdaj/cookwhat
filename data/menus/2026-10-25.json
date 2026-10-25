@@ -23,10 +23,10 @@
       "ingredients": [
         {
           "item": "cod fillets (or any firm white fish)",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": ""
+          "note": "trimmed to 1 lb for two"
         },
         {
           "item": "diced tomatoes",
@@ -306,10 +306,10 @@
       "ingredients": [
         {
           "item": "large shrimp, peeled + deveined",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": ""
+          "note": "trimmed to 1 lb for two"
         },
         {
           "item": "bell peppers",
