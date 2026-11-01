@@ -1,11 +1,23 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:17:55.905Z",
+  "generatedAt": "2026-11-01T15:19:31.734Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "avocado",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Cauli Rice (bowl base)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "baby bok choy",
           "qty": 6,
@@ -276,11 +288,12 @@
         },
         {
           "item": "lettuce heads (butter, green leaf, or romaine)",
-          "qty": 2,
+          "qty": 3,
           "dim": "head",
           "unitLabel": "head",
           "category": "produce",
           "fromMeals": [
+            "Cauli Rice (bowl base)",
             "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
@@ -288,11 +301,12 @@
         },
         {
           "item": "lime",
-          "qty": 3,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Cauli Rice (bowl base)",
             "Mexican Roasted Vegetables",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Grilled Umami Bok Choy"
@@ -388,11 +402,12 @@
         },
         {
           "item": "riced cauliflower (fresh)",
-          "qty": 16,
+          "qty": 32,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "produce",
           "fromMeals": [
+            "Cauli Rice (bowl base)",
             "Cauli Rice"
           ],
           "hasUnquantified": false,
@@ -665,30 +680,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "arrowroot powder",
-          "qty": 0.75,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Grain-Free Tortillas"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "cassava flour",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Grain-Free Tortillas"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "coconut aminos",
@@ -1077,5 +1068,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 81
+  "totalItems": 80
 }

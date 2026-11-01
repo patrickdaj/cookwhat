@@ -327,7 +327,7 @@
           "note": "or olive oil"
         }
       ],
-      "notes": "Taco bar for Jody night. 20 min high pressure + 15 min natural release, then shred. Slow cooker option: LOW 8 hr. Leftovers keep 4 days.",
+      "notes": "Jody night: bowl for him, tacos for her and Jody, same meat and veg. 20 min high pressure + 15 min natural release, then shred. Slow cooker option: LOW 8 hr. Leftovers keep 4 days.",
       "depaleo": [
         "Regular corn or flour tortillas",
         "Sour cream"
@@ -368,40 +368,53 @@
       "notes": "Non-paleo taco toppings for his wife and Jody."
     },
     {
-      "id": "grain-free-tortillas-5272dc77",
+      "id": "cauli-rice-tue-ron80",
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "Grain-Free Tortillas",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.78",
+      "title": "Cauli Rice (bowl base)",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.80",
       "sourceUrl": "",
       "cuisine": "latin",
       "protein": "vegetable",
       "tags": [
         "book",
-        "new",
         "paleo"
       ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 20,
-      "servings": 4,
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "cassava flour",
-          "qty": 2,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "270 g; NOT tapioca flour (Otto's brand)"
+          "item": "riced cauliflower (fresh)",
+          "qty": 16,
+          "unit": "oz",
+          "category": "produce",
+          "note": "Tue bowl base; p.80 not scanned, shortcut: saute in olive oil with salt, finish with lime + cilantro"
         },
         {
-          "item": "arrowroot powder",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "96 g"
+          "item": "avocado",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "bowl topping (and for the table)"
+        },
+        {
+          "item": "lettuce heads (butter, green leaf, or romaine)",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": "shredded, his bowl only (Jody: no salad)"
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "bowl"
         }
       ],
-      "notes": "Makes 12; his tortillas (his carb). Olive oil as the fat. Freeze extras between parchment."
+      "notes": "His bowl: carne mechada + cauli rice + Mexican roasted veg + avocado + lime + cilantro + a little shredded lettuce. Everyone else does tacos from the same meat and veg."
     },
     {
       "id": "mexican-roasted-vegetables-eded6b34",
