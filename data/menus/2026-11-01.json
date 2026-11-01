@@ -18,12 +18,11 @@
         "book",
         "new",
         "paleo",
-        "scan-later",
         "weeknight"
       ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 6,
       "ingredients": [
         {
           "item": "scallions",
@@ -44,7 +43,7 @@
         "Steamed jasmine rice",
         "Regular soy sauce at the table"
       ],
-      "notes": "User knows this recipe well; only scallions + ginger needed from the store. Scan p.156 later to capture it in the catalog."
+      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33; the user makes it from memory). Recipe calls for 2 lb barramundi or other 1-inch white fish; fish not on the list because the user said he only needs scallions + ginger."
     },
     {
       "id": "for-her-crusty-bread-feta-a3cc62be",

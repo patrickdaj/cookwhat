@@ -318,7 +318,42 @@
     {
       "title": "Ginger Scallion Fish Fillets",
       "page": 156,
-      "chapter": "Seafood"
+      "chapter": "Seafood",
+      "scanned": true,
+      "captured": {
+        "makes": "6 servings · 15 minutes (5 minutes hands-on) · Whole30, keto-friendly, nut-free, egg-free, nightshade-free",
+        "ingredients": [
+          "1/4 cup Ginger Scallion Sauce (page 33), divided",
+          "2 (1-pound) barramundi (Asian sea bass) fillets or other white fish fillets, about 1 inch thick",
+          "1 teaspoon Diamond Crystal kosher salt",
+          "1/4 teaspoon ground white pepper",
+          "2 tablespoons avocado oil"
+        ],
+        "steps": [
+          "Grab or make some Ginger Scallion Sauce (p.33).",
+          "Turn on the broiler with the top rack 6 inches from the heating element.",
+          "Pat the fillets dry; sprinkle the top and bottom with the salt and white pepper.",
+          "Pour the avocado oil on a rimmed baking sheet and rub or brush it on all sides of the fillets.",
+          "Arrange the fish skin-side down on the baking sheet.",
+          "Broil 8 to 12 minutes, until the fish reaches 140°F and the thickest parts are opaque and flake easily with a fork.",
+          "Spoon the Ginger Scallion Sauce generously over the fish and serve."
+        ],
+        "tips": [
+          "Barramundi (Asian sea bass) is native to the Indo-Pacific, packed with healthy omega-3s, and rated a 'Best Choice' by Monterey Bay Aquarium's Seafood Watch.",
+          "Prized for firm, moist flakes and a sweet, buttery flavor; the broiler plus ginger-scallion sauce makes it a 15-minute supper.",
+          "Any white fish about 1 inch thick works.",
+          "Per serving: 207 calories, 1 g carbs, 28 g protein, 10 g fat, 1 g fiber."
+        ],
+        "ai": {
+          "cliffNotes": "Salt-and-white-pepper barramundi broiled skin-side down 8 to 12 minutes, then spooned with ginger-scallion sauce: a 15-minute Cantonese-style supper.",
+          "keyTips": [
+            "Rack 6 inches from the broiler; pull at 140°F.",
+            "Pat the fillets dry so they roast rather than steam under the broiler.",
+            "Ginger Scallion Sauce is p.33; the user knows it by heart, so there's no scan yet."
+          ]
+        }
+      },
+      "makes": "6 servings · 15 minutes (5 minutes hands-on) · Whole30, keto-friendly, nut-free, egg-free, nightshade-free"
     },
     {
       "title": "Seared Scallops with Chili Crisp",
