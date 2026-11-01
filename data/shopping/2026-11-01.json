@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:05:04.695Z",
+  "generatedAt": "2026-11-01T15:10:24.870Z",
   "targetServings": null,
   "sections": [
     {
@@ -134,6 +134,18 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "dim": "2-inch piece",
+          "unitLabel": "2-inch piece",
+          "category": "produce",
+          "fromMeals": [
+            "Ginger Scallion Fish Fillets"
+          ],
+          "hasUnquantified": false,
+          "unit": "2-inch piece"
         },
         {
           "item": "fresh ginger",
@@ -378,6 +390,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "scallions",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Ginger Scallion Fish Fillets"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "scallions",
@@ -1045,13 +1069,6 @@
   "excludedStaples": [
     "coconut sugar"
   ],
-  "pendingScans": [
-    {
-      "title": "Ginger Scallion Fish Fillets",
-      "day": "Mon",
-      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 79
+  "pendingScans": [],
+  "totalItems": 81
 }

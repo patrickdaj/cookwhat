@@ -18,18 +18,33 @@
         "book",
         "new",
         "paleo",
-        "needs-scan",
+        "scan-later",
         "weeknight"
       ],
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [],
+      "ingredients": [
+        {
+          "item": "scallions",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "Mon fish"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "2-inch piece",
+          "category": "produce",
+          "note": "Mon fish"
+        }
+      ],
       "depaleo": [
         "Steamed jasmine rice",
         "Regular soy sauce at the table"
       ],
-      "notes": "Mild Cantonese-style white fish. NEEDS SCAN of p.156 (Let's Go!) before shopping."
+      "notes": "User knows this recipe well; only scallions + ginger needed from the store. Scan p.156 later to capture it in the catalog."
     },
     {
       "id": "for-her-crusty-bread-feta-a3cc62be",
