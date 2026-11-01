@@ -67,7 +67,7 @@
     "avoidSites": []
   },
   "proteinRules": {
-    "redMeatMaxPerWeek": 1,
+    "redMeatMaxPerWeek": 3,
     "poultryMaxPerWeek": 3,
     "seafoodMinPerWeek": 1,
     "vegetarianMinPerWeek": 0,
@@ -177,11 +177,11 @@
       "good",
       "chefy"
     ],
-    "notes": "As of 2026-11 the user is back on PALEO for blood pressure; his wife is NOT paleo — every dinner gets quick de-paleo add-ons for her (see diet.depaleo). Heart overlay still applies (high total cholesterol + LDL, 2026-06): paleo must not turn into bacon/ghee/coconut/red-meat cooking — lean proteins, fish ~2x/week, olive/avocado oil, nuts/seeds, lots of veg + fruit. Blood pressure: watch sodium (coconut aminos, fish sauce, salt, broth and cured meats add up — prefer low-sodium broth, measure the salty seasonings, lean on acid/herbs/spice), and favor potassium-rich foods (leafy greens, sweet potatoes, squash, avocado, tomatoes, bananas). Fiber for him comes from veg, fruit, nuts, seeds, sweet potatoes/squash (no grains); keep beans low for both.",
+    "notes": "As of 2026-11 the user is back on PALEO for blood pressure; his wife is NOT paleo — every dinner gets quick de-paleo add-ons for her (see diet.depaleo). Heart overlay still applies (high total cholesterol + LDL, 2026-06): red meat is back in play as a paleo EXPERIMENT (user's call, 2026-11): ~2 nights/week, up to 3, favoring leaner cuts (flank, sirloin, tenderloin, pork tenderloin/loin, grass-fed); still keep cured/processed meats minimal (sodium) and skip deep-frying; fish ~2x/week, olive/avocado oil, nuts/seeds, lots of veg + fruit. Blood pressure: watch sodium (coconut aminos, fish sauce, salt, broth and cured meats add up — prefer low-sodium broth, measure the salty seasonings, lean on acid/herbs/spice), and favor potassium-rich foods (leafy greens, sweet potatoes, squash, avocado, tomatoes, bananas). Fiber for him comes from veg, fruit, nuts, seeds, sweet potatoes/squash (no grains); keep beans low for both.",
     "dairy": "low",
     "saturatedFat": "low",
     "cholesterolConscious": true,
-    "redMeatProcessedFried": "infrequent",
+    "redMeatProcessedFried": "red meat ok ~2-3x/week (paleo experiment); processed + fried still infrequent",
     "sodium": "low"
   },
   "shopping": {
@@ -230,6 +230,7 @@
         "a spoon of yogurt, sour cream, or tzatziki",
         "beans or chickpeas (sparingly)"
       ]
-    }
+    },
+    "redMeat": "Experiment (2026-11): ~2 nights/week, up to 3; leaner cuts preferred. Revisit if BP/lipids move the wrong way."
   }
 }

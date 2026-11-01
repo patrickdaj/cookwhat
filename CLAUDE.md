@@ -49,10 +49,17 @@ grain/rice-heavy sides, "oats and whole grains for fiber", the ATK-first blend).
   foods (deli meat, packaged sauces). Allowed: meat, fish, eggs, all vegetables and
   fruit, **potatoes, sweet potatoes, winter squash and plantains** (his carb), nuts
   and seeds, olive and avocado oil, and honey or maple syrup sparingly.
-- **Keep it heart-healthy and blood-pressure-friendly.** Paleo blogs often lean
-  on bacon, ghee, coconut and red meat. Don't follow them there: the cholesterol
-  rules below still stand (red meat 0–1/week, fish ~2×/week, olive/avocado oil
-  as the default). **Watch sodium.** Coconut aminos, fish sauce, salt, broth and
+- **Red meat is back in play — the user's experiment (2026-11).** On paleo
+  he's found the red-meat trade-off acceptable before, so don't fight it: aim
+  for **~2 red-meat nights a week, up to 3** (`redMeatMaxPerWeek: 3`), favoring
+  leaner cuts (flank, sirloin, tenderloin, pork tenderloin/loin, grass-fed
+  ground beef) over fatty ones. This overrides the "0–1 nights" line in
+  Heart-health below. Treat it as an experiment — if he reports blood pressure or
+  lipids moving the wrong way, revisit.
+- **Still heart- and blood-pressure-friendly otherwise.** Fish ~2×/week,
+  olive/avocado oil as the default fat, ghee/coconut as accents. **Cured and
+  processed meats stay minimal** (bacon, sausage, deli — the sodium is the
+  blood-pressure problem), and deep-frying stays occasional. **Watch sodium.** Coconut aminos, fish sauce, salt, broth and
   cured meats add up. Use low-sodium broth, measure the salty seasonings, and get
   flavor from acid, herbs, garlic and spice. Lean on potassium-rich foods: leafy
   greens, sweet potatoes, squash, avocado, tomatoes, bananas.
@@ -388,8 +395,8 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
 
 - **Make the big offenders infrequent, not weekly — the user loves them but
   wants them dialed back to occasional/special-occasion:**
-  - **Red meat** — aim for **0–1 nights**, and not every week (the `redMeatMax`
-    of 1 is a ceiling, not a target). Guest/celebration steak or ribs still fine.
+  - **Red meat** — *superseded 2026-11 by the paleo experiment: ~2 nights/week,
+    up to 3, leaner cuts (see the Paleo section).* (Was: 0–1 nights.)
   - **Processed/cured meats** (bacon, sausage, corned beef, deli, pancetta,
     chorizo) — **minimize**; use as a small accent at most, not the centerpiece.
   - **Deep-fried foods** — **occasional treat.** Default to the lighter build:
@@ -411,7 +418,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   roast/grill/steam/sauté in olive oil over deep-frying; use rich cheeses as an
   accent, not the main event.
 - Already-aligned config: `nutrition.dairy: low`, `saturatedFat: low`,
-  `cholesterolConscious: true`, `proteinRules.redMeatMaxPerWeek: 1`.
+  `cholesterolConscious: true`; `proteinRules.redMeatMaxPerWeek` is now 3 (paleo experiment).
 - Not medical advice — general heart-healthy eating; the user follows their
   doctor's guidance.
 
