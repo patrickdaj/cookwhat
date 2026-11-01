@@ -6,8 +6,616 @@
   "owned": true,
   "addedOn": "2026-11-01",
   "cuisine": "paleo (Whole30-friendly), lots of Asian-inspired umami — the user's favorite paleo creator",
-  "note": "STUB — recipes[] is empty until the user scans the table of contents / recipe index. Transcribe titles + page numbers only from that scan; capture ingredients/steps only from scans of the recipe pages.",
+  "note": "Catalog built 2026-11-01 from the book's one-page table of contents (photo), chapters as printed: Building Blocks, Nibbles, Salads + Soups, Eggs, Plants, Seafood, Poultry, Meat, Treats. Titles + page numbers only.",
   "source_format": "Source for any meal cataloged from this book: \"Nom Nom Paleo: Food for Humans (Nom Nom Paleo) - p.NNN\" (no URL).",
-  "needsToc": true,
-  "recipes": []
+  "recipes": [
+    {
+      "title": "Dukkah",
+      "page": 34,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Magic Mushroom Powder",
+      "page": 35,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Ghee",
+      "page": 36,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Niter Kibbeh",
+      "page": 37,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Slow-Roasted Tomatoes",
+      "page": 38,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Caramelized Onions",
+      "page": 38,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Roasted Bell Peppers",
+      "page": 39,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Paleo Mayonnaise",
+      "page": 40,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Paleo Sriracha",
+      "page": 42,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Sriracha Mayonnaise",
+      "page": 45,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Macadamia Nut \"Ricotta\"",
+      "page": 46,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Crispy Lardons",
+      "page": 49,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Quick-Pickled Carrot Strings",
+      "page": 50,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Holy 'Moly (Easy Guacamole)",
+      "page": 51,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Salsa Roja Asada",
+      "page": 54,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Spicy Pineapple Salsa",
+      "page": 55,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Spicy Mango Salsa",
+      "page": 55,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Pan-Seared Salmon",
+      "page": 56,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Lemon Honey Sauce",
+      "page": 57,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Honey Mustard Dressing",
+      "page": 58,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Citrus Vinaigrette",
+      "page": 59,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Five-Minute Bacon Äioli",
+      "page": 60,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Avocado + Basil Dressing",
+      "page": 61,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Paleo Ranch Dressing",
+      "page": 62,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Louisiana Rémoulade",
+      "page": 63,
+      "chapter": "Building Blocks"
+    },
+    {
+      "title": "Roasted Rosemary Almonds",
+      "page": 66,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Maple-Spiced Walnuts",
+      "page": 67,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Brussels Sprouts Chips",
+      "page": 70,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Apple Chips",
+      "page": 71,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Kale Chips",
+      "page": 73,
+      "chapter": "Nibbles",
+      "flag": "kale (dislike)"
+    },
+    {
+      "title": "Porkitos (Prosciutto Chips)",
+      "page": 74,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Mushroom Chips",
+      "page": 75,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Devils on Horseback",
+      "page": 76,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Chopped Liver + Bacon",
+      "page": 78,
+      "chapter": "Nibbles",
+      "flag": "liver (dislike)"
+    },
+    {
+      "title": "Crispy Gizzard Confit",
+      "page": 80,
+      "chapter": "Nibbles",
+      "flag": "organ meat (dislike)"
+    },
+    {
+      "title": "Makin' Bacon",
+      "page": 82,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Bacon + Guacamole Sammies",
+      "page": 83,
+      "chapter": "Nibbles"
+    },
+    {
+      "title": "Tomato + Basil Salad",
+      "page": 92,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Winter Kale + Persimmon Salad",
+      "page": 94,
+      "chapter": "Salads + Soups",
+      "flag": "kale (dislike)"
+    },
+    {
+      "title": "Madras Chicken Salad",
+      "page": 95,
+      "chapter": "Salads + Soups",
+      "flag": "curry-spiced (dislike-adjacent)"
+    },
+    {
+      "title": "Salade Lyonnaise",
+      "page": 96,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Classic Coleslaw",
+      "page": 99,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Pistachio Apple Salad",
+      "page": 100,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Crab Louie",
+      "page": 102,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Brine-Boiled Dungeness Crab",
+      "page": 103,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Bone Broth",
+      "page": 104,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Fast Phở",
+      "page": 106,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Slow Phở",
+      "page": 107,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "West Lake Soup",
+      "page": 108,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Mulligatawny Soup",
+      "page": 110,
+      "chapter": "Salads + Soups",
+      "flag": "curry-spiced (dislike-adjacent)"
+    },
+    {
+      "title": "Curried Cream of Broccoli Soup",
+      "page": 113,
+      "chapter": "Salads + Soups",
+      "flag": "broccoli + curry (dislike)"
+    },
+    {
+      "title": "Carrot + Cardamom Soup",
+      "page": 115,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Watermelon Gazpacho",
+      "page": 116,
+      "chapter": "Salads + Soups"
+    },
+    {
+      "title": "Perfect Hard-Boiled Eggs",
+      "page": 120,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Bacon-Topped Deviled Eggs",
+      "page": 122,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Lazy Devils",
+      "page": 123,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Assorted Devils",
+      "page": 124,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Furikake, Asparagus + Eggs",
+      "page": 126,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Poached Eggs (That Aren't Ugly)",
+      "page": 128,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Classic Egg Salad",
+      "page": 130,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Kai Jiao (Thai Omelet)",
+      "page": 131,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Uova in Purgatorio",
+      "page": 132,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Prosciutto-Wrapped Frittata Muffins",
+      "page": 134,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "A Proper French Omelet",
+      "page": 135,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Chinese Egg Foo Young",
+      "page": 136,
+      "chapter": "Eggs"
+    },
+    {
+      "title": "Eggplant \"Ricotta\" Stacks",
+      "page": 141,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Zoodles",
+      "page": 143,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Roasted Portobello Mushrooms",
+      "page": 144,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Kabocha Wedges",
+      "page": 145,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Cavolini al Forno",
+      "page": 146,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Broccoli Bagna Càuda",
+      "page": 148,
+      "chapter": "Plants",
+      "flag": "broccoli (dislike)"
+    },
+    {
+      "title": "Pressure-Cooked Spicy Collards + Bacon",
+      "page": 151,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Sweet Potato Hash",
+      "page": 152,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Garlic Mashed Cauliflower",
+      "page": 155,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Easy Cauliflower \"Rice\"",
+      "page": 156,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Coconut Pineapple \"Rice\"",
+      "page": 157,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Asian Cauliflower Fried \"Rice\"",
+      "page": 161,
+      "chapter": "Plants",
+      "note": "web copy saved in Paprika"
+    },
+    {
+      "title": "Oven-Baked Sweet Potatoes",
+      "page": 164,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Plátanos Maduros",
+      "page": 165,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Kabalagala (Plantain Fritters)",
+      "page": 166,
+      "chapter": "Plants"
+    },
+    {
+      "title": "Mussels in Curry Broth",
+      "page": 170,
+      "chapter": "Seafood",
+      "flag": "curry (dislike)"
+    },
+    {
+      "title": "Walnut Prawns",
+      "page": 173,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Spicy Coconut Shrimp",
+      "page": 176,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Shrimp + Watermelon Skewers",
+      "page": 178,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Slow-Poached Magic Tuna",
+      "page": 179,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Fried Salmon Patties",
+      "page": 180,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Spicy Tuna Cakes",
+      "page": 183,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Whole Roasted Branzini",
+      "page": 187,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Crab + Avocado Temaki",
+      "page": 188,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Fiona's Green Chicken",
+      "page": 193,
+      "chapter": "Poultry",
+      "note": "book version of 'My Sister's Phenomenal Grilled Green Chicken' (rated 4★; web copy saved in Paprika)"
+    },
+    {
+      "title": "Chicken Nuggets",
+      "page": 195,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Magic Wings",
+      "page": 196,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Crispy Smashed Chicken",
+      "page": 197,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Slow Cooker Chicken + Gravy",
+      "page": 198,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Peruvian Roast Chicken + Aji Verde Chili Sauce",
+      "page": 201,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Slow-Roasted Duck Legs",
+      "page": 204,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Polpette di Vitello",
+      "page": 211,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Korean Short Ribs",
+      "page": 213,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Kabob Koobideh",
+      "page": 215,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Yankee Pot Roast",
+      "page": 218,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Smashed Steak Skewers + Cherry Barbecue Sauce",
+      "page": 220,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Southwest Cowboy Chili",
+      "page": 224,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Big-O Bacon Burgers",
+      "page": 226,
+      "chapter": "Meat",
+      "note": "web copy saved in Paprika"
+    },
+    {
+      "title": "Loco Moco",
+      "page": 228,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Roast Beast",
+      "page": 229,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Grilled Lamb Chops + Mint Chimichurri",
+      "page": 231,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Kalua Pig",
+      "page": 234,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Vietnamese Lettuce Cups",
+      "page": 239,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Maple Sausage Patties",
+      "page": 240,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Super-Porktastic Meatloaf",
+      "page": 243,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Siu Yoke (Crispy Roast Pork Belly)",
+      "page": 244,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Cinnamon Apple Scones",
+      "page": 250,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Dark Chocolate Cherry Scones",
+      "page": 250,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Liar Bars",
+      "page": 252,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Whipped Coconut Cream",
+      "page": 253,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Summer Berry Soup",
+      "page": 254,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Mexican Chocolate Pots de Crème",
+      "page": 256,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Mocha Ice Pops",
+      "page": 259,
+      "chapter": "Treats"
+    },
+    {
+      "title": "Strawberry Banana Ice Cream",
+      "page": 260,
+      "chapter": "Treats"
+    }
+  ],
+  "dislikeFlags": "Kale (p.73, 94), liver/gizzards (p.78, 80), broccoli (p.113, 148), curry (p.95, 110, 113, 170) flagged. Lots of bacon here: keep it an accent (sodium)."
 }
