@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T21:08:57.332Z",
+  "generatedAt": "2026-11-01T21:41:41.081Z",
   "targetServings": null,
   "sections": [
     {
@@ -288,12 +288,11 @@
         },
         {
           "item": "lettuce heads (butter, green leaf, or romaine)",
-          "qty": 3,
+          "qty": 2,
           "dim": "head",
           "unitLabel": "head",
           "category": "produce",
           "fromMeals": [
-            "Cauli Rice (bowl base)",
             "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,

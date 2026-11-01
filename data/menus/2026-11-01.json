@@ -415,13 +415,6 @@
           "note": "bowl topping (and for the table)"
         },
         {
-          "item": "lettuce heads (butter, green leaf, or romaine)",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce",
-          "note": "shredded, his bowl only (Jody: no salad)"
-        },
-        {
           "item": "lime",
           "qty": 1,
           "unit": "",
@@ -429,7 +422,7 @@
           "note": "bowl"
         }
       ],
-      "notes": "His bowl: carne mechada + cauli rice + Mexican roasted veg + avocado + lime + cilantro + a little shredded lettuce. Everyone else does tacos from the same meat and veg."
+      "notes": "His bowl: carne mechada + cauli rice + Mexican roasted veg + avocado + lime + cilantro. Everyone else does tacos from the same meat and veg."
     },
     {
       "id": "mexican-roasted-vegetables-eded6b34",
