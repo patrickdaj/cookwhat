@@ -1074,7 +1074,7 @@
           "note": "for wrapping"
         }
       ],
-      "notes": "Bo ssäm = 'wrapped'. Dry-brine 8 hr+ (start Thu/Fri), 2 hr high pressure, natural release, broil 5–10 min basting with the skimmed jus, shred. Kimchi and Fauxchujang on the side for the low-heat eater.",
+      "notes": "Bo ssäm = 'wrapped'. Dry-brine 8 hr+ (start Thu/Fri), 2 hr high pressure, natural release, broil 5–10 min basting with the skimmed jus, shred. No kimchi (too spicy for her): pickled cucumbers + carrots and Monday's ginger-scallion sauce instead; Fauxchujang on the side.",
       "depaleo": [
         "Steamed rice instead of cauli rice",
         "Regular ssamjang (milder than gochujang) instead of Fauxchujang"
@@ -1161,32 +1161,53 @@
       ]
     },
     {
+      "id": "quick-pickled-carrots-ron74",
       "day": "Sat",
       "slot": "dinner",
       "role": "side",
+      "title": "Quick-Pickled Carrot Sticks",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.74 (Fridge-Pickled Cucumbers brine; the page suggests carrot sticks)",
       "sourceUrl": "",
       "cuisine": "korean",
       "protein": "vegetable",
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "notes": "Bo ssäm component, served on the side.",
-      "id": "kimchi-store-bossam",
-      "title": "Kimchi (store-bought)",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.62 (Spicy Kimchi / Wimpchi)",
       "tags": [
         "book",
         "paleo"
       ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 35,
+      "servings": 4,
       "ingredients": [
         {
-          "item": "kimchi",
-          "qty": 1,
-          "unit": "jar",
+          "item": "carrots",
+          "qty": 2,
+          "unit": "",
           "category": "produce",
-          "note": "refrigerated case; mild if they have it. The book's homemade versions (p.62) need days to ferment"
+          "note": "cut into thin sticks"
+        },
+        {
+          "item": "apple juice",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": "second batch of brine"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "second batch of brine"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
         }
-      ]
+      ],
+      "notes": "Replaces kimchi (too spicy for her). Same brine as the p.74 cucumbers, no pepper flakes; make Friday. Also put out the leftover Ginger Scallion Sauce from Monday, the classic bo ssäm condiment."
     },
     {
       "day": "Sat",

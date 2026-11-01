@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T21:41:41.081Z",
+  "generatedAt": "2026-11-01T21:43:47.265Z",
   "targetServings": null,
   "sections": [
     {
@@ -44,7 +44,7 @@
         },
         {
           "item": "carrots",
-          "qty": 10,
+          "qty": 12,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -53,7 +53,8 @@
             "Mexican Roasted Vegetables",
             "Japanese Potato Salad",
             "World's Best Braised Green Cabbage",
-            "Honey Harissa Salmon"
+            "Honey Harissa Salmon",
+            "Quick-Pickled Carrot Sticks"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -260,18 +261,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "kimchi",
-          "qty": 1,
-          "dim": "jar",
-          "unitLabel": "jar",
-          "category": "produce",
-          "fromMeals": [
-            "Kimchi (store-bought)"
-          ],
-          "hasUnquantified": false,
-          "unit": "jar"
         },
         {
           "item": "lemon",
@@ -731,7 +720,7 @@
         },
         {
           "item": "fish sauce",
-          "qty": 4.25,
+          "qty": 13.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
@@ -741,11 +730,12 @@
             "My Sister's Phenomenal Grilled Green Chicken",
             "Italian Crispy Chicken Thighs",
             "Grilled Umami Bok Choy",
+            "Quick-Pickled Carrot Sticks",
             "Fridge-Pickled Cucumbers",
             "Fauxchujang"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
         },
         {
           "item": "harissa",
@@ -810,13 +800,14 @@
         },
         {
           "item": "rice vinegar",
-          "qty": 28.75,
+          "qty": 52.75,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
             "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Japanese Potato Salad",
+            "Quick-Pickled Carrot Sticks",
             "Fridge-Pickled Cucumbers",
             "Fauxchujang"
           ],
@@ -1038,12 +1029,13 @@
       "items": [
         {
           "item": "apple juice",
-          "qty": 10,
+          "qty": 18,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "beverages",
           "fromMeals": [
             "My Sister's Phenomenal Grilled Green Chicken",
+            "Quick-Pickled Carrot Sticks",
             "Fridge-Pickled Cucumbers"
           ],
           "hasUnquantified": false,
@@ -1073,5 +1065,5 @@
     "coconut sugar"
   ],
   "pendingScans": [],
-  "totalItems": 81
+  "totalItems": 80
 }
