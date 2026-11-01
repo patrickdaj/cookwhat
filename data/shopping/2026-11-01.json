@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T14:58:14.565Z",
+  "generatedAt": "2026-11-01T15:03:53.942Z",
   "targetServings": null,
   "sections": [
     {
@@ -84,18 +84,6 @@
           "unit": "oz"
         },
         {
-          "item": "fennel bulbs",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "fresh basil",
           "qty": 1,
           "dim": "bunch",
@@ -103,20 +91,7 @@
           "category": "produce",
           "fromMeals": [
             "My Sister's Phenomenal Grilled Green Chicken",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Italian Crispy Chicken Thighs"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "fresh chives",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -128,7 +103,6 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette",
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Mexican Roasted Vegetables"
@@ -180,8 +154,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -193,15 +166,14 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 35,
+          "qty": 29,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -211,7 +183,6 @@
             "My Sister's Phenomenal Grilled Green Chicken",
             "Honey Harissa Salmon",
             "Italian Crispy Chicken Thighs",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
@@ -243,14 +214,13 @@
         },
         {
           "item": "lemon",
-          "qty": 4,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Roasted Root Vegetables with Lemon-Caper Sauce",
-            "Honey Harissa Salmon",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Honey Harissa Salmon"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -269,42 +239,17 @@
         },
         {
           "item": "lime",
-          "qty": 5,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette",
             "Mexican Roasted Vegetables",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Grilled Umami Bok Choy"
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "parsnips",
-          "qty": 8,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "Persian cucumber",
@@ -318,18 +263,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "radicchio",
-          "qty": 1,
-          "dim": "head",
-          "unitLabel": "head",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "head"
         },
         {
           "item": "red bell pepper",
@@ -358,13 +291,12 @@
         },
         {
           "item": "red potatoes",
-          "qty": 2,
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -408,16 +340,14 @@
         },
         {
           "item": "shallot",
-          "qty": 21,
+          "qty": 12,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette",
             "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Japanese Potato Salad",
-            "Italian Crispy Chicken Thighs",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Italian Crispy Chicken Thighs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -430,6 +360,18 @@
           "category": "produce",
           "fromMeals": [
             "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "sweet potatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Baked sweet potatoes"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -536,18 +478,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "whole red snapper (1 1/2–2 lb each), scaled + gutted",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -573,7 +503,7 @@
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "For her: crusty bread + feta"
+            "For her: jasmine rice (Mon)"
           ],
           "hasUnquantified": false,
           "unit": "oz"
@@ -643,18 +573,6 @@
           ],
           "hasUnquantified": false,
           "unit": "pack"
-        },
-        {
-          "item": "crusty bread",
-          "qty": 1,
-          "dim": "loaf",
-          "unitLabel": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "For her: crusty bread + feta"
-          ],
-          "hasUnquantified": false,
-          "unit": "loaf"
         }
       ]
     },
@@ -789,7 +707,7 @@
         },
         {
           "item": "jasmine rice",
-          "qty": 1,
+          "qty": 1.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
@@ -1030,18 +948,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 0.13,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         }
       ]
     },
@@ -1084,6 +990,13 @@
   "excludedStaples": [
     "coconut sugar"
   ],
-  "pendingScans": [],
-  "totalItems": 82
+  "pendingScans": [
+    {
+      "title": "Ginger Scallion Fish Fillets",
+      "day": "Mon",
+      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 75
 }

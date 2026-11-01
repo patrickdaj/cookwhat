@@ -5,83 +5,41 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "whole-roasted-snapper-with-citrus-vinaigrette-39811da2",
+      "id": "ginger-scallion-fish-fillets-lg156",
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Whole Roasted Snapper with Citrus Vinaigrette",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
+      "title": "Ginger Scallion Fish Fillets",
+      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
       "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "snapper",
+      "cuisine": "chinese",
+      "protein": "fish",
       "tags": [
         "book",
         "new",
         "paleo",
+        "needs-scan",
         "weeknight"
       ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 40,
+      "activeTimeMin": null,
+      "totalTimeMin": null,
       "servings": 4,
-      "ingredients": [
-        {
-          "item": "whole red snapper (1 1/2–2 lb each), scaled + gutted",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": "ask the fish counter to scale, gut and snip the fins; sea bass works too"
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "2 tsp zest + 2 tbsp juice"
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "2 tsp zest + 2 tbsp juice"
-        },
-        {
-          "item": "shallot (small)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 0.125,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Paleo as written. Citrus-salt rub, slash the skin, 500°F about 15–20 min to 140°F; whisk the citrus vinaigrette while it roasts.",
+      "ingredients": [],
       "depaleo": [
-        "Crusty bread for the juices",
-        "A little feta at the table"
-      ]
+        "Steamed jasmine rice",
+        "Regular soy sauce at the table"
+      ],
+      "notes": "Mild Cantonese-style white fish. NEEDS SCAN of p.156 (Let's Go!) before shopping."
     },
     {
       "id": "for-her-crusty-bread-feta-a3cc62be",
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "For her: crusty bread + feta",
+      "title": "For her: jasmine rice (Mon)",
       "source": "",
       "sourceUrl": "",
-      "cuisine": "mediterranean",
+      "cuisine": "chinese",
       "protein": "vegetable",
       "tags": [
         "depaleo"
@@ -91,21 +49,14 @@
       "servings": 2,
       "ingredients": [
         {
-          "item": "crusty bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "for her (Mon); leftovers for Thu"
-        },
-        {
           "item": "feta",
           "qty": 4,
           "unit": "oz",
           "category": "dairy",
-          "note": "for her, at the table (Mon, Tue)"
+          "note": "for her + Jody (Tue veg)"
         }
       ],
-      "notes": "Non-paleo add-ons for his wife."
+      "notes": "Steamed jasmine rice for her on Monday (from Wednesday's bag); feta is for Tuesday."
     },
     {
       "id": "roasted-root-vegetables-with-lemon-caper-sauce-f378fbab",
@@ -197,7 +148,7 @@
           "note": ""
         }
       ],
-      "notes": "Roast at 450°F first, then crank the oven to 500°F for the fish. The potatoes are his carb."
+      "notes": "Roast at 450°F. The potatoes are his carb. Neutral enough to sit next to the ginger-scallion fish."
     },
     {
       "id": "pressure-cooker-carne-mechada-f910efc3",
@@ -622,10 +573,10 @@
       "ingredients": [
         {
           "item": "jasmine rice",
-          "qty": 1,
+          "qty": 1.5,
           "unit": "cup",
           "category": "pantry",
-          "note": "for her (Wed, Sat)"
+          "note": "for her (Mon, Wed, Sat)"
         }
       ],
       "notes": "Non-paleo add-on for his wife."
@@ -1020,105 +971,6 @@
       "notes": "Non-paleo add-on for his wife."
     },
     {
-      "id": "roasted-radicchio-fennel-and-parsnips-with-lemon-basil-sauce-f0186dc4",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 45,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "fennel bulbs",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "parsnips",
-          "qty": 8,
-          "unit": "oz",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "radicchio",
-          "qty": 1,
-          "unit": "head",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red potatoes",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallots",
-          "qty": 8,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh basil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh chives",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "Same page as Monday's roots, different vegetables. The potatoes are his carb; 450°F alongside the chicken."
-    },
-    {
       "id": "pressure-cooker-bo-ss-m-199345dc",
       "day": "Sat",
       "slot": "dinner",
@@ -1442,6 +1294,34 @@
           "note": "Korean dipping paste, Asian aisle; milder than gochujang"
         }
       ]
+    },
+    {
+      "id": "baked-sweet-potatoes-fri",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Baked sweet potatoes",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "paleo",
+        "carb"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 60,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "sweet potatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "Fri, his carb"
+        }
+      ],
+      "notes": "His carb: prick and bake at 400°F about 45–60 min until soft (the oven's already on for the chicken). Plain sweet potato as the carb, per the user."
     }
   ],
   "setAt": "2026-11-01T14:48:34.838Z"
