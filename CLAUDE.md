@@ -384,6 +384,14 @@ make it into the recipe card. `cliffNotes` is just a nice-to-have summary.
   smittenkitchen — block the fetcher** — for those, fall back to
   card-inference or ask the user to paste the article text. (~40% of the Paprika
   set is fetchable, ~60% blocked.)
+- **Cloud-session fetching (tested 2026-11-01):** the WebFetch tool may fail with
+  ENOTFOUND even for allowed domains, but `curl` from Bash works. Use curl's
+  **default user agent** (a fake browser UA trips Cloudflare 403s) and pull the
+  recipe card from the page's JSON-LD (`application/ld+json`, `@type: Recipe`).
+  Working: nomnompaleo, iheartumami, paleorunningmomma, thedefineddish,
+  downshiftology, wholesomelicious, isabeleats, themediterraneandish,
+  thewoksoflife, smittenkitchen, heygrillhey, the-pasta-project, pardonyourfrench.
+  Still 403: justonecookbook, maangchi, thekitchn.
 - **Cookbook scans** have no web page — the book's equivalent is its **headnote /
   "why this works"** (ATK books are full of these). Capture that text when
   scanning and mine *it*; otherwise tips are only inferred from the method.
