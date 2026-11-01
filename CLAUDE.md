@@ -37,6 +37,59 @@ generate a shopping list.
 9. **Later, capture ratings.** When the user reports back, log with
    `cookwhat rate ...` so future weeks get smarter.
 
+## Paleo for the user, de-paleo options for his wife (as of 2026-11)
+
+The user went back on **paleo for his blood pressure** (2026-11-01). His wife is
+**not** paleo. This supersedes older guidance below wherever they conflict (the
+grain/rice-heavy sides, "oats and whole grains for fiber", the ATK-first blend).
+
+- **Paleo baseline (for him):** no grains (wheat, rice, corn, oats, quinoa), no
+  legumes (beans, peanuts, soy: use coconut aminos for soy sauce), no dairy (a
+  little ghee is fine), no refined sugar, no seed or vegetable oils, no processed
+  foods (deli meat, packaged sauces). Allowed: meat, fish, eggs, all vegetables and
+  fruit, **potatoes, sweet potatoes, winter squash and plantains** (his carb), nuts
+  and seeds, olive and avocado oil, and honey or maple syrup sparingly.
+- **Keep it heart-healthy and blood-pressure-friendly.** Paleo blogs often lean
+  on bacon, ghee, coconut and red meat. Don't follow them there: the cholesterol
+  rules below still stand (red meat 0–1/week, fish ~2×/week, olive/avocado oil
+  as the default). **Watch sodium.** Coconut aminos, fish sauce, salt, broth and
+  cured meats add up. Use low-sodium broth, measure the salty seasonings, and get
+  flavor from acid, herbs, garlic and spice. Lean on potassium-rich foods: leafy
+  greens, sweet potatoes, squash, avocado, tomatoes, bananas.
+- **Full meals for him:** the protein + vegetable + carb rule still holds, but his
+  carb is a **starchy vegetable** (sweet potato, potato, squash, plantain).
+  Cauliflower rice is a vegetable, not a carb.
+- **De-paleo options for his wife — every paleo dinner gets 1–3.** These are
+  quick add-ons, not a separate meal: a side of rice, pasta, couscous, crusty
+  bread or tortillas; a little cheese or feta at the table (she's low-cheese);
+  regular soy sauce, miso or a sweeter glaze in place of coconut aminos; a spoon
+  of yogurt, sour cream or tzatziki; beans sparingly. Store them on the main dish
+  as `"depaleo": ["...", "..."]` and show them on the menu page under "For her".
+  If an option needs shopping (rice, tortillas, feta), also add it as a `side`
+  dish tagged `"depaleo"` with its ingredients so it lands on the list. Rice
+  sides still count toward `carbRules`.
+- **Sources.** **Nom Nom Paleo** (Michelle Tam + Henry Fong) is the user's
+  favorite, and he owns all three books: *Food for Humans* (2013), *Ready or
+  Not!* (2017) and *Let's Go!* (2022). Stub catalogs live in
+  `data/cookbooks/nomnompaleo-*.json`. Fill each one from a scan of the book's
+  table of contents (titles + pages, never from memory), then plan by title and
+  scan on demand, exactly like the ATK book. Paleo-friendly sites now lead
+  `preferredSites`:
+  - nomnompaleo.com: Michelle Tam's site, 300+ free recipes.
+  - iheartumami.com: Asian paleo (Taiwanese/Chinese), which fits his love of Asian food.
+  - paleorunningmomma.com: 30-minute paleo/Whole30 dinners.
+  - thedefineddish.com: Whole30, with paleo recipes clearly marked.
+  - downshiftology.com: paleo plus Mediterranean.
+  - wholesomelicious.com: a paleo category.
+
+  The ATK Mediterranean book is still useful: most of its fish, chicken and
+  vegetable dishes are paleo or close to it (skip the feta, yogurt, pita and
+  grain sides, or turn those into the wife's add-ons). The Asian sites adapt
+  easily with coconut aminos.
+- Not medical advice. The user follows his doctor's guidance; DASH has the
+  strongest evidence for blood pressure, and a veg-heavy, low-sodium paleo
+  overlaps with it a lot.
+
 ## Saving a plan (preferred format)
 
 Write a file like `/tmp/plan.json` then run
@@ -350,7 +403,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   seeds. Zero trans fats (partially hydrogenated anything).
 - **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
   `seafoodMin` and the "more Asian/Mediterranean" leanings.
-- **Fiber from oats / whole grains / veg / fruit — NOT beans.** Normally you'd
+- **Fiber from oats / whole grains / veg / fruit — NOT beans.** *(Paleo since 2026-11: for him, fiber comes from veg, fruit, nuts, seeds and starchy veg only; grains become the wife's add-ons.)* Normally you'd
   push legumes for LDL, but this user keeps bean use low, so get soluble fiber
   from oats, barley, farro, brown rice, quinoa, and lots of vegetables/fruit
   instead. (Whole grains over refined.)

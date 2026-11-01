@@ -1,0 +1,13 @@
+{
+  "id": "nomnompaleo-lets-go",
+  "title": "Nom Nom Paleo: Let's Go!",
+  "author": "Michelle Tam & Henry Fong (Nom Nom Paleo)",
+  "year": 2022,
+  "owned": true,
+  "addedOn": "2026-11-01",
+  "cuisine": "paleo (Whole30-friendly), lots of Asian-inspired umami — the user's favorite paleo creator",
+  "note": "STUB — recipes[] is empty until the user scans the table of contents / recipe index. Transcribe titles + page numbers only from that scan; capture ingredients/steps only from scans of the recipe pages.",
+  "source_format": "Source for any meal cataloged from this book: \"Nom Nom Paleo: Let's Go! (Nom Nom Paleo) - p.NNN\" (no URL).",
+  "needsToc": true,
+  "recipes": []
+}
