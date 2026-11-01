@@ -23,27 +23,55 @@
       "activeTimeMin": 5,
       "totalTimeMin": 15,
       "servings": 6,
+      "ingredients": [],
+      "depaleo": [
+        "Steamed jasmine rice",
+        "Regular soy sauce at the table"
+      ],
+      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33, its own side dish). Recipe calls for 2 lb barramundi or other 1-inch white fish; fish not on the list because the user said he only needs scallions + ginger."
+    },
+    {
+      "id": "ginger-scallion-sauce-lg33",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Ginger Scallion Sauce",
+      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.33",
+      "sourceUrl": "",
+      "cuisine": "chinese",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 16,
       "ingredients": [
         {
           "item": "scallions",
           "qty": 1,
           "unit": "bunch",
           "category": "produce",
-          "note": "Mon fish"
+          "note": "1 cup finely minced"
         },
         {
           "item": "fresh ginger",
           "qty": 1,
-          "unit": "2-inch piece",
+          "unit": "3-inch piece",
           "category": "produce",
-          "note": "Mon fish"
+          "note": "3 tbsp finely minced"
+        },
+        {
+          "item": "ground white pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
         }
       ],
-      "depaleo": [
-        "Steamed jasmine rice",
-        "Regular soy sauce at the table"
-      ],
-      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33; the user makes it from memory). Recipe calls for 2 lb barramundi or other 1-inch white fish; fish not on the list because the user said he only needs scallions + ginger."
+      "notes": "Makes 1 cup; the fish uses 1/4 cup. Keeps 2 weeks, so it's great on Wednesday's chicken or Saturday's bo ssäm too."
     },
     {
       "id": "for-her-crusty-bread-feta-a3cc62be",

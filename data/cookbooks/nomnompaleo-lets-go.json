@@ -32,7 +32,40 @@
     {
       "title": "Ginger Scallion Sauce",
       "page": 33,
-      "chapter": "Sauces & Basics"
+      "chapter": "Sauces & Basics",
+      "scanned": true,
+      "captured": {
+        "makes": "1 cup · 45 minutes (15 minutes hands-on) · Whole30, keto-friendly, nut-free, egg-free, nightshade-free, vegan",
+        "ingredients": [
+          "1 cup finely minced scallions",
+          "3 tablespoons finely minced fresh ginger",
+          "2 teaspoons Diamond Crystal kosher salt",
+          "1/4 teaspoon ground white pepper",
+          "1/2 cup avocado oil"
+        ],
+        "steps": [
+          "Toss the scallions, ginger, salt and white pepper in a large heat-proof bowl or 2-cup measuring cup and stir it all together.",
+          "In a small saucepan over high heat, warm the oil until it's shimmering but not quite smoking.",
+          "Test with a tiny piece of scallion: lots of little bubbles means it's ready (or check for 375°F on an instant-read thermometer).",
+          "Pour the hot oil into the scallion-ginger mixture a little at a time; it'll sizzle and boil, so be careful.",
+          "Stir well and let the sauce cool to room temperature."
+        ],
+        "tips": [
+          "A salty, herbaceous condiment, traditionally served with whole poached chicken, but Michelle puts it on everything.",
+          "Keeps 2 weeks refrigerated in a sealed jar, or 3 months frozen in an ice cube tray.",
+          "Use it for: Scallion Pancake Tacos (p.84), Asparagus and Ham Frittata (p.92), Ginger Scallion Fish Fillets (p.156), Poached Chicken with Ginger Scallion Sauce (p.210).",
+          "Per tablespoon: 63 calories, 7 g fat."
+        ],
+        "ai": {
+          "cliffNotes": "Minced scallions and ginger with salt and white pepper, bloomed with sizzling 375°F avocado oil: the Cantonese condiment that goes on everything.",
+          "keyTips": [
+            "Use a heat-proof vessel with room to spare; the oil boils up when it hits the aromatics.",
+            "It's salty (2 tsp kosher salt per cup), so spoon it on rather than pouring it over everything.",
+            "Freeze leftovers in an ice cube tray for instant flavor later."
+          ]
+        }
+      },
+      "makes": "1 cup · 45 minutes (15 minutes hands-on) · Whole30, keto-friendly, nut-free, egg-free, nightshade-free, vegan"
     },
     {
       "title": "Cashew Cheese Sauce",

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:10:24.870Z",
+  "generatedAt": "2026-11-01T15:12:17.048Z",
   "targetServings": null,
   "sections": [
     {
@@ -138,14 +138,14 @@
         {
           "item": "fresh ginger",
           "qty": 1,
-          "dim": "2-inch piece",
-          "unitLabel": "2-inch piece",
+          "dim": "3-inch piece",
+          "unitLabel": "3-inch piece",
           "category": "produce",
           "fromMeals": [
-            "Ginger Scallion Fish Fillets"
+            "Ginger Scallion Sauce"
           ],
           "hasUnquantified": false,
-          "unit": "2-inch piece"
+          "unit": "3-inch piece"
         },
         {
           "item": "fresh ginger",
@@ -398,7 +398,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Ginger Scallion Fish Fillets"
+            "Ginger Scallion Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -1027,6 +1027,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
+        },
+        {
+          "item": "ground white pepper",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Ginger Scallion Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         }
       ]
     },
@@ -1069,6 +1081,13 @@
   "excludedStaples": [
     "coconut sugar"
   ],
-  "pendingScans": [],
-  "totalItems": 81
+  "pendingScans": [
+    {
+      "title": "Ginger Scallion Fish Fillets",
+      "day": "Mon",
+      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 82
 }
