@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:19:31.734Z",
+  "generatedAt": "2026-11-01T21:07:02.933Z",
   "targetServings": null,
   "sections": [
     {
@@ -558,7 +558,7 @@
           "unit": ""
         },
         {
-          "item": "boneless pork shoulder roast (3 1/2 lb), tied",
+          "item": "boneless pork shoulder roast (about 2 1/2 lb), tied",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
@@ -571,7 +571,7 @@
         },
         {
           "item": "chicken drumsticks or thighs",
-          "qty": 3,
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
@@ -583,7 +583,7 @@
         },
         {
           "item": "flank steak",
-          "qty": 3,
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
@@ -595,7 +595,7 @@
         },
         {
           "item": "salmon fillets (6 oz, 1 1/2 in thick)",
-          "qty": 4,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
