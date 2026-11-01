@@ -6,8 +6,724 @@
   "owned": true,
   "addedOn": "2026-11-01",
   "cuisine": "paleo (Whole30-friendly), lots of Asian-inspired umami — the user's favorite paleo creator",
-  "note": "STUB — recipes[] is empty until the user scans the table of contents / recipe index. Transcribe titles + page numbers only from that scan; capture ingredients/steps only from scans of the recipe pages.",
+  "note": "Catalog built 2026-11-01 from the seven chapter recipe-list pages (photos), p.28-337. Chapter names are best-guess labels from the lists (sauces, veggies & eggs, noodles & rice, seafood, poultry, meat, sweets & drinks). Titles + page numbers only — capture ingredients/steps only from scans of the recipe pages.",
   "source_format": "Source for any meal cataloged from this book: \"Nom Nom Paleo: Let's Go! (Nom Nom Paleo) - p.NNN\" (no URL).",
-  "needsToc": true,
-  "recipes": []
+  "recipes": [
+    {
+      "title": "No-Fish Sauce",
+      "page": 28,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "All-Purpose Stir-Fry Sauce",
+      "page": 29,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Dumpling Dipping Sauce",
+      "page": 30,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Sunbutter Hoisin Sauce",
+      "page": 32,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Ginger Scallion Sauce",
+      "page": 33,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Cashew Cheese Sauce",
+      "page": 34,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Pipián Verde (Green Mole Sauce)",
+      "page": 36,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Nom Nom Chili Crisp",
+      "page": 38,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Nom Nom Chili Oil",
+      "page": 41,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Basil Pesto",
+      "page": 42,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Umami Stir-Fry Powder",
+      "page": 43,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Nomtastic Grilling Powder",
+      "page": 44,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Magic Mushroom Powder",
+      "page": 45,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Paleo Sandwich Bread",
+      "page": 46,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Grain-Free Tortillas",
+      "page": 48,
+      "chapter": "Sauces & Basics"
+    },
+    {
+      "title": "Instant Pot Green Soup with Tangy Cashew Cream",
+      "page": 54,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Stovetop Green Soup",
+      "page": 56,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Zucchini Carpaccio Salad",
+      "page": 58,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Japanese Potato Salad",
+      "page": 60,
+      "chapter": "Veggies & Eggs",
+      "note": "web version saved in Paprika: https://nomnompaleo.com/japanese-potato-salad"
+    },
+    {
+      "title": "Insalata Tricolore with Persimmons",
+      "page": 62,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Warm Autumn Slaw",
+      "page": 64,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Smashed Cucumber and Carrot Salad",
+      "page": 66,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "A Nice Green Salad",
+      "page": 68,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Avocado Sashimi",
+      "page": 70,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Holy Shiitake Mushrooms",
+      "page": 72,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Broccolini with Tahini Sauce",
+      "page": 74,
+      "chapter": "Veggies & Eggs",
+      "flag": "broccolini (dislike-adjacent)"
+    },
+    {
+      "title": "Garlicky Collards and Bacon",
+      "page": 76,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Roasted Winter Vegetables",
+      "page": 78,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Scallion Pancakes",
+      "page": 80,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Scallion Pancake Tacos",
+      "page": 84,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Crispy Smashed Potatoes",
+      "page": 86,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Ramen Eggs",
+      "page": 88,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Jammy Eggs",
+      "page": 88,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Michelle's Breakfast Toast",
+      "page": 90,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Asparagus and Ham Frittata",
+      "page": 92,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Shiraaz's Egg Masala",
+      "page": 94,
+      "chapter": "Veggies & Eggs",
+      "flag": "curry-style (dislike-adjacent)"
+    },
+    {
+      "title": "Pesto Garden Scramble",
+      "page": 98,
+      "chapter": "Veggies & Eggs"
+    },
+    {
+      "title": "Instant Pot Spaghetti Squash",
+      "page": 104,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Oven-Baked Spaghetti Squash",
+      "page": 106,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Cauliflower Rice / Riced Cauliflower",
+      "page": 107,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Broccoli Rice / Riced Broccoli",
+      "page": 107,
+      "chapter": "Noodles & Rice",
+      "flag": "broccoli (dislike)"
+    },
+    {
+      "title": "Hot Dog Fried \"Rice\"",
+      "page": 108,
+      "chapter": "Noodles & Rice",
+      "flag": "processed meat (sodium)"
+    },
+    {
+      "title": "Kimchi Fried \"Rice\"",
+      "page": 110,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Sunday Night Lasagna",
+      "page": 114,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Instant Pot Zucchini Bolognese",
+      "page": 118,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Slow Cooker Zucchini Bolognese",
+      "page": 118,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Instant Pot Meat Sauce",
+      "page": 120,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Stovetop Meat Sauce",
+      "page": 120,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Slow Cooker Meat Sauce",
+      "page": 120,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Garlic Mushroom Noodles",
+      "page": 122,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Chicken Chow Mein",
+      "page": 126,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Singapore Noodles",
+      "page": 128,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Crispy Swoodles with Bacon",
+      "page": 132,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Shoyu Ramen",
+      "page": 134,
+      "chapter": "Noodles & Rice"
+    },
+    {
+      "title": "Ahi Avocado Poke",
+      "page": 142,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Salmon Niçoise Salad",
+      "page": 144,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Tuna Niçoise Salad",
+      "page": 146,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Sheet Pan Teriyaki Salmon",
+      "page": 148,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Hash Brown Fish",
+      "page": 150,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Patra Ni Machhi (Spicy Fish in Banana Leaves)",
+      "page": 152,
+      "chapter": "Seafood",
+      "flag": "spicy (wife low-heat)"
+    },
+    {
+      "title": "Ginger Scallion Fish Fillets",
+      "page": 156,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Seared Scallops with Chili Crisp",
+      "page": 158,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Broiled Fish with Chili Crisp",
+      "page": 158,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Shrimp Simmered in Green Mole",
+      "page": 160,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Shrimp and Sugar Snap Peas",
+      "page": 162,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Umami Fried Shrimp",
+      "page": 164,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Baby Bok Choy with Crab Meat Sauce",
+      "page": 166,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Lobster Tails with Thai Red Curry",
+      "page": 170,
+      "chapter": "Seafood",
+      "flag": "curry (dislike)"
+    },
+    {
+      "title": "Seared Scallops with Thai Red Curry",
+      "page": 170,
+      "chapter": "Seafood",
+      "flag": "curry (dislike)"
+    },
+    {
+      "title": "Air Fryer Lobster Tails",
+      "page": 172,
+      "chapter": "Seafood"
+    },
+    {
+      "title": "Chicken Velvet and Spinach Soup",
+      "page": 178,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Tom Kha Gai (Thai Chicken and Galangal Soup)",
+      "page": 180,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Tsukune (Japanese Chicken Meatballs)",
+      "page": 184,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Air Fryer Tsukune",
+      "page": 187,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "2-Ingredient Crispy Chicken",
+      "page": 188,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Air Fryer 2-Ingredient Crispy Chicken",
+      "page": 188,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Chicken Karaage (Japanese Fried Chicken)",
+      "page": 190,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Chicken Tikka Masala",
+      "page": 194,
+      "chapter": "Poultry",
+      "flag": "curry-style (dislike-adjacent)"
+    },
+    {
+      "title": "Hot and Sticky Chicken",
+      "page": 196,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Greek Chicken and Potatoes",
+      "page": 198,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Sheet Pan Italian Chicken",
+      "page": 202,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Sheet Pan \"Peanut\" Sauce Chicken and Broccolini",
+      "page": 204,
+      "chapter": "Poultry",
+      "flag": "broccolini (dislike-adjacent)"
+    },
+    {
+      "title": "Sheet Pan Pineapple Chicken",
+      "page": 206,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Poached Chicken with Ginger Scallion Sauce",
+      "page": 210,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Cheesy Chicken and Kale Casserole",
+      "page": 212,
+      "chapter": "Poultry",
+      "flag": "kale (dislike)"
+    },
+    {
+      "title": "Chicken and Broccoli Hand Pies",
+      "page": 216,
+      "chapter": "Poultry",
+      "flag": "broccoli (dislike)"
+    },
+    {
+      "title": "Instant Pot Duck Carnitas",
+      "page": 220,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Slow Cooker Duck Carnitas",
+      "page": 223,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Cantonese Pipa Duck",
+      "page": 224,
+      "chapter": "Poultry"
+    },
+    {
+      "title": "Albóndigas Soup",
+      "page": 232,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Instant Pot Albóndigas Soup",
+      "page": 235,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Sonoran Hot Dogs",
+      "page": 236,
+      "chapter": "Meat",
+      "flag": "processed meat (sodium)"
+    },
+    {
+      "title": "Cuban Beef Picadillo",
+      "page": 238,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Indian-Spiced Shepherd's Pie",
+      "page": 240,
+      "chapter": "Meat",
+      "flag": "curry-spiced (dislike-adjacent)"
+    },
+    {
+      "title": "Old-School Tacos",
+      "page": 244,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Instant Pot Ground Beef Chili",
+      "page": 246,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Ground Beef Chili",
+      "page": 249,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Stovetop Ground Beef Chili",
+      "page": 249,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Paleo Patty Melts",
+      "page": 250,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Bacon Cheeseburger Casserole",
+      "page": 252,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Kalbi (Korean Barbecue Short Ribs)",
+      "page": 256,
+      "chapter": "Meat",
+      "note": "web version saved in Paprika: https://nomnompaleo.com/kalbi-korean-bbq-short-ribs"
+    },
+    {
+      "title": "Instant Pot Balsamic Beef Stew",
+      "page": 258,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Balsamic Beef Stew",
+      "page": 261,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Shaking Beef",
+      "page": 262,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Instant Pot Pipián Pork",
+      "page": 266,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Pipián Pork",
+      "page": 267,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Stovetop Pipián Pork",
+      "page": 267,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Pesto Potato Meatza",
+      "page": 268,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Pot Stickers",
+      "page": 272,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Wonton Meatballs",
+      "page": 278,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Air Fryer Wonton Meatballs",
+      "page": 278,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Moo Shu Pork",
+      "page": 280,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Instant Pot Buta No Kakuni (Braised Pork Belly)",
+      "page": 284,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Slow Cooker Buta No Kakuni",
+      "page": 284,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Lemongrass Pork Chops",
+      "page": 286,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Char Siu (Chinese Barbecue Pork)",
+      "page": 290,
+      "chapter": "Meat"
+    },
+    {
+      "title": "Chocolate Ganache",
+      "page": 298,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Whipped Coconut Cream",
+      "page": 299,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Chocolate Cherry Granola",
+      "page": 300,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Coconut Almond Jelly",
+      "page": 302,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Blueberry Galette",
+      "page": 304,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Fruit Galette",
+      "page": 307,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Rustic Apple Pie",
+      "page": 309,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Cherry Clafoutis",
+      "page": 310,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Raspberry Financiers",
+      "page": 312,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Pistachio Cardamom Cookies",
+      "page": 314,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Chocolate Mug Cake",
+      "page": 318,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Vanilla Mug Cake",
+      "page": 319,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Matcha Mug Cake",
+      "page": 319,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Pumpkin Mug Cake",
+      "page": 321,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Dan Tat (Hong Kong Egg Tarts)",
+      "page": 322,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Cream Puffs",
+      "page": 326,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Profiteroles",
+      "page": 329,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Vanilla Pudding",
+      "page": 330,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Chocolate Pudding",
+      "page": 331,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Coffee Ice Cream",
+      "page": 332,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Coconut Vanilla Ice Cream",
+      "page": 334,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Eye-Opener Smoothie",
+      "page": 336,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Hot Matcha Latte",
+      "page": 337,
+      "chapter": "Sweets & Drinks"
+    },
+    {
+      "title": "Cold Matcha Latte",
+      "page": 337,
+      "chapter": "Sweets & Drinks"
+    }
+  ],
+  "dislikeFlags": "Broccoli/broccolini (p.74, 107, 204, 216), kale (p.212), curry-style (p.94, 170, 194, 240), spicy fish (p.152), hot dogs (p.108, 236) flagged."
 }
