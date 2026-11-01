@@ -6,8 +6,783 @@
   "owned": true,
   "addedOn": "2026-11-01",
   "cuisine": "paleo (Whole30-friendly), lots of Asian-inspired umami — the user's favorite paleo creator",
-  "note": "STUB — recipes[] is empty until the user scans the table of contents / recipe index. Transcribe titles + page numbers only from that scan; capture ingredients/steps only from scans of the recipe pages.",
+  "note": "Catalog built 2026-11-01 from the four section recipe-list pages (photos): p.46-84, 92-170, 178-234, 240-314. Section names follow the book's Make-Ahead / Make-Over / Make-Now structure; the first (pantry) section name is best-guess. Titles + page numbers only — capture ingredients/steps only from scans of the recipe pages. Everything is paleo by design; for the wife, add de-paleo options.",
   "source_format": "Source for any meal cataloged from this book: \"Ready or Not! (Nom Nom Paleo) - p.NNN\" (no URL).",
-  "needsToc": true,
-  "recipes": []
+  "recipes": [
+    {
+      "title": "Smoky Lime Pepitas",
+      "page": 46,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Thai Citrus Dressing",
+      "page": 47,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Green Beast Dressing",
+      "page": 48,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Creamy Onion Dressing",
+      "page": 49,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Paleo Mayo",
+      "page": 50,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Tonnato Sauce",
+      "page": 51,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Roasted Garlic Mayonnaise",
+      "page": 52,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Garlicky Devils",
+      "page": 52,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Nutty Dijon Vinaigrette",
+      "page": 53,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "XO Sauce",
+      "page": 54,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Nom Nom Sriracha",
+      "page": 56,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Sriracha Ranch Dressing",
+      "page": 57,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Spicy Thai No-Nut Sauce",
+      "page": 58,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Chicken Satay Skewers",
+      "page": 58,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Sunbutter Hoisin Sauce",
+      "page": 59,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Fauxchujang",
+      "page": 61,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Spicy Kimchi",
+      "page": 62,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Wimpchi",
+      "page": 62,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Kimchi Applesauce",
+      "page": 64,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Romesco Sauce",
+      "page": 65,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Ginger Sesame Sauce",
+      "page": 66,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Roasted Ginger Sesame Broccoli",
+      "page": 66,
+      "chapter": "Get Ready (pantry, sauces & basics)",
+      "flag": "broccoli (dislike)"
+    },
+    {
+      "title": "All-Purpose Stir-Fry Sauce",
+      "page": 67,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Cran-Cherry Sauce",
+      "page": 68,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Umami Gravy",
+      "page": 69,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Fruit + Avocado Salsa",
+      "page": 70,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Fried Green Plantains with Nectarine Salsa",
+      "page": 71,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Salsa Ahumada",
+      "page": 72,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Pesto Pomodori Secchi (Sun-Dried Tomato Pesto)",
+      "page": 73,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Fridge-Pickled Cucumbers",
+      "page": 74,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Duxelles",
+      "page": 75,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Bone Broth",
+      "page": 76,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Grain-Free Tortillas",
+      "page": 78,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Nature's Tortillas",
+      "page": 79,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Cauli Rice",
+      "page": 80,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Cumin Cilantro Lime Rice",
+      "page": 81,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Pressure Cooker Hard \"Boiled\" Eggs",
+      "page": 83,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Roast-Ahead Chicken Breasts",
+      "page": 84,
+      "chapter": "Get Ready (pantry, sauces & basics)"
+    },
+    {
+      "title": "Smoky Chestnut Apple Soup",
+      "page": 92,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Honeydew Lime Gazpacho",
+      "page": 94,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Roasted Onion Soup",
+      "page": 96,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Fried Green Plantains",
+      "page": 98,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Buffalo Cauliflower Things",
+      "page": 100,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Buffalo Wings",
+      "page": 102,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Mok Mok Wings",
+      "page": 104,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Roasted Dijon Tarragon Chicken",
+      "page": 106,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Orange Dijon Chicken",
+      "page": 106,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Chicken Breasts with Ginger Scallion Pesto",
+      "page": 108,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Bacon-Wrapped Chicken + Lemon-Date Sauce",
+      "page": 110,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Chinese Chicken in a Pot",
+      "page": 112,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Chinese Chicken in a Slow Cooker",
+      "page": 113,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Chinese Chicken in a Pressure Cooker",
+      "page": 114,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Easy Chicken Tinga",
+      "page": 116,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Duck Confaux",
+      "page": 118,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Slow Cooker / Pressure Cooker Kabocha + Ginger Pork",
+      "page": 120,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Bacon Apple Smothered Pork Chops",
+      "page": 122,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Salt + Pepper Fried Pork Chops",
+      "page": 124,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Braised Pork in Coconut Water",
+      "page": 126,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Slow Cooker / Pressure Cooker Pork in Coconut Water",
+      "page": 126,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Pressure Cooker / Slow Cooker Kalua Pig",
+      "page": 128,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Pressure Cooker Bo Ssäm",
+      "page": 132,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Slow Cooker Bo Ssäm",
+      "page": 134,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Souvlaki",
+      "page": 136,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Bangin' Baby Back Ribs",
+      "page": 138,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Pressure Cooker Pork Ribs",
+      "page": 142,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Pressure Cooker / Slow Cooker Carne Mechada",
+      "page": 144,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Tex-Mex Beef and Rice Casserole",
+      "page": 146,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Primetime Rib Roast",
+      "page": 148,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Sunday Gravy",
+      "page": 152,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Pressure Cooker / Slow Cooker Sunday Gravy",
+      "page": 153,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Sunday Zoodles",
+      "page": 155,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Vanilla Almond Milk",
+      "page": 160,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Piña Colada Tapioca Pudding",
+      "page": 162,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Tangerine Dream Tart",
+      "page": 164,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Orange Cream Tart",
+      "page": 164,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Rustic Chocolate Cake",
+      "page": 166,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Cherry Chocolate Chip Ice Cream",
+      "page": 168,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Strawberry Almond Semifreddo + Berry Balsamic Sauce",
+      "page": 170,
+      "chapter": "Make-Ahead"
+    },
+    {
+      "title": "Hangry Soup",
+      "page": 178,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Roasted Carrots with Ginger Sesame Sauce",
+      "page": 180,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Bacon Brussels Sprouts with Kimchi Applesauce",
+      "page": 181,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Chilled Asian Zoodle Salad with Chicken + Avocado",
+      "page": 183,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Sriracha Sunbutter Zoodles + Chicken",
+      "page": 184,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Red Pesto Coodles",
+      "page": 185,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Grilled Romaine + Broccolini Salad",
+      "page": 186,
+      "chapter": "Make-Over",
+      "flag": "broccolini (dislike-adjacent)"
+    },
+    {
+      "title": "Mexican Watermelon + Cucumber Salad",
+      "page": 189,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Winter Date Night Salad",
+      "page": 190,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Thai Green Apple Slaw",
+      "page": 191,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Flank Steak Super Salad",
+      "page": 192,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Asian Flank Steak Salad",
+      "page": 193,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Whole Roasted Cauliflower with Nutty Dijon Vinaigrette",
+      "page": 194,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Roasted Cauliflower with Whatever You Want",
+      "page": 194,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Roasted Catalan Shrimp",
+      "page": 196,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Macadamia-Crusted Sriracha Ranch Salmon",
+      "page": 198,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Naked Salmon on a Hot Pan",
+      "page": 198,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Choose-Your-Own-Adventure Egg Muffins",
+      "page": 200,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Duxelles Chicken",
+      "page": 201,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Orange Sriracha Chicken",
+      "page": 202,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Paper-Wrapped Chicken",
+      "page": 204,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Thanksgiving Bites",
+      "page": 206,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Jíbaritos (Fried Plantain Sandwiches)",
+      "page": 210,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Leftacos",
+      "page": 212,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Pork Chicharrón Nachos",
+      "page": 214,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Sunday Stuffed Peppers",
+      "page": 217,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Monday Frittata",
+      "page": 218,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "XO Pork with Blistered Green Beans",
+      "page": 220,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Spicy Pork with Green Beans",
+      "page": 221,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Weeknight Meatballs",
+      "page": 222,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Meatball Soup",
+      "page": 223,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Meatballs 'n' Gravy",
+      "page": 223,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Prime Rib Hash",
+      "page": 227,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Hoisin-Glazed Burgers",
+      "page": 229,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Asparagus Beef",
+      "page": 230,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Spicy Bacon Honey Nuts",
+      "page": 232,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Hurricane Pig Nuts",
+      "page": 232,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Chia Muesli Parfait",
+      "page": 234,
+      "chapter": "Make-Over"
+    },
+    {
+      "title": "Garam Masala Vegetable Soup",
+      "page": 240,
+      "chapter": "Make-Now",
+      "flag": "curry-spiced (dislike-adjacent)"
+    },
+    {
+      "title": "Ancho Tomato Chicken Soup",
+      "page": 242,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Simple Egg Drop Soup",
+      "page": 244,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Súp Măng Tây Cua (Crab + Asparagus Soup)",
+      "page": 246,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Hot + Sour Soup",
+      "page": 248,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Hobo Stew",
+      "page": 250,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Haricot Verts + Heirloom Cherry Tomato Salad",
+      "page": 252,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Mango Cabbage Slaw",
+      "page": 253,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Sunnyside Salad",
+      "page": 254,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Thai Mushroom Stir-Fry",
+      "page": 256,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Asian Citrus Brussels Sprouts Slaw",
+      "page": 258,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Grilled Balsamic Bok Choy with Golden Raisins",
+      "page": 260,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Grilled Umami Bok Choy",
+      "page": 261,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Red Hot Onion Rings",
+      "page": 262,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Persian Cauliflower Rice",
+      "page": 264,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Scrambled Eggs with Shrimp + Scallions",
+      "page": 266,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Boreta's Breakfast",
+      "page": 268,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Seared Scallops with Orange-Shallot Sauce",
+      "page": 270,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Honey Harissa Salmon",
+      "page": 272,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Ollie's Cracklin' Chicken",
+      "page": 278,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Cantonese Crispy Chicken Thighs",
+      "page": 280,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Italian Crispy Chicken Thighs",
+      "page": 283,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Chicken Curry in a Hurry",
+      "page": 286,
+      "chapter": "Make-Now",
+      "flag": "curry (dislike)"
+    },
+    {
+      "title": "Thai Roast Chicken",
+      "page": 288,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Oven-Roasted Paprika Chicken",
+      "page": 288,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Pressure Cooker Salsa Chicken",
+      "page": 290,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Slow Cooker Salsa Chicken",
+      "page": 290,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Bò Lá Lốt (Betel Leaf Beef Rolls)",
+      "page": 292,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "No Lá Lốt Meatballs",
+      "page": 296,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Sheet Pan Sausage Supper",
+      "page": 298,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Nomster Burgers",
+      "page": 300,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Chicken + Shrimp Laap",
+      "page": 302,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Pot Sticker Stir-Fry",
+      "page": 304,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Golden Milk",
+      "page": 306,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Mango Turmeric Tonic",
+      "page": 308,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Watermelon Coconut Cooler",
+      "page": 309,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "Berry Macaroon Trail Mix",
+      "page": 310,
+      "chapter": "Make-Now"
+    },
+    {
+      "title": "\"PB&J\" Energy Balls",
+      "page": 314,
+      "chapter": "Make-Now"
+    }
+  ],
+  "dislikeFlags": "Broccoli (p.66), broccolini salad (p.186), curry (p.286) and garam masala soup (p.240) flagged."
 }
