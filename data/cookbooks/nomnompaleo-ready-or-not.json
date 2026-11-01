@@ -87,7 +87,41 @@
     {
       "title": "Fauxchujang",
       "page": 61,
-      "chapter": "Get Ready (pantry, sauces & basics)"
+      "chapter": "Get Ready (pantry, sauces & basics)",
+      "scanned": true,
+      "captured": {
+        "makes": "2 cups · 15 minutes",
+        "ingredients": [
+          "1/2 cup applesauce",
+          "1/4 cup gochugaru (Korean chili flakes)",
+          "2 tablespoons coconut aminos",
+          "1 tablespoon honey",
+          "2 teaspoons fish sauce",
+          "1 teaspoon kosher salt",
+          "1/2 teaspoon rice vinegar"
+        ],
+        "steps": [
+          "Combine the applesauce, gochugaru, coconut aminos, honey, fish sauce and salt in a small saucepan.",
+          "Cook, stirring, over medium heat 3 to 4 minutes until hot and bubbling.",
+          "Off the heat, add the rice vinegar and 2 tablespoons water; stir well, taste, and adjust the salt.",
+          "Blitz with an immersion blender for a smoother texture, adding a bit more water if needed.",
+          "Cool completely."
+        ],
+        "tips": [
+          "A paleo approximation of gochujang (usually fermented soybeans, sticky rice, salt and gochugaru) with no gluten, soy or refined sugar.",
+          "Mix with honey for a barbecue sauce, marinate steaks with it, or use it on tacos and burgers.",
+          "Keeps 2 weeks refrigerated or 6 months frozen."
+        ],
+        "ai": {
+          "cliffNotes": "Applesauce, gochugaru, coconut aminos, honey and fish sauce simmered a few minutes and blended: a soy-free, grain-free stand-in for gochujang.",
+          "keyTips": [
+            "It's genuinely spicy (1/4 cup gochugaru): serve it on the side.",
+            "Bo ssäm needs only 1/2 cup of the 2-cup batch; the rest keeps 2 weeks, so there's no need to scale down.",
+            "Buy unsweetened applesauce."
+          ]
+        }
+      },
+      "makes": "2 cups · 15 minutes"
     },
     {
       "title": "Spicy Kimchi",
@@ -158,7 +192,37 @@
     {
       "title": "Fridge-Pickled Cucumbers",
       "page": 74,
-      "chapter": "Get Ready (pantry, sauces & basics)"
+      "chapter": "Get Ready (pantry, sauces & basics)",
+      "scanned": true,
+      "captured": {
+        "makes": "1 cup · 35 minutes (5 minutes hands-on)",
+        "ingredients": [
+          "1/2 large English or 1 Persian cucumber, thinly sliced",
+          "1/2 cup apple juice",
+          "1/2 cup rice vinegar",
+          "1/2 teaspoon fish sauce",
+          "1/2 teaspoon kosher salt",
+          "1/2 teaspoon red pepper flakes (optional)"
+        ],
+        "steps": [
+          "Put the cucumber slices in a pint-size jar.",
+          "In a cup, combine the apple juice, rice vinegar, fish sauce, salt and pepper flakes (if you like them spicy); stir until the salt dissolves.",
+          "Pour the brine into the jar, making sure the pickles are submerged.",
+          "Cover and refrigerate at least 30 minutes and up to 3 weeks."
+        ],
+        "tips": [
+          "Works for all sorts of vegetables: carrot and daikon sticks, watermelon radish slices, red onions.",
+          "Even better the next day."
+        ],
+        "ai": {
+          "cliffNotes": "Thin cucumber slices in an apple juice and rice vinegar brine with a touch of fish sauce: crunchy fridge pickles in 30 minutes.",
+          "keyTips": [
+            "Make them Friday so they're better by Saturday.",
+            "Leave out the pepper flakes for the low-heat house."
+          ]
+        }
+      },
+      "makes": "1 cup · 35 minutes (5 minutes hands-on)"
     },
     {
       "title": "Duxelles",

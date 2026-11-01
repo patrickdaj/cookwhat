@@ -1309,20 +1309,48 @@
       "sourceUrl": "",
       "cuisine": "korean",
       "protein": "vegetable",
-      "activeTimeMin": null,
-      "totalTimeMin": null,
+      "activeTimeMin": 5,
+      "totalTimeMin": 35,
       "servings": 4,
-      "notes": "Bo ssäm component, 1 cup. NEEDS SCAN of p.74.",
+      "notes": "Make Friday; 30 min minimum in the fridge. Skip the optional pepper flakes.",
       "id": "fridge-pickled-cucumbers-ron74",
       "title": "Fridge-Pickled Cucumbers",
       "source": "Ready or Not! (Nom Nom Paleo) — p.74",
       "tags": [
         "book",
         "new",
-        "paleo",
-        "needs-scan"
+        "paleo"
       ],
-      "ingredients": []
+      "ingredients": [
+        {
+          "item": "Persian cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "apple juice",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ]
     },
     {
       "day": "Sat",
@@ -1331,20 +1359,62 @@
       "sourceUrl": "",
       "cuisine": "korean",
       "protein": "vegetable",
-      "activeTimeMin": null,
-      "totalTimeMin": null,
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
       "servings": 4,
-      "notes": "Bo ssäm component, 1/2 cup paleo gochujang. NEEDS SCAN of p.61. Serve on the side (heat).",
+      "notes": "Makes 2 cups; bo ssäm uses 1/2 cup and the rest keeps 2 weeks. Spicy, so serve it on the side.",
       "id": "fauxchujang-ron61",
       "title": "Fauxchujang",
       "source": "Ready or Not! (Nom Nom Paleo) — p.61",
       "tags": [
         "book",
         "new",
-        "paleo",
-        "needs-scan"
+        "paleo"
       ],
-      "ingredients": []
+      "ingredients": [
+        {
+          "item": "unsweetened applesauce",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "coconut aminos",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ]
     },
     {
       "day": "Sat",

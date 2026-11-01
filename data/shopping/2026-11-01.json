@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T14:50:06.937Z",
+  "generatedAt": "2026-11-01T14:58:14.565Z",
   "targetServings": null,
   "sections": [
     {
@@ -307,13 +307,14 @@
           "unit": "oz"
         },
         {
-          "item": "Persian cucumbers",
-          "qty": 2,
+          "item": "Persian cucumber",
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "Japanese Potato Salad",
+            "Fridge-Pickled Cucumbers"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -709,6 +710,18 @@
           "unit": "cup"
         },
         {
+          "item": "coconut aminos",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Fauxchujang"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "couscous",
           "qty": 1,
           "dim": "vol",
@@ -734,7 +747,7 @@
         },
         {
           "item": "fish sauce",
-          "qty": 10,
+          "qty": 12.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
@@ -742,7 +755,9 @@
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Italian Crispy Chicken Thighs",
-            "Grilled Umami Bok Choy"
+            "Grilled Umami Bok Choy",
+            "Fridge-Pickled Cucumbers",
+            "Fauxchujang"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -761,12 +776,13 @@
         },
         {
           "item": "honey",
-          "qty": 2,
+          "qty": 3,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Honey Harissa Salmon",
+            "Fauxchujang"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -809,12 +825,14 @@
         },
         {
           "item": "rice vinegar",
-          "qty": 2,
+          "qty": 26.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "Japanese Potato Salad",
+            "Fridge-Pickled Cucumbers",
+            "Fauxchujang"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -855,6 +873,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "unsweetened applesauce",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Fauxchujang"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -966,6 +996,18 @@
           "unit": "tsp"
         },
         {
+          "item": "gochugaru (Korean chili flakes)",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "spices",
+          "fromMeals": [
+            "Fauxchujang"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "ground coriander",
           "qty": 0.25,
           "dim": "vol",
@@ -1008,12 +1050,13 @@
       "items": [
         {
           "item": "apple juice",
-          "qty": 2,
+          "qty": 10,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "beverages",
           "fromMeals": [
-            "My Sister's Phenomenal Grilled Green Chicken"
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Fridge-Pickled Cucumbers"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -1041,19 +1084,6 @@
   "excludedStaples": [
     "coconut sugar"
   ],
-  "pendingScans": [
-    {
-      "title": "Fridge-Pickled Cucumbers",
-      "day": "Sat",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.74",
-      "cookbook": true
-    },
-    {
-      "title": "Fauxchujang",
-      "day": "Sat",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.61",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 79
+  "pendingScans": [],
+  "totalItems": 82
 }
