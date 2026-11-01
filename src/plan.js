@@ -15,12 +15,14 @@ export function makeMeal(input, cfg) {
     cuisine: (input.cuisine || "").toLowerCase(),
     protein: (input.protein || "").toLowerCase(),
     tags: input.tags || [],
-    activeTimeMin: numOrNull(input.activeTimeMin ?? input.activeMin),
-    totalTimeMin: numOrNull(input.totalTimeMin ?? input.totalMin),
+    activeTimeMin: numOrNull(input.activeTimeMin ?? input.activeMin ?? input.active),
+    totalTimeMin: numOrNull(input.totalTimeMin ?? input.totalMin ?? input.total),
     servings: numOrNull(input.servings) ?? cfg.household.defaultServings,
     ingredients: (input.ingredients || []).map(normIngredient),
     notes: input.notes || "",
   };
+  // Quick non-paleo add-ons for the wife (see CLAUDE.md, Paleo section).
+  if (Array.isArray(input.depaleo) && input.depaleo.length) m.depaleo = input.depaleo;
   return m;
 }
 

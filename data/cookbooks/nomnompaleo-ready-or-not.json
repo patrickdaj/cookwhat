@@ -173,7 +173,40 @@
     {
       "title": "Grain-Free Tortillas",
       "page": 78,
-      "chapter": "Get Ready (pantry, sauces & basics)"
+      "chapter": "Get Ready (pantry, sauces & basics)",
+      "scanned": true,
+      "captured": {
+        "makes": "12 tortillas · 20 minutes",
+        "ingredients": [
+          "2 cups (270 grams) cassava flour",
+          "3/4 cup (96 grams) arrowroot powder",
+          "1 teaspoon kosher salt",
+          "1/4 cup ghee, lard, or olive oil",
+          "1 1/4 cups hot water"
+        ],
+        "steps": [
+          "In a large bowl, combine the cassava flour, arrowroot and salt. Work in the fat with your fingers until fully incorporated, then add the water and knead until a ball of dough forms.",
+          "Divide the dough into 12 pieces, roll each into a ball, and keep the bowl covered so they don't dry out.",
+          "Flatten each ball between parchment or plastic wrap with a rolling pin, tortilla press, or heavy books.",
+          "Heat a dry skillet or griddle over medium-high.",
+          "Cook each tortilla about 1 minute until bubbles form, flip, and cook 1 minute more until lightly browned on both sides.",
+          "Stack on a plate under a clean towel until ready to eat."
+        ],
+        "tips": [
+          "Don't confuse cassava flour with tapioca flour: tapioca makes these super-gummy. Both come from cassava root, but cassava flour is the whole dried root.",
+          "Keep the dough balls covered so they stay moist.",
+          "Freeze cooked tortillas between parchment sheets for up to 6 months."
+        ],
+        "ai": {
+          "cliffNotes": "Cassava-and-arrowroot dough pressed thin and griddled a minute per side: real paleo taco tortillas.",
+          "keyTips": [
+            "Buy cassava flour (Otto's is the common brand), NOT tapioca starch.",
+            "Use olive oil as the fat for the heart-healthy version.",
+            "Dry, hot pan, no oil: wait for bubbles before flipping."
+          ]
+        }
+      },
+      "makes": "12 tortillas · 20 minutes"
     },
     {
       "title": "Nature's Tortillas",
@@ -338,7 +371,57 @@
     {
       "title": "Pressure Cooker / Slow Cooker Carne Mechada",
       "page": 144,
-      "chapter": "Make-Ahead"
+      "chapter": "Make-Ahead",
+      "scanned": true,
+      "captured": {
+        "makes": "6 servings · 1 hour (15 minutes hands-on)",
+        "ingredients": [
+          "3 pounds flank steak, cut against the grain into 2-inch strips",
+          "1 1/2 tablespoons chili powder",
+          "Kosher salt",
+          "1 tablespoon ghee",
+          "1 medium yellow onion, diced",
+          "2 medium carrots, diced",
+          "1 red bell pepper, diced",
+          "2 tablespoons tomato paste",
+          "6 garlic cloves, peeled and smashed",
+          "1 (14-ounce) can diced roasted tomatoes, drained",
+          "1/2 cup Bone Broth (page 76) or chicken stock",
+          "2 teaspoons fish sauce",
+          "2 teaspoons dried oregano",
+          "2 dried bay leaves",
+          "Freshly ground black pepper",
+          "1/2 cup fresh cilantro leaves"
+        ],
+        "steps": [
+          "In a large bowl, toss the beef with the chili powder and 2 teaspoons salt; mix with your hands and set aside.",
+          "Heat the ghee in the pressure cooker (medium-high if stovetop). Add the onion, carrots, bell pepper and a sprinkle of salt; sauté 3 to 5 minutes until softened.",
+          "Add the tomato paste and garlic; stir 30 seconds until fragrant.",
+          "Pour in the canned tomatoes, stock and fish sauce. Stir in the oregano and bay leaves.",
+          "Add the beef and stir to mix well.",
+          "Cover and cook under high pressure for 20 minutes (stovetop cooker: high heat to pressure, then low to maintain about 18 minutes).",
+          "Let the pressure release naturally (about 15 minutes). Transfer the beef to a serving bowl and shred with two forks.",
+          "Bring the sauce to a boil in the pot, skim off excess oil, and season with salt and pepper.",
+          "Discard the bay leaves, ladle the sauce over the meat, garnish with cilantro and serve."
+        ],
+        "tips": [
+          "Like ropa vieja ('old clothes'), named for its resemblance to colorful rags: a Latin American stew of boiled, shredded flank steak. The pressure cooker cuts the usual hours in half.",
+          "SWITCH IT UP, Slow Cooker Carne Mechada: do steps 2 through 4 in a skillet, then cook everything in a slow cooker on LOW for 8 hours.",
+          "Let the pressure release naturally (~15 min); don't quick-release.",
+          "Skim the excess oil off the sauce before seasoning.",
+          "Keeps 4 days refrigerated or 4 months frozen."
+        ],
+        "ai": {
+          "cliffNotes": "Chili-rubbed flank strips pressure-cooked 20 minutes in a tomato, pepper and carrot sauce, then shredded and sauced: Latin shredded beef, no searing needed.",
+          "keyTips": [
+            "Cut the flank against the grain into 2-inch strips before seasoning so it shreds into tender ribbons.",
+            "Natural release keeps the beef moist; a quick release squeezes it dry.",
+            "Skim the fat from the sauce, then taste: salt is easy to overdo with fish sauce in the pot.",
+            "Make-ahead friendly: it reheats well, which is why it sits in the Make-Ahead section."
+          ]
+        }
+      },
+      "makes": "6 servings · 1 hour (15 minutes hands-on)"
     },
     {
       "title": "Tex-Mex Beef and Rice Casserole",
@@ -408,7 +491,38 @@
     {
       "title": "Roasted Carrots with Ginger Sesame Sauce",
       "page": 180,
-      "chapter": "Make-Over"
+      "chapter": "Make-Over",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 35 minutes (5 minutes hands-on)",
+        "ingredients": [
+          "1/4 cup Ginger Sesame Sauce (page 66)",
+          "1 pound young carrots, scrubbed and patted dry",
+          "2 tablespoons olive oil",
+          "Kosher salt",
+          "Freshly ground black pepper",
+          "1/4 cup chopped chives",
+          "1 tablespoon toasted sesame seeds (toasting instructions on page 66)"
+        ],
+        "steps": [
+          "Heat the oven to 425°F with the rack in the middle; set out the Ginger Sesame Sauce and lay the carrots in a single layer on a parchment-lined rimmed baking sheet.",
+          "Drizzle with the olive oil and season with salt and pepper.",
+          "Roast 30 minutes or until tender.",
+          "Spoon on Ginger Sesame Sauce and top with chives and sesame seeds."
+        ],
+        "tips": [
+          "You don't even need to peel the carrots.",
+          "Tastes great at room temperature and straight from the fridge, too."
+        ],
+        "ai": {
+          "cliffNotes": "Whole young carrots roasted until sweet, finished with a creamy ginger-sesame sauce, chives and sesame seeds.",
+          "keyTips": [
+            "Pat the carrots dry so they roast instead of steam.",
+            "Ginger Sesame Sauce (p.66) isn't captured yet: scan it, or the sauce is missing from the list."
+          ]
+        }
+      },
+      "makes": "4 servings · 35 minutes (5 minutes hands-on)"
     },
     {
       "title": "Bacon Brussels Sprouts with Kimchi Applesauce",
@@ -685,7 +799,50 @@
     {
       "title": "Honey Harissa Salmon",
       "page": 272,
-      "chapter": "Make-Now"
+      "chapter": "Make-Now",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 30 minutes (15 minutes hands-on)",
+        "ingredients": [
+          "2 tablespoons harissa",
+          "2 tablespoons honey",
+          "1 tablespoon finely grated lemon zest (from 1 lemon)",
+          "2 medium carrots, peeled and cut into thin matchsticks",
+          "2 medium zucchini, cut into thin matchsticks",
+          "1/4 cup pitted green olives, roughly chopped",
+          "2 garlic cloves, minced",
+          "2 tablespoons extra-virgin olive oil",
+          "Juice from 1 lemon",
+          "Kosher salt",
+          "Freshly ground black pepper",
+          "4 (6-ounce) 1 1/2-inch-thick salmon fillets, pinbones removed",
+          "1 tablespoon toasted sesame seeds"
+        ],
+        "steps": [
+          "Heat the oven to 450°F with the rack in the middle.",
+          "Whisk the harissa, honey and lemon zest; set aside half to brush on the cooked fish.",
+          "In a large bowl, combine the carrots, zucchini, olives, garlic, olive oil and lemon juice; season with salt and pepper.",
+          "Season the fish with salt and pepper, then brush 1/2 tablespoon of the harissa-honey on the top and sides of each fillet.",
+          "Fold 4 large squares of parchment in half and cut out hearts; open them flat and spread a quarter of the vegetables on one side of each crease.",
+          "Add a tablespoon of the pooled vegetable liquid, set a fillet on top harissa-side up, fold the parchment over, and crimp the edges tightly from the top center, twisting the point to seal.",
+          "Bake the packets on a rimmed sheet 10 to 15 minutes, to desired doneness.",
+          "Cut the packets open with shears straight out of the oven, brush on the remaining harissa-honey, garnish with sesame seeds and serve."
+        ],
+        "tips": [
+          "Cooking in parchment gives delicate fish and tender vegetables in one packet: sweet, savory, spicy and tart.",
+          "Harissa is a Tunisian hot chile paste; sriracha subs if you can't find it.",
+          "Pro tip: don't let the fish's internal temperature rise above 145°F."
+        ],
+        "ai": {
+          "cliffNotes": "Salmon brushed with honey-harissa and steamed in parchment over lemony carrot, zucchini and green olive matchsticks, then glazed again at the table.",
+          "keyTips": [
+            "Low-heat house: keep your wife's packet harissa-free (honey + lemon zest only) and pass the harissa glaze at the table.",
+            "Crimp the parchment tightly; the trapped steam is what cooks the vegetables.",
+            "Pull at 10 minutes for 1 1/2-inch fillets and check; 145°F max."
+          ]
+        }
+      },
+      "makes": "4 servings · 30 minutes (15 minutes hands-on)"
     },
     {
       "title": "Ollie's Cracklin' Chicken",
@@ -695,12 +852,84 @@
     {
       "title": "Cantonese Crispy Chicken Thighs",
       "page": 280,
-      "chapter": "Make-Now"
+      "chapter": "Make-Now",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 45 minutes",
+        "ingredients": [
+          "6 dried shiitake mushrooms, reconstituted in a bowl of water for at least 1 hour",
+          "1 tablespoon ghee, avocado oil, or olive oil",
+          "1 cup thinly sliced shallots",
+          "Kosher salt",
+          "6 bone-in, skin-on chicken thighs",
+          "1 (2-inch) piece fresh ginger, peeled and cut into 1/4-inch coins",
+          "6 garlic cloves, peeled and smashed",
+          "1/4 teaspoon freshly ground black pepper",
+          "1 teaspoon fish sauce",
+          "1 cup Bone Broth (page 76) or chicken stock",
+          "1/4 cup sliced scallions",
+          "1/4 cup fresh cilantro"
+        ],
+        "steps": [
+          "Rinse the dried mushrooms and soak them in water at least 1 hour ahead (or use fresh mushrooms if pressed for time).",
+          "Heat the oven to 450°F with the rack in the middle; heat a 12-inch oven-safe skillet over medium.",
+          "Heat the fat, add the shallots and a sprinkle of salt, and cook 5 to 10 minutes until softened. Meanwhile, salt the thighs liberally on both sides (about 2 teaspoons total).",
+          "Squeeze the mushrooms dry, trim the woody stems, and thinly slice the caps.",
+          "Add the mushrooms, ginger and garlic to the shallots; stir 1 minute until aromatic, then move the vegetables to a plate and wipe out the pan.",
+          "Over medium-high, sear the chicken skin-side down 4 to 5 minutes until browned and crispy, peppering the meaty side; flip and cook 2 minutes more.",
+          "Stir the fish sauce into the broth and pour it into the pan without wetting the crispy skin; tuck the shallots, mushrooms and garlic between the pieces.",
+          "Roast 15 to 20 minutes until the thighs reach 165°F.",
+          "Taste the sauce, adjust the salt, and garnish with scallions and cilantro."
+        ],
+        "tips": [
+          "Inspired by Cantonese childhood dishes and a recipe by Simone Miller: a one-pan supper with juicy meat and crispy skin.",
+          "Dried shiitakes give an 'exponential boost of umami'; soak them at least an hour ahead. Fresh shiitakes work in a pinch.",
+          "Save the shiitake stems for bone broth.",
+          "Keep the broth and vegetables off the crispy skin."
+        ],
+        "ai": {
+          "cliffNotes": "Salted thighs seared skin-down until crackly, then roasted in a shallow pool of broth with shallots, shiitakes, ginger and garlic.",
+          "keyTips": [
+            "Salt the thighs while the shallots cook: about 2 teaspoons total, on both sides.",
+            "Don't touch the thighs for the full 4 to 5 minutes; that's what makes the skin crisp.",
+            "Pour the broth around the chicken, never over it."
+          ]
+        }
+      },
+      "makes": "4 servings · 45 minutes"
     },
     {
       "title": "Italian Crispy Chicken Thighs",
       "page": 283,
-      "chapter": "Make-Now"
+      "chapter": "Make-Now",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 45 minutes (variation of Cantonese Crispy Chicken Thighs, p.280)",
+        "ingredients": [
+          "Cantonese Crispy Chicken Thighs (p.280) ingredients, with these changes:",
+          "thinly sliced fresh cremini mushrooms in place of the dried shiitakes",
+          "no ginger",
+          "a handful of cherry tomatoes",
+          "roughly chopped Italian parsley and basil, for garnish"
+        ],
+        "steps": [
+          "Follow Cantonese Crispy Chicken Thighs (p.280), substituting thinly sliced fresh cremini for the dried shiitakes and leaving out the ginger in step 8.",
+          "In step 15, add a handful of cherry tomatoes to the pan along with the shallots, mushrooms and garlic.",
+          "Once out of the oven, garnish with roughly chopped Italian parsley and basil."
+        ],
+        "tips": [
+          "SWITCH IT UP from the Cantonese version: for Italian flavors, or when there are no dried shiitakes on hand.",
+          "Same technique: sear skin-down until crisp, keep the broth off the skin, roast to 165°F."
+        ],
+        "ai": {
+          "cliffNotes": "The Cantonese crispy-thigh method with cremini, cherry tomatoes, parsley and basil: Italian flavors, crackly skin, one pan.",
+          "keyTips": [
+            "Fresh cremini need no soaking, so this is the faster version.",
+            "The book gives no amount for the cremini; about 6 ounces matches the six dried shiitakes."
+          ]
+        }
+      },
+      "makes": "4 servings · 45 minutes (variation of Cantonese Crispy Chicken Thighs, p.280)"
     },
     {
       "title": "Chicken Curry in a Hurry",

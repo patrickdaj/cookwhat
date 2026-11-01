@@ -1,0 +1,981 @@
+{
+  "weekOf": "2026-11-01",
+  "generatedAt": "2026-11-01T14:48:34.959Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "Brussels sprouts",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "carrots",
+          "qty": 14,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Pressure Cooker Carne Mechada",
+            "Mexican Roasted Vegetables",
+            "Japanese Potato Salad",
+            "World's Best Braised Green Cabbage",
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "cauliflower",
+          "qty": 1,
+          "dim": "small head",
+          "unitLabel": "small head",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "small head"
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "cremini mushrooms",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Roasted Carrots with Ginger Sesame Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette",
+            "Pressure Cooker Carne Mechada",
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 29,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Pressure Cooker Carne Mechada",
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Honey Harissa Salmon",
+            "Italian Crispy Chicken Thighs",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green cabbage (about 2 lb)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "World's Best Braised Green Cabbage"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Honey Harissa Salmon",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lime",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette",
+            "Mexican Roasted Vegetables",
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "parsnips",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "Persian cucumbers",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "radicchio",
+          "qty": 1,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada",
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion (large)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "russet potatoes",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 21,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette",
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Japanese Potato Salad",
+            "Italian Crispy Chicken Thighs",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "sweet onion",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada",
+            "World's Best Braised Green Cabbage"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow squash (large)",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "young carrots",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Carrots with Ginger Sesame Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "zucchini",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Mexican Roasted Vegetables",
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "chicken drumsticks or thighs",
+          "qty": 3,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "flank steak",
+          "qty": 3,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "salmon fillets (6 oz, 1 1/2 in thick)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "whole red snapper (1 1/2–2 lb each), scaled + gutted",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "eggs",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "feta",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "For her: crusty bread + feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "ghee",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "dairy",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Parmesan",
+          "qty": 1,
+          "dim": "small wedge",
+          "unitLabel": "small wedge",
+          "category": "dairy",
+          "fromMeals": [
+            "For her: spaghetti + Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": "small wedge"
+        },
+        {
+          "item": "shredded cheese or cotija",
+          "qty": 1,
+          "dim": "small bag",
+          "unitLabel": "small bag",
+          "category": "dairy",
+          "fromMeals": [
+            "For her + Jody: tortillas, cheese, sour cream"
+          ],
+          "hasUnquantified": false,
+          "unit": "small bag"
+        },
+        {
+          "item": "sour cream",
+          "qty": 1,
+          "dim": "small tub",
+          "unitLabel": "small tub",
+          "category": "dairy",
+          "fromMeals": [
+            "For her + Jody: tortillas, cheese, sour cream"
+          ],
+          "hasUnquantified": false,
+          "unit": "small tub"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "corn or flour tortillas",
+          "qty": 1,
+          "dim": "pack",
+          "unitLabel": "pack",
+          "category": "bakery",
+          "fromMeals": [
+            "For her + Jody: tortillas, cheese, sour cream"
+          ],
+          "hasUnquantified": false,
+          "unit": "pack"
+        },
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "For her: crusty bread + feta"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "aged balsamic vinegar",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "World's Best Braised Green Cabbage"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "arrowroot powder",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grain-Free Tortillas"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Root Vegetables with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "cassava flour",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grain-Free Tortillas"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "couscous",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "For her: couscous"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada",
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "harissa",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "jasmine rice",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "For her: jasmine rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "paleo mayonnaise",
+          "qty": 15.84,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "pitted green olives",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Potato Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "spaghetti",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "For her: spaghetti + Parmesan"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Honey Harissa Salmon",
+            "Roasted Carrots with Ginger Sesame Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "fire-roasted diced tomatoes",
+          "qty": 1,
+          "dim": "14-oz can",
+          "unitLabel": "14-oz can",
+          "category": "canned",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": "14-oz can"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada",
+            "World's Best Braised Green Cabbage",
+            "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "tomato paste",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "Aleppo pepper",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaves",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 3.25,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada",
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pressure Cooker Carne Mechada"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Mexican Roasted Vegetables"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.13,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "apple juice",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "beverages",
+          "fromMeals": [
+            "My Sister's Phenomenal Grilled Green Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "other",
+      "items": [
+        {
+          "item": "parchment paper",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "other",
+          "fromMeals": [
+            "Honey Harissa Salmon"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [],
+  "pendingScans": [
+    {
+      "title": "Pressure Cooker Bo Ssäm",
+      "day": "Sat",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.132",
+      "cookbook": true
+    },
+    {
+      "title": "Ginger Sesame Sauce",
+      "day": "Sat",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.66",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 73
+}

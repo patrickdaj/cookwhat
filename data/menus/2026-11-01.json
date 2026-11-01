@@ -1,0 +1,1215 @@
+{
+  "weekOf": "2026-11-01",
+  "createdAt": "2026-11-01T14:48:21.822Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "whole-roasted-snapper-with-citrus-vinaigrette-39811da2",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Whole Roasted Snapper with Citrus Vinaigrette",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "snapper",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "weeknight"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "whole red snapper (1 1/2–2 lb each), scaled + gutted",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "ask the fish counter to scale, gut and snip the fins; sea bass works too"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tsp zest + 2 tbsp juice"
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tsp zest + 2 tbsp juice"
+        },
+        {
+          "item": "shallot (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
+      "notes": "Paleo as written. Citrus-salt rub, slash the skin, 500°F about 15–20 min to 140°F; whisk the citrus vinaigrette while it roasts.",
+      "depaleo": [
+        "Crusty bread for the juices",
+        "A little feta at the table"
+      ]
+    },
+    {
+      "id": "for-her-crusty-bread-feta-a3cc62be",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "For her: crusty bread + feta",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "depaleo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "crusty bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "for her (Mon); leftovers for Thu"
+        },
+        {
+          "item": "feta",
+          "qty": 4,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "for her, at the table (Mon, Tue)"
+        }
+      ],
+      "notes": "Non-paleo add-ons for his wife."
+    },
+    {
+      "id": "roasted-root-vegetables-with-lemon-caper-sauce-f378fbab",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Brussels sprouts",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Roast at 450°F first, then crank the oven to 500°F for the fish. The potatoes are his carb."
+    },
+    {
+      "id": "pressure-cooker-carne-mechada-f910efc3",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pressure Cooker Carne Mechada",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.144",
+      "sourceUrl": "",
+      "cuisine": "latin",
+      "protein": "beef",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "guest-jody"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 60,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "flank steak",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "cut against the grain into 2-inch strips"
+        },
+        {
+          "item": "chili powder",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "book says 1 1/2 tbsp; trimmed for low heat"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomato paste",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fire-roasted diced tomatoes",
+          "qty": 1,
+          "unit": "14-oz can",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "ghee",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "or olive oil"
+        }
+      ],
+      "notes": "Taco bar for Jody night. 20 min high pressure + 15 min natural release, then shred. Slow cooker option: LOW 8 hr. Leftovers keep 4 days.",
+      "depaleo": [
+        "Regular corn or flour tortillas",
+        "Shredded cheese or cotija",
+        "Sour cream"
+      ]
+    },
+    {
+      "id": "for-her-jody-tortillas-cheese-sour-cream-023ee3a4",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "For her + Jody: tortillas, cheese, sour cream",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "latin",
+      "protein": "vegetable",
+      "tags": [
+        "depaleo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "corn or flour tortillas",
+          "qty": 1,
+          "unit": "pack",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "shredded cheese or cotija",
+          "qty": 1,
+          "unit": "small bag",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "sour cream",
+          "qty": 1,
+          "unit": "small tub",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Non-paleo taco toppings for his wife and Jody."
+    },
+    {
+      "id": "grain-free-tortillas-5272dc77",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Grain-Free Tortillas",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.78",
+      "sourceUrl": "",
+      "cuisine": "latin",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 20,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "cassava flour",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "270 g; NOT tapioca flour (Otto's brand)"
+        },
+        {
+          "item": "arrowroot powder",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "96 g"
+        }
+      ],
+      "notes": "Makes 12; his tortillas (his carb). Olive oil as the fat. Freeze extras between parchment."
+    },
+    {
+      "id": "mexican-roasted-vegetables-eded6b34",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Mexican Roasted Vegetables",
+      "source": "Isabel Eats",
+      "sourceUrl": "https://www.isabeleats.com/mexican-roasted-vegetables/",
+      "cuisine": "mexican",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "cauliflower",
+          "qty": 1,
+          "unit": "small head",
+          "category": "produce",
+          "note": "~4 cups florets: the recipe's 2 cups plus 2 more in place of its broccoli (dislike)"
+        },
+        {
+          "item": "carrots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "zucchini (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow squash (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red bell pepper (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red onion (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "chili powder",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "garlic powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "topping"
+        }
+      ],
+      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta or cotija goes on at the table for her and Jody. Amounts from the recipe card via search; the site is blocked here."
+    },
+    {
+      "id": "my-sister-s-phenomenal-grilled-green-chicken-041d5aff",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "My Sister's Phenomenal Grilled Green Chicken",
+      "source": "Nom Nom Paleo",
+      "sourceUrl": "https://nomnompaleo.com/post/7486821187/my-sisters-phenomenal-grilled-green-chicken",
+      "cuisine": "vietnamese",
+      "protein": "chicken",
+      "tags": [
+        "redo",
+        "paleo",
+        "weeknight"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 60,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "chicken drumsticks or thighs",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "sweet onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "packed, leaves + stems"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": "packed"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": "packed"
+        },
+        {
+          "item": "fish sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "recipe uses 1/4 cup; halved for sodium"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "zest"
+        },
+        {
+          "item": "Aleppo pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "mild; or sweet paprika"
+        },
+        {
+          "item": "apple juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        }
+      ],
+      "notes": "You rated it 4★. Blend the green marinade, marinate, then grill or roast on a rack at 400°F until 165°F+ (thighs/drums are best around 175°F).",
+      "depaleo": [
+        "Steamed jasmine rice"
+      ]
+    },
+    {
+      "id": "for-her-jasmine-rice-9d539b8a",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "For her: jasmine rice",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "asian",
+      "protein": "vegetable",
+      "tags": [
+        "depaleo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "jasmine rice",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "for her (Wed, Sat)"
+        }
+      ],
+      "notes": "Non-paleo add-on for his wife."
+    },
+    {
+      "id": "japanese-potato-salad-35b90ce9",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Japanese Potato Salad",
+      "source": "Nom Nom Paleo (also Let's Go! p.60)",
+      "sourceUrl": "https://nomnompaleo.com/japanese-potato-salad",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "paprika",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 25,
+      "totalTimeMin": 45,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "russet potatoes",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Persian cucumbers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "paleo mayonnaise",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "avocado-oil mayo, e.g. Primal Kitchen"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "carrot (small)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1/4 cup sliced, soaked in ice water"
+        },
+        {
+          "item": "eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "note": "hard-boiled"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "His carb. Makes 8, so the leftovers cover Thursday. Skip the optional ham (sodium)."
+    },
+    {
+      "id": "world-s-best-braised-green-cabbage-9dc105d0",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "World's Best Braised Green Cabbage",
+      "source": "Nom Nom Paleo",
+      "sourceUrl": "https://nomnompaleo.com/post/1356598429/worlds-best-braised-green-cabbage",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "paprika",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 75,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green cabbage (about 2 lb)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow onion (large)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrots (large)",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "aged balsamic vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Hands-off oven braise. Skip the optional red pepper flakes."
+    },
+    {
+      "id": "honey-harissa-salmon-10f97660",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Honey Harissa Salmon",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.272",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "salmon",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "weeknight"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 30,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "salmon fillets (6 oz, 1 1/2 in thick)",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "buy 2 for just the two of you"
+        },
+        {
+          "item": "harissa",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "or sriracha"
+        },
+        {
+          "item": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1 for zest, 1 for juice"
+        },
+        {
+          "item": "carrots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "thin matchsticks"
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "thin matchsticks"
+        },
+        {
+          "item": "pitted green olives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "parchment paper",
+          "qty": null,
+          "unit": "",
+          "category": "other",
+          "note": ""
+        }
+      ],
+      "notes": "Salmon and veg steamed together in parchment hearts, 450°F for 10–15 min; don't let the fish go past 145°F. The veg is in the packet, and leftover potato salad is his carb.",
+      "depaleo": [
+        "Couscous",
+        "Her packet gets no harissa (honey + lemon only); harissa at the table"
+      ]
+    },
+    {
+      "id": "for-her-couscous-182d42b1",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "For her: couscous",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "depaleo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Non-paleo add-on for his wife."
+    },
+    {
+      "id": "italian-crispy-chicken-thighs-e6d5634a",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Italian Crispy Chicken Thighs",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.283",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "weeknight"
+      ],
+      "activeTimeMin": 25,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 6,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "cremini mushrooms",
+          "qty": 6,
+          "unit": "oz",
+          "category": "produce",
+          "note": "book gives no amount; stands in for 6 dried shiitakes"
+        },
+        {
+          "item": "shallots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "1 cup thinly sliced"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "a handful"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "bunch",
+          "category": "produce",
+          "note": "garnish"
+        },
+        {
+          "item": "fresh basil",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "garnish"
+        }
+      ],
+      "notes": "Variation of the Cantonese thighs (p.280): sear skin-down until crisp, keep the broth off the skin, roast at 450°F to 165°F.",
+      "depaleo": [
+        "Spaghetti with olive oil and a little Parmesan"
+      ]
+    },
+    {
+      "id": "for-her-spaghetti-parmesan-4678c1a7",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "For her: spaghetti + Parmesan",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "depaleo"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "spaghetti",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Parmesan",
+          "qty": 1,
+          "unit": "small wedge",
+          "category": "dairy",
+          "note": ""
+        }
+      ],
+      "notes": "Non-paleo add-on for his wife."
+    },
+    {
+      "id": "roasted-radicchio-fennel-and-parsnips-with-lemon-basil-sauce-f0186dc4",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "parsnips",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "radicchio",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        }
+      ],
+      "notes": "Same page as Monday's roots, different vegetables. The potatoes are his carb; 450°F alongside the chicken."
+    },
+    {
+      "id": "pressure-cooker-bo-ss-m-199345dc",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pressure Cooker Bo Ssäm",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.132",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "pork",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "needs-scan",
+        "project"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 120,
+      "servings": 6,
+      "ingredients": [],
+      "notes": "Korean pork shoulder in lettuce wraps. NEEDS SCAN of p.132–133 before shopping.",
+      "depaleo": [
+        "Steamed rice",
+        "Regular ssamjang or gochujang mayo"
+      ]
+    },
+    {
+      "id": "ginger-sesame-sauce-1ad69e02",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Ginger Sesame Sauce",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.66",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "needs-scan"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "ingredients": [],
+      "notes": "For the carrots (1/4 cup). NEEDS SCAN of p.66."
+    },
+    {
+      "id": "roasted-carrots-with-ginger-sesame-sauce-29bc1d8f",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Carrots with Ginger Sesame Sauce",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.180",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 35,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "young carrots",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "425°F, 30 min. No peeling needed. Sauce is p.66."
+    }
+  ],
+  "setAt": "2026-11-01T14:48:34.838Z"
+}
