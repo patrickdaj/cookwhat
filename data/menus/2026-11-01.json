@@ -1296,6 +1296,105 @@
       ]
     },
     {
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "tags": [
+        "book",
+        "new",
+        "paleo"
+      ],
+      "ingredients": [
+        {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "category": "produce",
+          "unit": "",
+          "note": ""
+        },
+        {
+          "item": "parsnips",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "radicchio",
+          "qty": 1,
+          "unit": "head",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "category": "produce",
+          "unit": "",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh chives",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "category": "produce",
+          "unit": "",
+          "note": ""
+        }
+      ],
+      "notes": "Same page as Monday's roots, different vegetables; 450°F alongside the chicken. Baked sweet potato added on top, per the user.",
+      "id": "roasted-radicchio-fennel-parsnips-atk223",
+      "sourceUrl": ""
+    },
+    {
       "id": "baked-sweet-potatoes-fri",
       "day": "Fri",
       "slot": "dinner",
@@ -1321,7 +1420,7 @@
           "note": "Fri, his carb"
         }
       ],
-      "notes": "His carb: prick and bake at 400°F about 45–60 min until soft (the oven's already on for the chicken). Plain sweet potato as the carb, per the user."
+      "notes": "Added alongside the roast at the user's request: prick and bake at 400–450°F about 45–60 min."
     }
   ],
   "setAt": "2026-11-01T14:48:34.838Z"

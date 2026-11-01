@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:03:53.942Z",
+  "generatedAt": "2026-11-01T15:05:04.695Z",
   "targetServings": null,
   "sections": [
     {
@@ -84,6 +84,18 @@
           "unit": "oz"
         },
         {
+          "item": "fennel bulbs",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "fresh basil",
           "qty": 1,
           "dim": "bunch",
@@ -91,7 +103,20 @@
           "category": "produce",
           "fromMeals": [
             "My Sister's Phenomenal Grilled Green Chicken",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -154,7 +179,8 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -166,14 +192,15 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 29,
+          "qty": 35,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -183,7 +210,8 @@
             "My Sister's Phenomenal Grilled Green Chicken",
             "Honey Harissa Salmon",
             "Italian Crispy Chicken Thighs",
-            "Pressure Cooker Bo Ssäm"
+            "Pressure Cooker Bo Ssäm",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -214,13 +242,14 @@
         },
         {
           "item": "lemon",
-          "qty": 3,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Roasted Root Vegetables with Lemon-Caper Sauce",
-            "Honey Harissa Salmon"
+            "Honey Harissa Salmon",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -252,6 +281,18 @@
           "unit": ""
         },
         {
+          "item": "parsnips",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
           "item": "Persian cucumber",
           "qty": 3,
           "dim": "",
@@ -263,6 +304,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "radicchio",
+          "qty": 1,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
         },
         {
           "item": "red bell pepper",
@@ -291,12 +344,13 @@
         },
         {
           "item": "red potatoes",
-          "qty": 1,
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -340,14 +394,15 @@
         },
         {
           "item": "shallot",
-          "qty": 12,
+          "qty": 20,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Japanese Potato Salad",
-            "Italian Crispy Chicken Thighs"
+            "Italian Crispy Chicken Thighs",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -998,5 +1053,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 75
+  "totalItems": 79
 }
