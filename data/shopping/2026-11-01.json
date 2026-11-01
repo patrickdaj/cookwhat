@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T21:43:47.265Z",
+  "generatedAt": "2026-11-01T21:45:22.407Z",
   "targetServings": null,
   "sections": [
     {
@@ -13,7 +13,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Cauli Rice (bowl base)"
+            "His bowl (no tortilla)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -58,18 +58,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "cauliflower",
-          "qty": 1,
-          "dim": "small head",
-          "unitLabel": "small head",
-          "category": "produce",
-          "fromMeals": [
-            "Mexican Roasted Vegetables"
-          ],
-          "hasUnquantified": false,
-          "unit": "small head"
         },
         {
           "item": "cherry tomatoes",
@@ -294,7 +282,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Cauli Rice (bowl base)",
+            "His bowl (no tortilla)",
             "Mexican Roasted Vegetables",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Grilled Umami Bok Choy"
@@ -390,12 +378,11 @@
         },
         {
           "item": "riced cauliflower (fresh)",
-          "qty": 32,
+          "qty": 16,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "produce",
           "fromMeals": [
-            "Cauli Rice (bowl base)",
             "Cauli Rice"
           ],
           "hasUnquantified": false,
@@ -468,11 +455,12 @@
         },
         {
           "item": "sweet potatoes",
-          "qty": 2,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Mexican Roasted Vegetables",
             "Baked sweet potatoes"
           ],
           "hasUnquantified": false,
@@ -1065,5 +1053,5 @@
     "coconut sugar"
   ],
   "pendingScans": [],
-  "totalItems": 80
+  "totalItems": 79
 }

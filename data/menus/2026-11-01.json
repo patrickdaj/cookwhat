@@ -383,30 +383,22 @@
       "notes": "Non-paleo taco toppings for his wife and Jody."
     },
     {
-      "id": "cauli-rice-tue-ron80",
+      "id": "his-bowl-tue",
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "Cauli Rice (bowl base)",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.80",
+      "title": "His bowl (no tortilla)",
+      "source": "",
       "sourceUrl": "",
       "cuisine": "latin",
       "protein": "vegetable",
       "tags": [
-        "book",
         "paleo"
       ],
       "activeTimeMin": 10,
       "totalTimeMin": 10,
       "servings": 2,
       "ingredients": [
-        {
-          "item": "riced cauliflower (fresh)",
-          "qty": 16,
-          "unit": "oz",
-          "category": "produce",
-          "note": "Tue bowl base; p.80 not scanned, shortcut: saute in olive oil with salt, finish with lime + cilantro"
-        },
         {
           "item": "avocado",
           "qty": 2,
@@ -422,7 +414,7 @@
           "note": "bowl"
         }
       ],
-      "notes": "His bowl: carne mechada + cauli rice + Mexican roasted veg + avocado + lime + cilantro. Everyone else does tacos from the same meat and veg."
+      "notes": "His bowl: carne mechada over the Mexican roasted vegetables (with sweet potato), plus avocado, lime and cilantro. Everyone else does tacos from the same meat and veg."
     },
     {
       "id": "mexican-roasted-vegetables-eded6b34",
@@ -444,11 +436,11 @@
       "servings": 8,
       "ingredients": [
         {
-          "item": "cauliflower",
+          "item": "sweet potato (large)",
           "qty": 1,
-          "unit": "small head",
+          "unit": "",
           "category": "produce",
-          "note": "~4 cups florets: the recipe's 2 cups plus 2 more in place of its broccoli (dislike)"
+          "note": "cubed 3/4 inch, in place of the recipe's cauliflower + broccoli (she's not big on cauliflower)"
         },
         {
           "item": "carrots",
@@ -528,7 +520,7 @@
           "note": "topping"
         }
       ],
-      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta/cotija topping is skipped (no cheese for her). Amounts from the recipe card via search; the site is blocked here."
+      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta/cotija topping is skipped (no cheese for her). Amounts from the recipe card via search; the site is blocked here. A cubed sweet potato stands in for the recipe's cauliflower and broccoli."
     },
     {
       "id": "my-sister-s-phenomenal-grilled-green-chicken-041d5aff",
