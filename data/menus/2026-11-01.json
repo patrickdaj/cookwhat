@@ -101,96 +101,139 @@
       "notes": "Steamed jasmine rice for her on Monday (from Wednesday's bag); feta is for Tuesday."
     },
     {
-      "id": "roasted-root-vegetables-with-lemon-caper-sauce-f378fbab",
+      "id": "roasted-asian-brussels-sprouts-salad-nnp",
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
+      "title": "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
+      "source": "Nom Nom Paleo (also Ready or Not! p.258)",
+      "sourceUrl": "https://nomnompaleo.com/warm-brussels-sprouts-slaw-with-asian-citrus",
+      "cuisine": "chinese",
       "protein": "vegetable",
       "tags": [
-        "book",
+        "web",
         "new",
         "paleo"
       ],
       "activeTimeMin": 15,
-      "totalTimeMin": 45,
+      "totalTimeMin": 30,
       "servings": 4,
       "ingredients": [
         {
           "item": "Brussels sprouts",
-          "qty": 1,
+          "qty": 1.125,
           "unit": "lb",
           "category": "produce",
-          "note": ""
+          "note": "half batch (recipe: 2 1/4 lb, serves 8)"
         },
         {
-          "item": "red potatoes",
-          "qty": 1,
-          "unit": "lb",
+          "item": "fresh ginger",
+          "qty": 0.5,
+          "unit": "tbsp",
           "category": "produce",
-          "note": ""
+          "note": "minced"
         },
         {
-          "item": "shallots",
-          "qty": 8,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrots",
-          "qty": 4,
+          "item": "shallot (small)",
+          "qty": 0.5,
           "unit": "",
           "category": "produce",
           "note": ""
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 1,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "fresh thyme",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh rosemary",
+          "item": "orange",
           "qty": 1,
-          "unit": "tsp",
+          "unit": "",
           "category": "produce",
-          "note": ""
+          "note": "2 1/2 tbsp juice"
         },
         {
-          "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "capers",
+          "item": "coconut aminos",
           "qty": 1.5,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "lemon",
+          "item": "rice vinegar",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "scallions",
           "qty": 1,
           "unit": "",
           "category": "produce",
           "note": ""
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 2.25,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
         }
       ],
-      "notes": "Roast at 450°F. The potatoes are his carb. Neutral enough to sit next to the ginger-scallion fish."
+      "notes": "Half batch. Shred the sprouts, toss with avocado oil (in place of the ghee, for heart health) and salt, and roast at 450°F for 15–20 min, tossing every 5. Simmer the orange-ginger-coconut aminos dressing, pour it over, and garnish with scallions, cilantro and sesame."
+    },
+    {
+      "id": "instant-pot-crispy-potatoes-nnp",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Instant Pot Crispy Potatoes",
+      "source": "Nom Nom Paleo",
+      "sourceUrl": "https://nomnompaleo.com/pressure-cooker-crispy-potatoes",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "paleo"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "1–1 1/2 in cubes"
+        }
+      ],
+      "notes": "His carb. 5 min high pressure + natural release, then crisp in avocado oil in a hot skillet. Finish with sliced scallion in place of the optional chives/lemon to suit the meal."
     },
     {
       "id": "pressure-cooker-carne-mechada-f910efc3",

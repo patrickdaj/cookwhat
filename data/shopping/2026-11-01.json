@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:12:17.048Z",
+  "generatedAt": "2026-11-01T15:16:11.520Z",
   "targetServings": null,
   "sections": [
     {
@@ -20,24 +20,23 @@
         },
         {
           "item": "Brussels sprouts",
-          "qty": 1,
+          "qty": 1.13,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
           ],
           "hasUnquantified": false,
           "unit": "lb"
         },
         {
           "item": "carrots",
-          "qty": 14,
+          "qty": 10,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Pressure Cooker Carne Mechada",
             "Mexican Roasted Vegetables",
             "Japanese Potato Salad",
@@ -128,6 +127,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Mexican Roasted Vegetables"
@@ -146,6 +146,18 @@
           ],
           "hasUnquantified": false,
           "unit": "3-inch piece"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "fresh ginger",
@@ -178,7 +190,6 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Italian Crispy Chicken Thighs"
           ],
           "hasUnquantified": false,
@@ -191,7 +202,6 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -204,7 +214,6 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -212,12 +221,12 @@
         },
         {
           "item": "garlic",
-          "qty": 35,
+          "qty": 30,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Honey Harissa Salmon",
@@ -254,12 +263,11 @@
         },
         {
           "item": "lemon",
-          "qty": 4,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Honey Harissa Salmon",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
@@ -288,6 +296,18 @@
             "Mexican Roasted Vegetables",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Grilled Umami Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -356,12 +376,11 @@
         },
         {
           "item": "red potatoes",
-          "qty": 2,
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -405,11 +424,12 @@
         },
         {
           "item": "scallions",
-          "qty": 5,
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Japanese Potato Salad",
             "Pressure Cooker Bo Ssäm"
           ],
@@ -418,12 +438,12 @@
         },
         {
           "item": "shallot",
-          "qty": 20,
+          "qty": 12.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Japanese Potato Salad",
             "Italian Crispy Chicken Thighs",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
@@ -479,6 +499,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Instant Pot Crispy Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "zucchini",
@@ -683,18 +715,6 @@
           "unit": "cup"
         },
         {
-          "item": "capers",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "cassava flour",
           "qty": 2,
           "dim": "vol",
@@ -708,11 +728,12 @@
         },
         {
           "item": "coconut aminos",
-          "qty": 2,
+          "qty": 3.5,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Fauxchujang"
           ],
           "hasUnquantified": false,
@@ -744,11 +765,12 @@
         },
         {
           "item": "fish sauce",
-          "qty": 12.5,
+          "qty": 4.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
             "Italian Crispy Chicken Thighs",
@@ -757,7 +779,7 @@
             "Fauxchujang"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "tbsp"
         },
         {
           "item": "harissa",
@@ -822,11 +844,12 @@
         },
         {
           "item": "rice vinegar",
-          "qty": 26.5,
+          "qty": 28.75,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Japanese Potato Salad",
             "Fridge-Pickled Cucumbers",
             "Fauxchujang"
@@ -859,12 +882,25 @@
           "unit": "small tub"
         },
         {
-          "item": "toasted sesame seeds",
-          "qty": 2,
+          "item": "toasted sesame oil",
+          "qty": 0.5,
           "dim": "vol",
-          "unitLabel": "tbsp",
+          "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "qty": 2.75,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Honey Harissa Salmon",
             "Grilled Umami Bok Choy"
           ],
@@ -1089,5 +1125,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 82
+  "totalItems": 85
 }
