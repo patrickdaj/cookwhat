@@ -23,12 +23,27 @@
       "activeTimeMin": 5,
       "totalTimeMin": 15,
       "servings": 4,
-      "ingredients": [],
+      "ingredients": [
+        {
+          "item": "barramundi (Asian sea bass) fillets, about 1 in thick",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "or any 1-inch white fish; book uses 2 lb for 6, scaled to ~4"
+        },
+        {
+          "item": "ground white pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        }
+      ],
       "depaleo": [
         "Steamed jasmine rice",
         "Regular soy sauce at the table"
       ],
-      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33, its own side dish). Recipe calls for 2 lb barramundi (serves 6); 1 1/4–1 1/2 lb is right for ~4 or other 1-inch white fish; fish not on the list because the user said he only needs scallions + ginger."
+      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33, its own side dish). Salt + white pepper, avocado oil on the pan."
     },
     {
       "id": "ginger-scallion-sauce-lg33",

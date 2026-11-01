@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T21:07:02.933Z",
+  "generatedAt": "2026-11-01T21:08:57.332Z",
   "targetServings": null,
   "sections": [
     {
@@ -546,6 +546,18 @@
       "category": "meat-seafood",
       "items": [
         {
+          "item": "barramundi (Asian sea bass) fillets, about 1 in thick",
+          "qty": 1.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Ginger Scallion Fish Fillets"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "bone-in, skin-on chicken thighs",
           "qty": 6,
           "dim": "",
@@ -1009,11 +1021,12 @@
         },
         {
           "item": "ground white pepper",
-          "qty": 0.25,
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Ginger Scallion Fish Fillets",
             "Ginger Scallion Sauce"
           ],
           "hasUnquantified": false,
@@ -1060,13 +1073,6 @@
   "excludedStaples": [
     "coconut sugar"
   ],
-  "pendingScans": [
-    {
-      "title": "Ginger Scallion Fish Fillets",
-      "day": "Mon",
-      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 80
+  "pendingScans": [],
+  "totalItems": 81
 }
