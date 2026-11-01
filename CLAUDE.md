@@ -468,6 +468,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   and hidden sources too: anchovy, fish sauce, oyster sauce, Worcestershire,
   shrimp paste, dashi. Not picky otherwise; the user likes to make him something
   special.
+- **Wife can't have cheese at all (noted 2026-11; supersedes the low-cheese note below).** No cheese add-ons in her "For her" options, and no cheese garnish on shared dishes.
 - **Wife is going low-cheese (noted 2026-09)** — beyond the existing dairy:low
   lean: keep cheese OUT of the pot where possible and serve it as a table-side
   garnish so portions are dosed individually (worked for the feta orzo). Cheese-

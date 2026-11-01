@@ -74,33 +74,6 @@
       "notes": "Makes 1 cup; the fish uses 1/4 cup. Keeps 2 weeks, so it's great on Wednesday's chicken or Saturday's bo ssäm too."
     },
     {
-      "id": "for-her-crusty-bread-feta-a3cc62be",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "For her: jasmine rice (Mon)",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "chinese",
-      "protein": "vegetable",
-      "tags": [
-        "depaleo"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "feta",
-          "qty": 4,
-          "unit": "oz",
-          "category": "dairy",
-          "note": "for her + Jody (Tue veg)"
-        }
-      ],
-      "notes": "Steamed jasmine rice for her on Monday (from Wednesday's bag); feta is for Tuesday."
-    },
-    {
       "id": "roasted-asian-brussels-sprouts-salad-nnp",
       "day": "Mon",
       "slot": "dinner",
@@ -357,7 +330,6 @@
       "notes": "Taco bar for Jody night. 20 min high pressure + 15 min natural release, then shred. Slow cooker option: LOW 8 hr. Leftovers keep 4 days.",
       "depaleo": [
         "Regular corn or flour tortillas",
-        "Shredded cheese or cotija",
         "Sour cream"
       ]
     },
@@ -366,7 +338,7 @@
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "For her + Jody: tortillas, cheese, sour cream",
+      "title": "For her + Jody: tortillas + sour cream",
       "source": "",
       "sourceUrl": "",
       "cuisine": "latin",
@@ -383,13 +355,6 @@
           "qty": 1,
           "unit": "pack",
           "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "shredded cheese or cotija",
-          "qty": 1,
-          "unit": "small bag",
-          "category": "dairy",
           "note": ""
         },
         {
@@ -542,7 +507,7 @@
           "note": "topping"
         }
       ],
-      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta or cotija goes on at the table for her and Jody. Amounts from the recipe card via search; the site is blocked here."
+      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta/cotija topping is skipped (no cheese for her). Amounts from the recipe card via search; the site is blocked here."
     },
     {
       "id": "my-sister-s-phenomenal-grilled-green-chicken-041d5aff",
@@ -1016,44 +981,7 @@
           "note": "garnish"
         }
       ],
-      "notes": "Variation of the Cantonese thighs (p.280): sear skin-down until crisp, keep the broth off the skin, roast at 450°F to 165°F.",
-      "depaleo": [
-        "Spaghetti with olive oil and a little Parmesan"
-      ]
-    },
-    {
-      "id": "for-her-spaghetti-parmesan-4678c1a7",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "For her: spaghetti + Parmesan",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "depaleo"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "spaghetti",
-          "qty": 8,
-          "unit": "oz",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Parmesan",
-          "qty": 1,
-          "unit": "small wedge",
-          "category": "dairy",
-          "note": ""
-        }
-      ],
-      "notes": "Non-paleo add-on for his wife."
+      "notes": "Variation of the Cantonese thighs (p.280): sear skin-down until crisp, keep the broth off the skin, roast at 450°F to 165°F."
     },
     {
       "id": "pressure-cooker-bo-ss-m-199345dc",

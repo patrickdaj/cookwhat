@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T15:16:11.520Z",
+  "generatedAt": "2026-11-01T15:17:55.905Z",
   "targetServings": null,
   "sections": [
     {
@@ -608,18 +608,6 @@
           "unit": ""
         },
         {
-          "item": "feta",
-          "qty": 4,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "dairy",
-          "fromMeals": [
-            "For her: jasmine rice (Mon)"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "ghee",
           "qty": 2,
           "dim": "vol",
@@ -633,37 +621,13 @@
           "unit": "tbsp"
         },
         {
-          "item": "Parmesan",
-          "qty": 1,
-          "dim": "small wedge",
-          "unitLabel": "small wedge",
-          "category": "dairy",
-          "fromMeals": [
-            "For her: spaghetti + Parmesan"
-          ],
-          "hasUnquantified": false,
-          "unit": "small wedge"
-        },
-        {
-          "item": "shredded cheese or cotija",
-          "qty": 1,
-          "dim": "small bag",
-          "unitLabel": "small bag",
-          "category": "dairy",
-          "fromMeals": [
-            "For her + Jody: tortillas, cheese, sour cream"
-          ],
-          "hasUnquantified": false,
-          "unit": "small bag"
-        },
-        {
           "item": "sour cream",
           "qty": 1,
           "dim": "small tub",
           "unitLabel": "small tub",
           "category": "dairy",
           "fromMeals": [
-            "For her + Jody: tortillas, cheese, sour cream"
+            "For her + Jody: tortillas + sour cream"
           ],
           "hasUnquantified": false,
           "unit": "small tub"
@@ -680,7 +644,7 @@
           "unitLabel": "pack",
           "category": "bakery",
           "fromMeals": [
-            "For her + Jody: tortillas, cheese, sour cream"
+            "For her + Jody: tortillas + sour cream"
           ],
           "hasUnquantified": false,
           "unit": "pack"
@@ -856,18 +820,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "spaghetti",
-          "qty": 8,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "pantry",
-          "fromMeals": [
-            "For her: spaghetti + Parmesan"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "ssamjang",
@@ -1125,5 +1077,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 85
+  "totalItems": 81
 }
