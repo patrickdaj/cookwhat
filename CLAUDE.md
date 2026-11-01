@@ -93,6 +93,10 @@ grain/rice-heavy sides, "oats and whole grains for fiber", the ATK-first blend).
   vegetable dishes are paleo or close to it (skip the feta, yogurt, pita and
   grain sides, or turn those into the wife's add-ons). The Asian sites adapt
   easily with coconut aminos.
+- **House staples on the list may be hers.** Extras like sandwich bread, lunch
+  meat or snacks are often for his wife: don't flag those as non-paleo. Only call
+  out an item when it's clearly for him (peanut butter was his, so the swap is
+  almond butter).
 - Not medical advice. The user follows his doctor's guidance; DASH has the
   strongest evidence for blood pressure, and a veg-heavy, low-sodium paleo
   overlaps with it a lot.
