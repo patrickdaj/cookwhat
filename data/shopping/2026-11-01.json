@@ -1,11 +1,23 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T14:48:34.959Z",
+  "generatedAt": "2026-11-01T14:50:06.937Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "baby bok choy",
+          "qty": 6,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Umami Bok Choy"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
         {
           "item": "Brussels sprouts",
           "qty": 1,
@@ -104,8 +116,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Roasted Carrots with Ginger Sesame Sauce"
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -124,6 +135,18 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "dim": "1-inch piece",
+          "unitLabel": "1-inch piece",
+          "category": "produce",
+          "fromMeals": [
+            "Pressure Cooker Bo Ssäm"
+          ],
+          "hasUnquantified": false,
+          "unit": "1-inch piece"
         },
         {
           "item": "fresh mint",
@@ -178,7 +201,7 @@
         },
         {
           "item": "garlic",
-          "qty": 29,
+          "qty": 35,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -188,7 +211,8 @@
             "My Sister's Phenomenal Grilled Green Chicken",
             "Honey Harissa Salmon",
             "Italian Crispy Chicken Thighs",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -206,6 +230,18 @@
           "unit": ""
         },
         {
+          "item": "kimchi",
+          "qty": 1,
+          "dim": "jar",
+          "unitLabel": "jar",
+          "category": "produce",
+          "fromMeals": [
+            "Kimchi (store-bought)"
+          ],
+          "hasUnquantified": false,
+          "unit": "jar"
+        },
+        {
           "item": "lemon",
           "qty": 4,
           "dim": "",
@@ -220,15 +256,28 @@
           "unit": ""
         },
         {
+          "item": "lettuce heads (butter, green leaf, or romaine)",
+          "qty": 2,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Pressure Cooker Bo Ssäm"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
           "item": "lime",
-          "qty": 4,
+          "qty": 5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Whole Roasted Snapper with Citrus Vinaigrette",
             "Mexican Roasted Vegetables",
-            "My Sister's Phenomenal Grilled Green Chicken"
+            "My Sister's Phenomenal Grilled Green Chicken",
+            "Grilled Umami Bok Choy"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -320,6 +369,18 @@
           "unit": "lb"
         },
         {
+          "item": "riced cauliflower (fresh)",
+          "qty": 16,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Cauli Rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
           "item": "russet potatoes",
           "qty": 1.5,
           "dim": "lb",
@@ -333,12 +394,13 @@
         },
         {
           "item": "scallions",
-          "qty": 2,
+          "qty": 5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "Japanese Potato Salad",
+            "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -397,18 +459,6 @@
           "unit": ""
         },
         {
-          "item": "young carrots",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Carrots with Ginger Sesame Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "zucchini",
           "qty": 3,
           "dim": "",
@@ -434,6 +484,18 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Italian Crispy Chicken Thighs"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "boneless pork shoulder roast (3 1/2 lb), tied",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -517,12 +579,13 @@
         },
         {
           "item": "ghee",
-          "qty": 1,
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "dairy",
           "fromMeals": [
-            "Pressure Cooker Carne Mechada"
+            "Pressure Cooker Carne Mechada",
+            "Pressure Cooker Bo Ssäm"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -671,17 +734,18 @@
         },
         {
           "item": "fish sauce",
-          "qty": 3,
+          "qty": 10,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
             "Pressure Cooker Carne Mechada",
             "My Sister's Phenomenal Grilled Green Chicken",
-            "Italian Crispy Chicken Thighs"
+            "Italian Crispy Chicken Thighs",
+            "Grilled Umami Bok Choy"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
         },
         {
           "item": "harissa",
@@ -768,6 +832,18 @@
           "unit": "oz"
         },
         {
+          "item": "ssamjang",
+          "qty": 1,
+          "dim": "small tub",
+          "unitLabel": "small tub",
+          "category": "pantry",
+          "fromMeals": [
+            "For her: steamed rice + ssamjang"
+          ],
+          "hasUnquantified": false,
+          "unit": "small tub"
+        },
+        {
           "item": "toasted sesame seeds",
           "qty": 2,
           "dim": "vol",
@@ -775,7 +851,7 @@
           "category": "pantry",
           "fromMeals": [
             "Honey Harissa Salmon",
-            "Roasted Carrots with Ginger Sesame Sauce"
+            "Grilled Umami Bok Choy"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -962,20 +1038,22 @@
       ]
     }
   ],
-  "excludedStaples": [],
+  "excludedStaples": [
+    "coconut sugar"
+  ],
   "pendingScans": [
     {
-      "title": "Pressure Cooker Bo Ssäm",
+      "title": "Fridge-Pickled Cucumbers",
       "day": "Sat",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.132",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.74",
       "cookbook": true
     },
     {
-      "title": "Ginger Sesame Sauce",
+      "title": "Fauxchujang",
       "day": "Sat",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.66",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.61",
       "cookbook": true
     }
   ],
-  "totalItems": 73
+  "totalItems": 79
 }

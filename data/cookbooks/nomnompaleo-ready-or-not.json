@@ -346,7 +346,53 @@
     {
       "title": "Pressure Cooker Bo Ssäm",
       "page": 132,
-      "chapter": "Make-Ahead"
+      "chapter": "Make-Ahead",
+      "scanned": true,
+      "captured": {
+        "makes": "6 servings · 12 hours (30 minutes hands-on)",
+        "ingredients": [
+          "1 (3 1/2-pound) boneless pork shoulder roast, tied with butcher's twine",
+          "1 tablespoon kosher salt",
+          "1 tablespoon coconut sugar",
+          "1 tablespoon ghee or lard",
+          "3 scallions, trimmed and cut into 3-inch segments",
+          "6 garlic cloves, peeled",
+          "1 (1-inch) piece fresh ginger, peeled and cut into 1/4-inch coins",
+          "2 heads butter, green leaf, or romaine lettuce, washed, spun dry and separated into leaves",
+          "2 cups Cauli Rice (page 80)",
+          "1 cup Spicy Kimchi (page 62) and/or Wimpchi (page 62)",
+          "1 cup Fridge-Pickled Cucumbers (page 74)",
+          "1/2 cup Fauxchujang (page 61)"
+        ],
+        "steps": [
+          "Pat the pork dry. Mix the salt and coconut sugar and rub it all over the roast, into every nook.",
+          "Refrigerate the roast uncovered in a large bowl for at least 8 hours or up to 3 days.",
+          "When ready to cook, pat the pork dry. Heat 1 tablespoon ghee on the pressure cooker's Sauté setting (medium-high for stovetop).",
+          "Sear the roast on 3 sides, about 2 minutes undisturbed per side, leaving the top (skin/fat side) unbrowned.",
+          "Add the scallions, garlic, ginger and 1/2 cup water (1 cup for stovetop); pressure-cook on high 2 hours (stovetop: 1 1/2 hours).",
+          "Turn off the cooker and let the pressure release naturally; if it hasn't come down after 15 minutes, release it manually. Check the roast is fork-tender (if not, 30 more minutes at high pressure).",
+          "Turn on the broiler to high with the rack in the lower-middle; set a wire rack on a foil-lined rimmed baking sheet.",
+          "Remove the twine and set the pork fat-side up on the rack. Pour the cooking liquid into a large cup and skim off the fat; you should have about 2 cups of pork jus.",
+          "Broil the roast 5 to 10 minutes, basting with the jus, until nicely browned. Transfer to a platter.",
+          "Shred the pork and pour more jus over it. Serve with lettuce, Cauli Rice, kimchi, pickles and Fauxchujang: pile it on a lettuce leaf, spoon on Fauxchujang, wrap and eat."
+        ],
+        "tips": [
+          "Bo ssäm means 'wrapped' or 'packaged': slow-cooked pork with a crunchy exterior, spicy sauce, kimchi, pickles and rice, all in lettuce. A paleo shortcut of David Chang's Momofuku Ssäm Bar classic.",
+          "Dry-brine the salt-and-sugar rub at least 8 hours, up to 3 days, uncovered.",
+          "SWITCH IT UP, Slow Cooker Bo Ssäm (p.134): sear in a cast-iron skillet, then slow-cook on LOW with the scallions, ginger and garlic (no liquid needed) 9 to 12 hours until fork-tender; continue at the broiling step.",
+          "Extras keep 4 days refrigerated or 6 months frozen."
+        ],
+        "ai": {
+          "cliffNotes": "Salt-and-sugar-cured pork shoulder pressure-cooked 2 hours with aromatics, broiled crusty while basting with its own jus, then shredded into lettuce wraps with kimchi, pickles and Fauxchujang.",
+          "keyTips": [
+            "Start the dry brine Thursday or Friday night: 8 hours minimum, and longer is better.",
+            "Leave the fat side unseared so it can blister under the broiler.",
+            "Skim the jus before basting; it's the seasoning for the shredded meat.",
+            "Kimchi and Fauxchujang bring the heat. Keep them on the side for the low-heat eater."
+          ]
+        }
+      },
+      "makes": "6 servings · 12 hours (30 minutes hands-on)"
     },
     {
       "title": "Slow Cooker Bo Ssäm",
@@ -764,12 +810,73 @@
     {
       "title": "Grilled Balsamic Bok Choy with Golden Raisins",
       "page": 260,
-      "chapter": "Make-Now"
+      "chapter": "Make-Now",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 15 minutes",
+        "ingredients": [
+          "6 bunches baby bok choy",
+          "1/4 cup avocado oil or olive oil, plus extra for the grill",
+          "1/2 teaspoon kosher salt",
+          "Freshly ground black pepper",
+          "Aged balsamic vinegar",
+          "1/4 cup golden raisins, soaked in hot water 5 minutes until plump",
+          "1/4 cup toasted almond slices",
+          "Fresh mint leaves"
+        ],
+        "steps": [
+          "Heat a grill or grill pan to medium. Trim the woody ends of the bok choy, keeping the bunches intact, and halve them lengthwise.",
+          "Wash out any grit at the base, shake off the water, and lay them on a platter.",
+          "Drizzle with 1/4 cup oil and the salt; toss with your hands to coat.",
+          "Grease the hot grates with an oiled paper towel.",
+          "Grill cut-side down about 3 minutes until charred; flip and cook 3 minutes more until tender-crisp.",
+          "Season with pepper, drizzle with balsamic, and garnish with the raisins, almonds and mint."
+        ],
+        "tips": [
+          "No grill or grill pan? Roast cut-side up on a lined baking sheet at 400°F for 20 minutes, then finish as in the last step.",
+          "Wash at the base, where dirt hides."
+        ],
+        "ai": {
+          "cliffNotes": "Halved baby bok choy charred on the grill, finished with balsamic, plump golden raisins, almonds and mint.",
+          "keyTips": [
+            "Keep the bunches intact when trimming so the halves hold together on the grates.",
+            "The oven route (400°F, 20 min) works fine on a cold night."
+          ]
+        }
+      },
+      "makes": "4 servings · 15 minutes"
     },
     {
       "title": "Grilled Umami Bok Choy",
       "page": 261,
-      "chapter": "Make-Now"
+      "chapter": "Make-Now",
+      "scanned": true,
+      "captured": {
+        "makes": "4 servings · 15 minutes (variation of p.260)",
+        "ingredients": [
+          "Grilled Balsamic Bok Choy (p.260) ingredients, minus the vinegar, raisins and almonds, plus:",
+          "1 teaspoon fish sauce",
+          "Juice from 1 lime",
+          "Toasted sesame seeds, for garnish"
+        ],
+        "steps": [
+          "Follow Grilled Balsamic Bok Choy (p.260) through the grilling (or 400°F oven roast).",
+          "In the final step, skip the vinegar, raisins and almonds; drizzle with 1 teaspoon fish sauce and the juice of 1 lime.",
+          "Garnish with toasted sesame seeds and serve."
+        ],
+        "tips": [
+          "SWITCH IT UP from the balsamic version for Asian flavors.",
+          "Same no-grill option: 400°F oven, 20 minutes, cut-side up."
+        ],
+        "ai": {
+          "cliffNotes": "Charred baby bok choy dressed with fish sauce and lime, finished with sesame seeds.",
+          "keyTips": [
+            "Just 1 tsp fish sauce across 6 bunches keeps the sodium modest.",
+            "Dress it right before serving so the bok choy stays crisp."
+          ]
+        }
+      },
+      "makes": "4 servings · 15 minutes (variation of p.260)"
     },
     {
       "title": "Red Hot Onion Rings",

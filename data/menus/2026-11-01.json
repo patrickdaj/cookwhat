@@ -1132,72 +1132,107 @@
         "book",
         "new",
         "paleo",
-        "needs-scan",
         "project"
       ],
       "activeTimeMin": 30,
       "totalTimeMin": 120,
       "servings": 6,
-      "ingredients": [],
-      "notes": "Korean pork shoulder in lettuce wraps. NEEDS SCAN of p.132–133 before shopping.",
+      "ingredients": [
+        {
+          "item": "boneless pork shoulder roast (3 1/2 lb), tied",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "dry-brine Thu or Fri night (8 hr to 3 days)"
+        },
+        {
+          "item": "coconut sugar",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "ghee",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "or lard"
+        },
+        {
+          "item": "scallions",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh ginger",
+          "qty": 1,
+          "unit": "1-inch piece",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lettuce heads (butter, green leaf, or romaine)",
+          "qty": 2,
+          "unit": "head",
+          "category": "produce",
+          "note": "for wrapping"
+        }
+      ],
+      "notes": "Bo ssäm = 'wrapped'. Dry-brine 8 hr+ (start Thu/Fri), 2 hr high pressure, natural release, broil 5–10 min basting with the skimmed jus, shred. Kimchi and Fauxchujang on the side for the low-heat eater.",
       "depaleo": [
-        "Steamed rice",
-        "Regular ssamjang or gochujang mayo"
+        "Steamed rice instead of cauli rice",
+        "Regular ssamjang (milder than gochujang) instead of Fauxchujang"
       ]
     },
     {
-      "id": "ginger-sesame-sauce-1ad69e02",
       "day": "Sat",
       "slot": "dinner",
       "role": "side",
-      "title": "Ginger Sesame Sauce",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.66",
       "sourceUrl": "",
       "cuisine": "korean",
       "protein": "vegetable",
-      "tags": [
-        "book",
-        "new",
-        "paleo",
-        "needs-scan"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
+      "activeTimeMin": 15,
+      "totalTimeMin": 15,
       "servings": 4,
-      "ingredients": [],
-      "notes": "For the carrots (1/4 cup). NEEDS SCAN of p.66."
-    },
-    {
-      "id": "roasted-carrots-with-ginger-sesame-sauce-29bc1d8f",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Roasted Carrots with Ginger Sesame Sauce",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.180",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
+      "notes": "Grill pan or 400°F oven 20 min cut-side up; dress with fish sauce + lime, sesame on top.",
+      "id": "grilled-umami-bok-choy-ron261",
+      "title": "Grilled Umami Bok Choy",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.261",
       "tags": [
         "book",
         "new",
         "paleo"
       ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 35,
-      "servings": 4,
       "ingredients": [
         {
-          "item": "young carrots",
-          "qty": 1,
-          "unit": "lb",
+          "item": "baby bok choy",
+          "qty": 6,
+          "unit": "bunch",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "fresh chives",
-          "qty": 0.25,
-          "unit": "cup",
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fish sauce",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
           "note": ""
         },
         {
@@ -1207,8 +1242,136 @@
           "category": "pantry",
           "note": ""
         }
+      ]
+    },
+    {
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "notes": "Bo ssäm component. p.80 not scanned; shortcut: sauté fresh riced cauliflower in a little ghee or olive oil with salt.",
+      "id": "cauli-rice-ron80",
+      "title": "Cauli Rice",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.80",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "needs-scan"
       ],
-      "notes": "425°F, 30 min. No peeling needed. Sauce is p.66."
+      "ingredients": [
+        {
+          "item": "riced cauliflower (fresh)",
+          "qty": 16,
+          "unit": "oz",
+          "category": "produce",
+          "note": "for 2 cups cauli rice; or rice a small head"
+        }
+      ]
+    },
+    {
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "notes": "Bo ssäm component, served on the side.",
+      "id": "kimchi-store-bossam",
+      "title": "Kimchi (store-bought)",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.62 (Spicy Kimchi / Wimpchi)",
+      "tags": [
+        "book",
+        "paleo"
+      ],
+      "ingredients": [
+        {
+          "item": "kimchi",
+          "qty": 1,
+          "unit": "jar",
+          "category": "produce",
+          "note": "refrigerated case; mild if they have it. The book's homemade versions (p.62) need days to ferment"
+        }
+      ]
+    },
+    {
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "notes": "Bo ssäm component, 1 cup. NEEDS SCAN of p.74.",
+      "id": "fridge-pickled-cucumbers-ron74",
+      "title": "Fridge-Pickled Cucumbers",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.74",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "needs-scan"
+      ],
+      "ingredients": []
+    },
+    {
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 4,
+      "notes": "Bo ssäm component, 1/2 cup paleo gochujang. NEEDS SCAN of p.61. Serve on the side (heat).",
+      "id": "fauxchujang-ron61",
+      "title": "Fauxchujang",
+      "source": "Ready or Not! (Nom Nom Paleo) — p.61",
+      "tags": [
+        "book",
+        "new",
+        "paleo",
+        "needs-scan"
+      ],
+      "ingredients": []
+    },
+    {
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "sourceUrl": "",
+      "cuisine": "korean",
+      "protein": "vegetable",
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "notes": "Non-paleo add-ons for his wife; rice comes from Wednesday's bag.",
+      "id": "forher-sat-rice-ssamjang",
+      "title": "For her: steamed rice + ssamjang",
+      "source": "",
+      "tags": [
+        "depaleo"
+      ],
+      "ingredients": [
+        {
+          "item": "ssamjang",
+          "qty": 1,
+          "unit": "small tub",
+          "category": "pantry",
+          "note": "Korean dipping paste, Asian aisle; milder than gochujang"
+        }
+      ]
     }
   ],
   "setAt": "2026-11-01T14:48:34.838Z"
