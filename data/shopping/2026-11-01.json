@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:06:02.263Z",
+  "generatedAt": "2026-11-02T02:21:36.575Z",
   "targetServings": null,
   "sections": [
     {
@@ -55,40 +55,16 @@
           "unit": "lb"
         },
         {
-          "item": "carrots",
-          "qty": 2,
+          "item": "cucumber",
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Cucumber-Yogurt Sauce (tzatziki)"
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Italian Crispy Chicken Thighs"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "cremini mushrooms",
-          "qty": 6,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Italian Crispy Chicken Thighs"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "fennel bulbs",
@@ -109,7 +85,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Italian Crispy Chicken Thighs",
+            "Sautéed Sole with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -140,13 +116,26 @@
           "unit": "bunch"
         },
         {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Italian Crispy Chicken Thighs",
+            "Greek-Style Garlic-Lemon Potatoes",
+            "Cucumber-Yogurt Sauce (tzatziki)",
             "Greek Meatballs and Potatoes",
             "Sautéed Green Beans",
             "One Pan Chicken Orzo",
@@ -175,6 +164,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -182,15 +172,17 @@
         },
         {
           "item": "garlic",
-          "qty": 37,
+          "qty": 36,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Salmon with Chermoula",
+            "Greek-Style Garlic-Lemon Potatoes",
             "Sauteed Bok Choy with Garlic",
-            "Honey Harissa Salmon",
-            "Italian Crispy Chicken Thighs",
+            "Sautéed Sole with Fresh Tomato Relish",
+            "Sauteed Zucchini Ribbons with Mint and Pistachios",
+            "Cucumber-Yogurt Sauce (tzatziki)",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Greek Meatballs and Potatoes",
             "Ladolemono (Greek lemon-olive oil sauce)",
@@ -216,12 +208,12 @@
         },
         {
           "item": "lemon",
-          "qty": 7.5,
+          "qty": 6.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Honey Harissa Salmon",
+            "Sautéed Sole with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Ladolemono (Greek lemon-olive oil sauce)",
             "Sautéed Green Beans",
@@ -239,6 +231,7 @@
           "category": "produce",
           "fromMeals": [
             "Pan-Roasted Salmon with Chermoula",
+            "Greek-Style Garlic-Lemon Potatoes",
             "Sauteed Bok Choy with Garlic"
           ],
           "hasUnquantified": true,
@@ -305,6 +298,18 @@
           "unit": "lb"
         },
         {
+          "item": "ripe tomatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Sole with Fresh Tomato Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "Roma tomatoes",
           "qty": 2,
           "dim": "",
@@ -329,13 +334,13 @@
           "unit": ""
         },
         {
-          "item": "shallots",
-          "qty": 11,
+          "item": "shallot",
+          "qty": 9,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Italian Crispy Chicken Thighs",
+            "Sautéed Sole with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -370,12 +375,12 @@
         },
         {
           "item": "Yukon Gold potatoes",
-          "qty": 1,
+          "qty": 1.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Instant Pot Crispy Potatoes"
+            "Greek-Style Garlic-Lemon Potatoes"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -393,13 +398,13 @@
           "unit": ""
         },
         {
-          "item": "zucchini",
-          "qty": 2,
+          "item": "zucchini or yellow squash (6–8 oz each)",
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -409,18 +414,6 @@
     {
       "category": "meat-seafood",
       "items": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 6,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Italian Crispy Chicken Thighs"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
         {
           "item": "boneless skinless chicken breasts",
           "qty": 1,
@@ -435,11 +428,12 @@
         },
         {
           "item": "boneless skinless chicken thighs",
-          "qty": 1,
+          "qty": 2,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)",
             "Indoor Paella"
           ],
           "hasUnquantified": false,
@@ -494,13 +488,13 @@
           "unit": "oz"
         },
         {
-          "item": "salmon fillets (6 oz, 1 1/2 in thick)",
-          "qty": 3,
+          "item": "sole fillets (2–3 oz, 1/4–1/2 in thick)",
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Sautéed Sole with Fresh Tomato Relish"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -521,6 +515,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "plain low-fat Greek yogurt",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "dairy",
+          "fromMeals": [
+            "Cucumber-Yogurt Sauce (tzatziki)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "plain low-fat Greek yogurt",
@@ -586,6 +592,18 @@
           "unit": "cup"
         },
         {
+          "item": "cider vinegar",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "couscous",
           "qty": 1,
           "dim": "vol",
@@ -596,42 +614,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "fish sauce",
-          "qty": 0.33,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Italian Crispy Chicken Thighs"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "harissa",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Honey Harissa Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Honey Harissa Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "honey",
@@ -670,18 +652,6 @@
           "unit": "cup"
         },
         {
-          "item": "pitted green olives",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Honey Harissa Salmon"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "pitted kalamata olives",
           "qty": 0.33,
           "dim": "vol",
@@ -694,13 +664,25 @@
           "unit": "cup"
         },
         {
-          "item": "toasted sesame seeds",
-          "qty": 1,
+          "item": "red wine vinegar",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sautéed Sole with Fresh Tomato Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Sauteed Zucchini Ribbons with Mint and Pistachios"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -760,18 +742,29 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 6,
+          "qty": 5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Italian Crispy Chicken Thighs",
             "One Pan Chicken Orzo",
             "Simple Couscous",
             "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "tomato paste",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "whole peeled plum tomatoes",
@@ -791,6 +784,18 @@
       "category": "spices",
       "items": [
         {
+          "item": "Aleppo pepper",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "bay leaf",
           "qty": 1,
           "dim": "",
@@ -801,6 +806,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "dried mint",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "dried oregano",
@@ -881,6 +898,18 @@
           "unit": "tsp"
         },
         {
+          "item": "red pepper flakes",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Turkish Chicken Kabobs (Tavuk Şiş)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "saffron threads",
           "qty": 0.5,
           "dim": "vol",
@@ -956,13 +985,13 @@
       "category": "other",
       "items": [
         {
-          "item": "parchment paper",
+          "item": "skewers",
           "qty": null,
           "dim": "",
           "unitLabel": "",
           "category": "other",
           "fromMeals": [
-            "Honey Harissa Salmon"
+            "Turkish Chicken Kabobs (Tavuk Şiş)"
           ],
           "hasUnquantified": true,
           "unit": ""
@@ -971,8 +1000,9 @@
     }
   ],
   "excludedStaples": [
-    "extra-virgin olive oil"
+    "extra-virgin olive oil",
+    "all-purpose flour"
   ],
   "pendingScans": [],
-  "totalItems": 73
+  "totalItems": 75
 }

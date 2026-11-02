@@ -108,6 +108,14 @@
         "bass",
         "tilapia",
         "swordfish",
+        "sole",
+        "flounder",
+        "sardine",
+        "mackerel",
+        "branzino",
+        "barramundi",
+        "haddock",
+        "pollock",
         "seafood"
       ],
       "vegetarian": [
@@ -214,13 +222,14 @@
     "cuisine": {
       "scope": "pure Mediterranean (from 2026-11-02): Greek, Italian, Spanish, Provencal/southern French, Levantine, Turkish, North African",
       "paused": [
-        "thai",
-        "japanese",
         "chinese",
+        "indian",
+        "japanese",
         "korean",
-        "vietnamese",
         "mexican",
-        "indian"
+        "paleo recipes (Nom Nom Paleo books and paleo sites)",
+        "thai",
+        "vietnamese"
       ],
       "note": "Asian/Mexican are paused, not avoided: past menus with them still pass plan check, and the ~2 Asian/week target is retired."
     }

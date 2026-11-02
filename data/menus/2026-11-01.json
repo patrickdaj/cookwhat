@@ -77,33 +77,62 @@
       "notes": "Everything is on hand, no shopping. Half batch of chermoula: blitz cilantro, olive oil, lime juice, garlic, cumin, paprika and a pinch of salt; skip the cayenne (low heat). Sear the salmon skin-side down in an ovensafe skillet, flip, finish in a 325°F oven to about 125–130°F for salmon (the book pulls halibut at 140°F), rest 5 min, spoon chermoula over. 12 oz feeds the two of you, no lunch."
     },
     {
-      "id": "instant-pot-crispy-potatoes-nnp",
+      "id": "greek-lemon-potatoes-mon",
       "day": "Mon",
       "slot": "dinner",
       "role": "side",
-      "title": "Instant Pot Crispy Potatoes",
-      "source": "Nom Nom Paleo",
-      "sourceUrl": "https://nomnompaleo.com/pressure-cooker-crispy-potatoes",
-      "cuisine": "mediterranean",
+      "title": "Greek-Style Garlic-Lemon Potatoes",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
+      "sourceUrl": "",
+      "cuisine": "greek",
       "protein": "vegetable",
       "tags": [
-        "web",
-        "new",
-        "paleo"
+        "book",
+        "redo",
+        "carb",
+        "on-hand"
       ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 40,
-      "servings": 4,
+      "activeTimeMin": 15,
+      "totalTimeMin": 35,
+      "servings": 3,
       "ingredients": [
         {
           "item": "Yukon Gold potatoes",
-          "qty": 1,
+          "qty": 1.5,
           "unit": "lb",
           "category": "produce",
           "note": "on hand (the bag of small golds)"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "lime",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "book: 1 tsp lemon zest + 3 tbsp juice; use what lime is left after the chermoula, or a lemon if you have one"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "on hand"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
         }
       ],
-      "notes": "His carb. 5 min high pressure + natural release, then crisp in avocado oil in a hot skillet. Finish with sliced scallion in place of the optional chives/lemon to suit the meal."
+      "notes": "Skillet potatoes: covered with a splash of water until tender, then uncovered to brown; toss with raw garlic, citrus and parsley off the heat. You've made these before. Scaled to about 3/4 batch."
     },
     {
       "id": "sauteed-bok-choy-garlic",
@@ -149,181 +178,289 @@
       "notes": "ATK's chard method with your bok choy: slice the white stems on the bias and cook them first (about 5 min), then add the leaves in two batches; finish with a squeeze of lime off the heat."
     },
     {
-      "id": "honey-harissa-salmon-10f97660",
+      "id": "sauteed-sole-tomato-relish",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Honey Harissa Salmon",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.272",
+      "title": "Sautéed Sole with Fresh Tomato Relish",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260 (relish p.261)",
       "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "salmon",
+      "cuisine": "italian",
+      "protein": "sole",
       "tags": [
         "book",
         "new",
-        "weeknight"
+        "weeknight",
+        "fast"
       ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 30,
+      "activeTimeMin": 20,
+      "totalTimeMin": 25,
       "servings": 3,
       "ingredients": [
         {
-          "item": "salmon fillets (6 oz, 1 1/2 in thick)",
-          "qty": 3,
+          "item": "sole fillets (2–3 oz, 1/4–1/2 in thick)",
+          "qty": 6,
           "unit": "",
           "category": "meat-seafood",
-          "note": "3 for the two of you + a lunch (recipe makes 4)"
+          "note": "about 1 lb; alt: flounder. Not thinner than 1/4 in"
         },
         {
-          "item": "harissa",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "mild jarred harissa (or make ATK p.316); keep it off her packet"
-        },
-        {
-          "item": "honey",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemons",
+          "item": "ripe tomatoes",
           "qty": 2,
           "unit": "",
           "category": "produce",
-          "note": "1 for zest, 1 for juice"
+          "note": "relish: cored, seeded, 1/4-in dice"
         },
         {
-          "item": "carrots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "thin matchsticks"
-        },
-        {
-          "item": "zucchini",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "thin matchsticks"
-        },
-        {
-          "item": "pitted green olives",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
+          "item": "shallot",
           "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "small, minced"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 2,
           "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "parchment paper",
-          "qty": null,
-          "unit": "",
-          "category": "other",
-          "note": ""
-        }
-      ],
-      "notes": "Salmon steamed with carrot and zucchini matchsticks in parchment packets, 450°F for 10–15 min; pull before 145°F. Low heat: use a mild harissa, and her packet can skip it (honey + lemon only), with extra harissa at the table."
-    },
-    {
-      "id": "italian-crispy-chicken-thighs-e6d5634a",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Italian Crispy Chicken Thighs",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.283",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "chicken",
-      "tags": [
-        "book",
-        "new",
-        "weeknight"
-      ],
-      "activeTimeMin": 25,
-      "totalTimeMin": 45,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "bone-in, skin-on chicken thighs",
-          "qty": 6,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": ""
-        },
-        {
-          "item": "cremini mushrooms",
-          "qty": 6,
-          "unit": "oz",
           "category": "produce",
-          "note": "book gives no amount; stands in for 6 dried shiitakes"
-        },
-        {
-          "item": "shallots",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": "1 cup thinly sliced"
+          "note": "chopped"
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 1,
           "unit": "clove",
           "category": "produce",
-          "note": ""
+          "note": "small"
         },
         {
-          "item": "fish sauce",
+          "item": "red wine vinegar",
           "qty": 1,
           "unit": "tsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "low-sodium chicken broth",
+          "item": "lemon",
           "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "wedges"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 0.5,
           "unit": "cup",
-          "category": "canned",
+          "category": "pantry",
+          "note": "for dredging"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Make the no-cook relish first and let it sit 15 min. Dredge the sole lightly in flour, sear in two batches in a hot nonstick skillet (about 2–3 min, then 30–60 sec after flipping with two spatulas), wipe the pan between batches. Scaled from 8 fillets for 4 to 6 for 3."
+    },
+    {
+      "id": "zucchini-ribbons-mint-pistachio",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Zucchini Ribbons with Mint and Pistachios",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.230",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "fast"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 20,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "zucchini or yellow squash (6–8 oz each)",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
           "note": ""
         },
         {
-          "item": "cherry tomatoes",
-          "qty": 1,
+          "item": "fresh mint",
+          "qty": 0.33,
           "unit": "cup",
           "category": "produce",
-          "note": "a handful"
+          "note": "chopped"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toasted, chopped"
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2.33,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Shave the squash into thin ribbons with a vegetable peeler (skip the seedy core); steep the garlic in the vinegar 10 min; sear the ribbons 3–4 min max and toss with the dressing, mint and pistachios."
+    },
+    {
+      "id": "turkish-chicken-kabobs",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Turkish Chicken Kabobs (Tavuk Şiş)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/turkish-chicken-kabobs-tavuk-sis/",
+      "cuisine": "turkish",
+      "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "weeknight"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 70,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "1-in pieces"
+        },
+        {
+          "item": "dried mint",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "finely chopped"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "recipe says 1 tsp; cut way down for low heat"
+        },
+        {
+          "item": "Aleppo pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "optional; alt: sweet paprika"
+        },
+        {
+          "item": "tomato paste",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": "1 tbsp + 2 tbsp standing in for the Turkish pepper paste (the recipe's own swap)"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "skewers",
+          "qty": null,
+          "unit": "",
+          "category": "other",
+          "note": "metal, or soaked wooden"
+        }
+      ],
+      "notes": "Marinate at least 30 min (or overnight, then back to room temp). Grill over medium-high, turning every 3–4 min, about 12 min total; or broil on a rack close to the element, turning once. Rest 3–5 min."
+    },
+    {
+      "id": "cucumber-yogurt-sauce",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Cucumber-Yogurt Sauce (tzatziki)",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.233",
+      "sourceUrl": "",
+      "cuisine": "turkish",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "sauce"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "plain low-fat Greek yogurt",
+          "qty": 1,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "from the breakfast tub"
+        },
+        {
+          "item": "cucumber",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "on hand; peeled, seeded, shredded"
         },
         {
           "item": "fresh parsley",
-          "qty": 1,
-          "unit": "bunch",
+          "qty": 2,
+          "unit": "tbsp",
           "category": "produce",
-          "note": "garnish"
+          "note": "on hand; the book allows parsley, mint or cilantro for the dill"
         },
         {
-          "item": "fresh basil",
-          "qty": null,
-          "unit": "",
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
           "category": "produce",
-          "note": "garnish"
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
         }
       ],
-      "notes": "Variation of the Cantonese thighs (p.280): sear skin-down until crisp, keep the broth off the skin, roast at 450°F to 165°F."
+      "notes": "The kabobs' tzatziki. Make it day-of (keeps only a day)."
     },
     {
       "day": "Fri",

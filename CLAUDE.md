@@ -42,7 +42,7 @@ generate a shopping list.
 The user tried **paleo for two days (2026-11-01..02) and rolled it back** to a full
 **Mediterranean** pattern (heart + blood pressure). Everyone eats the same dinner
 again, so no separate "For her" add-ons are needed. The 2026-11-01 week was
-replanned Tue–Sat as Mediterranean (Monday's Cantonese fish had already happened).
+replanned as all-Mediterranean, using what was already in the house for Monday.
 
 - **Pure Mediterranean, the cuisine too (2026-11-02).** Dinners come from
   Mediterranean-region cooking: Greek, Italian, Spanish, Provençal/southern French,
@@ -54,12 +54,12 @@ replanned Tue–Sat as Mediterranean (Monday's Cantonese fish had already happen
   lunch or two. A big Saturday project (paella, a braise) can make 6 to cover
   Sunday lunch.
 
-- **What stays from the paleo week:** the three Nom Nom Paleo books are catalogued
-  in `data/cookbooks/nomnompaleo-*.json` and remain a good source (lots of Asian,
-  veg-forward, olive/avocado-oil dishes). Use their Mediterranean-leaning recipes
-  (harissa salmon, Italian chicken) while the cuisine is pure Mediterranean. The
-  paleo sites stay in `preferredSites` but rank last. The curl + JSON-LD fetch method
-  (see Recipe tips) works for most of them.
+- **Paleo recipes are out (2026-11-02).** Don't plan Nom Nom Paleo or other paleo
+  recipes, even Mediterranean-leaning ones. The user had all of them pulled from
+  the 11/01 week (harissa salmon, Italian crispy thighs, Instant Pot potatoes).
+  The three books stay catalogued in `data/cookbooks/nomnompaleo-*.json` and the
+  paleo sites stay at the end of `preferredSites`, but treat both as paused until
+  he asks for them. The curl + JSON-LD fetch method (see Recipe tips) still works.
 - **Red meat back to 0–1 nights/week** (`redMeatMaxPerWeek: 1`), lean cuts.
 - **Blood pressure:** watch sodium (low-sodium broth, measure fish sauce, soy and
   salt, and flavor with acid, herbs and spice) and lean on potassium-rich produce.
