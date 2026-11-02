@@ -5,194 +5,76 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "ginger-scallion-fish-fillets-lg156",
+      "id": "salmon-chermoula",
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Ginger Scallion Fish Fillets",
-      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.156",
+      "title": "Pan-Roasted Salmon with Chermoula",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.250",
       "sourceUrl": "",
-      "cuisine": "chinese",
-      "protein": "fish",
+      "cuisine": "moroccan",
+      "protein": "salmon",
       "tags": [
         "book",
         "new",
-        "paleo",
-        "weeknight"
+        "weeknight",
+        "on-hand"
       ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "barramundi (Asian sea bass) fillets, about 1 in thick",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": "or any 1-inch white fish; book uses 2 lb for 6, scaled to ~4"
-        },
-        {
-          "item": "ground white pepper",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "depaleo": [
-        "Steamed jasmine rice",
-        "Regular soy sauce at the table"
-      ],
-      "notes": "Broil 6 in from the element, 8–12 min to 140°F, then spoon on Ginger Scallion Sauce (p.33, its own side dish). Salt + white pepper, avocado oil on the pan."
-    },
-    {
-      "id": "ginger-scallion-sauce-lg33",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Ginger Scallion Sauce",
-      "source": "Nom Nom Paleo: Let's Go! (Nom Nom Paleo) — p.33",
-      "sourceUrl": "",
-      "cuisine": "chinese",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 45,
-      "servings": 16,
-      "ingredients": [
-        {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": "1 cup finely minced"
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "3-inch piece",
-          "category": "produce",
-          "note": "3 tbsp finely minced"
-        },
-        {
-          "item": "ground white pepper",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        }
-      ],
-      "notes": "Makes 1 cup; the fish uses 1/4 cup. Keeps 2 weeks, so it's great on Wednesday's chicken or Saturday's bo ssäm too."
-    },
-    {
-      "id": "roasted-asian-brussels-sprouts-salad-nnp",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
-      "source": "Nom Nom Paleo (also Ready or Not! p.258)",
-      "sourceUrl": "https://nomnompaleo.com/warm-brussels-sprouts-slaw-with-asian-citrus",
-      "cuisine": "chinese",
-      "protein": "vegetable",
-      "tags": [
-        "web",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 15,
+      "activeTimeMin": 20,
       "totalTimeMin": 30,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "Brussels sprouts",
-          "qty": 1.125,
-          "unit": "lb",
-          "category": "produce",
-          "note": "half batch (recipe: 2 1/4 lb, serves 8)"
+          "item": "salmon",
+          "qty": 12,
+          "unit": "oz",
+          "category": "meat-seafood",
+          "note": "on hand; stands in for the book's halibut"
         },
         {
-          "item": "fresh ginger",
-          "qty": 0.5,
-          "unit": "tbsp",
+          "item": "fresh cilantro",
+          "qty": 0.25,
+          "unit": "cup",
           "category": "produce",
-          "note": "minced"
-        },
-        {
-          "item": "shallot (small)",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": ""
+          "note": "on hand; half batch of chermoula"
         },
         {
           "item": "garlic",
-          "qty": 1,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "orange",
+          "item": "lime",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "2 1/2 tbsp juice"
+          "note": "on hand; juice stands in for the 1 1/2 tbsp lemon juice"
         },
         {
-          "item": "coconut aminos",
-          "qty": 1.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 2.25,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame oil",
+          "item": "ground cumin",
           "qty": 0.5,
           "unit": "tsp",
-          "category": "pantry",
+          "category": "spices",
           "note": ""
         },
         {
-          "item": "scallions",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 2.25,
+          "item": "paprika",
+          "qty": 0.25,
           "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
           "category": "pantry",
           "note": ""
         }
       ],
-      "notes": "Half batch. Shred the sprouts, toss with avocado oil (in place of the ghee, for heart health) and salt, and roast at 450°F for 15–20 min, tossing every 5. Simmer the orange-ginger-coconut aminos dressing, pour it over, and garnish with scallions, cilantro and sesame."
+      "notes": "Everything is on hand, no shopping. Half batch of chermoula: blitz cilantro, olive oil, lime juice, garlic, cumin, paprika and a pinch of salt; skip the cayenne (low heat). Sear the salmon skin-side down in an ovensafe skillet, flip, finish in a 325°F oven to about 125–130°F for salmon (the book pulls halibut at 140°F), rest 5 min, spoon chermoula over. 12 oz feeds the two of you, no lunch."
     },
     {
       "id": "instant-pot-crispy-potatoes-nnp",
@@ -202,7 +84,7 @@
       "title": "Instant Pot Crispy Potatoes",
       "source": "Nom Nom Paleo",
       "sourceUrl": "https://nomnompaleo.com/pressure-cooker-crispy-potatoes",
-      "cuisine": "american",
+      "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
         "web",
@@ -218,10 +100,53 @@
           "qty": 1,
           "unit": "lb",
           "category": "produce",
-          "note": "1–1 1/2 in cubes"
+          "note": "on hand (the bag of small golds)"
         }
       ],
       "notes": "His carb. 5 min high pressure + natural release, then crisp in avocado oil in a hot skillet. Finish with sliced scallion in place of the optional chives/lemon to suit the meal."
+    },
+    {
+      "id": "sauteed-bok-choy-garlic",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Bok Choy with Garlic",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.226 (Sauteed Swiss Chard with Garlic, made with bok choy)",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "on-hand"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 3,
+      "ingredients": [
+        {
+          "item": "bok choy",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": "on hand; stands in for the chard"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": "sliced thin"
+        },
+        {
+          "item": "lime",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tsp juice, from the same lime"
+        }
+      ],
+      "notes": "ATK's chard method with your bok choy: slice the white stems on the bias and cook them first (about 5 min), then add the leaves in two batches; finish with a squeeze of lime off the heat."
     },
     {
       "id": "honey-harissa-salmon-10f97660",
@@ -696,11 +621,11 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "boneless skinless chicken thighs",
+          "item": "boneless skinless chicken breasts",
           "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "recipe: 1 1/2 lb for 6; scaled to ~4"
+          "note": "on hand; stands in for thighs. Cut into big pieces so they stay juicy"
         },
         {
           "item": "bell peppers",
@@ -787,7 +712,7 @@
           "note": ""
         }
       ],
-      "notes": "One pot, about 15 min hands-on: brown the spiced thighs, sear the peppers, simmer the orzo in tomatoes and broth, nestle the chicken back in and bake 20–25 min at 350°F. Skip the feta garnish (no cheese for her). Easy late-night pick."
+      "notes": "One pot, about 15 min hands-on: brown the spiced thighs, sear the peppers, simmer the orzo in tomatoes and broth, nestle the chicken back in and bake 20–25 min at 350°F. Skip the feta garnish (no cheese for her). Easy late-night pick. Using the chicken breasts you have instead of thighs: cut them into large chunks and check at 20 min so they don't dry out."
     },
     {
       "id": "simple-couscous",
@@ -857,7 +782,7 @@
           "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "peeled and deveined"
+          "note": "peeled and deveined; on hand (your 1 lb)"
         },
         {
           "item": "mussels",

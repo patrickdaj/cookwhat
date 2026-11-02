@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:02:06.304Z",
+  "generatedAt": "2026-11-02T02:03:40.547Z",
   "targetServings": null,
   "sections": [
     {
@@ -43,13 +43,13 @@
           "unit": ""
         },
         {
-          "item": "Brussels sprouts",
-          "qty": 1.13,
+          "item": "bok choy",
+          "qty": 1.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
+            "Sauteed Bok Choy with Garlic"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -135,34 +135,10 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
+            "Pan-Roasted Salmon with Chermoula"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "dim": "3-inch piece",
-          "unitLabel": "3-inch piece",
-          "category": "produce",
-          "fromMeals": [
-            "Ginger Scallion Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "3-inch piece"
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "fresh parsley",
@@ -206,12 +182,13 @@
         },
         {
           "item": "garlic",
-          "qty": 40,
+          "qty": 44,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
+            "Pan-Roasted Salmon with Chermoula",
+            "Sauteed Bok Choy with Garlic",
             "Honey Harissa Salmon",
             "Italian Crispy Chicken Thighs",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
@@ -241,15 +218,16 @@
           "unit": ""
         },
         {
-          "item": "orange",
+          "item": "lime",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
+            "Pan-Roasted Salmon with Chermoula",
+            "Sauteed Bok Choy with Garlic"
           ],
-          "hasUnquantified": false,
+          "hasUnquantified": true,
           "unit": ""
         },
         {
@@ -325,37 +303,12 @@
           "unit": ""
         },
         {
-          "item": "scallions",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Ginger Scallion Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
-          "item": "scallions",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "shallots",
-          "qty": 11.5,
+          "qty": 11,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Italian Crispy Chicken Thighs",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
@@ -419,18 +372,6 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "barramundi (Asian sea bass) fillets, about 1 in thick",
-          "qty": 1.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Ginger Scallion Fish Fillets"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "bone-in, skin-on chicken thighs",
           "qty": 6,
           "dim": "",
@@ -443,13 +384,24 @@
           "unit": ""
         },
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 2,
+          "item": "boneless skinless chicken breasts",
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "One Pan Chicken Orzo",
+            "One Pan Chicken Orzo"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
             "Indoor Paella"
           ],
           "hasUnquantified": false,
@@ -490,6 +442,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "salmon",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pan-Roasted Salmon with Chermoula"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "salmon fillets (6 oz, 1 1/2 in thick)",
@@ -567,18 +531,6 @@
           "unit": "tbsp"
         },
         {
-          "item": "coconut aminos",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "couscous",
           "qty": 1,
           "dim": "vol",
@@ -592,16 +544,15 @@
         },
         {
           "item": "fish sauce",
-          "qty": 1.25,
+          "qty": 0.33,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Italian Crispy Chicken Thighs"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "tbsp"
         },
         {
           "item": "harissa",
@@ -688,37 +639,12 @@
           "unit": "cup"
         },
         {
-          "item": "rice vinegar",
-          "qty": 0.75,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
           "item": "toasted sesame seeds",
-          "qty": 1.75,
+          "qty": 1,
           "dim": "vol",
-          "unitLabel": "tsp",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Asian Brussels Sprouts Salad with Citrus and Ginger Dressing",
             "Honey Harissa Salmon"
           ],
           "hasUnquantified": false,
@@ -860,14 +786,25 @@
           "unit": "tbsp"
         },
         {
-          "item": "ground white pepper",
+          "item": "ground cumin",
           "qty": 0.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Ginger Scallion Fish Fillets",
-            "Ginger Scallion Sauce"
+            "Pan-Roasted Salmon with Chermoula"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Pan-Roasted Salmon with Chermoula"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -978,5 +915,5 @@
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 74
+  "totalItems": 69
 }
