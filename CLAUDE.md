@@ -67,10 +67,9 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
 - **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
   breakfast, so plan one person. No recipes, no night-before prep, nothing
   multi-step (no shakshuka or frittatas). Rotate a handful of 1–5 minute options:
-  - **Yogurt bowl:** about 3/4 cup regular plain yogurt (**not Greek; he's not a
-    fan**) with frozen berries, walnuts and a drizzle of honey. Greek yogurt is in
-    `dislikes`, so swap yogurt sauces that need it (tzatziki) for tahini sauce or
-    a regular-yogurt sauce.
+  - **Yogurt bowl:** about 3/4 cup regular plain yogurt with frozen berries,
+    walnuts and a drizzle of honey. He doesn't like **Greek yogurt straight for
+    breakfast**, but it's fine cooked into food and sauces (tzatziki, marinades).
   - **Microwave oatmeal:** 1/2 cup old-fashioned oats + 1 cup water for 2–3
     minutes, topped with banana and cinnamon (the oats help LDL).
   - **He likes eggs.** Easy ones: a microwave mug scramble with spinach or leftover
