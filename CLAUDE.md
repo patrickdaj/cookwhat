@@ -42,12 +42,23 @@ generate a shopping list.
 The user tried **paleo for two days (2026-11-01..02) and rolled it back** to a full
 **Mediterranean** pattern (heart + blood pressure). Everyone eats the same dinner
 again, so no separate "For her" add-ons are needed. The 2026-11-01 week was
-planned paleo with add-ons, and everyone can share those sides.
+replanned Tue–Sat as Mediterranean (Monday's Cantonese fish had already happened).
+
+- **Pure Mediterranean, the cuisine too (2026-11-02).** Dinners come from
+  Mediterranean-region cooking: Greek, Italian, Spanish, Provençal/southern French,
+  Levantine, Turkish and North African. Asian and Mexican are **paused** (listed in
+  `diet.cuisine.paused`), and the old "~2 Asian dinners/week" target is retired.
+  ATK *Complete Mediterranean* is the main book again, with The Mediterranean Dish
+  as the lead web source.
+- **Lunch is usually leftovers.** Plan dinners at about 3–4 servings so there is a
+  lunch or two. A big Saturday project (paella, a braise) can make 6 to cover
+  Sunday lunch.
 
 - **What stays from the paleo week:** the three Nom Nom Paleo books are catalogued
   in `data/cookbooks/nomnompaleo-*.json` and remain a good source (lots of Asian,
-  veg-forward, olive/avocado-oil dishes). The paleo sites stay in `preferredSites`
-  but rank after the Mediterranean and Asian ones. The curl + JSON-LD fetch method
+  veg-forward, olive/avocado-oil dishes). Use their Mediterranean-leaning recipes
+  (harissa salmon, Italian chicken) while the cuisine is pure Mediterranean. The
+  paleo sites stay in `preferredSites` but rank last. The curl + JSON-LD fetch method
   (see Recipe tips) works for most of them.
 - **Red meat back to 0–1 nights/week** (`redMeatMaxPerWeek: 1`), lean cuts.
 - **Blood pressure:** watch sodium (low-sodium broth, measure fish sauce, soy and
@@ -252,11 +263,10 @@ week, target roughly:
 
 Within that blend, also hit the standing targets:
 
-- **~2 Asian dinners/week.** The user wants more Asian — rotate across
-  japanese / thai / chinese / korean / vietnamese (don't repeat the same one
-  twice in one week). Lean on the under-used Asian preferred sites:
-  **thewoksoflife** (Chinese), **justonecookbook** (Japanese), and **maangchi**
-  (Korean), plus Asian Paprika picks and Asian cookbooks.
+- **Rotate across the Mediterranean (as of 2026-11-02).** Don't repeat one cuisine
+  twice in a week: mix Italian, Greek, Spanish, Levantine, Turkish, North African
+  and Provençal. (This replaced the old "~2 Asian dinners/week" target; Asian sites
+  like thewoksoflife, justonecookbook and maangchi are paused, not removed.)
 - Spread proteins/cuisines and respect all `proteinRules` + time budgets. Label
   each pick's pool when you present the plan so the balance is visible.
 
@@ -389,7 +399,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
 - **Favor unsaturated fats:** olive oil as the default fat, plus avocado, nuts,
   seeds. Zero trans fats (partially hydrogenated anything).
 - **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
-  `seafoodMin` and the "more Asian/Mediterranean" leanings.
+  `seafoodMin` and the Mediterranean pattern.
 - **Fiber from oats / whole grains / veg / fruit — NOT beans.** Normally you'd
   push legumes for LDL, but this user keeps bean use low, so get soluble fiber
   from oats, barley, farro, brown rice, quinoa, and lots of vegetables/fruit

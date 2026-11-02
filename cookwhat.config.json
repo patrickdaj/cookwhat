@@ -4,7 +4,7 @@
     "adults": 2,
     "kids": 0,
     "defaultServings": 4,
-    "notes": ""
+    "notes": "Lunch is usually leftovers, so plan dinners at ~3-4 servings (a big Saturday project can make 6 to cover Sunday lunch)."
   },
   "schedule": {
     "daysToPlan": [
@@ -27,24 +27,26 @@
   "preferences": {
     "cuisines": {
       "love": [
-        "italian",
-        "thai",
-        "mexican",
         "mediterranean",
-        "japanese",
+        "italian",
+        "greek",
+        "spanish",
         "french",
-        "chinese",
-        "korean"
+        "moroccan",
+        "lebanese",
+        "turkish"
       ],
       "ok": [
-        "american",
-        "indian",
-        "spanish",
-        "vietnamese"
+        "middle-eastern",
+        "north-african",
+        "israeli",
+        "provencal",
+        "portuguese"
       ],
       "avoid": []
     },
     "preferredSites": [
+      "themediterraneandish.com",
       "seriouseats.com",
       "smittenkitchen.com",
       "thekitchn.com",
@@ -52,7 +54,6 @@
       "thewoksoflife.com",
       "justonecookbook.com",
       "maangchi.com",
-      "themediterraneandish.com",
       "isabeleats.com",
       "the-pasta-project.com",
       "pardonyourfrench.com",
@@ -206,6 +207,19 @@
     "breakfast": {
       "plan": "easy, mostly make-ahead: overnight oats / yogurt bowls on weekdays, a savory toast or egg morning, a weekend egg dish",
       "lean": "oats and whole grains for LDL, fruit and nuts, eggs a few times a week, low sodium, no cheese for the wife"
+    },
+    "cuisine": {
+      "scope": "pure Mediterranean (from 2026-11-02): Greek, Italian, Spanish, Provencal/southern French, Levantine, Turkish, North African",
+      "paused": [
+        "thai",
+        "japanese",
+        "chinese",
+        "korean",
+        "vietnamese",
+        "mexican",
+        "indian"
+      ],
+      "note": "Asian/Mexican are paused, not avoided: past menus with them still pass plan check, and the ~2 Asian/week target is retired."
     }
   }
 }

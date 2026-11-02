@@ -224,569 +224,6 @@
       "notes": "His carb. 5 min high pressure + natural release, then crisp in avocado oil in a hot skillet. Finish with sliced scallion in place of the optional chives/lemon to suit the meal."
     },
     {
-      "id": "pressure-cooker-carne-mechada-f910efc3",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Pressure Cooker Carne Mechada",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.144",
-      "sourceUrl": "",
-      "cuisine": "latin",
-      "protein": "beef",
-      "tags": [
-        "book",
-        "new",
-        "paleo",
-        "guest-jody"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 60,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "flank steak",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": "scaled from 3 lb (serves 6) to ~4 servings: Jody night + a lunch"
-        },
-        {
-          "item": "chili powder",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "spices",
-          "note": "book says 1 1/2 tbsp; trimmed for low heat"
-        },
-        {
-          "item": "yellow onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red bell pepper",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "tomato paste",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fire-roasted diced tomatoes",
-          "qty": 1,
-          "unit": "14-oz can",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "dried oregano",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "bay leaves",
-          "qty": 2,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "ghee",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": "or olive oil"
-        }
-      ],
-      "notes": "Jody night: bowl for him, tacos for her and Jody, same meat and veg. 20 min high pressure + 15 min natural release, then shred. Slow cooker option: LOW 8 hr. Leftovers keep 4 days.",
-      "depaleo": [
-        "Regular corn or flour tortillas",
-        "Sour cream"
-      ]
-    },
-    {
-      "id": "for-her-jody-tortillas-cheese-sour-cream-023ee3a4",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "For her + Jody: tortillas + sour cream",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "latin",
-      "protein": "vegetable",
-      "tags": [
-        "depaleo"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "corn or flour tortillas",
-          "qty": 1,
-          "unit": "pack",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "sour cream",
-          "qty": 1,
-          "unit": "small tub",
-          "category": "dairy",
-          "note": ""
-        }
-      ],
-      "notes": "Non-paleo taco toppings for his wife and Jody."
-    },
-    {
-      "id": "his-bowl-tue",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "His bowl (no tortilla)",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "latin",
-      "protein": "vegetable",
-      "tags": [
-        "paleo"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 10,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "avocado",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "bowl topping (and for the table)"
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "bowl"
-        }
-      ],
-      "notes": "His bowl: carne mechada over the Mexican roasted vegetables (with sweet potato), plus avocado, lime and cilantro. Everyone else does tacos from the same meat and veg."
-    },
-    {
-      "id": "mexican-roasted-vegetables-eded6b34",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Mexican Roasted Vegetables",
-      "source": "Isabel Eats",
-      "sourceUrl": "https://www.isabeleats.com/mexican-roasted-vegetables/",
-      "cuisine": "mexican",
-      "protein": "vegetable",
-      "tags": [
-        "web",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 45,
-      "servings": 8,
-      "ingredients": [
-        {
-          "item": "sweet potato (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "cubed 3/4 inch, in place of the recipe's cauliflower + broccoli (she's not big on cauliflower)"
-        },
-        {
-          "item": "carrots",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "zucchini (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "yellow squash (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red bell pepper (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red onion (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "chili powder",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground coriander",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cumin",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "garlic powder",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "note": "topping"
-        }
-      ],
-      "notes": "Cooked veg (Jody can't do salad). Two sheet pans at 425°F, 15 min, flip and swap, 15 more. The recipe's feta/cotija topping is skipped (no cheese for her). Amounts from the recipe card via search; the site is blocked here. A cubed sweet potato stands in for the recipe's cauliflower and broccoli."
-    },
-    {
-      "id": "my-sister-s-phenomenal-grilled-green-chicken-041d5aff",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "My Sister's Phenomenal Grilled Green Chicken",
-      "source": "Nom Nom Paleo",
-      "sourceUrl": "https://nomnompaleo.com/post/7486821187/my-sisters-phenomenal-grilled-green-chicken",
-      "cuisine": "vietnamese",
-      "protein": "chicken",
-      "tags": [
-        "redo",
-        "paleo",
-        "weeknight"
-      ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 60,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "chicken drumsticks or thighs",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": "scaled from 3 lb to ~4 servings; keep the full marinade"
-        },
-        {
-          "item": "sweet onion",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh cilantro",
-          "qty": 1,
-          "unit": "cup",
-          "category": "produce",
-          "note": "packed, leaves + stems"
-        },
-        {
-          "item": "fresh basil",
-          "qty": 1.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": "packed"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "produce",
-          "note": "packed"
-        },
-        {
-          "item": "fish sauce",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "recipe uses 1/4 cup; halved for sodium"
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "zest"
-        },
-        {
-          "item": "Aleppo pepper",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "mild; or sweet paprika"
-        },
-        {
-          "item": "apple juice",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "beverages",
-          "note": ""
-        }
-      ],
-      "notes": "You rated it 4★. Blend the green marinade, marinate, then grill or roast on a rack at 400°F until 165°F+ (thighs/drums are best around 175°F).",
-      "depaleo": [
-        "Steamed jasmine rice"
-      ]
-    },
-    {
-      "id": "for-her-jasmine-rice-9d539b8a",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "For her: jasmine rice",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "asian",
-      "protein": "vegetable",
-      "tags": [
-        "depaleo"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "jasmine rice",
-          "qty": 1.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "for her (Mon, Wed, Sat)"
-        }
-      ],
-      "notes": "Non-paleo add-on for his wife."
-    },
-    {
-      "id": "japanese-potato-salad-35b90ce9",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Japanese Potato Salad",
-      "source": "Nom Nom Paleo (also Let's Go! p.60)",
-      "sourceUrl": "https://nomnompaleo.com/japanese-potato-salad",
-      "cuisine": "japanese",
-      "protein": "vegetable",
-      "tags": [
-        "paprika",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 25,
-      "totalTimeMin": 45,
-      "servings": 8,
-      "ingredients": [
-        {
-          "item": "russet potatoes",
-          "qty": 1.5,
-          "unit": "lb",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "Persian cucumbers",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "paleo mayonnaise",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "avocado-oil mayo, e.g. Primal Kitchen"
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "carrot (small)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "shallot",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1/4 cup sliced, soaked in ice water"
-        },
-        {
-          "item": "eggs",
-          "qty": 2,
-          "unit": "",
-          "category": "dairy",
-          "note": "hard-boiled"
-        },
-        {
-          "item": "scallions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        }
-      ],
-      "notes": "His carb. Makes 8, so the leftovers cover Thursday. Skip the optional ham (sodium)."
-    },
-    {
-      "id": "world-s-best-braised-green-cabbage-9dc105d0",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "side",
-      "title": "World's Best Braised Green Cabbage",
-      "source": "Nom Nom Paleo",
-      "sourceUrl": "https://nomnompaleo.com/post/1356598429/worlds-best-braised-green-cabbage",
-      "cuisine": "american",
-      "protein": "vegetable",
-      "tags": [
-        "paprika",
-        "new",
-        "paleo"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 75,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "green cabbage (about 2 lb)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "yellow onion (large)",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrots (large)",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "aged balsamic vinegar",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Hands-off oven braise. Skip the optional red pepper flakes."
-    },
-    {
       "id": "honey-harissa-salmon-10f97660",
       "day": "Thu",
       "slot": "dinner",
@@ -799,7 +236,6 @@
       "tags": [
         "book",
         "new",
-        "paleo",
         "weeknight"
       ],
       "activeTimeMin": 15,
@@ -818,7 +254,7 @@
           "qty": 2,
           "unit": "tbsp",
           "category": "pantry",
-          "note": "or sriracha"
+          "note": "mild jarred harissa (or make ATK p.316); keep it off her packet"
         },
         {
           "item": "honey",
@@ -877,38 +313,7 @@
           "note": ""
         }
       ],
-      "notes": "Salmon and veg steamed together in parchment hearts, 450°F for 10–15 min; don't let the fish go past 145°F. The veg is in the packet, and leftover potato salad is his carb.",
-      "depaleo": [
-        "Couscous",
-        "Her packet gets no harissa (honey + lemon only); harissa at the table"
-      ]
-    },
-    {
-      "id": "for-her-couscous-182d42b1",
-      "day": "Thu",
-      "slot": "dinner",
-      "role": "side",
-      "title": "For her: couscous",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "depaleo"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "couscous",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Non-paleo add-on for his wife."
+      "notes": "Salmon steamed with carrot and zucchini matchsticks in parchment packets, 450°F for 10–15 min; pull before 145°F. Low heat: use a mild harissa, and her packet can skip it (honey + lemon only), with extra harissa at the table."
     },
     {
       "id": "italian-crispy-chicken-thighs-e6d5634a",
@@ -923,7 +328,6 @@
       "tags": [
         "book",
         "new",
-        "paleo",
         "weeknight"
       ],
       "activeTimeMin": 25,
@@ -997,322 +401,6 @@
       "notes": "Variation of the Cantonese thighs (p.280): sear skin-down until crisp, keep the broth off the skin, roast at 450°F to 165°F."
     },
     {
-      "id": "pressure-cooker-bo-ss-m-199345dc",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Pressure Cooker Bo Ssäm",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.132",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "pork",
-      "tags": [
-        "book",
-        "new",
-        "paleo",
-        "project"
-      ],
-      "activeTimeMin": 30,
-      "totalTimeMin": 120,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "boneless pork shoulder roast (about 2 1/2 lb), tied",
-          "qty": 1,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": "scaled from 3 1/2 lb (serves 6) to ~4; same 2 hr pressure cook, check fork-tender"
-        },
-        {
-          "item": "coconut sugar",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "ghee",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": "or lard"
-        },
-        {
-          "item": "scallions",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh ginger",
-          "qty": 1,
-          "unit": "1-inch piece",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lettuce heads (butter, green leaf, or romaine)",
-          "qty": 2,
-          "unit": "head",
-          "category": "produce",
-          "note": "for wrapping"
-        }
-      ],
-      "notes": "Bo ssäm = 'wrapped'. Dry-brine 8 hr+ (start Thu/Fri), 2 hr high pressure, natural release, broil 5–10 min basting with the skimmed jus, shred. No kimchi (too spicy for her): pickled cucumbers + carrots and Monday's ginger-scallion sauce instead; Fauxchujang on the side.",
-      "depaleo": [
-        "Steamed rice in the wraps (everyone)",
-        "Ssamjang (milder than Fauxchujang)"
-      ]
-    },
-    {
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "activeTimeMin": 15,
-      "totalTimeMin": 15,
-      "servings": 4,
-      "notes": "Grill pan or 400°F oven 20 min cut-side up; dress with fish sauce + lime, sesame on top.",
-      "id": "grilled-umami-bok-choy-ron261",
-      "title": "Grilled Umami Bok Choy",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.261",
-      "tags": [
-        "book",
-        "new",
-        "paleo"
-      ],
-      "ingredients": [
-        {
-          "item": "baby bok choy",
-          "qty": 6,
-          "unit": "bunch",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "toasted sesame seeds",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "quick-pickled-carrots-ron74",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Quick-Pickled Carrot Sticks",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.74 (Fridge-Pickled Cucumbers brine; the page suggests carrot sticks)",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "paleo"
-      ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 35,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "carrots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "cut into thin sticks"
-        },
-        {
-          "item": "apple juice",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": "second batch of brine"
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "second batch of brine"
-        },
-        {
-          "item": "fish sauce",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Replaces kimchi (too spicy for her). Same brine as the p.74 cucumbers, no pepper flakes; make Friday. Also put out the leftover Ginger Scallion Sauce from Monday, the classic bo ssäm condiment."
-    },
-    {
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "activeTimeMin": 5,
-      "totalTimeMin": 35,
-      "servings": 4,
-      "notes": "Make Friday; 30 min minimum in the fridge. Skip the optional pepper flakes.",
-      "id": "fridge-pickled-cucumbers-ron74",
-      "title": "Fridge-Pickled Cucumbers",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.74",
-      "tags": [
-        "book",
-        "new",
-        "paleo"
-      ],
-      "ingredients": [
-        {
-          "item": "Persian cucumber",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "apple juice",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "activeTimeMin": 15,
-      "totalTimeMin": 15,
-      "servings": 4,
-      "notes": "Makes 2 cups; bo ssäm uses 1/2 cup and the rest keeps 2 weeks. Spicy, so serve it on the side.",
-      "id": "fauxchujang-ron61",
-      "title": "Fauxchujang",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.61",
-      "tags": [
-        "book",
-        "new",
-        "paleo"
-      ],
-      "ingredients": [
-        {
-          "item": "unsweetened applesauce",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "gochugaru (Korean chili flakes)",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "coconut aminos",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "honey",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "fish sauce",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "rice vinegar",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "notes": "Back to Mediterranean (not paleo): rice for everyone in the wraps; ssamjang is the mild sauce.",
-      "id": "forher-sat-rice-ssamjang",
-      "title": "Steamed rice + ssamjang (everyone)",
-      "source": "",
-      "tags": [
-        "depaleo"
-      ],
-      "ingredients": [
-        {
-          "item": "ssamjang",
-          "qty": 1,
-          "unit": "small tub",
-          "category": "pantry",
-          "note": "Korean dipping paste, Asian aisle; milder than gochujang"
-        }
-      ]
-    },
-    {
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
@@ -1325,8 +413,7 @@
       "servings": 4,
       "tags": [
         "book",
-        "new",
-        "paleo"
+        "new"
       ],
       "ingredients": [
         {
@@ -1422,19 +509,18 @@
       "cuisine": "american",
       "protein": "vegetable",
       "tags": [
-        "paleo",
         "carb"
       ],
       "activeTimeMin": 5,
       "totalTimeMin": 60,
-      "servings": 2,
+      "servings": 4,
       "ingredients": [
         {
           "item": "sweet potatoes",
-          "qty": 2,
+          "qty": 3,
           "unit": "",
           "category": "produce",
-          "note": "Fri, his carb"
+          "note": "Fri, everyone"
         }
       ],
       "notes": "Added alongside the roast at the user's request: prick and bake at 400–450°F about 45–60 min."
@@ -1556,7 +642,527 @@
         }
       ],
       "notes": "For the morning you're tired of oats. Olive oil, a pinch of salt, black pepper."
+    },
+    {
+      "id": "flank-steak-peperonata",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Flank Steak Peperonata",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "beef",
+      "tags": [
+        "book",
+        "new",
+        "weeknight",
+        "guest-jody"
+      ],
+      "activeTimeMin": 35,
+      "totalTimeMin": 60,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "flank steak",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "one 1 1/2-lb steak, trimmed"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "red or yellow bell peppers",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": "cut into 1/4-in strips"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "14.5 oz; no-salt-added if you can find it"
+        },
+        {
+          "item": "capers",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "plus 4 tsp of the brine"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "barely warm; skip for her if needed"
+        },
+        {
+          "item": "fresh basil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "plus 1 tbsp"
+        }
+      ],
+      "notes": "Jody night: a cooked vegetable (the peperonata), no salad. Oregano-salt rub can go on in the morning (30 min to 24 h). Cut the steak WITH the grain into 3 pieces to cook, then slice thin AGAINST the grain. Pull at 120–125°F and rest 10 min. Our one red-meat night."
+    },
+    {
+      "id": "greek-lemon-potatoes",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Greek-Style Garlic-Lemon Potatoes",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 35,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": "peeled, 1-in pieces"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest + 3 tbsp juice"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Skillet potatoes, covered and then uncovered; the raw garlic and lemon go on off the heat. Skip the feta variation (no cheese for her)."
+    },
+    {
+      "id": "one-pan-chicken-orzo",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "One Pan Chicken Orzo",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/greek-baked-chicken-orzo-recipe/",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "weeknight",
+        "one-pot"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "recipe: 1 1/2 lb for 6; scaled to ~4"
+        },
+        {
+          "item": "bell peppers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "any color, sliced into rounds"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "juice of 1/2"
+        },
+        {
+          "item": "whole peeled plum tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "14.5 oz (about 1 1/3 cups)"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1.33,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "orzo",
+          "qty": 1.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "uncooked; whole-wheat orzo works"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 3,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "2 rub + 1 pot"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "1 rub + 1 pot"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "garnish"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "One pot, about 15 min hands-on: brown the spiced thighs, sear the peppers, simmer the orzo in tomatoes and broth, nestle the chicken back in and bake 20–25 min at 350°F. Skip the feta garnish (no cheese for her). Easy late-night pick."
+    },
+    {
+      "id": "simple-couscous",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Simple Couscous",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.161",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "half batch; whole-wheat couscous is a good swap"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Half batch: toast 1 cup couscous in 1 tbsp oil, add 1/2 cup broth + 1/2 cup water and a pinch of salt, simmer, cover off the heat for 7 min, fluff. Everyone's carb now."
+    },
+    {
+      "id": "indoor-paella",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Indoor Paella",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.112",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "new",
+        "project",
+        "weekend"
+      ],
+      "activeTimeMin": 60,
+      "totalTimeMin": 105,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21–25/lb)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "peeled and deveined"
+        },
+        {
+          "item": "mussels",
+          "qty": 12,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "alt: skip them and use another 1/2 lb shrimp"
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Spanish dry-cured chorizo",
+          "qty": 4,
+          "unit": "oz",
+          "category": "deli",
+          "note": "book says 8 oz; halved as an accent for heart health. Alt: fresh chorizo or linguiça, or leave it out"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "14.5 oz, drained"
+        },
+        {
+          "item": "Bomba rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "alt: any Valencia rice, or Arborio"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "beverages",
+          "note": "or the white cooking wine"
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "alt: 1/2 tsp smoked paprika + a pinch of turmeric for color"
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "wedges"
+        }
+      ],
+      "notes": "Saturday project in a 6-qt Dutch oven, 350°F oven. Serves 6, so it covers Sunday lunch. For socarrat (the crispy bottom), finish uncovered on the stovetop about 5 min. Discard any mussels that don't open."
+    },
+    {
+      "id": "green-salad-artichokes-olives",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Green Salad with Artichokes and Olives",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "salad"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "romaine heart",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "6 oz"
+        },
+        {
+          "item": "baby arugula",
+          "qty": 3,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "jarred artichoke hearts (water-packed)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": "quartered, rinsed, patted dry. Alt: canned artichoke quarters"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "produce",
+          "note": "leaves"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "halved"
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "A fresh, bright plate next to the paella. Skip the Asiago (no cheese for her)."
     }
   ],
-  "setAt": "2026-11-01T14:48:34.838Z"
+  "setAt": "2026-11-02T01:57:24.404Z"
 }

@@ -50,9 +50,10 @@ function unitDimension(unit) {
   return { dim: unit, factor: 1 }; // weight / count / bunch / sprig / unitless
 }
 
-// A value reads cleanly if it lands on a quarter (1, 0.5, 0.25, 1.75, …).
+// A value reads cleanly if it lands on a quarter (1, 0.5, 0.25, 1.75, …) or a
+// third (0.33, 1.33, 0.67 — recipes write "1/3 cup" as 0.33, so allow slack).
 function isCleanAmount(v) {
-  return Math.abs(v * 4 - Math.round(v * 4)) < 0.01;
+  return Math.abs(v * 4 - Math.round(v * 4)) < 0.01 || Math.abs(v * 3 - Math.round(v * 3)) < 0.03;
 }
 
 // Convert an accumulated volume (in tsp) back to the largest unit that reads
@@ -65,6 +66,9 @@ function displayQtyUnit(line) {
     const v = t / factor;
     if (v >= 0.25 && isCleanAmount(v)) return { qty: round(v, 2), unit };
   }
+  // A cup or more that doesn't land cleanly (a sum of mixed amounts): round up
+  // to the next quarter cup — nobody shops for "279.84 tsp" of broth.
+  if (t >= 48) return { qty: Math.ceil(t / 12) / 4, unit: "cup" };
   return { qty: round(t, 2), unit: "tsp" }; // fallback: smallest unit
 }
 
