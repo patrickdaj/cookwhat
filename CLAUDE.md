@@ -64,18 +64,15 @@ replanned Tue–Sat as Mediterranean (Monday's Cantonese fish had already happen
 - **Blood pressure:** watch sodium (low-sodium broth, measure fish sauce, soy and
   salt, and flavor with acid, herbs and spice) and lean on potassium-rich produce.
   This is not medical advice; the user follows his doctor.
-- **Breakfasts are planned now, and they stay easy.** Add a small breakfast block
-  to each week, as `slot: "breakfast"`, `role: "side"` dishes so they don't count
-  toward protein balance. Their ingredients land on the shopping list.
-  - **Weekdays:** make-ahead and grab-and-go. A batch of overnight oats (6 jars) or
-    yogurt bowls with fruit and nuts covers most mornings, and the oats help LDL.
-  - **One savory morning:** whole-grain toast with avocado or tomato and olive oil,
-    plus an egg.
-  - **Weekend:** an egg dish such as shakshuka or a Spanish tortilla (ATK Eggs
-    chapter, p.330–341) or a frittata, built mild and with **no cheese for his
-    wife**.
-  - Keep it to 2–3 distinct breakfasts a week, not seven recipes. Breakfasts are
-    exempt from the protein+veg+carb dinner rule.
+- **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
+  breakfast, so plan one person. No recipes, no night-before prep, no egg dishes:
+  - **Most mornings:** a yogurt bowl, about 3/4 cup plain Greek yogurt with frozen
+    berries, walnuts and a drizzle of honey. It takes one minute.
+  - **The other mornings:** microwave oatmeal, 1/2 cup old-fashioned oats + 1 cup
+    water for 2–3 minutes, topped with banana and cinnamon (the oats help LDL).
+  - Add them as `slot: "breakfast"`, `role: "side"` assemblies so their ingredients
+    land on the shopping list without counting toward protein balance. They're
+    exempt from the dinner protein+veg+carb rule and from the sourcing rule.
 - **House staples on the list may be hers** (bread, lunch meat, snacks). Don't flag
   them.
 

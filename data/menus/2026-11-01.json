@@ -526,124 +526,6 @@
       "notes": "Added alongside the roast at the user's request: prick and bake at 400–450°F about 45–60 min."
     },
     {
-      "id": "overnight-oats-tmd",
-      "day": "Tue",
-      "slot": "breakfast",
-      "role": "side",
-      "title": "Overnight Oats (make-ahead, 6 jars)",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/overnight-oats-recipe/",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "breakfast",
-        "make-ahead"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 495,
-      "servings": 6,
-      "ingredients": [
-        {
-          "item": "plain low-fat yogurt",
-          "qty": 32,
-          "unit": "oz",
-          "category": "dairy",
-          "note": "1 quart; Greek or regular"
-        },
-        {
-          "item": "rolled oats",
-          "qty": 1,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "chia seeds",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "vanilla extract",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "frozen mixed berries",
-          "qty": 1,
-          "unit": "bag",
-          "category": "frozen",
-          "note": "mix-in"
-        },
-        {
-          "item": "walnuts",
-          "qty": 1,
-          "unit": "small bag",
-          "category": "pantry",
-          "note": "topping"
-        },
-        {
-          "item": "bananas",
-          "qty": 3,
-          "unit": "",
-          "category": "produce",
-          "note": "topping, some mornings"
-        }
-      ],
-      "notes": "Make Monday night: stir yogurt, oats, chia and vanilla, divide into 6 jars, add berries. Top with walnuts/banana and a drizzle of honey in the morning. Covers most mornings Tue–Sun; oats + chia are soluble fiber for LDL."
-    },
-    {
-      "id": "savory-toast-morning",
-      "day": "Thu",
-      "slot": "breakfast",
-      "role": "side",
-      "title": "Savory toast morning: whole-grain toast, avocado or tomato, egg",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "mediterranean",
-      "protein": "vegetable",
-      "tags": [
-        "breakfast"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 10,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "whole-grain bread",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": ""
-        },
-        {
-          "item": "avocado",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "toast"
-        },
-        {
-          "item": "tomato",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "grated or sliced, with olive oil + salt"
-        },
-        {
-          "item": "eggs",
-          "qty": 4,
-          "unit": "",
-          "category": "dairy",
-          "note": "fried or soft-boiled"
-        }
-      ],
-      "notes": "For the morning you're tired of oats. Olive oil, a pinch of salt, black pepper."
-    },
-    {
       "id": "flank-steak-peperonata",
       "day": "Tue",
       "slot": "dinner",
@@ -1162,6 +1044,99 @@
         }
       ],
       "notes": "A fresh, bright plate next to the paella. Skip the Asiago (no cheese for her)."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "servings": 4,
+      "id": "yogurt-bowl-breakfast",
+      "day": "Tue",
+      "title": "Yogurt bowl (most mornings)",
+      "tags": [
+        "breakfast",
+        "no-cook",
+        "just-him"
+      ],
+      "activeTimeMin": 1,
+      "totalTimeMin": 1,
+      "ingredients": [
+        {
+          "item": "plain low-fat Greek yogurt",
+          "qty": 32,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "one tub = about 4 bowls"
+        },
+        {
+          "item": "frozen mixed berries",
+          "qty": 1,
+          "unit": "bag",
+          "category": "frozen",
+          "note": "a handful, straight from frozen"
+        },
+        {
+          "item": "walnuts",
+          "qty": 1,
+          "unit": "small bag",
+          "category": "pantry",
+          "note": "a small handful"
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "a drizzle"
+        }
+      ],
+      "notes": "Spoon about 3/4 cup yogurt into a bowl, add a handful of frozen berries and walnuts, drizzle honey. No cooking, no prep the night before."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "servings": 3,
+      "id": "microwave-oatmeal-breakfast",
+      "day": "Wed",
+      "title": "Microwave oatmeal (the other mornings)",
+      "tags": [
+        "breakfast",
+        "quick",
+        "just-him"
+      ],
+      "activeTimeMin": 3,
+      "totalTimeMin": 3,
+      "ingredients": [
+        {
+          "item": "old-fashioned rolled oats",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "1/2 cup per bowl"
+        },
+        {
+          "item": "bananas",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced on top"
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "a shake"
+        }
+      ],
+      "notes": "1/2 cup oats + 1 cup water in a big mug or bowl, microwave 2–3 min, top with sliced banana, cinnamon, and a few walnuts. The oats' soluble fiber helps LDL."
     }
   ],
   "setAt": "2026-11-02T01:57:24.404Z"

@@ -1,23 +1,11 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T01:57:57.317Z",
+  "generatedAt": "2026-11-02T02:02:06.304Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "avocado",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
         {
           "item": "baby arugula",
           "qty": 3,
@@ -37,7 +25,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
+            "Microwave oatmeal (the other mornings)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -387,18 +375,6 @@
           "unit": ""
         },
         {
-          "item": "tomato",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "yellow onion",
           "qty": 3,
           "dim": "",
@@ -533,45 +509,16 @@
       "category": "dairy",
       "items": [
         {
-          "item": "eggs",
-          "qty": 4,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "plain low-fat yogurt",
+          "item": "plain low-fat Greek yogurt",
           "qty": 32,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "dairy",
           "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
+            "Yogurt bowl (most mornings)"
           ],
           "hasUnquantified": false,
           "unit": "oz"
-        }
-      ]
-    },
-    {
-      "category": "bakery",
-      "items": [
-        {
-          "item": "whole-grain bread",
-          "qty": 1,
-          "dim": "loaf",
-          "unitLabel": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
-          ],
-          "hasUnquantified": false,
-          "unit": "loaf"
         }
       ]
     },
@@ -618,18 +565,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "chia seeds",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "coconut aminos",
@@ -693,6 +628,30 @@
           "unit": "tbsp"
         },
         {
+          "item": "honey",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Yogurt bowl (most mornings)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "old-fashioned rolled oats",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Microwave oatmeal (the other mornings)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "orzo",
           "qty": 1.33,
           "dim": "vol",
@@ -741,18 +700,6 @@
           "unit": "tbsp"
         },
         {
-          "item": "rolled oats",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "toasted sesame oil",
           "qty": 0.5,
           "dim": "vol",
@@ -778,25 +725,13 @@
           "unit": "tbsp"
         },
         {
-          "item": "vanilla extract",
-          "qty": 0.33,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "walnuts",
           "qty": 1,
           "dim": "small bag",
           "unitLabel": "small bag",
           "category": "pantry",
           "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
+            "Yogurt bowl (most mornings)"
           ],
           "hasUnquantified": false,
           "unit": "small bag"
@@ -901,6 +836,18 @@
           "unit": "tbsp"
         },
         {
+          "item": "ground cinnamon",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Microwave oatmeal (the other mornings)"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "ground coriander",
           "qty": 0.33,
           "dim": "vol",
@@ -973,7 +920,7 @@
           "unitLabel": "bag",
           "category": "frozen",
           "fromMeals": [
-            "Overnight Oats (make-ahead, 6 jars)"
+            "Yogurt bowl (most mornings)"
           ],
           "hasUnquantified": false,
           "unit": "bag"
@@ -1031,5 +978,5 @@
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 78
+  "totalItems": 74
 }

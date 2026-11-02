@@ -205,8 +205,10 @@
     "since": "2026-11-02",
     "history": "Paleo trial 2026-11-01..02 rolled back; Nom Nom Paleo books stay as a recipe source.",
     "breakfast": {
-      "plan": "easy, mostly make-ahead: overnight oats / yogurt bowls on weekdays, a savory toast or egg morning, a weekend egg dish",
-      "lean": "oats and whole grains for LDL, fruit and nuts, eggs a few times a week, low sodium, no cheese for the wife"
+      "who": "just him (his wife handles her own breakfast)",
+      "plan": "really easy, no recipes: a yogurt bowl (Greek yogurt + frozen berries + walnuts + honey) most mornings, microwave oatmeal with banana and cinnamon on the others",
+      "lean": "oats for LDL, fruit and nuts, low sodium",
+      "avoid": "night-before prep, egg dishes, separate recipes"
     },
     "cuisine": {
       "scope": "pure Mediterranean (from 2026-11-02): Greek, Italian, Spanish, Provencal/southern French, Levantine, Turkish, North African",
