@@ -65,11 +65,17 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
   salt, and flavor with acid, herbs and spice) and lean on potassium-rich produce.
   This is not medical advice; the user follows his doctor.
 - **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
-  breakfast, so plan one person. No recipes, no night-before prep, no egg dishes:
-  - **Most mornings:** a yogurt bowl, about 3/4 cup plain Greek yogurt with frozen
-    berries, walnuts and a drizzle of honey. It takes one minute.
-  - **The other mornings:** microwave oatmeal, 1/2 cup old-fashioned oats + 1 cup
-    water for 2–3 minutes, topped with banana and cinnamon (the oats help LDL).
+  breakfast, so plan one person. No recipes, no night-before prep, nothing
+  multi-step (no shakshuka or frittatas). Rotate a handful of 1–5 minute options:
+  - **Yogurt bowl:** about 3/4 cup plain Greek yogurt with frozen berries, walnuts
+    and a drizzle of honey.
+  - **Microwave oatmeal:** 1/2 cup old-fashioned oats + 1 cup water for 2–3
+    minutes, topped with banana and cinnamon (the oats help LDL).
+  - **He likes eggs.** Easy ones: a microwave mug scramble with spinach or leftover
+    veg, a fried egg on whole-grain toast with tomato, or hard-boiled eggs boiled
+    in a batch or bought peeled. Keep it to about 3–4 egg mornings a week because
+    of the high LDL (not medical advice).
+  - **Peanut butter banana toast** with natural peanut butter.
   - Add them as `slot: "breakfast"`, `role: "side"` assemblies so their ingredients
     land on the shopping list without counting toward protein balance. They're
     exempt from the dinner protein+veg+carb rule and from the sourcing rule.

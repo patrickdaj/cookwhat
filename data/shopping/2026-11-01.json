@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:26:28.866Z",
+  "generatedAt": "2026-11-02T02:28:55.448Z",
   "targetServings": null,
   "sections": [
     {
@@ -19,15 +19,28 @@
           "unit": "oz"
         },
         {
+          "item": "baby spinach",
+          "qty": 1,
+          "dim": "small bag",
+          "unitLabel": "small bag",
+          "category": "produce",
+          "fromMeals": [
+            "Microwave mug scramble"
+          ],
+          "hasUnquantified": false,
+          "unit": "small bag"
+        },
+        {
           "item": "bananas",
           "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Microwave oatmeal (the other mornings)"
+            "Microwave oatmeal (the other mornings)",
+            "Peanut butter banana toast"
           ],
-          "hasUnquantified": false,
+          "hasUnquantified": true,
           "unit": ""
         },
         {
@@ -359,6 +372,18 @@
           "unit": ""
         },
         {
+          "item": "tomato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Fried egg on toast with tomato"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "yellow onion",
           "qty": 3.5,
           "dim": "",
@@ -506,12 +531,15 @@
       "items": [
         {
           "item": "eggs",
-          "qty": 1,
+          "qty": 13,
           "dim": "",
           "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
-            "Greek Meatballs and Potatoes"
+            "Greek Meatballs and Potatoes",
+            "Microwave mug scramble",
+            "Fried egg on toast with tomato",
+            "Grab-and-go hard-boiled eggs"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -556,6 +584,18 @@
           ],
           "hasUnquantified": false,
           "unit": "slice"
+        },
+        {
+          "item": "whole-grain bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Fried egg on toast with tomato"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
         }
       ]
     },
@@ -1001,8 +1041,9 @@
   ],
   "excludedStaples": [
     "extra-virgin olive oil",
-    "all-purpose flour"
+    "all-purpose flour",
+    "natural peanut butter"
   ],
   "pendingScans": [],
-  "totalItems": 75
+  "totalItems": 78
 }

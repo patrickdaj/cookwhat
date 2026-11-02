@@ -641,7 +641,7 @@
           "qty": 1,
           "unit": "",
           "category": "dairy",
-          "note": ""
+          "note": "from the breakfast dozen"
         },
         {
           "item": "fresh parsley",
@@ -1284,6 +1284,151 @@
         }
       ],
       "notes": "1/2 cup oats + 1 cup water in a big mug or bowl, microwave 2–3 min, top with sliced banana, cinnamon, and a few walnuts. The oats' soluble fiber helps LDL."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "id": "mug-scramble-breakfast",
+      "day": "Thu",
+      "title": "Microwave mug scramble",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "just-him"
+      ],
+      "activeTimeMin": 3,
+      "totalTimeMin": 3,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "eggs",
+          "qty": 4,
+          "unit": "",
+          "category": "dairy",
+          "note": "2 per mug"
+        },
+        {
+          "item": "baby spinach",
+          "qty": 1,
+          "unit": "small bag",
+          "category": "produce",
+          "note": "a handful per mug; or leftover veg from dinner"
+        }
+      ],
+      "notes": "Whisk 2 eggs in an oiled mug with a handful of spinach (or chopped leftover veg), microwave 45 sec, stir, then 30–45 sec more until just set. Black pepper, small pinch of salt. Toast on the side if you want."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "id": "egg-toast-breakfast",
+      "day": "Sat",
+      "title": "Fried egg on toast with tomato",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "just-him"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 5,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "eggs",
+          "qty": 2,
+          "unit": "",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "whole-grain bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "may already be in the house"
+        },
+        {
+          "item": "tomato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced"
+        }
+      ],
+      "notes": "Fry an egg in a teaspoon of olive oil; set it on whole-grain toast with sliced tomato, a drizzle of olive oil and black pepper."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "id": "hard-boiled-eggs-breakfast",
+      "day": "Mon",
+      "title": "Grab-and-go hard-boiled eggs",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "make-ahead",
+        "just-him"
+      ],
+      "activeTimeMin": 2,
+      "totalTimeMin": 15,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "eggs",
+          "qty": 6,
+          "unit": "",
+          "category": "dairy",
+          "note": "or a bag of pre-peeled hard-boiled eggs"
+        }
+      ],
+      "notes": "Optional batch: eggs into boiling water 11 min, then ice water; keep in the fridge up to a week. One or two with a banana or a piece of fruit is breakfast. Or buy them already peeled."
+    },
+    {
+      "slot": "breakfast",
+      "role": "side",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "id": "pb-banana-toast-breakfast",
+      "day": "Fri",
+      "title": "Peanut butter banana toast",
+      "tags": [
+        "breakfast",
+        "no-cook",
+        "just-him"
+      ],
+      "activeTimeMin": 2,
+      "totalTimeMin": 2,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "natural peanut butter",
+          "qty": 1,
+          "unit": "jar",
+          "category": "pantry",
+          "note": "ingredients: peanuts (+ salt); no hydrogenated oils"
+        },
+        {
+          "item": "bananas",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "on hand"
+        }
+      ],
+      "notes": "Whole-grain toast, a thin layer of natural peanut butter, sliced banana, a shake of cinnamon."
     }
   ],
   "setAt": "2026-11-02T01:57:24.404Z"
