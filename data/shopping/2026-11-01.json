@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:03:40.547Z",
+  "generatedAt": "2026-11-02T02:06:02.263Z",
   "targetServings": null,
   "sections": [
     {
@@ -110,8 +110,7 @@
           "category": "produce",
           "fromMeals": [
             "Italian Crispy Chicken Thighs",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Flank Steak Peperonata"
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -148,7 +147,8 @@
           "category": "produce",
           "fromMeals": [
             "Italian Crispy Chicken Thighs",
-            "Greek-Style Garlic-Lemon Potatoes",
+            "Greek Meatballs and Potatoes",
+            "Sautéed Green Beans",
             "One Pan Chicken Orzo",
             "Indoor Paella",
             "Green Salad with Artichokes and Olives"
@@ -182,7 +182,7 @@
         },
         {
           "item": "garlic",
-          "qty": 44,
+          "qty": 37,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -192,8 +192,9 @@
             "Honey Harissa Salmon",
             "Italian Crispy Chicken Thighs",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Flank Steak Peperonata",
-            "Greek-Style Garlic-Lemon Potatoes",
+            "Greek Meatballs and Potatoes",
+            "Ladolemono (Greek lemon-olive oil sauce)",
+            "Sautéed Green Beans",
             "One Pan Chicken Orzo",
             "Indoor Paella",
             "Green Salad with Artichokes and Olives"
@@ -202,15 +203,28 @@
           "unit": "clove"
         },
         {
+          "item": "green beans",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "lemon",
-          "qty": 7,
+          "qty": 7.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Honey Harissa Salmon",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Greek-Style Garlic-Lemon Potatoes",
+            "Ladolemono (Greek lemon-olive oil sauce)",
+            "Sautéed Green Beans",
             "One Pan Chicken Orzo",
             "Indoor Paella"
           ],
@@ -267,13 +281,13 @@
           "unit": ""
         },
         {
-          "item": "red or yellow bell peppers",
-          "qty": 4,
+          "item": "red onion",
+          "qty": 0.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Flank Steak Peperonata"
+            "Greek Meatballs and Potatoes"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -289,6 +303,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "Roma tomatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "romaine heart",
@@ -329,12 +355,13 @@
         },
         {
           "item": "yellow onion",
-          "qty": 3,
+          "qty": 3.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Flank Steak Peperonata",
+            "Greek Meatballs and Potatoes",
+            "Sautéed Green Beans",
             "One Pan Chicken Orzo",
             "Indoor Paella"
           ],
@@ -343,16 +370,27 @@
         },
         {
           "item": "Yukon Gold potatoes",
-          "qty": 3,
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Instant Pot Crispy Potatoes",
-            "Greek-Style Garlic-Lemon Potatoes"
+            "Instant Pot Crispy Potatoes"
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek Meatballs and Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "zucchini",
@@ -420,13 +458,13 @@
           "unit": "lb"
         },
         {
-          "item": "flank steak",
-          "qty": 1.5,
+          "item": "lean ground beef",
+          "qty": 1,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Flank Steak Peperonata"
+            "Greek Meatballs and Potatoes"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -473,6 +511,18 @@
       "category": "dairy",
       "items": [
         {
+          "item": "eggs",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Greek Meatballs and Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "plain low-fat Greek yogurt",
           "qty": 32,
           "dim": "oz",
@@ -483,6 +533,23 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "sandwich bread",
+          "qty": 1,
+          "dim": "slice",
+          "unitLabel": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Greek Meatballs and Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "slice"
         }
       ]
     },
@@ -517,18 +584,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "capers",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Flank Steak Peperonata"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "couscous",
@@ -681,12 +736,11 @@
       "items": [
         {
           "item": "diced tomatoes",
-          "qty": 2,
+          "qty": 1,
           "dim": "can",
           "unitLabel": "can",
           "category": "canned",
           "fromMeals": [
-            "Flank Steak Peperonata",
             "Indoor Paella"
           ],
           "hasUnquantified": false,
@@ -750,12 +804,13 @@
         },
         {
           "item": "dried oregano",
-          "qty": 1.67,
+          "qty": 1.75,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Flank Steak Peperonata",
+            "Greek Meatballs and Potatoes",
+            "Ladolemono (Greek lemon-olive oil sauce)",
             "One Pan Chicken Orzo"
           ],
           "hasUnquantified": false,
@@ -775,48 +830,52 @@
         },
         {
           "item": "ground coriander",
-          "qty": 0.33,
+          "qty": 3.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Greek Meatballs and Potatoes",
+            "Sautéed Green Beans",
             "One Pan Chicken Orzo"
           ],
           "hasUnquantified": false,
-          "unit": "tbsp"
+          "unit": "tsp"
         },
         {
           "item": "ground cumin",
-          "qty": 0.5,
+          "qty": 1.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Pan-Roasted Salmon with Chermoula"
+            "Pan-Roasted Salmon with Chermoula",
+            "Greek Meatballs and Potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Greek Meatballs and Potatoes"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
         },
         {
           "item": "paprika",
-          "qty": 0.25,
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Pan-Roasted Salmon with Chermoula"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": 0.13,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Flank Steak Peperonata"
+            "Pan-Roasted Salmon with Chermoula",
+            "Sautéed Green Beans"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -915,5 +974,5 @@
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 69
+  "totalItems": 73
 }

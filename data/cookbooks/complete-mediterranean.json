@@ -488,7 +488,8 @@
           "Pull the steak at 120-125 degrees for medium-rare and rest 10 minutes tented; there's a doneness chart on p.310.",
           "The basil goes into the peperonata only while the meat rests, so it stays fresh; a final drizzle of olive oil balances the tangy, meaty flavors."
         ]
-      }
+      },
+      "flag": "user dislikes peperonata (2026-11-01); do not suggest"
     },
     {
       "title": "Grilled Flank Steak with Grilled Vegetables and Salsa Verde",

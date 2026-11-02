@@ -451,154 +451,239 @@
       "notes": "Added alongside the roast at the user's request: prick and bake at 400–450°F about 45–60 min."
     },
     {
-      "id": "flank-steak-peperonata",
+      "id": "greek-meatballs-potatoes",
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Flank Steak Peperonata",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.308",
-      "sourceUrl": "",
-      "cuisine": "italian",
+      "title": "Greek Meatballs and Potatoes",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/baked-greek-meatballs-and-potatoes/",
+      "cuisine": "greek",
       "protein": "beef",
       "tags": [
-        "book",
+        "web",
         "new",
         "weeknight",
-        "guest-jody"
+        "guest-jody",
+        "on-hand"
       ],
-      "activeTimeMin": 35,
-      "totalTimeMin": 60,
+      "activeTimeMin": 20,
+      "totalTimeMin": 55,
       "servings": 4,
       "ingredients": [
         {
-          "item": "flank steak",
-          "qty": 1.5,
+          "item": "lean ground beef",
+          "qty": 1,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "one 1 1/2-lb steak, trimmed"
+          "note": "on hand; recipe uses 1 1/2 lb for 6, scaled to 4 (use it all if you have 1 1/2 lb)"
         },
         {
-          "item": "dried oregano",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "red or yellow bell peppers",
-          "qty": 4,
-          "unit": "",
-          "category": "produce",
-          "note": "cut into 1/4-in strips"
+          "item": "sandwich bread",
+          "qty": 1,
+          "unit": "slice",
+          "category": "bakery",
+          "note": "day-old or toasted; soaked and squeezed"
         },
         {
           "item": "yellow onion",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": ""
+          "note": "on hand; grated into the meat"
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": ""
         },
         {
-          "item": "diced tomatoes",
+          "item": "eggs",
           "qty": 1,
-          "unit": "can",
-          "category": "canned",
-          "note": "14.5 oz; no-salt-added if you can find it"
+          "unit": "",
+          "category": "dairy",
+          "note": ""
         },
         {
-          "item": "capers",
-          "qty": 2,
+          "item": "fresh parsley",
+          "qty": 3,
           "unit": "tbsp",
-          "category": "pantry",
-          "note": "plus 4 tsp of the brine"
+          "category": "produce",
+          "note": "on hand; plus more to garnish"
         },
         {
-          "item": "red pepper flakes",
-          "qty": 0.125,
+          "item": "dried oregano",
+          "qty": 0.75,
           "unit": "tsp",
           "category": "spices",
-          "note": "barely warm; skip for her if needed"
+          "note": ""
         },
         {
-          "item": "fresh basil",
-          "qty": 0.5,
-          "unit": "cup",
+          "item": "ground coriander",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "alt: a pinch of cinnamon"
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "qty": 3,
+          "unit": "",
           "category": "produce",
-          "note": "chopped"
+          "note": "on hand; small chunks"
         },
         {
-          "item": "extra-virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "plus 1 tbsp"
+          "item": "red onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": "on hand; thinly sliced"
         }
       ],
-      "notes": "Jody night: a cooked vegetable (the peperonata), no salad. Oregano-salt rub can go on in the morning (30 min to 24 h). Cut the steak WITH the grain into 3 pieces to cook, then slice thin AGAINST the grain. Pull at 120–125°F and rest 10 min. Our one red-meat night."
+      "notes": "Keftedes baked on a bed of potatoes and red onion: covered at 375°F for 30–40 min, then uncovered 10 min to brown. Spoon the ladolemono over before serving. Our one red-meat night, using the ground beef you have."
     },
     {
-      "id": "greek-lemon-potatoes",
+      "id": "ladolemono-sauce",
       "day": "Tue",
       "slot": "dinner",
       "role": "side",
-      "title": "Greek-Style Garlic-Lemon Potatoes",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.222",
-      "sourceUrl": "",
+      "title": "Ladolemono (Greek lemon-olive oil sauce)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/ladolemono-greek-salad-dressing/",
       "cuisine": "greek",
       "protein": "vegetable",
       "tags": [
-        "book",
-        "redo",
-        "carb"
+        "web",
+        "new",
+        "sauce"
       ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 35,
-      "servings": 4,
+      "activeTimeMin": 5,
+      "totalTimeMin": 5,
+      "servings": 8,
       "ingredients": [
-        {
-          "item": "Yukon Gold potatoes",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "note": "peeled, 1-in pieces"
-        },
-        {
-          "item": "garlic",
-          "qty": 6,
-          "unit": "clove",
-          "category": "produce",
-          "note": "minced"
-        },
         {
           "item": "lemons",
           "qty": 2,
           "unit": "",
           "category": "produce",
-          "note": "1 tsp zest + 3 tbsp juice"
+          "note": "1/4 cup juice"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "large"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "The meatballs' sauce: whisk lemon juice, oregano, garlic, salt and pepper, then slowly whisk in the olive oil. Leftovers dress Saturday's salad or lunches."
+    },
+    {
+      "id": "sauteed-green-beans-tomato",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sautéed Green Beans",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/sauteed-green-beans/",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "half batch; trimmed and halved"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": "on hand"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "Roma tomatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "on hand; diced (recipe: 1 large on-the-vine for a half batch)"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": "juice"
         },
         {
           "item": "fresh parsley",
           "qty": 2,
           "unit": "tbsp",
           "category": "produce",
-          "note": "minced"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.33,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
+          "note": "on hand"
         }
       ],
-      "notes": "Skillet potatoes, covered and then uncovered; the raw garlic and lemon go on off the heat. Skip the feta variation (no cheese for her)."
+      "notes": "A cooked vegetable for Jody (no salad): green beans braised covered with tomato, garlic, coriander and paprika about 25 min, finished with lemon and parsley. Skip the pine nuts or add them if you have some."
     },
     {
       "id": "one-pan-chicken-orzo",
