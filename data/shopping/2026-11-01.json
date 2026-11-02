@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:28:55.448Z",
+  "generatedAt": "2026-11-02T02:53:43.667Z",
   "targetServings": null,
   "sections": [
     {
@@ -66,18 +66,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "cucumber",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Cucumber-Yogurt Sauce (tzatziki)"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         },
         {
           "item": "fennel bulbs",
@@ -148,7 +136,6 @@
           "category": "produce",
           "fromMeals": [
             "Greek-Style Garlic-Lemon Potatoes",
-            "Cucumber-Yogurt Sauce (tzatziki)",
             "Greek Meatballs and Potatoes",
             "Sautéed Green Beans",
             "One Pan Chicken Orzo",
@@ -195,7 +182,7 @@
             "Sauteed Bok Choy with Garlic",
             "Sautéed Sole with Fresh Tomato Relish",
             "Sauteed Zucchini Ribbons with Mint and Pistachios",
-            "Cucumber-Yogurt Sauce (tzatziki)",
+            "Tahini Sauce",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Greek Meatballs and Potatoes",
             "Ladolemono (Greek lemon-olive oil sauce)",
@@ -221,12 +208,13 @@
         },
         {
           "item": "lemon",
-          "qty": 6.5,
+          "qty": 7.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Sautéed Sole with Fresh Tomato Relish",
+            "Tahini Sauce",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Ladolemono (Greek lemon-olive oil sauce)",
             "Sautéed Green Beans",
@@ -545,19 +533,7 @@
           "unit": ""
         },
         {
-          "item": "plain low-fat Greek yogurt",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Cucumber-Yogurt Sauce (tzatziki)"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "plain low-fat Greek yogurt",
+          "item": "plain low-fat yogurt (regular, not Greek)",
           "qty": 32,
           "dim": "oz",
           "unitLabel": "oz",
@@ -726,6 +702,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "tahini",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Tahini Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "walnuts",
@@ -1045,5 +1033,5 @@
     "natural peanut butter"
   ],
   "pendingScans": [],
-  "totalItems": 78
+  "totalItems": 77
 }

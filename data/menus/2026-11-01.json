@@ -406,61 +406,47 @@
       "notes": "Marinate at least 30 min (or overnight, then back to room temp). Grill over medium-high, turning every 3–4 min, about 12 min total; or broil on a rack close to the element, turning once. Rest 3–5 min."
     },
     {
-      "id": "cucumber-yogurt-sauce",
+      "id": "tahini-sauce-fri",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Cucumber-Yogurt Sauce (tzatziki)",
+      "title": "Tahini Sauce",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.233",
       "sourceUrl": "",
       "cuisine": "turkish",
       "protein": "vegetable",
       "tags": [
         "book",
-        "redo",
+        "new",
         "sauce"
       ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 10,
+      "activeTimeMin": 5,
+      "totalTimeMin": 35,
       "servings": 4,
       "ingredients": [
         {
-          "item": "plain low-fat Greek yogurt",
-          "qty": 1,
+          "item": "tahini",
+          "qty": 0.25,
           "unit": "cup",
-          "category": "dairy",
-          "note": "from the breakfast tub"
+          "category": "pantry",
+          "note": "half batch; stir the jar well first"
         },
         {
-          "item": "cucumber",
+          "item": "lemon",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "on hand; peeled, seeded, shredded"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": "on hand; the book allows parsley, mint or cilantro for the dill"
+          "note": "2 tbsp juice"
         },
         {
           "item": "garlic",
           "qty": 1,
           "unit": "clove",
           "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "note": "minced"
         }
       ],
-      "notes": "The kabobs' tzatziki. Make it day-of (keeps only a day)."
+      "notes": "The kabobs' sauce (replaces tzatziki; he's not a fan of Greek yogurt). Half batch: whisk 1/4 cup tahini, 1/4 cup water, 2 tbsp lemon juice and a garlic clove; season and let sit 30 min. Keeps 4 days."
     },
     {
       "day": "Fri",
@@ -1212,7 +1198,7 @@
       "totalTimeMin": 1,
       "ingredients": [
         {
-          "item": "plain low-fat Greek yogurt",
+          "item": "plain low-fat yogurt (regular, not Greek)",
           "qty": 32,
           "unit": "oz",
           "category": "dairy",
@@ -1240,7 +1226,7 @@
           "note": "a drizzle"
         }
       ],
-      "notes": "Spoon about 3/4 cup yogurt into a bowl, add a handful of frozen berries and walnuts, drizzle honey. No cooking, no prep the night before."
+      "notes": "Spoon about 3/4 cup regular plain yogurt into a bowl, add a handful of frozen berries and walnuts, drizzle honey. No cooking, no prep the night before."
     },
     {
       "slot": "breakfast",
