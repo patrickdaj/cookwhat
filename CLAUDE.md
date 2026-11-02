@@ -37,69 +37,36 @@ generate a shopping list.
 9. **Later, capture ratings.** When the user reports back, log with
    `cookwhat rate ...` so future weeks get smarter.
 
-## Paleo for the user, de-paleo options for his wife (as of 2026-11)
+## Mediterranean again, plus easy breakfasts (as of 2026-11-02)
 
-The user went back on **paleo for his blood pressure** (2026-11-01). His wife is
-**not** paleo. This supersedes older guidance below wherever they conflict (the
-grain/rice-heavy sides, "oats and whole grains for fiber", the ATK-first blend).
+The user tried **paleo for two days (2026-11-01..02) and rolled it back** to a full
+**Mediterranean** pattern (heart + blood pressure). Everyone eats the same dinner
+again, so no separate "For her" add-ons are needed. The 2026-11-01 week was
+planned paleo with add-ons, and everyone can share those sides.
 
-- **Paleo baseline (for him):** no grains (wheat, rice, corn, oats, quinoa), no
-  legumes (beans, peanuts, soy: use coconut aminos for soy sauce), no dairy (a
-  little ghee is fine), no refined sugar, no seed or vegetable oils, no processed
-  foods (deli meat, packaged sauces). Allowed: meat, fish, eggs, all vegetables and
-  fruit, **potatoes, sweet potatoes, winter squash and plantains** (his carb), nuts
-  and seeds, olive and avocado oil, and honey or maple syrup sparingly.
-- **Red meat is back in play — the user's experiment (2026-11).** On paleo
-  he's found the red-meat trade-off acceptable before, so don't fight it: aim
-  for **~2 red-meat nights a week, up to 3** (`redMeatMaxPerWeek: 3`), favoring
-  leaner cuts (flank, sirloin, tenderloin, pork tenderloin/loin, grass-fed
-  ground beef) over fatty ones. This overrides the "0–1 nights" line in
-  Heart-health below. Treat it as an experiment — if he reports blood pressure or
-  lipids moving the wrong way, revisit.
-- **Still heart- and blood-pressure-friendly otherwise.** Fish ~2×/week,
-  olive/avocado oil as the default fat, ghee/coconut as accents. **Cured and
-  processed meats stay minimal** (bacon, sausage, deli — the sodium is the
-  blood-pressure problem), and deep-frying stays occasional. **Watch sodium.** Coconut aminos, fish sauce, salt, broth and
-  cured meats add up. Use low-sodium broth, measure the salty seasonings, and get
-  flavor from acid, herbs, garlic and spice. Lean on potassium-rich foods: leafy
-  greens, sweet potatoes, squash, avocado, tomatoes, bananas.
-- **Full meals for him:** the protein + vegetable + carb rule still holds, but his
-  carb is a **starchy vegetable** (sweet potato, potato, squash, plantain).
-  Cauliflower rice is a vegetable, not a carb.
-- **De-paleo options for his wife — every paleo dinner gets 1–3.** These are
-  quick add-ons, not a separate meal: a side of rice, pasta, couscous, crusty
-  bread or tortillas; a little cheese or feta at the table (she's low-cheese);
-  regular soy sauce, miso or a sweeter glaze in place of coconut aminos; a spoon
-  of yogurt, sour cream or tzatziki; beans sparingly. Store them on the main dish
-  as `"depaleo": ["...", "..."]` and show them on the menu page under "For her".
-  If an option needs shopping (rice, tortillas, feta), also add it as a `side`
-  dish tagged `"depaleo"` with its ingredients so it lands on the list. Rice
-  sides still count toward `carbRules`.
-- **Sources.** **Nom Nom Paleo** (Michelle Tam + Henry Fong) is the user's
-  favorite, and he owns all three books: *Food for Humans* (2013), *Ready or
-  Not!* (2017) and *Let's Go!* (2022). Stub catalogs live in
-  `data/cookbooks/nomnompaleo-*.json`. Fill each one from a scan of the book's
-  table of contents (titles + pages, never from memory), then plan by title and
-  scan on demand, exactly like the ATK book. Paleo-friendly sites now lead
-  `preferredSites`:
-  - nomnompaleo.com: Michelle Tam's site, 300+ free recipes.
-  - iheartumami.com: Asian paleo (Taiwanese/Chinese), which fits his love of Asian food.
-  - paleorunningmomma.com: 30-minute paleo/Whole30 dinners.
-  - thedefineddish.com: Whole30, with paleo recipes clearly marked.
-  - downshiftology.com: paleo plus Mediterranean.
-  - wholesomelicious.com: a paleo category.
-
-  The ATK Mediterranean book is still useful: most of its fish, chicken and
-  vegetable dishes are paleo or close to it (skip the feta, yogurt, pita and
-  grain sides, or turn those into the wife's add-ons). The Asian sites adapt
-  easily with coconut aminos.
-- **House staples on the list may be hers.** Extras like sandwich bread, lunch
-  meat or snacks are often for his wife: don't flag those as non-paleo. Only call
-  out an item when it's clearly for him (peanut butter was his, so the swap is
-  almond butter).
-- Not medical advice. The user follows his doctor's guidance; DASH has the
-  strongest evidence for blood pressure, and a veg-heavy, low-sodium paleo
-  overlaps with it a lot.
+- **What stays from the paleo week:** the three Nom Nom Paleo books are catalogued
+  in `data/cookbooks/nomnompaleo-*.json` and remain a good source (lots of Asian,
+  veg-forward, olive/avocado-oil dishes). The paleo sites stay in `preferredSites`
+  but rank after the Mediterranean and Asian ones. The curl + JSON-LD fetch method
+  (see Recipe tips) works for most of them.
+- **Red meat back to 0–1 nights/week** (`redMeatMaxPerWeek: 1`), lean cuts.
+- **Blood pressure:** watch sodium (low-sodium broth, measure fish sauce, soy and
+  salt, and flavor with acid, herbs and spice) and lean on potassium-rich produce.
+  This is not medical advice; the user follows his doctor.
+- **Breakfasts are planned now, and they stay easy.** Add a small breakfast block
+  to each week, as `slot: "breakfast"`, `role: "side"` dishes so they don't count
+  toward protein balance. Their ingredients land on the shopping list.
+  - **Weekdays:** make-ahead and grab-and-go. A batch of overnight oats (6 jars) or
+    yogurt bowls with fruit and nuts covers most mornings, and the oats help LDL.
+  - **One savory morning:** whole-grain toast with avocado or tomato and olive oil,
+    plus an egg.
+  - **Weekend:** an egg dish such as shakshuka or a Spanish tortilla (ATK Eggs
+    chapter, p.330–341) or a frittata, built mild and with **no cheese for his
+    wife**.
+  - Keep it to 2–3 distinct breakfasts a week, not seven recipes. Breakfasts are
+    exempt from the protein+veg+carb dinner rule.
+- **House staples on the list may be hers** (bread, lunch meat, snacks). Don't flag
+  them.
 
 ## Saving a plan (preferred format)
 
@@ -407,8 +374,9 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
 
 - **Make the big offenders infrequent, not weekly — the user loves them but
   wants them dialed back to occasional/special-occasion:**
-  - **Red meat** — *superseded 2026-11 by the paleo experiment: ~2 nights/week,
-    up to 3, leaner cuts (see the Paleo section).* (Was: 0–1 nights.)
+  - **Red meat** — aim for **0–1 nights**, and not every week (the `redMeatMax`
+    of 1 is a ceiling, not a target). Guest/celebration steak or ribs still fine.
+    (A 2-day paleo experiment in Nov 2026 raised this; it's rolled back.)
   - **Processed/cured meats** (bacon, sausage, corned beef, deli, pancetta,
     chorizo) — **minimize**; use as a small accent at most, not the centerpiece.
   - **Deep-fried foods** — **occasional treat.** Default to the lighter build:
@@ -422,7 +390,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   seeds. Zero trans fats (partially hydrogenated anything).
 - **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
   `seafoodMin` and the "more Asian/Mediterranean" leanings.
-- **Fiber from oats / whole grains / veg / fruit — NOT beans.** *(Paleo since 2026-11: for him, fiber comes from veg, fruit, nuts, seeds and starchy veg only; grains become the wife's add-ons.)* Normally you'd
+- **Fiber from oats / whole grains / veg / fruit — NOT beans.** Normally you'd
   push legumes for LDL, but this user keeps bean use low, so get soluble fiber
   from oats, barley, farro, brown rice, quinoa, and lots of vegetables/fruit
   instead. (Whole grains over refined.)
@@ -430,7 +398,7 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   roast/grill/steam/sauté in olive oil over deep-frying; use rich cheeses as an
   accent, not the main event.
 - Already-aligned config: `nutrition.dairy: low`, `saturatedFat: low`,
-  `cholesterolConscious: true`; `proteinRules.redMeatMaxPerWeek` is now 3 (paleo experiment).
+  `cholesterolConscious: true`, `proteinRules.redMeatMaxPerWeek: 1`.
 - Not medical advice — general heart-healthy eating; the user follows their
   doctor's guidance.
 

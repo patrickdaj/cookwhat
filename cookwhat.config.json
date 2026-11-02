@@ -45,12 +45,6 @@
       "avoid": []
     },
     "preferredSites": [
-      "nomnompaleo.com",
-      "iheartumami.com",
-      "paleorunningmomma.com",
-      "thedefineddish.com",
-      "downshiftology.com",
-      "wholesomelicious.com",
       "seriouseats.com",
       "smittenkitchen.com",
       "thekitchn.com",
@@ -62,12 +56,18 @@
       "isabeleats.com",
       "the-pasta-project.com",
       "pardonyourfrench.com",
-      "heygrillhey.com"
+      "heygrillhey.com",
+      "nomnompaleo.com",
+      "iheartumami.com",
+      "paleorunningmomma.com",
+      "thedefineddish.com",
+      "downshiftology.com",
+      "wholesomelicious.com"
     ],
     "avoidSites": []
   },
   "proteinRules": {
-    "redMeatMaxPerWeek": 3,
+    "redMeatMaxPerWeek": 1,
     "poultryMaxPerWeek": 3,
     "seafoodMinPerWeek": 1,
     "vegetarianMinPerWeek": 0,
@@ -171,17 +171,16 @@
   },
   "nutrition": {
     "goals": [
-      "paleo",
-      "blood-pressure",
       "heart-healthy",
+      "blood-pressure",
       "good",
       "chefy"
     ],
-    "notes": "As of 2026-11 the user is back on PALEO for blood pressure; his wife is NOT paleo — every dinner gets quick de-paleo add-ons for her (see diet.depaleo). Heart overlay still applies (high total cholesterol + LDL, 2026-06): red meat is back in play as a paleo EXPERIMENT (user's call, 2026-11): ~2 nights/week, up to 3, favoring leaner cuts (flank, sirloin, tenderloin, pork tenderloin/loin, grass-fed); still keep cured/processed meats minimal (sodium) and skip deep-frying; fish ~2x/week, olive/avocado oil, nuts/seeds, lots of veg + fruit. Blood pressure: watch sodium (coconut aminos, fish sauce, salt, broth and cured meats add up — prefer low-sodium broth, measure the salty seasonings, lean on acid/herbs/spice), and favor potassium-rich foods (leafy greens, sweet potatoes, squash, avocado, tomatoes, bananas). Fiber for him comes from veg, fruit, nuts, seeds, sweet potatoes/squash (no grains); keep beans low for both.",
+    "notes": "Mediterranean eating pattern (back to it 2026-11-02 after a 2-day paleo trial). Household has high total cholesterol + high LDL (2026-06) and the user is watching blood pressure: olive oil as the default fat, fish ~2x/week, red meat 0-1x/week (lean cuts), processed/fried infrequent, lots of veg/fruit, whole grains and oats for fiber (keep beans low), nuts/seeds. Watch sodium: low-sodium broth, measure fish sauce/soy/salt, flavor with acid/herbs/spice; favor potassium-rich foods. Easy Mediterranean breakfasts are planned too (see diet.breakfast).",
     "dairy": "low",
     "saturatedFat": "low",
     "cholesterolConscious": true,
-    "redMeatProcessedFried": "red meat ok ~2-3x/week (paleo experiment); processed + fried still infrequent",
+    "redMeatProcessedFried": "infrequent",
     "sodium": "low"
   },
   "shopping": {
@@ -201,36 +200,12 @@
     ]
   },
   "diet": {
-    "style": "paleo",
-    "since": "2026-11-01",
-    "who": "the user (wife is not paleo)",
-    "reason": "blood pressure (plus existing high cholesterol/LDL)",
-    "exclude": [
-      "grains (wheat, rice, corn, oats, quinoa)",
-      "legumes (beans, peanuts, soy — use coconut aminos for soy sauce)",
-      "dairy (ghee sparingly is ok)",
-      "refined sugar",
-      "seed/vegetable oils",
-      "processed foods (deli meats, packaged sauces)"
-    ],
-    "allow": [
-      "meat, poultry, fish, eggs",
-      "all vegetables and fruit",
-      "potatoes, sweet potatoes, winter squash, plantains (his carb)",
-      "nuts and seeds (almond butter, not peanut butter)",
-      "olive oil, avocado oil",
-      "honey/maple syrup sparingly"
-    ],
-    "depaleo": {
-      "rule": "Every paleo dinner lists 1-3 quick add-ons that make it non-paleo for his wife — not a separate meal.",
-      "ideas": [
-        "a side of rice, pasta, couscous, crusty bread, or tortillas",
-        "cheese or feta at the table (she's low-cheese, so a little)",
-        "regular soy sauce / miso / a sweeter sauce in place of coconut aminos",
-        "a spoon of yogurt, sour cream, or tzatziki",
-        "beans or chickpeas (sparingly)"
-      ]
-    },
-    "redMeat": "Experiment (2026-11): ~2 nights/week, up to 3; leaner cuts preferred. Revisit if BP/lipids move the wrong way."
+    "style": "mediterranean",
+    "since": "2026-11-02",
+    "history": "Paleo trial 2026-11-01..02 rolled back; Nom Nom Paleo books stay as a recipe source.",
+    "breakfast": {
+      "plan": "easy, mostly make-ahead: overnight oats / yogurt bowls on weekdays, a savory toast or egg morning, a weekend egg dish",
+      "lean": "oats and whole grains for LDL, fruit and nuts, eggs a few times a week, low sodium, no cheese for the wife"
+    }
   }
 }

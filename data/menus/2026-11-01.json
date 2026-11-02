@@ -1068,8 +1068,8 @@
       ],
       "notes": "Bo ssäm = 'wrapped'. Dry-brine 8 hr+ (start Thu/Fri), 2 hr high pressure, natural release, broil 5–10 min basting with the skimmed jus, shred. No kimchi (too spicy for her): pickled cucumbers + carrots and Monday's ginger-scallion sauce instead; Fauxchujang on the side.",
       "depaleo": [
-        "Steamed rice instead of cauli rice",
-        "Regular ssamjang (milder than gochujang) instead of Fauxchujang"
+        "Steamed rice in the wraps (everyone)",
+        "Ssamjang (milder than Fauxchujang)"
       ]
     },
     {
@@ -1119,36 +1119,6 @@
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
-        }
-      ]
-    },
-    {
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "side",
-      "sourceUrl": "",
-      "cuisine": "korean",
-      "protein": "vegetable",
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 4,
-      "notes": "Bo ssäm component. p.80 not scanned; shortcut: sauté fresh riced cauliflower in a little ghee or olive oil with salt.",
-      "id": "cauli-rice-ron80",
-      "title": "Cauli Rice",
-      "source": "Ready or Not! (Nom Nom Paleo) — p.80",
-      "tags": [
-        "book",
-        "new",
-        "paleo",
-        "needs-scan"
-      ],
-      "ingredients": [
-        {
-          "item": "riced cauliflower (fresh)",
-          "qty": 16,
-          "unit": "oz",
-          "category": "produce",
-          "note": "for 2 cups cauli rice; or rice a small head"
         }
       ]
     },
@@ -1325,9 +1295,9 @@
       "activeTimeMin": null,
       "totalTimeMin": null,
       "servings": 2,
-      "notes": "Non-paleo add-ons for his wife; rice comes from Wednesday's bag.",
+      "notes": "Back to Mediterranean (not paleo): rice for everyone in the wraps; ssamjang is the mild sauce.",
       "id": "forher-sat-rice-ssamjang",
-      "title": "For her: steamed rice + ssamjang",
+      "title": "Steamed rice + ssamjang (everyone)",
       "source": "",
       "tags": [
         "depaleo"
@@ -1468,6 +1438,124 @@
         }
       ],
       "notes": "Added alongside the roast at the user's request: prick and bake at 400–450°F about 45–60 min."
+    },
+    {
+      "id": "overnight-oats-tmd",
+      "day": "Tue",
+      "slot": "breakfast",
+      "role": "side",
+      "title": "Overnight Oats (make-ahead, 6 jars)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/overnight-oats-recipe/",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "breakfast",
+        "make-ahead"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 495,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "plain low-fat yogurt",
+          "qty": 32,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "1 quart; Greek or regular"
+        },
+        {
+          "item": "rolled oats",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "chia seeds",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "frozen mixed berries",
+          "qty": 1,
+          "unit": "bag",
+          "category": "frozen",
+          "note": "mix-in"
+        },
+        {
+          "item": "walnuts",
+          "qty": 1,
+          "unit": "small bag",
+          "category": "pantry",
+          "note": "topping"
+        },
+        {
+          "item": "bananas",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "topping, some mornings"
+        }
+      ],
+      "notes": "Make Monday night: stir yogurt, oats, chia and vanilla, divide into 6 jars, add berries. Top with walnuts/banana and a drizzle of honey in the morning. Covers most mornings Tue–Sun; oats + chia are soluble fiber for LDL."
+    },
+    {
+      "id": "savory-toast-morning",
+      "day": "Thu",
+      "slot": "breakfast",
+      "role": "side",
+      "title": "Savory toast morning: whole-grain toast, avocado or tomato, egg",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "breakfast"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "whole-grain bread",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": ""
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "toast"
+        },
+        {
+          "item": "tomato",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "grated or sliced, with olive oil + salt"
+        },
+        {
+          "item": "eggs",
+          "qty": 4,
+          "unit": "",
+          "category": "dairy",
+          "note": "fried or soft-boiled"
+        }
+      ],
+      "notes": "For the morning you're tired of oats. Olive oil, a pinch of salt, black pepper."
     }
   ],
   "setAt": "2026-11-01T14:48:34.838Z"

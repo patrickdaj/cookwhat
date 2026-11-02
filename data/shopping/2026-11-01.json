@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-01T21:45:22.407Z",
+  "generatedAt": "2026-11-02T01:33:57.706Z",
   "targetServings": null,
   "sections": [
     {
@@ -8,12 +8,13 @@
       "items": [
         {
           "item": "avocado",
-          "qty": 2,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "His bowl (no tortilla)"
+            "His bowl (no tortilla)",
+            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -29,6 +30,18 @@
           ],
           "hasUnquantified": false,
           "unit": "bunch"
+        },
+        {
+          "item": "bananas",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "Brussels sprouts",
@@ -377,18 +390,6 @@
           "unit": "lb"
         },
         {
-          "item": "riced cauliflower (fresh)",
-          "qty": 16,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Cauli Rice"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
-        },
-        {
           "item": "russet potatoes",
           "qty": 1.5,
           "dim": "lb",
@@ -462,6 +463,18 @@
           "fromMeals": [
             "Mexican Roasted Vegetables",
             "Baked sweet potatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "tomato",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -600,12 +613,13 @@
       "items": [
         {
           "item": "eggs",
-          "qty": 2,
+          "qty": 6,
           "dim": "",
           "unitLabel": "",
           "category": "dairy",
           "fromMeals": [
-            "Japanese Potato Salad"
+            "Japanese Potato Salad",
+            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -622,6 +636,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "plain low-fat yogurt",
+          "qty": 32,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "dairy",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
         },
         {
           "item": "sour cream",
@@ -651,6 +677,18 @@
           ],
           "hasUnquantified": false,
           "unit": "pack"
+        },
+        {
+          "item": "whole-grain bread",
+          "qty": 1,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Savory toast morning: whole-grain toast, avocado or tomato, egg"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
         }
       ]
     },
@@ -668,6 +706,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "chia seeds",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "coconut aminos",
@@ -803,13 +853,25 @@
           "unit": "tsp"
         },
         {
+          "item": "rolled oats",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "ssamjang",
           "qty": 1,
           "dim": "small tub",
           "unitLabel": "small tub",
           "category": "pantry",
           "fromMeals": [
-            "For her: steamed rice + ssamjang"
+            "Steamed rice + ssamjang (everyone)"
           ],
           "hasUnquantified": false,
           "unit": "small tub"
@@ -851,6 +913,30 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "vanilla extract",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "walnuts",
+          "qty": 1,
+          "dim": "small bag",
+          "unitLabel": "small bag",
+          "category": "pantry",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "small bag"
         }
       ]
     },
@@ -1013,6 +1099,23 @@
       ]
     },
     {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "frozen mixed berries",
+          "qty": 1,
+          "dim": "bag",
+          "unitLabel": "bag",
+          "category": "frozen",
+          "fromMeals": [
+            "Overnight Oats (make-ahead, 6 jars)"
+          ],
+          "hasUnquantified": false,
+          "unit": "bag"
+        }
+      ]
+    },
+    {
       "category": "beverages",
       "items": [
         {
@@ -1053,5 +1156,5 @@
     "coconut sugar"
   ],
   "pendingScans": [],
-  "totalItems": 79
+  "totalItems": 87
 }
