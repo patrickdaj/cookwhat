@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-01",
-  "generatedAt": "2026-11-02T02:58:02.406Z",
+  "generatedAt": "2026-11-02T23:34:18.782Z",
   "targetServings": null,
   "sections": [
     {
@@ -98,7 +98,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish",
+            "Pan-Seared Cod with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -193,7 +193,7 @@
             "Pan-Roasted Salmon with Chermoula",
             "Greek-Style Garlic-Lemon Potatoes",
             "Sauteed Bok Choy with Garlic",
-            "Sautéed Sole with Fresh Tomato Relish",
+            "Pan-Seared Cod with Fresh Tomato Relish",
             "Sauteed Zucchini Ribbons with Mint and Pistachios",
             "Cucumber-Yogurt Sauce (tzatziki)",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
@@ -226,7 +226,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish",
+            "Pan-Seared Cod with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Ladolemono (Greek lemon-olive oil sauce)",
             "Sautéed Green Beans",
@@ -317,7 +317,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish"
+            "Pan-Seared Cod with Fresh Tomato Relish"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -353,7 +353,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish",
+            "Pan-Seared Cod with Fresh Tomato Relish",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
@@ -465,6 +465,18 @@
           "unit": "lb"
         },
         {
+          "item": "cod fillets (or any firm white fish)",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Pan-Seared Cod with Fresh Tomato Relish"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "extra-large shrimp (21–25/lb)",
           "qty": 1,
           "dim": "lb",
@@ -511,18 +523,6 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
-        },
-        {
-          "item": "sole fillets (2–3 oz, 1/4–1/2 in thick)",
-          "qty": 6,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -710,7 +710,7 @@
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Sautéed Sole with Fresh Tomato Relish"
+            "Pan-Seared Cod with Fresh Tomato Relish"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"

@@ -182,11 +182,11 @@
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Sautéed Sole with Fresh Tomato Relish",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.260 (relish p.261)",
+      "title": "Pan-Seared Cod with Fresh Tomato Relish",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260 (Sauteed Sole recipe made with cod; relish p.261)",
       "sourceUrl": "",
       "cuisine": "italian",
-      "protein": "sole",
+      "protein": "cod",
       "tags": [
         "book",
         "new",
@@ -198,11 +198,11 @@
       "servings": 3,
       "ingredients": [
         {
-          "item": "sole fillets (2–3 oz, 1/4–1/2 in thick)",
-          "qty": 6,
-          "unit": "",
+          "item": "cod fillets (or any firm white fish)",
+          "qty": 1,
+          "unit": "lb",
           "category": "meat-seafood",
-          "note": "about 1 lb. Alt: flounder (the book's swap), or any thin mild white fish (tilapia, haddock); frozen sole/flounder thawed and patted dry. Thicker cod needs a couple more minutes per side. Not thinner than 1/4 in"
+          "note": "3 portions. Alt: haddock, halibut, pollock, or flounder/sole"
         },
         {
           "item": "ripe tomatoes",
@@ -261,7 +261,7 @@
           "note": ""
         }
       ],
-      "notes": "Make the no-cook relish first and let it sit 15 min. Dredge the sole lightly in flour, sear in two batches in a hot nonstick skillet (about 2–3 min, then 30–60 sec after flipping with two spatulas), wipe the pan between batches. Scaled from 8 fillets for 4 to 6 for 3."
+      "notes": "Make the no-cook relish first and let it sit 15 min. Cod is thicker than the book's sole, so: pat dry, salt and pepper, dust lightly in flour, sear in olive oil in a hot nonstick skillet 3–4 min until golden, flip gently with two spatulas, then 2–4 min more (or finish in a 400°F oven) until it flakes, about 135–140°F. Thin fillets like flounder or sole cook in about half the time."
     },
     {
       "id": "zucchini-ribbons-mint-pistachio",
