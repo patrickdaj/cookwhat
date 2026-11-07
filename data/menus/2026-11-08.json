@@ -1,0 +1,245 @@
+{
+  "weekOf": "2026-11-08",
+  "createdAt": "2026-11-07T20:00:40.438Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "indoor-paella",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Indoor Paella",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.112",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "new",
+        "project",
+        "batch",
+        "covers-mon"
+      ],
+      "activeTimeMin": 60,
+      "totalTimeMin": 105,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21–25/lb)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "peeled and deveined; on hand (your 1 lb)"
+        },
+        {
+          "item": "mussels",
+          "qty": 12,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "alt: skip them and use another 1/2 lb shrimp"
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": ""
+        },
+        {
+          "item": "Spanish dry-cured chorizo",
+          "qty": 4,
+          "unit": "oz",
+          "category": "deli",
+          "note": "book says 8 oz; halved as an accent for heart health. Alt: fresh chorizo or linguiça, or leave it out"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "14.5 oz, drained"
+        },
+        {
+          "item": "Bomba rice",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "alt: any Valencia rice, or Arborio"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 3,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "beverages",
+          "note": "or the white cooking wine"
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "alt: 1/2 tsp smoked paprika + a pinch of turmeric for color"
+        },
+        {
+          "item": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "wedges"
+        }
+      ],
+      "notes": "Skipped on Sat 11/7 and moved here; the groceries are already bought. Serves 6: Sunday dinner for two, his Monday dinner (wife is out), and a lunch. 6-qt Dutch oven, 350°F oven. Chorizo halved to 4 oz as an accent (or skip it). For socarrat, finish uncovered on the stove about 5 min. Shrimp thawed Friday night should be cooked by Sunday."
+    },
+    {
+      "id": "green-salad-artichokes-olives",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Green Salad with Artichokes and Olives",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.69",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "salad"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "romaine heart",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "6 oz"
+        },
+        {
+          "item": "baby arugula",
+          "qty": 3,
+          "unit": "oz",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "jarred artichoke hearts (water-packed)",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": "quartered, rinsed, patted dry. Alt: canned artichoke quarters"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "produce",
+          "note": "leaves"
+        },
+        {
+          "item": "pitted kalamata olives",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "halved"
+        },
+        {
+          "item": "white wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "A fresh, bright plate next to the paella. Skip the Asiago (no cheese for her)."
+    },
+    {
+      "id": "chicken-tagine-chickpeas-apricots",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Tagine with Chickpeas and Apricots",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.303",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "needs-scan",
+        "batch",
+        "covers-wed"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [],
+      "notes": "Big batch: Tuesday dinner for two, his Wednesday dinner (wife is out), and lunches. Braises reheat better on day two. Needs a scan of p.303 before shopping."
+    }
+  ]
+}
