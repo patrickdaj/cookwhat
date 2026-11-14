@@ -236,14 +236,14 @@
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 75,
-      "servings": 3,
+      "servings": 6,
       "ingredients": [
         {
           "item": "boneless skinless chicken thighs",
-          "qty": 1.5,
+          "qty": 3,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "swapped for the bone-in leg quarters (forgot bone-in); the other 1.5 lb of the 3 lb pack goes to Tuesday's tagine"
+          "note": "swapped for the bone-in leg quarters; all 3 lb in 6 big pieces, laid flat"
         },
         {
           "item": "smoked paprika (Spanish)",
@@ -309,7 +309,7 @@
           "note": ""
         }
       ],
-      "notes": "Boneless swap: roast the veg alone (with oil, paprika, thyme, 1 tbsp sherry vinegar) 30 min at 375°F, then nestle in the chicken tossed with 1 tbsp oil + paprika/thyme/salt/pepper and roast 20–25 min more to 175°F; broil 2–3 min for color. Finish with the rest of the vinegar and parsley. 3 servings: Saturday dinner for two + his Sunday lunch."
+      "notes": "Boneless swap, all 3 lb: roast the veg alone 30 min at 375°F, then nestle in the 6 seasoned thighs (laid flat, not crowded; use a second pan if needed) and roast 25–30 min more to 175°F; broil 2–3 min for color. Finish with the rest of the vinegar and parsley. ~6 servings: Saturday dinner for two + his Sun and Mon lunches + 2 extra."
     },
     {
       "id": "basmati-pilaf-peas-lemon",

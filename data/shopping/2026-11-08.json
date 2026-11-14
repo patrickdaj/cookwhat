@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-08",
-  "generatedAt": "2026-11-14T23:45:52.275Z",
+  "generatedAt": "2026-11-14T23:48:09.578Z",
   "targetServings": null,
   "sections": [
     {
@@ -164,7 +164,7 @@
       "items": [
         {
           "item": "boneless skinless chicken thighs",
-          "qty": 2.5,
+          "qty": 4,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
