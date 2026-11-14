@@ -124,7 +124,7 @@
           "note": "divided"
         }
       ],
-      "notes": "SUNDAY MORNING: brown the beef in batches, soften onion/garlic/carrots, add tomatoes, paste, orange zest and spices, deglaze with the wine + 1 cup water, then cover and simmer low until tender, about 4 1/2 hr (start by 8–9 a.m., done early afternoon). Olives in for the last 15 min. Cool, skim the fat off the top, and reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, and ~3 portions to freeze."
+      "notes": "SUNDAY MORNING: brown the beef in batches, soften onion/garlic/carrots, add tomatoes, paste, orange zest and spices, deglaze with the wine + 1 cup water, then cover and simmer low until tender, about 4 1/2 hr (start by 8–9 a.m., done early afternoon). Olives in for the last 15 min. Cool, skim the fat off the top, and reheat at dinner. Serves 8: Sunday dinner for two, his Monday lunch and dinner, his Tue/Wed lunches, and ~2 portions to freeze."
     },
     {
       "id": "roasted-root-veg-lemon-caper",
@@ -269,16 +269,16 @@
         "batch",
         "covers-thu"
       ],
-      "activeTimeMin": 35,
-      "totalTimeMin": 105,
+      "activeTimeMin": 30,
+      "totalTimeMin": 60,
       "servings": 6,
       "ingredients": [
         {
-          "item": "bone-in chicken thighs and drumsticks",
-          "qty": 3,
+          "item": "boneless skinless chicken thighs",
+          "qty": 2.25,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "book: 4 lb mixed pieces for 8; 3 lb dark meat for ~6, sauce kept full size. Pull the skin off on your plate to cut saturated fat. Bought fresh on the Tuesday stop"
+          "note": "1.5 lb left from Saturday's pack (freeze Sat, fridge Sun night) + 3/4 lb on the Tuesday stop"
         },
         {
           "item": "lemons",
@@ -393,7 +393,7 @@
           "note": ""
         }
       ],
-      "notes": "Dutch oven. Brown the chicken hard in two batches (5–8 min per side), pour off all but 1 tbsp fat, soften onion with 2 zest strips, bloom the spices, add broth, carrots, chickpeas, honey; nestle in the chicken and simmer covered ~1 hr (dark meat to 175°F). Rest the chicken, skim the sauce, add apricots 5 min, then cilantro, lemon juice and the reserved garlic + minced zest. Serves ~6: Tue dinner for two, his Thu dinner, Thu/Fri lunches."
+      "notes": "Dutch oven. Brown the boneless thighs in two batches (3–4 min per side), soften onion with 2 zest strips, bloom the spices, add broth, carrots, chickpeas, honey; nestle in the chicken and simmer covered 20–25 min (boneless thighs to 175°F). Rest the chicken, skim the sauce, add apricots 5 min, then cilantro, lemon juice and the reserved garlic + minced zest. Serves ~6: Tue dinner for two, his Thu dinner, Thu/Fri lunches."
     },
     {
       "id": "simple-couscous-tue",

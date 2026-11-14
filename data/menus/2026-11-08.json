@@ -236,14 +236,14 @@
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 75,
-      "servings": 4,
+      "servings": 3,
       "ingredients": [
         {
-          "item": "bone-in, skin-on chicken leg quarters",
-          "qty": 4,
-          "unit": "",
+          "item": "boneless skinless chicken thighs",
+          "qty": 1.5,
+          "unit": "lb",
           "category": "meat-seafood",
-          "note": "alt: 8 bone-in thighs (roast about 40 min). Pull the skin off on your plate to cut saturated fat"
+          "note": "swapped for the bone-in leg quarters (forgot bone-in); the other 1.5 lb of the 3 lb pack goes to Tuesday's tagine"
         },
         {
           "item": "smoked paprika (Spanish)",
@@ -309,7 +309,7 @@
           "note": ""
         }
       ],
-      "notes": "Sheet pan at 375°F, top third of the oven, about 1 hour. Veg tossed with oil, paprika, thyme and 1 tbsp sherry vinegar around the seasoned chicken; finish with the rest of the vinegar and parsley. Serves 4: Saturday dinner for two plus his Sunday and Monday lunches."
+      "notes": "Boneless swap: roast the veg alone (with oil, paprika, thyme, 1 tbsp sherry vinegar) 30 min at 375°F, then nestle in the chicken tossed with 1 tbsp oil + paprika/thyme/salt/pepper and roast 20–25 min more to 175°F; broil 2–3 min for color. Finish with the rest of the vinegar and parsley. 3 servings: Saturday dinner for two + his Sunday lunch."
     },
     {
       "id": "basmati-pilaf-peas-lemon",

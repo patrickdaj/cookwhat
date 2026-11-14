@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-08",
-  "generatedAt": "2026-11-14T21:07:40.111Z",
+  "generatedAt": "2026-11-14T23:45:52.275Z",
   "targetServings": null,
   "sections": [
     {
@@ -163,25 +163,14 @@
       "category": "meat-seafood",
       "items": [
         {
-          "item": "bone-in, skin-on chicken leg quarters",
-          "qty": 4,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Spanish Paprika Chicken"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "boneless skinless chicken thighs",
-          "qty": 1,
+          "qty": 2.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Indoor Paella"
+            "Indoor Paella",
+            "Spanish Paprika Chicken"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -428,5 +417,5 @@
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 31
+  "totalItems": 30
 }
