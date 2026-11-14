@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-08",
-  "generatedAt": "2026-11-14T18:23:29.533Z",
+  "generatedAt": "2026-11-14T21:07:40.111Z",
   "targetServings": null,
   "sections": [
     {
@@ -17,6 +17,18 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        },
+        {
+          "item": "bell peppers",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Spanish Paprika Chicken"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "fresh parsley",
@@ -74,13 +86,12 @@
         },
         {
           "item": "red bell pepper",
-          "qty": 3,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Indoor Paella",
-            "Spanish Paprika Chicken"
+            "Indoor Paella"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -417,5 +428,5 @@
     "extra-virgin olive oil"
   ],
   "pendingScans": [],
-  "totalItems": 30
+  "totalItems": 31
 }
