@@ -1,0 +1,637 @@
+{
+  "weekOf": "2026-11-15",
+  "createdAt": "2026-11-14T18:23:19.490Z",
+  "status": "set",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "daube-provencale",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Daube Provençale",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/daube/",
+      "cuisine": "french",
+      "protein": "beef",
+      "tags": [
+        "web",
+        "new",
+        "batch",
+        "make-ahead",
+        "covers-mon"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 285,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "boneless beef chuck",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "cubed, visible fat trimmed. Alt: beef stew meat"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "large, finely chopped"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": "thinly sliced"
+        },
+        {
+          "item": "carrots",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced"
+        },
+        {
+          "item": "tomatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "medium, coarsely chopped"
+        },
+        {
+          "item": "tomato paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "2 wide strips of zest"
+        },
+        {
+          "item": "whole cloves",
+          "qty": 4,
+          "unit": "",
+          "category": "spices",
+          "note": "alt: a pinch of ground cloves"
+        },
+        {
+          "item": "star anise",
+          "qty": 1,
+          "unit": "",
+          "category": "spices",
+          "note": "alt: 1/4 tsp fennel seed, or skip"
+        },
+        {
+          "item": "herbes de Provence",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "alt: 1/2 tsp each dried thyme, rosemary and marjoram + a pinch of fennel seed (ATK p.317)"
+        },
+        {
+          "item": "dry red wine",
+          "qty": 2,
+          "unit": "cup",
+          "category": "beverages",
+          "note": "something you would drink: Côtes du Rhône, Merlot, Cabernet"
+        },
+        {
+          "item": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "pitted black olives",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "stirred in the last 15 min"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "divided"
+        }
+      ],
+      "notes": "SUNDAY MORNING: brown the beef in batches, soften onion/garlic/carrots, add tomatoes, paste, orange zest and spices, deglaze with the wine + 1 cup water, then cover and simmer low until tender, about 4 1/2 hr (start by 8–9 a.m., done early afternoon). Olives in for the last 15 min. Cool, skim the fat off the top, and reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, and ~3 portions to freeze."
+    },
+    {
+      "id": "roasted-root-veg-lemon-caper",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "carb",
+        "make-ahead"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 45,
+      "servings": 5,
+      "ingredients": [
+        {
+          "item": "Brussels sprouts",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "trimmed and halved"
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "unpeeled, 1-in pieces; your gold potatoes work too"
+        },
+        {
+          "item": "shallots",
+          "qty": 8,
+          "unit": "",
+          "category": "produce",
+          "note": "peeled and halved"
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": "2-in lengths, thick ends halved"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": "peeled"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "minced; alt: 1/2 tsp dried"
+        },
+        {
+          "item": "sugar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "capers",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "rinsed and minced"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tbsp juice"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Roast Sunday morning while the daube simmers; toss with the lemon-caper-parsley sauce, refrigerate, and reheat with the stew. Covers the veg and the carb for Sunday, his Monday dinner and the lunches."
+    },
+    {
+      "id": "chicken-tagine-chickpeas-apricots",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken Tagine with Chickpeas and Apricots",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.303",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "chicken",
+      "tags": [
+        "book",
+        "new",
+        "needs-scan",
+        "batch",
+        "covers-thu"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": null,
+      "servings": 6,
+      "ingredients": [],
+      "notes": "Big batch: Tuesday dinner for two, his Thursday dinner (wife out), his Thu/Fri lunches. Needs a scan of p.303 before the second shopping trip."
+    },
+    {
+      "id": "simple-couscous-tue",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Simple Couscous",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.161",
+      "sourceUrl": "",
+      "cuisine": "moroccan",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 7,
+      "ingredients": [
+        {
+          "item": "couscous",
+          "qty": 2,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "full batch; leftovers are Wednesday's carb"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Toast in oil, add 1 cup broth + 1 cup water, cover off the heat 7 min, fluff. Full batch so there's couscous for Wednesday and the tagine leftovers."
+    },
+    {
+      "id": "pistachio-crusted-salmon",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Pistachio Crusted Salmon",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/pistachio-crusted-salmon/",
+      "cuisine": "mediterranean",
+      "protein": "salmon",
+      "tags": [
+        "web",
+        "new",
+        "weeknight",
+        "fast"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 21,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "salmon fillets (5–6 oz)",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "half the recipe; skinless is fine"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "coarsely chopped; buy a bag that also covers the spinach topping"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "zest + 1/2 tbsp juice, plus wedges"
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "375°F, 11–13 min. Whisk oil, lemon zest/juice, honey, Dijon, garlic and cumin, stir in the pistachios, press onto the seasoned fillets. Fresh for two; fish doesn't reheat well."
+    },
+    {
+      "id": "sauteed-spinach-yogurt-dukkah",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Spinach with Yogurt and Dukkah",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.225",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "new",
+        "fast"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "curly-leaf spinach",
+          "qty": 10,
+          "unit": "oz",
+          "category": "produce",
+          "note": "half batch; alt: 1 lb flat-leaf / baby spinach (wilts more)"
+        },
+        {
+          "item": "plain yogurt",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "dairy",
+          "note": "regular or Greek"
+        },
+        {
+          "item": "lemon",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "3/4 tsp zest + 1/2 tsp juice (same lemon as the salmon)"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "dukkah",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "alt: chopped pistachios + sesame seeds + a pinch of cumin and coriander"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Wilt the spinach, squeeze out the water in a colander, toast the garlic in the oil, toss the spinach back in; serve with the lemony yogurt and a sprinkle of dukkah. Carb is Tuesday's leftover couscous."
+    },
+    {
+      "id": "greek-shrimp-tomatoes",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Greek-Style Shrimp with Tomatoes and Feta",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.269",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "shrimp",
+      "tags": [
+        "book",
+        "redo",
+        "batch",
+        "covers-sat"
+      ],
+      "activeTimeMin": 25,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "extra-large shrimp (21–25/lb)",
+          "qty": 1,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "peeled and deveined; book uses 1 1/2 lb for 4–6"
+        },
+        {
+          "item": "ouzo",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": "alt: 2 tbsp white wine + a pinch of fennel seed, or skip"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "chopped fine"
+        },
+        {
+          "item": "bell pepper (red or green)",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "book says 1/2 tsp; cut for low heat"
+        },
+        {
+          "item": "diced tomatoes",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "28 oz, drained, 1/2 cup juice saved; no-salt-added if possible"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh dill",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "alt: more parsley"
+        },
+        {
+          "item": "feta cheese",
+          "qty": 2,
+          "unit": "oz",
+          "category": "dairy",
+          "note": "HIS plate only, at the table; none in the pot"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Your loved redo. Serves 4: Friday dinner for two, his Saturday lunch and dinner (wife out Saturday). Feta stays out of the pot — crumble it on your own plate."
+    },
+    {
+      "id": "orzo-fri",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Orzo",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "carb"
+      ],
+      "activeTimeMin": 2,
+      "totalTimeMin": 12,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "orzo",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "boiled like pasta; whole-wheat if you see it"
+        }
+      ],
+      "notes": "Boil, drain, toss with a little olive oil; the shrimp sauce goes over it."
+    },
+    {
+      "id": "sauteed-chard-garlic",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sauteed Swiss Chard with Garlic",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.226",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "Swiss chard",
+          "qty": 1.5,
+          "unit": "lb",
+          "category": "produce",
+          "note": "stems sliced thin, leaves in 1/2-in strips; alt: spinach or escarole"
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": "sliced thin"
+        },
+        {
+          "item": "lemon",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "2 tsp juice"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Stems first ~6 min, then the leaves in two batches; lemon off the heat. Reheats fine for Saturday."
+    }
+  ],
+  "setAt": "2026-11-14T18:23:29.455Z"
+}

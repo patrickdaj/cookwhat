@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-11-08",
   "createdAt": "2026-11-07T20:00:40.438Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -219,27 +219,176 @@
       "notes": "A fresh, bright plate next to the paella. Skip the Asiago (no cheese for her)."
     },
     {
-      "id": "chicken-tagine-chickpeas-apricots",
-      "day": "Tue",
+      "id": "spanish-paprika-chicken",
+      "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Chicken Tagine with Chickpeas and Apricots",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.303",
-      "sourceUrl": "",
-      "cuisine": "moroccan",
+      "title": "Spanish Paprika Chicken",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/spanish-paprika-chicken/",
+      "cuisine": "spanish",
       "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "sheet-pan",
+        "batch"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 75,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "bone-in, skin-on chicken leg quarters",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "alt: 8 bone-in thighs (roast about 40 min). Pull the skin off on your plate to cut saturated fat"
+        },
+        {
+          "item": "smoked paprika (Spanish)",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "note": "divided"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "chopped; alt: 1 tsp dried"
+        },
+        {
+          "item": "Roma tomatoes",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": "quartered lengthwise"
+        },
+        {
+          "item": "red onions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1/2-in wedges"
+        },
+        {
+          "item": "red bell peppers",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "1/2-in wedges"
+        },
+        {
+          "item": "garlic",
+          "qty": 8,
+          "unit": "clove",
+          "category": "produce",
+          "note": "peeled, whole"
+        },
+        {
+          "item": "sherry vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "divided; alt: red wine vinegar"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "optional garnish"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Sheet pan at 375°F, top third of the oven, about 1 hour. Veg tossed with oil, paprika, thyme and 1 tbsp sherry vinegar around the seasoned chicken; finish with the rest of the vinegar and parsley. Serves 4: Saturday dinner for two plus his Sunday and Monday lunches."
+    },
+    {
+      "id": "basmati-pilaf-peas-lemon",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Basmati Rice Pilaf with Peas, Scallions, and Lemon",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.102",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
       "tags": [
         "book",
         "new",
-        "needs-scan",
-        "batch",
-        "covers-wed"
+        "carb"
       ],
-      "activeTimeMin": 30,
-      "totalTimeMin": null,
-      "servings": 6,
-      "ingredients": [],
-      "notes": "Big batch: Tuesday dinner for two, his Wednesday dinner (wife is out), and lunches. Braises reheat better on day two. Needs a scan of p.303 before shopping."
+      "activeTimeMin": 10,
+      "totalTimeMin": 35,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "basmati rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "rinsed"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "small, chopped fine"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest + 1 tbsp juice"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "barely warm"
+        },
+        {
+          "item": "frozen peas",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "frozen",
+          "note": "thawed; stirred in off the heat"
+        },
+        {
+          "item": "scallions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced thin"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Toast the rice with onion and garlic in the oil, add 2 1/4 cups water, simmer covered 16–18 min; off heat add peas, rest 10 min with a towel under the lid, then lemon and scallions."
     }
-  ]
+  ],
+  "setAt": "2026-11-14T18:23:29.383Z"
 }
