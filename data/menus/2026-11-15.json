@@ -131,15 +131,14 @@
       "day": "Sun",
       "slot": "dinner",
       "role": "side",
-      "title": "Roasted Root Vegetables with Lemon-Caper Sauce",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.223",
+      "title": "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.223 (Roasted Root Vegetables, made without the potatoes)",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
         "book",
         "new",
-        "carb",
         "make-ahead"
       ],
       "activeTimeMin": 15,
@@ -148,17 +147,10 @@
       "ingredients": [
         {
           "item": "Brussels sprouts",
-          "qty": 1,
+          "qty": 1.5,
           "unit": "lb",
           "category": "produce",
-          "note": "trimmed and halved"
-        },
-        {
-          "item": "red potatoes",
-          "qty": 1,
-          "unit": "lb",
-          "category": "produce",
-          "note": "unpeeled, 1-in pieces; your gold potatoes work too"
+          "note": "trimmed and halved; an extra 1/2 lb fills in for the potatoes"
         },
         {
           "item": "shallots",
@@ -231,7 +223,35 @@
           "note": ""
         }
       ],
-      "notes": "Roast Sunday morning while the daube simmers; toss with the lemon-caper-parsley sauce, refrigerate, and reheat with the stew. Covers the veg and the carb for Sunday, his Monday dinner and the lunches."
+      "notes": "Roast Sunday morning while the daube simmers; toss with the lemon-caper-parsley sauce, refrigerate, and reheat with the stew. Potatoes dropped since the sourdough is the carb."
+    },
+    {
+      "id": "sourdough-daube",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Fresh sourdough",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "carb",
+        "on-hand"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 10,
+      "servings": 5,
+      "ingredients": [
+        {
+          "item": "sourdough loaf",
+          "qty": 1,
+          "unit": "",
+          "category": "bakery",
+          "note": "on hand (bought 11/14)"
+        }
+      ],
+      "notes": "For mopping up the daube. Warm thick slices 5 min at 350°F, or toast them. Save enough for his Monday dinner and Tue/Wed daube lunches; freeze sliced if it won't last."
     },
     {
       "id": "chicken-tagine-chickpeas-apricots",

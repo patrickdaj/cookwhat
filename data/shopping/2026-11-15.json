@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-14T18:23:29.633Z",
+  "generatedAt": "2026-11-14T18:25:29.598Z",
   "targetServings": null,
   "sections": [
     {
@@ -20,12 +20,12 @@
         },
         {
           "item": "Brussels sprouts",
-          "qty": 1,
+          "qty": 1.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -38,7 +38,7 @@
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -74,7 +74,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -87,7 +87,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -99,7 +99,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -112,7 +112,7 @@
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -128,7 +128,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -150,25 +150,13 @@
           "unit": ""
         },
         {
-          "item": "red potatoes",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
           "item": "shallots",
           "qty": 8,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -283,6 +271,23 @@
       ]
     },
     {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "sourdough loaf",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Fresh sourdough"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
       "category": "pantry",
       "items": [
         {
@@ -292,7 +297,7 @@
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Root Vegetables with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
