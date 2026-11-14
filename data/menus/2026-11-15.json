@@ -269,16 +269,16 @@
         "batch",
         "covers-thu"
       ],
-      "activeTimeMin": 30,
-      "totalTimeMin": 60,
+      "activeTimeMin": 35,
+      "totalTimeMin": 105,
       "servings": 6,
       "ingredients": [
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 2.25,
+          "item": "bone-in chicken thighs and drumsticks",
+          "qty": 3,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "buy on the Tuesday stop (Saturday's pack all went into the paprika chicken). Alt: 3 lb bone-in thighs/drumsticks, simmered ~1 hr"
+          "note": "already bought (in the freezer); book: 4 lb mixed pieces for 8. Pull the skin off on your plate to cut saturated fat"
         },
         {
           "item": "lemons",
@@ -393,7 +393,7 @@
           "note": ""
         }
       ],
-      "notes": "Dutch oven. Brown the boneless thighs in two batches (3–4 min per side), soften onion with 2 zest strips, bloom the spices, add broth, carrots, chickpeas, honey; nestle in the chicken and simmer covered 20–25 min (boneless thighs to 175°F). Rest the chicken, skim the sauce, add apricots 5 min, then cilantro, lemon juice and the reserved garlic + minced zest. Serves ~6: Tue dinner for two, his Thu dinner, Thu/Fri lunches."
+      "notes": "Dutch oven. Brown the chicken hard in two batches (5–8 min per side), pour off all but 1 tbsp fat, soften onion with 2 zest strips, bloom the spices, add broth, carrots, chickpeas, honey; nestle in the chicken and simmer covered ~1 hr (dark meat to 175°F). Rest the chicken, skim the sauce, add apricots 5 min, then cilantro, lemon juice and the reserved garlic + minced zest. Serves ~6: Tue dinner for two, his Thu dinner, Thu/Fri lunches."
     },
     {
       "id": "simple-couscous-tue",

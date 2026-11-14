@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-14T23:48:09.655Z",
+  "generatedAt": "2026-11-14T23:49:55.679Z",
   "targetServings": null,
   "sections": [
     {
@@ -220,6 +220,18 @@
       "category": "meat-seafood",
       "items": [
         {
+          "item": "bone-in chicken thighs and drumsticks",
+          "qty": 3,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "boneless beef chuck",
           "qty": 2,
           "dim": "lb",
@@ -227,18 +239,6 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Daube Provençale"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 2.25,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Chicken Tagine with Chickpeas and Apricots"
           ],
           "hasUnquantified": false,
           "unit": "lb"
