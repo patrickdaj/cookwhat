@@ -266,15 +266,134 @@
       "tags": [
         "book",
         "new",
-        "needs-scan",
         "batch",
         "covers-thu"
       ],
-      "activeTimeMin": 30,
-      "totalTimeMin": null,
+      "activeTimeMin": 35,
+      "totalTimeMin": 105,
       "servings": 6,
-      "ingredients": [],
-      "notes": "Big batch: Tuesday dinner for two, his Thursday dinner (wife out), his Thu/Fri lunches. Needs a scan of p.303 before the second shopping trip."
+      "ingredients": [
+        {
+          "item": "bone-in chicken thighs and drumsticks",
+          "qty": 3,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "book: 4 lb mixed pieces for 8; 3 lb dark meat for ~6, sauce kept full size. Pull the skin off on your plate to cut saturated fat"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "3 (2-in) zest strips + 3 tbsp juice"
+        },
+        {
+          "item": "garlic",
+          "qty": 5,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "large, halved and sliced 1/4 in"
+        },
+        {
+          "item": "paprika",
+          "qty": 1.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "sweet"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "book says 1/4 tsp; halved for low heat"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 2,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": "book: 2; doubled for more veg. Halved lengthwise, sliced 1/2 in"
+        },
+        {
+          "item": "chickpeas",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "15 oz, rinsed"
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dried apricots",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "halved"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "chopped; alt: parsley"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Dutch oven. Brown the chicken hard in two batches (5–8 min per side), pour off all but 1 tbsp fat, soften onion with 2 zest strips, bloom the spices, add broth, carrots, chickpeas, honey; nestle in the chicken and simmer covered ~1 hr (dark meat to 175°F). Rest the chicken, skim the sauce, add apricots 5 min, then cilantro, lemon juice and the reserved garlic + minced zest. Serves ~6: Tue dinner for two, his Thu dinner, Thu/Fri lunches."
     },
     {
       "id": "simple-couscous-tue",

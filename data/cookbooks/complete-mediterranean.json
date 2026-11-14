@@ -360,7 +360,59 @@
       "page": 303,
       "chapter": "Poultry",
       "fitsMenu": "chicken (favorite)",
-      "flag": "chickpeas (keep beans low)"
+      "flag": "chickpeas (keep beans low)",
+      "captured": {
+        "makes": "Serves 8",
+        "ingredients": [
+          "3 (2-inch) strips lemon zest plus 3 tablespoons juice",
+          "5 garlic cloves, minced",
+          "4 pounds bone-in chicken pieces (split breasts cut in half, drumsticks, and/or thighs), trimmed",
+          "Salt and pepper",
+          "2 tablespoons extra-virgin olive oil",
+          "1 large onion, halved and sliced 1/4 inch thick",
+          "1 1/4 teaspoons paprika",
+          "1/2 teaspoon ground cumin",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 teaspoon ground ginger",
+          "1/4 teaspoon ground coriander",
+          "1/4 teaspoon ground cinnamon",
+          "2 cups chicken broth",
+          "2 carrots, peeled, halved lengthwise, and sliced 1/2 inch thick",
+          "1 (15-ounce) can chickpeas, rinsed",
+          "1 tablespoon honey",
+          "1 cup dried apricots, halved",
+          "2 tablespoons chopped fresh cilantro"
+        ],
+        "steps": [
+          "Mince 1 strip lemon zest and combine with 1 teaspoon garlic in bowl; set aside.",
+          "Pat chicken dry and season with salt and pepper. Heat oil in Dutch oven over medium-high heat until just smoking. Brown half of chicken well, 5 to 8 minutes per side; transfer to large plate. Repeat with remaining chicken; transfer to plate. Pour off all but 1 tablespoon fat from pot.",
+          "Add onion and remaining 2 lemon zest strips to fat left in pot and cook over medium heat until softened, about 5 minutes. Stir in remaining garlic, paprika, cumin, cayenne, ginger, coriander, and cinnamon and cook until fragrant, about 1 minute. Stir in broth, scraping up any browned bits. Stir in carrots, chickpeas, and honey and bring to simmer.",
+          "Nestle chicken into pot along with any accumulated juices and bring to simmer. Reduce heat to medium-low, cover, and cook until breasts register 160 degrees and drumsticks/thighs register 175 degrees, about 20 minutes for breasts and 1 hour for thighs and drumsticks. (If using both types of chicken, simmer thighs and drumsticks for 40 minutes before adding breasts.)",
+          "Transfer chicken to bowl, tent loosely with foil, and let rest while finishing sauce. Discard lemon zest. Skim excess fat from surface of sauce. Stir in apricots, return sauce to simmer over medium heat, and cook until apricots are heated through, about 5 minutes. Return chicken and any accumulated juices to pot. Stir in cilantro, lemon juice, and garlic-lemon zest mixture. Season with salt and pepper to taste. Serve."
+        ],
+        "tips": [
+          "A Dutch oven stands in for the earthenware tagine; the braise does the work, no special pot or hard-to-find ingredients.",
+          "A mix of white and dark meat gave more depth than white meat alone; the dark meat gets a 40-minute head start so everything finishes together.",
+          "Short spice list, long on flavor: cumin and ginger for depth, cinnamon for warmth, a little cayenne, and citrusy coriander to boost the lemon.",
+          "Lemon twice: broad zest ribbons simmer in the sauce (then come out), and a raw garlic + minced zest mixture goes in at the very end with the juice for a bright finish.",
+          "Honey and dried apricots temper the spices with sweetness; apricots go in only for the last 5 minutes so they stay plump.",
+          "Pour off all but 1 tbsp fat after browning and skim the sauce before the apricots go in.",
+          "Serve with Simple Couscous (p.161).",
+          "VARIATION on the same page: Lamb Tagine with Olives and Lemon."
+        ],
+        "ai": {
+          "cliffNotes": "Brown bone-in chicken, build a lemony paprika-cumin-ginger-cinnamon broth with onion, carrots and chickpeas, braise the chicken in it (about 1 hour for dark meat), then finish with apricots, cilantro, lemon juice and a raw garlic-lemon zest hit. Serve over couscous.",
+          "keyTips": [
+            "Get a hard sear on the chicken (5–8 min per side) in two batches; that fond seasons the whole sauce.",
+            "Dark meat only? Simmer it the full hour to 175°F; with breasts, give dark meat 40 minutes first.",
+            "Skim the fat twice: pour off after browning and skim the sauce before adding apricots.",
+            "Add the apricots last so they warm through instead of dissolving.",
+            "The final garlic-lemon zest + juice is what makes it taste bright; don't skip it.",
+            "Like most braises it's even better reheated the next day."
+          ]
+        }
+      },
+      "scanned": true
     },
     {
       "title": "Pomegranate-Glazed Roasted Quail",

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-14T18:25:29.598Z",
+  "generatedAt": "2026-11-14T20:40:21.168Z",
   "targetServings": null,
   "sections": [
     {
@@ -32,13 +32,14 @@
         },
         {
           "item": "carrots",
-          "qty": 7,
+          "qty": 11,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Chicken Tagine with Chickpeas and Apricots"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -54,6 +55,18 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
         },
         {
           "item": "fresh dill",
@@ -106,13 +119,14 @@
         },
         {
           "item": "garlic",
-          "qty": 16,
+          "qty": 21,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
             "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -123,12 +137,13 @@
         },
         {
           "item": "lemon",
-          "qty": 2,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -187,12 +202,13 @@
         },
         {
           "item": "yellow onion",
-          "qty": 2,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
+            "Chicken Tagine with Chickpeas and Apricots",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -203,6 +219,18 @@
     {
       "category": "meat-seafood",
       "items": [
+        {
+          "item": "bone-in chicken thighs and drumsticks",
+          "qty": 3,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
         {
           "item": "boneless beef chuck",
           "qty": 2,
@@ -327,12 +355,25 @@
           "unit": "tbsp"
         },
         {
-          "item": "honey",
-          "qty": 0.33,
+          "item": "dried apricots",
+          "qty": 1,
           "dim": "vol",
-          "unitLabel": "tsp",
+          "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "qty": 1.33,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon"
           ],
           "hasUnquantified": false,
@@ -380,6 +421,18 @@
       "category": "canned",
       "items": [
         {
+          "item": "chickpeas",
+          "qty": 1,
+          "dim": "can",
+          "unitLabel": "can",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "can"
+        },
+        {
           "item": "diced tomatoes",
           "qty": 1,
           "dim": "can",
@@ -393,11 +446,12 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 1,
+          "qty": 3,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots",
             "Simple Couscous"
           ],
           "hasUnquantified": false,
@@ -433,6 +487,18 @@
           "unit": ""
         },
         {
+          "item": "cayenne pepper",
+          "qty": 0.13,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "dukkah",
           "qty": 2,
           "dim": "vol",
@@ -445,13 +511,50 @@
           "unit": "tbsp"
         },
         {
+          "item": "ground cinnamon",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "ground cumin",
           "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -467,6 +570,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "paprika",
+          "qty": 1.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken Tagine with Chickpeas and Apricots"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         },
         {
           "item": "red pepper flakes",
@@ -552,13 +667,6 @@
     "extra-virgin olive oil",
     "sugar"
   ],
-  "pendingScans": [
-    {
-      "title": "Chicken Tagine with Chickpeas and Apricots",
-      "day": "Tue",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.303",
-      "cookbook": true
-    }
-  ],
-  "totalItems": 41
+  "pendingScans": [],
+  "totalItems": 50
 }
