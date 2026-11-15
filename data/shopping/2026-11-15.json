@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-15T16:29:54.574Z",
+  "generatedAt": "2026-11-15T16:31:19.402Z",
   "targetServings": null,
   "sections": [
     {
@@ -13,7 +13,7 @@
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Daube Provençale"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -37,14 +37,14 @@
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
         },
         {
           "item": "carrots",
-          "qty": 7,
+          "qty": 10,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -54,18 +54,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "curly-leaf spinach",
-          "qty": 10,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "produce",
-          "fromMeals": [
-            "Sauteed Spinach with Yogurt and Dukkah"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "fresh cilantro",
@@ -98,7 +86,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -111,7 +99,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -123,23 +111,22 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 21,
+          "qty": 20,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
-            "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
             "Sauteed Swiss Chard with Garlic"
           ],
@@ -153,10 +140,9 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
-            "Sauteed Spinach with Yogurt and Dukkah",
             "Greek-Style Shrimp with Tomatoes and Feta",
             "Sauteed Swiss Chard with Garlic"
           ],
@@ -182,7 +168,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -294,18 +280,6 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
-        },
-        {
-          "item": "plain yogurt",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "dairy",
-          "fromMeals": [
-            "Sauteed Spinach with Yogurt and Dukkah"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         }
       ]
     },
@@ -336,7 +310,7 @@
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -510,18 +484,6 @@
           "unit": "tsp"
         },
         {
-          "item": "dukkah",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "spices",
-          "fromMeals": [
-            "Sauteed Spinach with Yogurt and Dukkah"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
           "item": "ground cinnamon",
           "qty": 0.25,
           "dim": "vol",
@@ -679,5 +641,5 @@
     "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 51
+  "totalItems": 48
 }
