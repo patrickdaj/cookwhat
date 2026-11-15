@@ -2,7 +2,7 @@
   "note": "Freezer stash of cooked portions. Add when frozen, set used when eaten; check at the start of each week's planning. Status 'planned' means it should be in the freezer per the plan but hasn't been confirmed.",
   "items": [
     {
-      "dish": "Daube Provençale",
+      "dish": "Daube Provençale + garlic smashed baby reds",
       "portions": 3,
       "cooked": "2026-11-15",
       "source": "data/menus/2026-11-15.json",
@@ -16,7 +16,19 @@
       "cooked": "2026-11-14",
       "source": "data/menus/2026-11-08.json",
       "status": "planned",
-      "note": "Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon."
+      "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon."
+    }
+  ],
+  "pulls": [
+    {
+      "what": "shrimp (bought frozen)",
+      "when": "Thu 11/19 night",
+      "for": "Fri 11/20 Greek shrimp"
+    },
+    {
+      "what": "2 daube portions",
+      "when": "Fri 11/20 night",
+      "for": "his Sat 11/21 lunch + dinner"
     }
   ]
 }
