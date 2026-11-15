@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-14T23:49:55.679Z",
+  "generatedAt": "2026-11-15T05:32:44.224Z",
   "targetServings": null,
   "sections": [
     {
@@ -626,7 +626,7 @@
       "items": [
         {
           "item": "dry red wine",
-          "qty": 2,
+          "qty": 1.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",

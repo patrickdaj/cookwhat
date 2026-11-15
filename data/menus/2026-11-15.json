@@ -22,7 +22,7 @@
         "covers-mon"
       ],
       "activeTimeMin": 30,
-      "totalTimeMin": 285,
+      "totalTimeMin": 110,
       "servings": 8,
       "ingredients": [
         {
@@ -97,10 +97,10 @@
         },
         {
           "item": "dry red wine",
-          "qty": 2,
+          "qty": 1.5,
           "unit": "cup",
           "category": "beverages",
-          "note": "something you would drink: Côtes du Rhône, Merlot, Cabernet"
+          "note": "1 1/2 cups + 1/2 cup water in the Instant Pot (less liquid than stovetop since nothing boils off)"
         },
         {
           "item": "bay leaves",
@@ -124,7 +124,7 @@
           "note": "divided"
         }
       ],
-      "notes": "SUNDAY MORNING: brown the beef in batches, soften onion/garlic/carrots, add tomatoes, paste, orange zest and spices, deglaze with the wine + 1 cup water, then cover and simmer low until tender, about 4 1/2 hr (start by 8–9 a.m., done early afternoon). Olives in for the last 15 min. Cool, skim the fat off the top, and reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, and ~3 portions to freeze."
+      "notes": "INSTANT POT (he has to leave at 11:30): Sauté-brown the beef in batches, soften onion/garlic/carrots, add tomato paste, tomatoes, orange zest, cloves, star anise, herbes de Provence, bay; deglaze with 1 1/2 cups red wine + 1/2 cup water; HIGH pressure 45 min + 15 min natural release; stir in the green olives and Sauté a few min to thicken; skim fat. Start 9:00, in the fridge by ~11:20, reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, ~3 portions to freeze. (Stovetop original: simmer ~4 1/2 hr.)"
     },
     {
       "id": "roasted-root-veg-lemon-caper",
@@ -223,7 +223,7 @@
           "note": ""
         }
       ],
-      "notes": "Roast Sunday morning while the daube simmers; toss with the lemon-caper-parsley sauce, refrigerate, and reheat with the stew. Potatoes dropped since the sourdough is the carb."
+      "notes": "450°F, single layer with the Brussels sprouts cut side down, 30–35 min, rotating halfway. Toss with the parsley-caper-lemon-oil dressing, refrigerate, reheat with the stew. Potatoes dropped since the sourdough is the carb."
     },
     {
       "id": "sourdough-daube",
