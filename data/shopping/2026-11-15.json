@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-15T05:32:44.224Z",
+  "generatedAt": "2026-11-15T14:16:43.201Z",
   "targetServings": null,
   "sections": [
     {
@@ -25,20 +25,19 @@
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
         },
         {
           "item": "carrots",
-          "qty": 11,
+          "qty": 7,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots"
           ],
           "hasUnquantified": false,
@@ -87,7 +86,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -100,7 +99,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -112,7 +111,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -125,7 +124,7 @@
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
@@ -142,7 +141,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Sauteed Spinach with Yogurt and Dukkah",
@@ -171,7 +170,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -325,7 +324,7 @@
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Brussels Sprouts, Carrots, and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
