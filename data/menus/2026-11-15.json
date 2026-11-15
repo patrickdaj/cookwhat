@@ -124,7 +124,7 @@
           "note": "divided"
         }
       ],
-      "notes": "INSTANT POT (he has to leave at 11:30): Sauté-brown the beef in batches, soften onion/garlic/carrots, add tomato paste, tomatoes, orange zest, cloves, star anise, herbes de Provence, bay; deglaze with 1 1/2 cups red wine + 1/2 cup water; HIGH pressure 45 min + 15 min natural release; stir in the green olives and Sauté a few min to thicken; skim fat. Start 9:00, in the fridge by ~11:20, reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, ~3 portions to freeze. (Stovetop original: simmer ~4 1/2 hr.)"
+      "notes": "INSTANT POT (he has to leave at 11:30): Sauté-brown the beef in batches, soften onion/garlic/carrots, add tomato paste, tomatoes, orange zest, cloves, star anise, herbes de Provence, bay; deglaze with 1 1/2 cups red wine + 1/2 cup water; HIGH pressure 45 min + 15 min natural release; stir in the green olives and Sauté a few min to thicken; skim fat. Start 9:00, in the fridge by ~11:20, reheat at dinner. Serves 8: Sunday dinner for two, his Monday dinner, his Tue/Wed lunches, ~3 portions to freeze (2 of them are his Sat 11/21 lunch + dinner). (Stovetop original: simmer ~4 1/2 hr.)"
     },
     {
       "id": "roasted-root-veg-lemon-caper",
@@ -587,12 +587,11 @@
       "tags": [
         "book",
         "redo",
-        "batch",
-        "covers-sat"
+        "batch"
       ],
       "activeTimeMin": 25,
       "totalTimeMin": 40,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
           "item": "extra-large shrimp (21–25/lb)",
@@ -686,7 +685,7 @@
           "note": ""
         }
       ],
-      "notes": "Your loved redo. Serves 4: Friday dinner for two, his Saturday lunch and dinner (wife out Saturday). Feta stays out of the pot — crumble it on your own plate."
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night)."
     },
     {
       "id": "orzo-fri",
