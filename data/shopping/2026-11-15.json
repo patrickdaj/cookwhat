@@ -1,23 +1,11 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-15T16:31:19.402Z",
+  "generatedAt": "2026-11-15T16:33:48.238Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
-        {
-          "item": "baby red potatoes",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Daube Provençale"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
-        },
         {
           "item": "bell pepper (red or green)",
           "qty": 1,
@@ -641,5 +629,5 @@
     "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 48
+  "totalItems": 47
 }
