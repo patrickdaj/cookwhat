@@ -37,6 +37,17 @@ generate a shopping list.
 9. **Later, capture ratings.** When the user reports back, log with
    `cookwhat rate ...` so future weeks get smarter.
 
+## North star (2026-11-15): healthy, preppable Mediterranean
+
+Every pick has to pass all three tests:
+- **Healthy:** the heart-health and blood-pressure rules below. That means olive
+  oil, lean proteins, fish about twice a week, red meat 0–1 times, lots of veg,
+  whole grains, and watching sodium. In braises, skim the fat and use lean cuts.
+- **Preppable:** it batch-cooks, reheats, and ideally freezes (see "Batch cooking
+  & freezer-friendly weeks"). Fresh fish is the planned exception.
+- **Mediterranean:** the cuisine as well as the eating pattern. That means Greek,
+  Italian, Spanish, Provençal, Levantine, Turkish or North African.
+
 ## Mediterranean again, plus easy breakfasts (as of 2026-11-02)
 
 The user tried **paleo for two days (2026-11-01..02) and rolled it back** to a full
