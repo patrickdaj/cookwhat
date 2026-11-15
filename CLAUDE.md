@@ -83,6 +83,42 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
 - **House staples on the list may be hers** (bread, lunch meat, snacks). Don't flag
   them.
 
+## Batch cooking & freezer-friendly weeks (as of 2026-11-15)
+
+The user does **not** want to cook every night. Design every week around a few
+big cooking sessions whose leftovers and freezer portions cover the rest,
+including all of his lunches.
+
+- **Cook ~3–4 times a week, not 6–7.** Each session should make 4–8 servings.
+  Map every serving before locking the week: which dinner (his or both), which
+  lunch, and what goes into the freezer. Present the week as a grid of who's
+  eating, what's cooked and what each leftover covers.
+- **He doesn't cook just for himself.** Nights when his wife is out (happy
+  hours, dinners out) are leftover or freezer nights. Ask about her schedule
+  when planning.
+- **Pick mains that reheat and freeze well:** braises and stews (daube,
+  tagines, cacciatore), soups, meatballs in sauce, ragus, sheet-pan chicken
+  with its roasted veg and juices, grain pilafs, couscous, rice. Braises are
+  often better on day two.
+- **Treat these as cook-and-eat, not leftovers:** fish (except in a stew),
+  crisp roasted veg, salads, fried or crunchy things, and creamy dairy sauces.
+  Fish nights should be small, fast and fresh, for two only.
+- **Sides:** pair a freezer-friendly main with a side that holds 3–4 days in the
+  fridge. Roasted Brussels sprouts or greens are fridge-only and get mushy when
+  frozen, so pair frozen portions with something fresh when they're eaten.
+- **Build a freezer stash.** Each braise or stew should make 2–3 extra portions
+  to freeze, labeled and dated, and later weeks should **use the stash** to fill
+  gap nights before planning new cooking. Track it in `data/freezer.json`: add
+  portions when they go in, mark them used when eaten, and check it at the start
+  of every week. Freeze within a day or two of cooking.
+- **Time windows matter.** If a day only has a morning window, use the Instant
+  Pot or slow cooker and give a minute-by-minute timeline, like the 11/15 daube
+  (Instant Pot: 1 1/2 cups wine + 1/2 cup water, HIGH 45 min + 15 min natural
+  release).
+- **Shopping:** one main trip plus at most a short top-up for fresh fish and
+  tender greens. Use the page's trip switcher (Today / Tuesday / Both) when there
+  are two trips.
+
 ## Saving a plan (preferred format)
 
 Write a file like `/tmp/plan.json` then run

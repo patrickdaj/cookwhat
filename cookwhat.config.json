@@ -179,7 +179,11 @@
     "weeknightDifficulty": "easy-to-medium",
     "leftoversOk": true,
     "avoidRepeatWithinDays": 21,
-    "useSeasonalProduce": true
+    "useSeasonalProduce": true,
+    "cookingSessionsPerWeek": "3-4",
+    "batchCooking": true,
+    "freezerFriendly": true,
+    "notes": "He doesn't want to cook every night or cook just for himself. Big sessions (4-8 servings) cover leftover nights, all his lunches, and a freezer stash tracked in data/freezer.json."
   },
   "nutrition": {
     "goals": [

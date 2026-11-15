@@ -1,0 +1,22 @@
+{
+  "note": "Freezer stash of cooked portions. Add when frozen, set used when eaten; check at the start of each week's planning. Status 'planned' means it should be in the freezer per the plan but hasn't been confirmed.",
+  "items": [
+    {
+      "dish": "Daube Provençale",
+      "portions": 3,
+      "cooked": "2026-11-15",
+      "source": "data/menus/2026-11-15.json",
+      "status": "planned",
+      "earmarked": "2 for his Sat 11/21 lunch + dinner",
+      "note": "Pair with something fresh; the Brussels sprouts side doesn't freeze well."
+    },
+    {
+      "dish": "Spanish Paprika Chicken (with its roasted tomatoes, onions, peppers + juices)",
+      "portions": 2,
+      "cooked": "2026-11-14",
+      "source": "data/menus/2026-11-08.json",
+      "status": "planned",
+      "note": "Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon."
+    }
+  ]
+}
