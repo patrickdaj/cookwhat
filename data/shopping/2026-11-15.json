@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-15",
-  "generatedAt": "2026-11-15T17:46:59.975Z",
+  "generatedAt": "2026-11-16T16:00:21.157Z",
   "targetServings": null,
   "sections": [
     {
@@ -37,7 +37,7 @@
           "unitLabel": "lb",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -86,7 +86,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
             "Greek-Style Shrimp with Tomatoes and Feta"
           ],
           "hasUnquantified": false,
@@ -99,7 +99,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -111,7 +111,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -124,7 +124,7 @@
           "category": "produce",
           "fromMeals": [
             "Daube Provençale",
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -140,7 +140,7 @@
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
             "Chicken Tagine with Chickpeas and Apricots",
             "Pistachio Crusted Salmon",
             "Greek-Style Shrimp with Tomatoes and Feta",
@@ -162,13 +162,25 @@
           "unit": ""
         },
         {
+          "item": "red potatoes",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "shallots",
           "qty": 8,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -310,7 +322,7 @@
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
-            "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce"
+            "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -641,5 +653,5 @@
     "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 48
+  "totalItems": 49
 }

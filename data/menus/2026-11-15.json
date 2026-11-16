@@ -138,14 +138,15 @@
       "day": "Wed",
       "slot": "dinner",
       "role": "side",
-      "title": "Roasted Brussels Sprouts and Shallots with Lemon-Caper Sauce",
+      "title": "Roasted Brussels Sprouts, Potatoes, and Shallots with Lemon-Caper Sauce",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.223 (Roasted Root Vegetables, made without the potatoes)",
       "sourceUrl": "",
       "cuisine": "mediterranean",
       "protein": "vegetable",
       "tags": [
         "book",
-        "new"
+        "new",
+        "carb"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 45,
@@ -157,6 +158,13 @@
           "unit": "lb",
           "category": "produce",
           "note": "trimmed and halved; an extra 1/2 lb fills in for the potatoes"
+        },
+        {
+          "item": "red potatoes",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "unpeeled, 1-in pieces (baby reds halved); buy on the Tuesday stop"
         },
         {
           "item": "shallots",
@@ -222,7 +230,7 @@
           "note": ""
         }
       ],
-      "notes": "Moved from Sunday to go with the salmon (replaces the spinach). Roast at 450°F, Brussels cut side down, 25–30 min while you prep the salmon; drop the oven to 375°F for the fish. Toss with parsley, capers, lemon and oil. Extra keeps 3–4 days for lunches."
+      "notes": "Wednesday's veg AND carb in one pan (the book's recipe includes the potatoes), so the salmon night doesn't borrow the tagine's couscous. 450°F, single layer, Brussels cut side down, 30–35 min rotating halfway; then drop the oven to 375°F for the salmon. Toss with parsley, capers, lemon and oil. Extras keep 3–4 days."
     },
     {
       "id": "sourdough-daube",
@@ -435,7 +443,7 @@
           "note": ""
         }
       ],
-      "notes": "Toast in oil, add 1 cup broth + 1 cup water, cover off the heat 7 min, fluff. Full batch so there's couscous for Wednesday and the tagine leftovers."
+      "notes": "Full batch (2 cups dry, about 6 servings) — all of it goes with the tagine: Tuesday dinner and the packed tagine portions (Thu dinner, Thu/Fri lunches, maybe one for the freezer; couscous freezes fine). Not used on Wednesday."
     },
     {
       "id": "pistachio-crusted-salmon",
