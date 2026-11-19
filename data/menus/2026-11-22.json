@@ -474,27 +474,6 @@
       "notes": "Clears the fridge before the trip. Evening: Thanksgiving prep to travel (see Thursday)."
     },
     {
-      "id": "thanksgiving-placeholder",
-      "day": "Thu",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Thanksgiving at Joshua Tree: duck breast with sour cherry-port sauce",
-      "source": "Patrick's Thanksgiving menu",
-      "sourceUrl": "",
-      "cuisine": "french",
-      "protein": "duck",
-      "tags": [
-        "holiday",
-        "cooking-for-love",
-        "needs-details"
-      ],
-      "activeTimeMin": null,
-      "totalTimeMin": null,
-      "servings": 2,
-      "ingredients": [],
-      "notes": "Starter: Japanese sweet potato fingers with miso butter, scallions, bonito flakes and finger lime pearls. Main: pan-roasted duck breast, sour cherry-port sauce. Side: roasted delicata, brown butter, crispy sage, hazelnuts. Dessert: pear tarte tatin with vanilla ice cream. Quantities pending headcount."
-    },
-    {
       "id": "freezer-night-sat",
       "day": "Sat",
       "slot": "dinner",
@@ -513,6 +492,230 @@
       "servings": 1,
       "ingredients": [],
       "notes": "Back from Joshua Tree Saturday morning; the spare daube portion (with smashed potatoes) for his dinner. Move to the fridge when you get home, or microwave from frozen, covered."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "id": "japanese-sweet-potato-fingers",
+      "role": "side",
+      "title": "Japanese Sweet Potato Fingers with Miso Butter",
+      "source": "Patrick's own recipe",
+      "sourceUrl": "",
+      "cuisine": "japanese",
+      "protein": "vegetable",
+      "tags": [
+        "holiday",
+        "cooking-for-love",
+        "starter"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 60,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "small Japanese sweet potatoes (satsumaimo or Murasaki)",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "hard to find: Asian markets (Mitsuwa, Tokyo Central/Marukai, Nijiya, H Mart, 99 Ranch), Weee! \"mini\", Melissa's"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": null,
+          "unit": "",
+          "category": "dairy",
+          "note": "miso butter"
+        },
+        {
+          "item": "white miso",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "mirin",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "rice vinegar",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "scallions",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "bonito flakes",
+          "qty": null,
+          "unit": "",
+          "category": "pantry",
+          "note": "Asian market"
+        },
+        {
+          "item": "finger limes",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "hard to find; alt: finely diced lime segments + zest"
+        }
+      ],
+      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "id": "duck-breast-cherry-port",
+      "role": "main",
+      "title": "Duck Breasts in Cherry-Port Sauce",
+      "source": "Meathead: The Science of Great Barbecue and Grilling — p.315",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "duck",
+      "tags": [
+        "book",
+        "new",
+        "needs-scan",
+        "holiday",
+        "cooking-for-love"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [],
+      "notes": "From his own Meathead book (written as grilled; pan-roasting works the same idea: render the skin slowly, then finish). Matches his menu: port, sour cherries, shallots, thyme, stock, finished with red wine vinegar and butter. Needs a scan of p.315 for the exact recipe. Duck breasts are a hard-to-find item: Whole Foods / Bristol Farms / Gelson's meat counters or frozen at Asian markets; Pekin breast (6-8 oz) = 1 serving, Moulard magret (~1 lb) = 2."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "id": "delicata-brown-butter-sage-hazelnut",
+      "role": "side",
+      "title": "Roasted Delicata Squash with Brown Butter, Crispy Sage, and Hazelnuts",
+      "source": "Williams-Sonoma (Roasted Butternut Squash with Brown Butter and Sage, from Rick Rodgers, \"Williams-Sonoma Comfort Food\"), made with delicata + hazelnuts",
+      "sourceUrl": "https://www.williams-sonoma.com/recipe/roasted-butternut-squash-with-brown-butter-and-sage.html",
+      "cuisine": "american",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "holiday"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 45,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "delicata squash",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "in place of the recipe's 3 1/4 lb butternut (serves 6-8); no peeling, halve, seed, slice 1/2-in half-moons"
+        },
+        {
+          "item": "olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": ""
+        },
+        {
+          "item": "fresh sage",
+          "qty": 24,
+          "unit": "leaf",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "hazelnuts",
+          "qty": 0.33,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "toasted, skinned, chopped (his addition)"
+        }
+      ],
+      "notes": "Recipe method: 425°F; oil, salt, pepper; roast 15 min, stir, 10-15 more until tender and browned (delicata half-moons may need slightly less). Meanwhile brown the butter over medium until the foam subsides, add sage ~30 sec until the butter is light hazelnut-brown and the sage crisp; pour over the squash immediately, toss, top with toasted hazelnuts. Toast/chop hazelnuts at home Wednesday."
+    },
+    {
+      "day": "Thu",
+      "slot": "dinner",
+      "id": "pear-tarte-tatin",
+      "role": "side",
+      "title": "Pear Tarte Tatin",
+      "source": "Food Network (Alex Guarnaschelli, The Kitchen)",
+      "sourceUrl": "https://www.foodnetwork.com/recipes/pear-tarte-tatin-17288493",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "holiday",
+        "dessert",
+        "cooking-for-love"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 115,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "sugar",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "+ 3 tbsp water for the caramel"
+        },
+        {
+          "item": "Bosc pears",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "recipe: 12-15 underripe Anjou pears for a 10-in skillet, halved and cored; firm, slightly underripe Bosc work (he chose Bosc)"
+        },
+        {
+          "item": "all-butter puff pastry",
+          "qty": 1,
+          "unit": "sheet",
+          "category": "frozen",
+          "note": "10-11 in; larger than the pan. Dufour (Whole Foods) or Trader Joe's seasonal all-butter"
+        },
+        {
+          "item": "vanilla ice cream",
+          "qty": 1,
+          "unit": "pint",
+          "category": "frozen",
+          "note": ""
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "his menu adds butter to the caramel; stir in off the heat once it turns golden (not in the FN recipe)"
+        }
+      ],
+      "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy."
     }
   ]
 }
