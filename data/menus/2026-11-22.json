@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-11-22",
   "createdAt": "2026-11-19T00:23:44.688Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 4,
   "meals": [
     {
@@ -499,16 +499,14 @@
       "id": "japanese-sweet-potato-fingers",
       "role": "side",
       "title": "Japanese Sweet Potato Fingers with Miso Butter",
-      "source": "Patrick's own recipe; roasting method from The Food Lab (J. Kenji López-Alt) — p.464, Extra-Sweet Roasted Sweet Potatoes",
+      "source": "Patrick's own recipe",
       "sourceUrl": "",
       "cuisine": "japanese",
       "protein": "vegetable",
       "tags": [
         "holiday",
         "cooking-for-love",
-        "starter",
-        "book",
-        "needs-scan"
+        "starter"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 60,
@@ -516,10 +514,10 @@
       "ingredients": [
         {
           "item": "small Japanese sweet potatoes (satsumaimo or Murasaki)",
-          "qty": null,
+          "qty": 4,
           "unit": "",
           "category": "produce",
-          "note": "hard to find: Asian markets (Mitsuwa, Tokyo Central/Marukai, Nijiya, H Mart, 99 Ranch), Weee! \"mini\", Melissa's"
+          "note": "~2 small per person. hard to find: Asian markets (Mitsuwa, Tokyo Central/Marukai, Nijiya, H Mart, 99 Ranch), Weee! \"mini\", Melissa's"
         },
         {
           "item": "unsalted butter",
@@ -558,7 +556,7 @@
         },
         {
           "item": "scallions",
-          "qty": null,
+          "qty": 2,
           "unit": "",
           "category": "produce",
           "note": ""
@@ -572,13 +570,13 @@
         },
         {
           "item": "finger limes",
-          "qty": null,
+          "qty": 2,
           "unit": "",
           "category": "produce",
-          "note": "hard to find; alt: finely diced lime segments + zest"
+          "note": "a couple is plenty for 2. hard to find; alt: finely diced lime segments + zest"
         }
       ],
-      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. Roast the potatoes with Kenji's p.464 method (needs a scan)."
+      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. For 2."
     },
     {
       "day": "Thu",
@@ -683,14 +681,14 @@
       ],
       "activeTimeMin": 20,
       "totalTimeMin": 45,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
           "item": "delicata squash",
-          "qty": 2,
+          "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "in place of the recipe's 3 1/4 lb butternut (serves 6-8); no peeling, halve, seed, slice 1/2-in half-moons"
+          "note": "1 large (or 2 small) for 2; no peeling, halve, seed, 1/2-in half-moons"
         },
         {
           "item": "olive oil",
@@ -701,21 +699,21 @@
         },
         {
           "item": "unsalted butter",
-          "qty": 2,
+          "qty": 1.5,
           "unit": "tbsp",
           "category": "dairy",
           "note": ""
         },
         {
           "item": "fresh sage",
-          "qty": 24,
+          "qty": 12,
           "unit": "leaf",
           "category": "produce",
           "note": ""
         },
         {
           "item": "hazelnuts",
-          "qty": 0.33,
+          "qty": 0.25,
           "unit": "cup",
           "category": "pantry",
           "note": "toasted, skinned, chopped (his addition)"
@@ -753,10 +751,10 @@
         },
         {
           "item": "Bosc pears",
-          "qty": null,
+          "qty": 8,
           "unit": "",
           "category": "produce",
-          "note": "recipe: 12-15 underripe Anjou pears for a 10-in skillet, halved and cored; firm, slightly underripe Bosc work (he chose Bosc)"
+          "note": "firm, slightly underripe; halve and pack in as many as fit the 10-in skillet (they shrink). FN calls for 12-15 underripe Anjou"
         },
         {
           "item": "all-butter puff pastry",
@@ -780,7 +778,8 @@
           "note": "his menu adds butter to the caramel; stir in off the heat once it turns golden (not in the FN recipe)"
         }
       ],
-      "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy."
+      "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy. Bake it in the cast-iron skillet he's bringing. It serves 8–10, so there's tart for Friday breakfast too."
     }
-  ]
+  ],
+  "setAt": "2026-11-19T03:30:46.000Z"
 }

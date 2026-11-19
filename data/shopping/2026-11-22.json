@@ -1,0 +1,662 @@
+{
+  "weekOf": "2026-11-22",
+  "generatedAt": "2026-11-19T03:29:18.337Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "Bosc pears",
+          "qty": 8,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Pear Tarte Tatin"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "celery",
+          "qty": 5,
+          "dim": "stalk",
+          "unitLabel": "stalk",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "stalk"
+        },
+        {
+          "item": "delicata squash",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Delicata Squash with Brown Butter, Crispy Sage, and Hazelnuts"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "finger limes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh sage",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Delicata Squash with Brown Butter, Crispy Sage, and Hazelnuts"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew",
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 15,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Garlic Toasts",
+            "Sicilian Fish Stew",
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green beans",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "lemon",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "scallions",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "small Japanese sweet potatoes (satsumaimo or Murasaki)",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "tomatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Sicilian Fish Stew",
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "duck breast lobes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "skinless swordfish steaks",
+          "qty": 2,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "rustic bread (baguette or sourdough)",
+          "qty": 2,
+          "dim": "loaf",
+          "unitLabel": "loaf",
+          "category": "bakery",
+          "fromMeals": [
+            "Garlic Toasts"
+          ],
+          "hasUnquantified": false,
+          "unit": "loaf"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "basmati rice",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "bonito flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "capers",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried tart (sour) cherries",
+          "qty": 8,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "hazelnuts",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Delicata Squash with Brown Butter, Crispy Sage, and Hazelnuts"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "mirin",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "raisins",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "rice vinegar",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "white miso",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Japanese Sweet Potato Fingers with Miso Butter"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "clam juice",
+          "qty": 1,
+          "dim": "bottle",
+          "unitLabel": "bottle",
+          "category": "canned",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "bottle"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 8.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)",
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "whole peeled tomatoes (28 oz)",
+          "qty": 1,
+          "dim": "can",
+          "unitLabel": "can",
+          "category": "canned",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "can"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "Aleppo pepper",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "bay leaves",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "dried oregano",
+          "qty": 1.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried thyme",
+          "qty": 0.67,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Chicken and Rice Soup (double batch)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "vanilla ice cream",
+          "qty": 1,
+          "dim": "pint",
+          "unitLabel": "pint",
+          "category": "frozen",
+          "fromMeals": [
+            "Pear Tarte Tatin"
+          ],
+          "hasUnquantified": false,
+          "unit": "pint"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Sicilian Fish Stew"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "ruby port",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "extra-virgin olive oil",
+    "unsalted butter",
+    "olive oil",
+    "sugar",
+    "all-butter puff pastry"
+  ],
+  "pendingScans": [
+    {
+      "title": "Freezer night: Spanish Paprika Chicken",
+      "day": "Mon",
+      "source": "",
+      "cookbook": true
+    },
+    {
+      "title": "Leftovers: Sicilian fish stew + green beans",
+      "day": "Wed",
+      "source": "",
+      "cookbook": true
+    },
+    {
+      "title": "Freezer night: Daube Provençale (Jami out)",
+      "day": "Sat",
+      "source": "",
+      "cookbook": true
+    }
+  ],
+  "totalItems": 48
+}

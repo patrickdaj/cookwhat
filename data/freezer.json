@@ -17,18 +17,26 @@
       "source": "data/menus/2026-11-08.json",
       "status": "planned",
       "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon."
+    },
+    {
+      "dish": "Chicken and Rice Soup (TMD, double batch)",
+      "portions": 3,
+      "cooked": "2026-11-22",
+      "source": "data/menus/2026-11-22.json",
+      "status": "planned",
+      "note": "Light on rice in freezer portions; add a splash of water when reheating."
     }
   ],
   "pulls": [
     {
-      "what": "shrimp (bought frozen)",
-      "when": "Thu 11/19 night",
-      "for": "Fri 11/20 Greek shrimp"
+      "what": "Spanish paprika chicken, 2 portions",
+      "when": "Sun 11/22 night",
+      "for": "Mon 11/23 dinner"
     },
     {
-      "what": "2 daube portions",
-      "when": "Fri 11/20 night",
-      "for": "his Sat 11/21 lunch + dinner"
+      "what": "Daube + smashed potatoes, 1 portion",
+      "when": "Sat 11/28 on return",
+      "for": "his Sat 11/28 dinner"
     }
   ]
 }
