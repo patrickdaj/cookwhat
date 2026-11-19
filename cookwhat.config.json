@@ -183,7 +183,7 @@
     "cookingSessionsPerWeek": "3-4",
     "batchCooking": true,
     "freezerFriendly": true,
-    "notes": "He doesn't want to cook every night or cook just for himself. Big sessions (4-8 servings) cover leftover nights, all his lunches, and a freezer stash tracked in data/freezer.json."
+    "notes": "He doesn't want to cook every night or cook just for himself. Big sessions (4-8 servings) cover leftover nights, all his lunches, and a freezer stash tracked in data/freezer.json. Frozen portions are for lunches, not dinners (2026-11-19)."
   },
   "nutrition": {
     "goals": [

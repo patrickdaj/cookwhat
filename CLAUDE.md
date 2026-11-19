@@ -105,7 +105,7 @@ including all of his lunches.
   lunch, and what goes into the freezer. Present the week as a grid of who's
   eating, what's cooked and what each leftover covers.
 - **He doesn't cook just for himself.** Nights when his wife is out (happy
-  hours, dinners out) are leftover or freezer nights. Ask about her schedule
+  hours, dinners out) are leftover nights (or takeout). Ask about her schedule
   when planning.
 - **Pick mains that reheat and freeze well:** braises and stews (daube,
   tagines, cacciatore), soups, meatballs in sauce, ragus, sheet-pan chicken
@@ -118,8 +118,10 @@ including all of his lunches.
   fridge. Roasted Brussels sprouts or greens are fridge-only and get mushy when
   frozen, so pair frozen portions with something fresh when they're eaten.
 - **Build a freezer stash.** Each braise or stew should make 2–3 extra portions
-  to freeze, labeled and dated, and later weeks should **use the stash** to fill
-  gap nights before planning new cooking. Track it in `data/freezer.json`: add
+  to freeze, labeled and dated. **Frozen portions are for his lunches, not
+  dinners (2026-11-19):** "No from the freezer please... frozen is ok for
+  lunch." Cover dinners with fresh cooking plus fridge leftovers, and use the
+  stash to fill lunch gaps. Track it in `data/freezer.json`: add
   portions when they go in, mark them used when eaten, and check it at the start
   of every week. Freeze within a day or two of cooking.
 - **Time windows matter.** If a day only has a morning window, use the Instant

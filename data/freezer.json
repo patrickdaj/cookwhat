@@ -1,5 +1,5 @@
 {
-  "note": "Freezer stash of cooked portions. Add when frozen, set used when eaten; check at the start of each week's planning. Status 'planned' means it should be in the freezer per the plan but hasn't been confirmed.",
+  "note": "Freezer stash of cooked portions. Add when frozen, set used when eaten; check at the start of each week's planning. Status 'planned' means it should be in the freezer per the plan but hasn't been confirmed. Frozen portions are for his lunches, not dinners (Patrick, 2026-11-19).",
   "items": [
     {
       "dish": "Daube Provençale + garlic smashed baby reds",
@@ -16,27 +16,15 @@
       "cooked": "2026-11-14",
       "source": "data/menus/2026-11-08.json",
       "status": "planned",
-      "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon."
-    },
-    {
-      "dish": "Chicken and Rice Soup (TMD, double batch)",
-      "portions": 3,
-      "cooked": "2026-11-22",
-      "source": "data/menus/2026-11-22.json",
-      "status": "planned",
-      "note": "Light on rice in freezer portions; add a splash of water when reheating."
+      "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon.",
+      "earmarked": "lunches only (no freezer dinners, per Patrick 11/19)"
     }
   ],
   "pulls": [
     {
-      "what": "Spanish paprika chicken, 2 portions",
-      "when": "Sun 11/22 night",
-      "for": "Mon 11/23 dinner"
-    },
-    {
-      "what": "Daube + smashed potatoes, 1 portion",
+      "what": "Daube or Spanish chicken, 1 portion",
       "when": "Sat 11/28 on return",
-      "for": "his Sat 11/28 dinner"
+      "for": "his Sat 11/28 lunch"
     }
   ]
 }

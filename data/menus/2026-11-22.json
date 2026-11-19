@@ -5,134 +5,210 @@
   "servingsDefault": 4,
   "meals": [
     {
-      "id": "chicken-rice-soup-batch",
+      "id": "chicken-bouillabaisse-batch",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Chicken and Rice Soup (double batch)",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/chicken-and-rice-soup/",
-      "cuisine": "greek",
+      "title": "Chicken Bouillabaisse",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.301",
+      "sourceUrl": "",
+      "cuisine": "french",
       "protein": "chicken",
       "tags": [
-        "web",
-        "new",
+        "book",
+        "redo",
         "batch",
-        "make-ahead",
-        "morning-cook",
-        "freezer"
+        "morning-cook"
       ],
-      "activeTimeMin": 30,
-      "totalTimeMin": 60,
-      "servings": 8,
+      "activeTimeMin": 45,
+      "totalTimeMin": 90,
+      "servings": 6,
       "ingredients": [
         {
-          "item": "boneless skinless chicken breasts",
-          "qty": 2,
+          "item": "bone-in, skin-on chicken thighs",
+          "qty": 3,
           "unit": "lb",
-          "category": "meat-seafood",
-          "note": "doubled recipe"
+          "category": "meat-seafood"
         },
         {
-          "item": "yellow onions",
-          "qty": 2,
-          "unit": "",
+          "item": "leek",
+          "qty": 1,
+          "unit": "large",
           "category": "produce",
-          "note": ""
+          "note": "white and light green parts"
         },
         {
-          "item": "celery",
-          "qty": 4,
-          "unit": "stalk",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "carrots",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "note": "recipe doubled = 4; bumped to 6 for more veg"
+          "item": "fennel bulb",
+          "qty": 1,
+          "unit": "small",
+          "category": "produce"
         },
         {
           "item": "garlic",
-          "qty": 6,
+          "qty": 4,
           "unit": "clove",
-          "category": "produce",
-          "note": ""
+          "category": "produce"
+        },
+        {
+          "item": "tomato paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "saffron threads",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "halved from 1/4 tsp for low heat"
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 8,
+          "qty": 3,
           "unit": "cup",
-          "category": "canned",
-          "note": "2 cartons"
+          "category": "canned"
         },
         {
-          "item": "dried oregano",
-          "qty": 4,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "dried thyme",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "bay leaves",
-          "qty": 2,
-          "unit": "",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "Aleppo pepper",
+          "item": "diced tomatoes",
           "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "recipe: 1 tsp red pepper flakes or 2 tsp Aleppo for a double batch; halved for low heat"
+          "unit": "14.5-oz can",
+          "category": "canned",
+          "note": "drained"
         },
         {
-          "item": "basmati rice",
-          "qty": 1.5,
+          "item": "Yukon Gold potatoes",
+          "qty": 12,
+          "unit": "oz",
+          "category": "produce",
+          "note": "unpeeled, 3/4-inch pieces"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
           "unit": "cup",
-          "category": "pantry",
-          "note": "rinsed"
+          "category": "beverages"
         },
         {
-          "item": "lemons",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "zest + juice"
+          "item": "ouzo or pastis",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages"
         },
         {
-          "item": "scallions",
-          "qty": 4,
+          "item": "orange",
+          "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": ""
+          "note": "one 3-inch zest strip"
         },
         {
           "item": "fresh parsley",
           "qty": 1,
-          "unit": "cup",
+          "unit": "tbsp",
           "category": "produce",
-          "note": "chopped"
+          "note": "or tarragon"
         },
         {
           "item": "extra-virgin olive oil",
-          "qty": 4,
+          "qty": 2,
           "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "category": "pantry"
         }
       ],
-      "notes": "Pool day: cook it in the morning (about 1 hr), cool, refrigerate; reheat at dinner. Double batch = 8: Sunday dinner for two, his Mon + Tue lunches, ~3 to freeze. For freezer portions, scoop light on the rice (it keeps absorbing broth) or add a splash of water when reheating. Lemon and herbs go in off the heat."
+      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health)."
+    },
+    {
+      "id": "rouille-sun",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Rouille",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.302",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "sauce"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 20,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "saffron threads",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "baguette",
+          "qty": 1,
+          "unit": "",
+          "category": "bakery",
+          "note": "one 3-inch piece, crusts removed (1 cup torn); rest goes to the toasts"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "4 tsp juice"
+        },
+        {
+          "item": "egg",
+          "qty": 1,
+          "unit": "",
+          "category": "dairy",
+          "note": "yolk only"
+        },
+        {
+          "item": "Dijon mustard",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": "small"
+        },
+        {
+          "item": "cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "halved"
+        },
+        {
+          "item": "vegetable oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        }
+      ],
+      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week, so it covers Monday too. Spoon onto each bowl."
     },
     {
       "id": "garlic-toasts-sun",
@@ -154,48 +230,39 @@
       "servings": 4,
       "ingredients": [
         {
-          "item": "rustic bread (baguette or sourdough)",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "8 slices, 1 inch thick"
-        },
-        {
           "item": "garlic",
           "qty": 1,
           "unit": "clove",
-          "category": "produce",
-          "note": ""
+          "category": "produce"
         },
         {
           "item": "extra-virgin olive oil",
           "qty": 3,
           "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "category": "pantry"
         }
       ],
-      "notes": "Broil 6 inches from the element, about 4 min total, flipping; rub with garlic while hot. The book's pick for soups."
+      "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper. Make fresh Sunday and Monday."
     },
     {
-      "id": "freezer-night-mon",
+      "id": "leftovers-mon",
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Freezer night: Spanish Paprika Chicken",
+      "title": "Leftovers: Chicken Bouillabaisse + rouille",
       "source": "",
       "sourceUrl": "",
-      "cuisine": "spanish",
+      "cuisine": "french",
       "protein": "chicken",
       "tags": [
-        "freezer",
+        "leftovers",
         "no-cook"
       ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
+      "activeTimeMin": 10,
+      "totalTimeMin": 20,
       "servings": 2,
       "ingredients": [],
-      "notes": "From the stash (the 2 extra portions frozen this week, with their roasted tomatoes, onions and peppers). Move to the fridge Sunday night; reheat covered and brighten with a splash of sherry vinegar. Carb: the rest of the garlic toasts or bread."
+      "notes": "Reheat covered at 350°F, broil a few minutes to re-crisp the skin. Fresh garlic toasts from the rest of the Sunday baguette."
     },
     {
       "id": "sicilian-fish-stew-batch",
@@ -474,24 +541,90 @@
       "notes": "Clears the fridge before the trip. Evening: Thanksgiving prep to travel (see Thursday)."
     },
     {
-      "id": "freezer-night-sat",
-      "day": "Sat",
+      "day": "Thu",
       "slot": "dinner",
+      "id": "duck-breast-cherry-port",
       "role": "main",
-      "title": "Freezer night: Daube Provençale (Jami out)",
-      "source": "",
+      "title": "Grilled Duck Breasts in Cherry-Port Sauce",
+      "source": "Meathead: The Science of Great Barbecue and Grilling — p.315",
       "sourceUrl": "",
       "cuisine": "french",
-      "protein": "beef",
+      "protein": "duck",
       "tags": [
-        "freezer",
-        "no-cook"
+        "book",
+        "new",
+        "holiday",
+        "cooking-for-love"
       ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
-      "servings": 1,
-      "ingredients": [],
-      "notes": "Back from Joshua Tree Saturday morning; the spare daube portion (with smashed potatoes) for his dinner. Move to the fridge when you get home, or microwave from frozen, covered."
+      "activeTimeMin": 40,
+      "totalTimeMin": 240,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "duck breast lobes",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "\"plump\" (book: 2 breasts = 2 servings; 1 per person). Hard to find: Whole Foods / Bristol Farms / Gelson's, or frozen at Asian markets"
+        },
+        {
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "dried sage, parsley, rosemary, thyme, oregano, basil, bay, black pepper, sugar, pulsed coarse; make a pinch-batch at home"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "2 for the shallots, 2 to mount the sauce"
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "diced"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": "his menu says stock"
+        },
+        {
+          "item": "ruby port",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "book: balsamic (or raspberry vinegar); his menu uses red wine vinegar"
+        },
+        {
+          "item": "dried tart (sour) cherries",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "book: dried cherries; sour per his menu. Alt: dried cranberries or raisins (book notes)"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "a few sprigs in the sauce, per his menu (not in the book recipe)"
+        }
+      ],
+      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes."
     },
     {
       "day": "Thu",
@@ -577,92 +710,6 @@
         }
       ],
       "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. For 2."
-    },
-    {
-      "day": "Thu",
-      "slot": "dinner",
-      "id": "duck-breast-cherry-port",
-      "role": "main",
-      "title": "Grilled Duck Breasts in Cherry-Port Sauce",
-      "source": "Meathead: The Science of Great Barbecue and Grilling — p.315",
-      "sourceUrl": "",
-      "cuisine": "french",
-      "protein": "duck",
-      "tags": [
-        "book",
-        "new",
-        "holiday",
-        "cooking-for-love"
-      ],
-      "activeTimeMin": 40,
-      "totalTimeMin": 240,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "duck breast lobes",
-          "qty": 2,
-          "unit": "",
-          "category": "meat-seafood",
-          "note": "\"plump\" (book: 2 breasts = 2 servings; 1 per person). Hard to find: Whole Foods / Bristol Farms / Gelson's, or frozen at Asian markets"
-        },
-        {
-          "item": "Simon & Garfunkel Rub (Meathead p.168)",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "dried sage, parsley, rosemary, thyme, oregano, basil, bay, black pepper, sugar, pulsed coarse; make a pinch-batch at home"
-        },
-        {
-          "item": "unsalted butter",
-          "qty": 4,
-          "unit": "tbsp",
-          "category": "dairy",
-          "note": "2 for the shallots, 2 to mount the sauce"
-        },
-        {
-          "item": "shallots",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "diced"
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": "his menu says stock"
-        },
-        {
-          "item": "ruby port",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "red wine vinegar",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "book: balsamic (or raspberry vinegar); his menu uses red wine vinegar"
-        },
-        {
-          "item": "dried tart (sour) cherries",
-          "qty": 8,
-          "unit": "oz",
-          "category": "pantry",
-          "note": "book: dried cherries; sour per his menu. Alt: dried cranberries or raisins (book notes)"
-        },
-        {
-          "item": "fresh thyme",
-          "qty": null,
-          "unit": "",
-          "category": "produce",
-          "note": "a few sprigs in the sauce, per his menu (not in the book recipe)"
-        }
-      ],
-      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes."
     },
     {
       "day": "Thu",
@@ -779,7 +826,27 @@
         }
       ],
       "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy. Bake it in the cast-iron skillet he's bringing. It serves 8–10, so there's tart for Friday breakfast too."
+    },
+    {
+      "id": "takeout-sat",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Takeout (Jami out, back from Joshua Tree)",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "",
+      "protein": "",
+      "tags": [
+        "out",
+        "no-cook"
+      ],
+      "activeTimeMin": 0,
+      "totalTimeMin": 0,
+      "servings": 1,
+      "ingredients": [],
+      "notes": "No freezer dinners and he doesn't cook just for himself. Lunch can be a freezer portion (daube or Spanish chicken)."
     }
   ],
-  "setAt": "2026-11-19T03:30:46.000Z"
+  "setAt": "2026-11-19T03:44:53.194Z"
 }
