@@ -482,7 +482,55 @@
     {
       "title": "Grilled Duck Breasts in Cherry-Port Sauce",
       "page": 315,
-      "chapter": "Chicken & Turkey"
+      "chapter": "Chicken & Turkey",
+      "captured": {
+        "makes": "2 servings",
+        "takes": "3 hours to dry brine, 20 minutes to prepare the breasts, 40 minutes to cook them",
+        "ingredients": [
+          "2 plump duck breast lobes",
+          "Kosher salt",
+          "1 teaspoon Simon & Garfunkel Rub (page 168)",
+          "4 tablespoons (1/2 stick) unsalted butter",
+          "2 shallots, diced",
+          "1/2 cup chicken broth",
+          "1/4 cup ruby port",
+          "1/4 cup balsamic vinegar (see Notes)",
+          "8 ounces dried cherries (see Notes)"
+        ],
+        "steps": [
+          "Prep. With the breasts skin side up, gently draw the knife across the skin of each one, cutting through the fat (see page 317). Make parallel cuts every 3/4 to 1 inch, then similar perpendicular cuts so you have squares of skin still attached; these act as drains so the fat runs off during cooking. Salt both sides, sprinkle the rub on both sides, and dry brine in the fridge about 3 hours.",
+          "Fire up. Set up the grill for two-zone cooking (you probably won't need the indirect zone, but it's a nice safe zone). Put a heavy pan, griddle, or big skillet with ovenproof handles over the direct-heat side and close the lid (do not use nonstick pans over high heat; fumes from the coating can be hazardous). Preheat the pan at least 10 minutes, until it's rip-snorting hot.",
+          "Cook. Place the breasts in the hot pan skin side down; they'll pop and sizzle and render a lot of fat. When the skin is dark brown, flip so some rendered fat gets on the meat side and sear about 3 minutes to brown it. Move the meat to the grill grates on the indirect side. When the interior is 135°F (medium-rare), about 30 minutes, take them off the heat.",
+          "While the duck is grilling, pour off the burned duck fat and discard it. Wipe the pan with a paper towel, place it on the indirect side, and melt 2 tablespoons of the butter over medium heat. Add the shallots and cook until limp. Add the broth, port, vinegar, and cherries and cook over high heat until reduced by half. Move the pan to indirect heat and keep the sauce warm until ready to serve.",
+          "Serve. Just before serving, whisk the remaining 2 tablespoons butter into the sauce (mounting with butter thickens and enriches it at the last minute). Slice the breasts at an angle across the grain, just over 1/8 inch thick, keeping the slices bunched in order. Spoon sauce onto each of two plates, fan the slices on top, and drizzle a little more over the meat."
+        ],
+        "notes": [
+          "Raspberry vinegar is very nice as a substitute for balsamic.",
+          "Dried cranberries or even raisins can be substituted for the cherries."
+        ],
+        "tips": [
+          "Score the skin in a crosshatch down to (not into) the meat, every 3/4 to 1 inch; the cuts drain the fat so the skin fries crisp.",
+          "Dry brine about 3 hours with salt and the rub.",
+          "Serve duck breast medium-rare to medium, around 135°F; it eats like a fine steak (dark, slow-twitch muscle rich in myoglobin).",
+          "The book cooks it outdoors in a ripping-hot pan on the grill on purpose: rendering duck fat spatters and smokes, and indoors it can set off fire alarms unless you have a very strong exhaust fan.",
+          "Never use a nonstick pan over high heat for this; preheat a heavy pan or cast iron at least 10 minutes.",
+          "Pour off the burned fat before making the sauce. Clean duck fat is worth saving (keeps months in the fridge, a year frozen) for roasting potatoes or sautéing veg.",
+          "Whole roasted or smoked duck tends to be greasy with rubbery skin; breaking it down and cooking the breasts this way is the better use of the bird.",
+          "Slice across the grain at an angle, just over 1/8 inch, and fan the slices over the sauce."
+        ],
+        "ai": {
+          "cliffNotes": "Crosshatch-score and dry-brine the duck breasts (salt + Simon & Garfunkel herb rub, ~3 hr). In a ripping-hot heavy pan on the grill, render skin-side down until dark brown, flip and sear 3 min, then finish on the indirect side to 135°F (~30 min). In the wiped pan: butter, shallots, then broth, ruby port, vinegar and dried cherries reduced by half; mount with butter, slice the duck thin and fan over the sauce.",
+          "keyTips": [
+            "Score through the fat but not into the meat so it drains and crisps.",
+            "Preheat cast iron 10 min; skip nonstick.",
+            "Pull at 135°F and rest briefly before slicing.",
+            "Reduce the sauce by half before mounting with butter so it coats a spoon.",
+            "Indoors: render over medium so it doesn't smoke out the kitchen, pour off fat as it builds, and finish in a 300–325°F oven to 135°F."
+          ]
+        }
+      },
+      "scanned": true,
+      "makes": "2 servings"
     },
     {
       "title": "Chef Bonner's Fish Fillets with Brioni Broth",

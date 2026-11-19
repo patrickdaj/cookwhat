@@ -585,7 +585,7 @@
       "slot": "dinner",
       "id": "duck-breast-cherry-port",
       "role": "main",
-      "title": "Duck Breasts in Cherry-Port Sauce",
+      "title": "Grilled Duck Breasts in Cherry-Port Sauce",
       "source": "Meathead: The Science of Great Barbecue and Grilling — p.315",
       "sourceUrl": "",
       "cuisine": "french",
@@ -593,15 +593,78 @@
       "tags": [
         "book",
         "new",
-        "needs-scan",
         "holiday",
         "cooking-for-love"
       ],
       "activeTimeMin": 40,
-      "totalTimeMin": null,
+      "totalTimeMin": 240,
       "servings": 2,
-      "ingredients": [],
-      "notes": "From his own Meathead book (written as grilled; pan-roasting works the same idea: render the skin slowly, then finish). Matches his menu: port, sour cherries, shallots, thyme, stock, finished with red wine vinegar and butter. Needs a scan of p.315 for the exact recipe. Duck breasts are a hard-to-find item: Whole Foods / Bristol Farms / Gelson's meat counters or frozen at Asian markets; Pekin breast (6-8 oz) = 1 serving, Moulard magret (~1 lb) = 2. Backup if Meathead's is grill-only and there's no grill: pan-roast the duck and build the cherry-port sauce with The Food Lab p.319 Simple Red-Wine Pan Sauce method (scan if needed)."
+      "ingredients": [
+        {
+          "item": "duck breast lobes",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "\"plump\" (book: 2 breasts = 2 servings; 1 per person). Hard to find: Whole Foods / Bristol Farms / Gelson's, or frozen at Asian markets"
+        },
+        {
+          "item": "Simon & Garfunkel Rub (Meathead p.168)",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "dried sage, parsley, rosemary, thyme, oregano, basil, bay, black pepper, sugar, pulsed coarse; make a pinch-batch at home"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "2 for the shallots, 2 to mount the sauce"
+        },
+        {
+          "item": "shallots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "diced"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "canned",
+          "note": "his menu says stock"
+        },
+        {
+          "item": "ruby port",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "book: balsamic (or raspberry vinegar); his menu uses red wine vinegar"
+        },
+        {
+          "item": "dried tart (sour) cherries",
+          "qty": 8,
+          "unit": "oz",
+          "category": "pantry",
+          "note": "book: dried cherries; sour per his menu. Alt: dried cranberries or raisins (book notes)"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "a few sprigs in the sauce, per his menu (not in the book recipe)"
+        }
+      ],
+      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes."
     },
     {
       "day": "Thu",
