@@ -1,11 +1,23 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-19T03:44:53.277Z",
+  "generatedAt": "2026-11-19T13:50:34.088Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "bell peppers",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Greek Style Stuffed Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "Bosc pears",
           "qty": 8,
@@ -17,18 +29,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "celery",
-          "qty": 1,
-          "dim": "stalk",
-          "unitLabel": "stalk",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false,
-          "unit": "stalk"
         },
         {
           "item": "delicata squash",
@@ -67,18 +67,6 @@
           "unit": ""
         },
         {
-          "item": "fresh mint",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
@@ -86,7 +74,7 @@
           "category": "produce",
           "fromMeals": [
             "Chicken Bouillabaisse",
-            "Sautéed Green Beans"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -110,7 +98,6 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Sicilian Fish Stew",
             "Grilled Duck Breasts in Cherry-Port Sauce"
           ],
           "hasUnquantified": false,
@@ -118,7 +105,7 @@
         },
         {
           "item": "garlic",
-          "qty": 15,
+          "qty": 9,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -126,23 +113,10 @@
             "Chicken Bouillabaisse",
             "Rouille",
             "Garlic Toasts",
-            "Sicilian Fish Stew",
-            "Sautéed Green Beans"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "clove"
-        },
-        {
-          "item": "green beans",
-          "qty": 2,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Sautéed Green Beans"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
         },
         {
           "item": "leek",
@@ -158,26 +132,24 @@
         },
         {
           "item": "lemon",
-          "qty": 2,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Rouille",
-            "Sautéed Green Beans"
+            "Rouille"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "orange",
-          "qty": 2,
+          "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Sicilian Fish Stew"
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -219,29 +191,16 @@
           "unit": ""
         },
         {
-          "item": "tomatoes",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Sautéed Green Beans"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "yellow onion",
-          "qty": 3,
-          "dim": "",
-          "unitLabel": "",
+          "qty": 1,
+          "dim": "small",
+          "unitLabel": "small",
           "category": "produce",
           "fromMeals": [
-            "Sicilian Fish Stew",
-            "Sautéed Green Beans"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
-          "unit": ""
+          "unit": "small"
         },
         {
           "item": "Yukon Gold potatoes",
@@ -285,13 +244,13 @@
           "unit": ""
         },
         {
-          "item": "skinless swordfish steaks",
-          "qty": 2,
+          "item": "lean ground beef (90/10)",
+          "qty": 0.5,
           "dim": "lb",
           "unitLabel": "lb",
           "category": "meat-seafood",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "lb"
@@ -329,18 +288,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "rustic bread (baguette or sourdough)",
-          "qty": 1,
-          "dim": "loaf",
-          "unitLabel": "loaf",
-          "category": "bakery",
-          "fromMeals": [
-            "Garlic Toasts"
-          ],
-          "hasUnquantified": false,
-          "unit": "loaf"
         }
       ]
     },
@@ -358,18 +305,6 @@
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "capers",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "Dijon mustard",
@@ -432,30 +367,6 @@
           "unit": ""
         },
         {
-          "item": "pine nuts",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "raisins",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "pantry",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
           "item": "red wine vinegar",
           "qty": 0.25,
           "dim": "vol",
@@ -515,6 +426,18 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "white rice",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek Style Stuffed Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     },
@@ -522,16 +445,16 @@
       "category": "canned",
       "items": [
         {
-          "item": "clam juice",
+          "item": "chickpeas",
           "qty": 1,
-          "dim": "bottle",
-          "unitLabel": "bottle",
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
-          "unit": "bottle"
+          "unit": "cup"
         },
         {
           "item": "diced tomatoes",
@@ -547,28 +470,29 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 3.5,
+          "qty": 4.25,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Chicken Bouillabaisse",
+            "Greek Style Stuffed Peppers",
             "Grilled Duck Breasts in Cherry-Port Sauce"
           ],
           "hasUnquantified": false,
           "unit": "cup"
         },
         {
-          "item": "whole peeled tomatoes (28 oz)",
-          "qty": 1,
-          "dim": "can",
-          "unitLabel": "can",
+          "item": "tomato sauce",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Sicilian Fish Stew"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
-          "unit": "can"
+          "unit": "cup"
         }
       ]
     },
@@ -589,40 +513,16 @@
           "unit": "tsp"
         },
         {
-          "item": "ground coriander",
+          "item": "ground allspice",
           "qty": 0.33,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Sautéed Green Beans"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "paprika",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Sautéed Green Beans"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Sicilian Fish Stew"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
@@ -632,6 +532,18 @@
           "category": "spices",
           "fromMeals": [
             "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -660,13 +572,12 @@
       "items": [
         {
           "item": "dry white wine",
-          "qty": 1,
+          "qty": 0.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",
           "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Sicilian Fish Stew"
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -709,23 +620,11 @@
   ],
   "pendingScans": [
     {
-      "title": "Leftovers: Chicken Bouillabaisse + rouille",
-      "day": "Mon",
-      "source": "",
-      "cookbook": true
-    },
-    {
-      "title": "Leftovers: Sicilian fish stew + green beans",
-      "day": "Wed",
-      "source": "",
-      "cookbook": true
-    },
-    {
       "title": "Takeout (Jami out, back from Joshua Tree)",
       "day": "Sat",
       "source": "",
       "cookbook": true
     }
   ],
-  "totalItems": 53
+  "totalItems": 46
 }

@@ -18,6 +18,14 @@
       "status": "planned",
       "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon.",
       "earmarked": "lunches only (no freezer dinners, per Patrick 11/19)"
+    },
+    {
+      "dish": "Greek Style Stuffed Peppers (TMD)",
+      "portions": 1,
+      "cooked": "2026-11-24",
+      "source": "data/menus/2026-11-22.json",
+      "status": "planned",
+      "note": "The 6th pepper. Lunch only. Cool fully, freeze 1-2 months; thaw overnight, reheat in a medium oven with a splash of liquid."
     }
   ],
   "pulls": [

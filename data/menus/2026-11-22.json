@@ -18,7 +18,8 @@
         "book",
         "redo",
         "batch",
-        "morning-cook"
+        "morning-cook",
+        "covers-mon"
       ],
       "activeTimeMin": 45,
       "totalTimeMin": 90,
@@ -127,7 +128,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health)."
+      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health). Monday dinner is the leftovers: reheat covered at 350°F, broil to re-crisp; fresh garlic toasts."
     },
     {
       "id": "rouille-sun",
@@ -223,7 +224,8 @@
       "tags": [
         "book",
         "redo",
-        "carb"
+        "carb",
+        "covers-mon"
       ],
       "activeTimeMin": 10,
       "totalTimeMin": 10,
@@ -245,300 +247,106 @@
       "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper. Make fresh Sunday and Monday."
     },
     {
-      "id": "leftovers-mon",
-      "day": "Mon",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Leftovers: Chicken Bouillabaisse + rouille",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "french",
-      "protein": "chicken",
-      "tags": [
-        "leftovers",
-        "no-cook"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 20,
-      "servings": 2,
-      "ingredients": [],
-      "notes": "Reheat covered at 350°F, broil a few minutes to re-crisp the skin. Fresh garlic toasts from the rest of the Sunday baguette."
-    },
-    {
-      "id": "sicilian-fish-stew-batch",
+      "id": "greek-stuffed-peppers-batch",
       "day": "Tue",
       "slot": "dinner",
       "role": "main",
-      "title": "Sicilian Fish Stew",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "swordfish",
-      "tags": [
-        "book",
-        "redo",
-        "batch",
-        "stew"
-      ],
-      "activeTimeMin": 40,
-      "totalTimeMin": 60,
-      "servings": 5,
-      "ingredients": [
-        {
-          "item": "skinless swordfish steaks",
-          "qty": 2,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": "1-inch pieces; he likes swordfish in a stew. Alt: halibut or cod (add later, cooks faster)"
-        },
-        {
-          "item": "pine nuts",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "toasted"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "note": "chopped"
-        },
-        {
-          "item": "garlic",
-          "qty": 4,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1 tsp zest"
-        },
-        {
-          "item": "yellow onions",
-          "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "celery",
-          "qty": 1,
-          "unit": "stalk",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": "pinch"
-        },
-        {
-          "item": "dry white wine",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "whole peeled tomatoes (28 oz)",
-          "qty": 1,
-          "unit": "can",
-          "category": "canned",
-          "note": "drained, juice saved"
-        },
-        {
-          "item": "clam juice",
-          "qty": 1,
-          "unit": "bottle",
-          "category": "canned",
-          "note": "8 oz"
-        },
-        {
-          "item": "raisins",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "capers",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "Your loved redo (cooked before). Covers Tuesday dinner for two, his Wed lunch, and Wednesday dinner for two before the trip. Fish stew is good the next day but not for the freezer, so it's all eaten by Wednesday. Keep the raw pine nut-mint-orange-garlic topping separate and add it fresh each time."
-    },
-    {
-      "id": "garlic-toasts-tue",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Garlic Toasts",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "vegetable",
-      "tags": [
-        "book",
-        "redo",
-        "carb"
-      ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 10,
-      "servings": 4,
-      "ingredients": [
-        {
-          "item": "rustic bread (baguette or sourdough)",
-          "qty": 1,
-          "unit": "loaf",
-          "category": "bakery",
-          "note": "fresh loaf for Tue/Wed"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        }
-      ],
-      "notes": "For dunking in the stew; make fresh each night."
-    },
-    {
-      "id": "sauteed-green-beans-batch",
-      "day": "Tue",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Sautéed Green Beans",
+      "title": "Greek Style Stuffed Peppers",
       "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/sauteed-green-beans/",
+      "sourceUrl": "https://www.themediterraneandish.com/stuffed-peppers-recipe/",
       "cuisine": "greek",
-      "protein": "vegetable",
+      "protein": "beef",
       "tags": [
         "web",
-        "redo",
-        "batch"
+        "new",
+        "batch",
+        "freezes",
+        "covers-wed"
       ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 40,
+      "activeTimeMin": 35,
+      "totalTimeMin": 65,
       "servings": 6,
       "ingredients": [
         {
-          "item": "green beans",
-          "qty": 2,
-          "unit": "lb",
-          "category": "produce",
-          "note": "full batch"
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
         },
         {
           "item": "yellow onion",
           "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
+          "unit": "small",
+          "category": "produce"
+        },
+        {
+          "item": "lean ground beef (90/10)",
+          "qty": 0.5,
+          "unit": "lb",
+          "category": "meat-seafood"
+        },
+        {
+          "item": "ground allspice",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices"
         },
         {
           "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": ""
-        },
-        {
-          "item": "tomatoes",
           "qty": 2,
-          "unit": "",
-          "category": "produce",
-          "note": "large"
+          "unit": "clove",
+          "category": "produce"
         },
         {
-          "item": "ground coriander",
+          "item": "chickpeas",
           "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "paprika",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": ""
+          "unit": "cup",
+          "category": "canned",
+          "note": "canned, drained and rinsed"
         },
         {
           "item": "fresh parsley",
-          "qty": 0.25,
-          "unit": "cup",
+          "qty": 1,
+          "unit": "small bunch",
           "category": "produce",
-          "note": ""
+          "note": "about 1 cup chopped (or part dill)"
         },
         {
-          "item": "extra-virgin olive oil",
-          "qty": 2,
-          "unit": "tbsp",
+          "item": "white rice",
+          "qty": 1,
+          "unit": "cup",
           "category": "pantry",
-          "note": ""
+          "note": "soak 20-30 min, drain"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "sweet, not hot"
+        },
+        {
+          "item": "tomato sauce",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned"
+        },
+        {
+          "item": "bell peppers",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": "any colors; tops off, cored"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "canned",
+          "note": "or water, for the baking dish"
         }
       ],
-      "notes": "Braised with tomato, so it reheats well: Tuesday, Wednesday lunch and dinner."
-    },
-    {
-      "id": "leftovers-wed",
-      "day": "Wed",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Leftovers: Sicilian fish stew + green beans",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "italian",
-      "protein": "swordfish",
-      "tags": [
-        "leftovers",
-        "no-cook"
-      ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 10,
-      "servings": 2,
-      "ingredients": [],
-      "notes": "Clears the fridge before the trip. Evening: Thanksgiving prep to travel (see Thursday)."
+      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min."
     },
     {
       "day": "Thu",
@@ -848,5 +656,5 @@
       "notes": "No freezer dinners and he doesn't cook just for himself. Lunch can be a freezer portion (daube or Spanish chicken)."
     }
   ],
-  "setAt": "2026-11-19T03:44:53.194Z"
+  "setAt": "2026-11-19T13:50:34.011Z"
 }
