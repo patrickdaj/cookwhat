@@ -1,0 +1,518 @@
+{
+  "weekOf": "2026-11-22",
+  "createdAt": "2026-11-19T00:23:44.688Z",
+  "status": "draft",
+  "servingsDefault": 4,
+  "meals": [
+    {
+      "id": "chicken-rice-soup-batch",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Chicken and Rice Soup (double batch)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/chicken-and-rice-soup/",
+      "cuisine": "greek",
+      "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "batch",
+        "make-ahead",
+        "morning-cook",
+        "freezer"
+      ],
+      "activeTimeMin": 30,
+      "totalTimeMin": 60,
+      "servings": 8,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "doubled recipe"
+        },
+        {
+          "item": "yellow onions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "celery",
+          "qty": 4,
+          "unit": "stalk",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 6,
+          "unit": "",
+          "category": "produce",
+          "note": "recipe doubled = 4; bumped to 6 for more veg"
+        },
+        {
+          "item": "garlic",
+          "qty": 6,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 8,
+          "unit": "cup",
+          "category": "canned",
+          "note": "2 cartons"
+        },
+        {
+          "item": "dried oregano",
+          "qty": 4,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried thyme",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "Aleppo pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "recipe: 1 tsp red pepper flakes or 2 tsp Aleppo for a double batch; halved for low heat"
+        },
+        {
+          "item": "basmati rice",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "rinsed"
+        },
+        {
+          "item": "lemons",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "zest + juice"
+        },
+        {
+          "item": "scallions",
+          "qty": 4,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "unit": "cup",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 4,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Pool day: cook it in the morning (about 1 hr), cool, refrigerate; reheat at dinner. Double batch = 8: Sunday dinner for two, his Mon + Tue lunches, ~3 to freeze. For freezer portions, scoop light on the rice (it keeps absorbing broth) or add a splash of water when reheating. Lemon and herbs go in off the heat."
+    },
+    {
+      "id": "garlic-toasts-sun",
+      "day": "Sun",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Toasts",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
+      "sourceUrl": "",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "rustic bread (baguette or sourdough)",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "8 slices, 1 inch thick"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Broil 6 inches from the element, about 4 min total, flipping; rub with garlic while hot. The book's pick for soups."
+    },
+    {
+      "id": "freezer-night-mon",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Freezer night: Spanish Paprika Chicken",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "spanish",
+      "protein": "chicken",
+      "tags": [
+        "freezer",
+        "no-cook"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 2,
+      "ingredients": [],
+      "notes": "From the stash (the 2 extra portions frozen this week, with their roasted tomatoes, onions and peppers). Move to the fridge Sunday night; reheat covered and brighten with a splash of sherry vinegar. Carb: the rest of the garlic toasts or bread."
+    },
+    {
+      "id": "sicilian-fish-stew-batch",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Sicilian Fish Stew",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.267",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "swordfish",
+      "tags": [
+        "book",
+        "redo",
+        "batch",
+        "stew"
+      ],
+      "activeTimeMin": 40,
+      "totalTimeMin": 60,
+      "servings": 5,
+      "ingredients": [
+        {
+          "item": "skinless swordfish steaks",
+          "qty": 2,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "1-inch pieces; he likes swordfish in a stew. Alt: halibut or cod (add later, cooks faster)"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "toasted"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "qty": 4,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest"
+        },
+        {
+          "item": "yellow onions",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "celery",
+          "qty": 1,
+          "unit": "stalk",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "pinch"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "whole peeled tomatoes (28 oz)",
+          "qty": 1,
+          "unit": "can",
+          "category": "canned",
+          "note": "drained, juice saved"
+        },
+        {
+          "item": "clam juice",
+          "qty": 1,
+          "unit": "bottle",
+          "category": "canned",
+          "note": "8 oz"
+        },
+        {
+          "item": "raisins",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "capers",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Your loved redo (cooked before). Covers Tuesday dinner for two, his Wed lunch, and Wednesday dinner for two before the trip. Fish stew is good the next day but not for the freezer, so it's all eaten by Wednesday. Keep the raw pine nut-mint-orange-garlic topping separate and add it fresh each time."
+    },
+    {
+      "id": "garlic-toasts-tue",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Garlic Toasts",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.56",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "item": "rustic bread (baguette or sourdough)",
+          "qty": 1,
+          "unit": "loaf",
+          "category": "bakery",
+          "note": "fresh loaf for Tue/Wed"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "For dunking in the stew; make fresh each night."
+    },
+    {
+      "id": "sauteed-green-beans-batch",
+      "day": "Tue",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sautéed Green Beans",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/sauteed-green-beans/",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "redo",
+        "batch"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 40,
+      "servings": 6,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 2,
+          "unit": "lb",
+          "category": "produce",
+          "note": "full batch"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "tomatoes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "large"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": ""
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        }
+      ],
+      "notes": "Braised with tomato, so it reheats well: Tuesday, Wednesday lunch and dinner."
+    },
+    {
+      "id": "leftovers-wed",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Leftovers: Sicilian fish stew + green beans",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "italian",
+      "protein": "swordfish",
+      "tags": [
+        "leftovers",
+        "no-cook"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 10,
+      "servings": 2,
+      "ingredients": [],
+      "notes": "Clears the fridge before the trip. Evening: Thanksgiving prep to travel (see Thursday)."
+    },
+    {
+      "id": "thanksgiving-placeholder",
+      "day": "Thu",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Thanksgiving at Joshua Tree: duck breast with sour cherry-port sauce",
+      "source": "Patrick's Thanksgiving menu",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "duck",
+      "tags": [
+        "holiday",
+        "cooking-for-love",
+        "needs-details"
+      ],
+      "activeTimeMin": null,
+      "totalTimeMin": null,
+      "servings": 2,
+      "ingredients": [],
+      "notes": "Starter: Japanese sweet potato fingers with miso butter, scallions, bonito flakes and finger lime pearls. Main: pan-roasted duck breast, sour cherry-port sauce. Side: roasted delicata, brown butter, crispy sage, hazelnuts. Dessert: pear tarte tatin with vanilla ice cream. Quantities pending headcount."
+    },
+    {
+      "id": "freezer-night-sat",
+      "day": "Sat",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Freezer night: Daube Provençale (Jami out)",
+      "source": "",
+      "sourceUrl": "",
+      "cuisine": "french",
+      "protein": "beef",
+      "tags": [
+        "freezer",
+        "no-cook"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 15,
+      "servings": 1,
+      "ingredients": [],
+      "notes": "Back from Joshua Tree Saturday morning; the spare daube portion (with smashed potatoes) for his dinner. Move to the fridge when you get home, or microwave from frozen, covered."
+    }
+  ]
+}
