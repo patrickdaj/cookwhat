@@ -499,14 +499,16 @@
       "id": "japanese-sweet-potato-fingers",
       "role": "side",
       "title": "Japanese Sweet Potato Fingers with Miso Butter",
-      "source": "Patrick's own recipe",
+      "source": "Patrick's own recipe; roasting method from The Food Lab (J. Kenji López-Alt) — p.464, Extra-Sweet Roasted Sweet Potatoes",
       "sourceUrl": "",
       "cuisine": "japanese",
       "protein": "vegetable",
       "tags": [
         "holiday",
         "cooking-for-love",
-        "starter"
+        "starter",
+        "book",
+        "needs-scan"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 60,
@@ -576,7 +578,7 @@
           "note": "hard to find; alt: finely diced lime segments + zest"
         }
       ],
-      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday."
+      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. Roast the potatoes with Kenji's p.464 method (needs a scan)."
     },
     {
       "day": "Thu",
@@ -599,7 +601,7 @@
       "totalTimeMin": null,
       "servings": 2,
       "ingredients": [],
-      "notes": "From his own Meathead book (written as grilled; pan-roasting works the same idea: render the skin slowly, then finish). Matches his menu: port, sour cherries, shallots, thyme, stock, finished with red wine vinegar and butter. Needs a scan of p.315 for the exact recipe. Duck breasts are a hard-to-find item: Whole Foods / Bristol Farms / Gelson's meat counters or frozen at Asian markets; Pekin breast (6-8 oz) = 1 serving, Moulard magret (~1 lb) = 2."
+      "notes": "From his own Meathead book (written as grilled; pan-roasting works the same idea: render the skin slowly, then finish). Matches his menu: port, sour cherries, shallots, thyme, stock, finished with red wine vinegar and butter. Needs a scan of p.315 for the exact recipe. Duck breasts are a hard-to-find item: Whole Foods / Bristol Farms / Gelson's meat counters or frozen at Asian markets; Pekin breast (6-8 oz) = 1 serving, Moulard magret (~1 lb) = 2. Backup if Meathead's is grill-only and there's no grill: pan-roast the duck and build the cherry-port sauce with The Food Lab p.319 Simple Red-Wine Pan Sauce method (scan if needed)."
     },
     {
       "day": "Thu",
