@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-21T17:04:57.012Z",
+  "generatedAt": "2026-11-21T17:18:08.513Z",
   "targetServings": null,
   "sections": [
     {
@@ -91,18 +91,6 @@
           "unit": "bunch"
         },
         {
-          "item": "fresh cilantro",
-          "qty": 1,
-          "dim": "bunch",
-          "unitLabel": "bunch",
-          "category": "produce",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": "bunch"
-        },
-        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
@@ -110,6 +98,7 @@
           "category": "produce",
           "fromMeals": [
             "Chicken Bouillabaisse",
+            "Baked Cod with Lemon and Garlic",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
             "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
@@ -145,12 +134,13 @@
         },
         {
           "item": "garlic",
-          "qty": 10,
+          "qty": 13,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Chicken Bouillabaisse",
+            "Baked Cod with Lemon and Garlic",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
             "Greek Style Stuffed Peppers",
@@ -185,11 +175,12 @@
         },
         {
           "item": "lemon",
-          "qty": 1.5,
+          "qty": 2.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Baked Cod with Lemon and Garlic",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans"
           ],
@@ -209,26 +200,13 @@
           "unit": "large"
         },
         {
-          "item": "lime",
+          "item": "orange",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "orange",
-          "qty": 2,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Whole Roasted Snapper with Citrus Vinaigrette"
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -244,18 +222,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "shallot",
-          "qty": 0.5,
-          "dim": "small",
-          "unitLabel": "small",
-          "category": "produce",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": "small"
         },
         {
           "item": "shallots",
@@ -372,6 +338,18 @@
           "unit": ""
         },
         {
+          "item": "cod fillets",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Baked Cod with Lemon and Garlic"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "duck breast lobes",
           "qty": 2,
           "dim": "",
@@ -394,18 +372,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "whole red snapper",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
         }
       ]
     },
@@ -665,12 +631,25 @@
         },
         {
           "item": "ground coriander",
-          "qty": 0.5,
+          "qty": 0.33,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Baked Cod with Lemon and Garlic",
             "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.38,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Baked Cod with Lemon and Garlic"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -694,7 +673,6 @@
           "unitLabel": "",
           "category": "spices",
           "fromMeals": [
-            "Whole Roasted Snapper with Citrus Vinaigrette",
             "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": true,
@@ -714,11 +692,12 @@
         },
         {
           "item": "sweet paprika",
-          "qty": 1.25,
+          "qty": 1.63,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "Baked Cod with Lemon and Garlic",
             "Greek Style Stuffed Peppers",
             "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
@@ -813,9 +792,9 @@
   "excludedStaples": [
     "all-purpose flour",
     "extra-virgin olive oil",
+    "unsalted butter",
     "Diamond Crystal kosher salt",
     "water",
-    "unsalted butter",
     "Morton kosher salt",
     "olive oil",
     "sugar"
@@ -828,5 +807,5 @@
       "cookbook": false
     }
   ],
-  "totalItems": 63
+  "totalItems": 61
 }

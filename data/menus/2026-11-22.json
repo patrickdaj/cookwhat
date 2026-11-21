@@ -161,106 +161,126 @@
       }
     },
     {
-      "id": "whole-roasted-snapper-mon",
+      "id": "lemon-garlic-baked-cod-mon",
       "day": "Mon",
       "slot": "dinner",
       "role": "main",
-      "title": "Whole Roasted Snapper with Citrus Vinaigrette",
-      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
-      "sourceUrl": "",
+      "title": "Baked Cod with Lemon and Garlic",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/baked-cod-recipe-lemon-garlic/",
       "cuisine": "mediterranean",
-      "protein": "snapper",
+      "protein": "cod",
       "tags": [
-        "book",
+        "web",
         "new",
         "weeknight",
         "fresh-fish"
       ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 35,
+      "activeTimeMin": 15,
+      "totalTimeMin": 25,
       "servings": 2,
       "ingredients": [
         {
-          "item": "whole red snapper",
+          "item": "cod fillets",
+          "qty": 0.75,
+          "unit": "lb",
+          "category": "meat-seafood",
+          "note": "two 6-oz pieces (half the recipe); fresh, or frozen and thawed overnight in the fridge out of the vacuum pack"
+        },
+        {
+          "item": "lemon",
           "qty": 1,
           "unit": "",
-          "category": "meat-seafood",
-          "note": "1 1/2 to 2 lb, scaled and gutted (half the book recipe). Alt: whole branzino or sea bass (book), or skin-on snapper fillets roasted about 10 min"
+          "category": "produce",
+          "note": "about 2 1/2 tbsp juice"
         },
         {
           "item": "extra-virgin olive oil",
+          "qty": 3.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "1 tbsp to sear + 2 1/2 tbsp in the lemon sauce"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "melted, in the lemon sauce; or use 1 more tbsp olive oil"
+        },
+        {
+          "item": "garlic",
           "qty": 3,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 2.5,
           "unit": "tbsp",
           "category": "pantry"
         },
         {
-          "item": "fresh cilantro",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": "minced"
-        },
-        {
-          "item": "lime",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1 tsp zest + 1 tbsp juice"
-        },
-        {
-          "item": "orange",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "1 tsp zest + 1 tbsp juice"
-        },
-        {
-          "item": "shallot",
+          "item": "ground coriander",
           "qty": 0.5,
-          "unit": "small",
-          "category": "produce",
-          "note": "minced"
+          "unit": "tsp",
+          "category": "spices"
         },
         {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": "a tiny pinch, or skip (book: 1/8 tsp for 4)"
+          "item": "sweet paprika",
+          "qty": 0.375,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.375,
+          "unit": "tsp",
+          "category": "spices"
         },
         {
           "item": "Diamond Crystal kosher salt",
-          "qty": 0.5,
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
-          "note": "in the citrus-zest rub (book: 3/4 tsp table salt per fish); none extra in the vinaigrette"
+          "note": "in the seasoned flour; the recipe's measured salt, halved"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "to finish"
         }
       ],
-      "notes": "Fresh fish for two, cooked and eaten (buy it Sunday). Oven 500°F, parchment-lined sheet. Whisk the vinaigrette (oil, cilantro, lime and orange juice, shallot, pepper flakes). Mix the lime and orange zest with the salt and pepper; slash the skin, rub the zest-salt inside and out, let sit 10 min. Roast 15-20 min to 140°F; rest 5 min, fillet with two cuts and lift off the bones; spoon the vinaigrette over. Avoid fish over 2 lb. Salted light: Jami, salt at the table.",
+      "notes": "Fresh fish for two, cooked and eaten. Oven 400°F. Mix the lemon juice, 2 1/2 tbsp oil and the melted butter in one shallow bowl; the flour, coriander, paprika, cumin, salt and pepper in another. Pat the cod dry, dip in the lemon mixture, then the spiced flour, and shake off the excess (go light). Sear in 1 tbsp oil in your cast iron 2 min a side until golden in spots; stir the garlic into the rest of the lemon mixture, pour it over and bake about 10 min to 145°F. Parsley over the top; spoon the pan sauce over each piece. Order: start the barley first, then the green beans, then the cod. Salted light: 1/4 tsp in the flour; Jami salts at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 340,
-          "proteinG": 37,
-          "carbsG": 2,
-          "fatG": 19,
-          "saturatedFatG": 3,
-          "fiberG": 0,
-          "sodiumMg": 380,
-          "potassiumMg": 770
+          "calories": 390,
+          "proteinG": 32,
+          "carbsG": 6,
+          "fatG": 23,
+          "saturatedFatG": 6,
+          "fiberG": 1,
+          "sodiumMg": 180,
+          "potassiumMg": 740
         },
         "servings": 2,
-        "servingDescription": "half a whole snapper, about 6 oz of fish, with 1 1/2 tbsp citrus vinaigrette",
+        "servingDescription": "one 6-oz cod fillet with about 2 tbsp lemon-garlic pan sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
         "sodiumDrivers": [
+          "cod",
           "added kosher salt",
-          "snapper"
+          "unsalted butter"
         ],
         "assumptions": [
-          "a 1 3/4 lb whole snapper gives about 12 oz of raw fillet",
-          "1/2 tsp Diamond Crystal kosher in the zest rub; about 70% eaten (some stays on skin and bones)",
-          "about 2 1/2 of the 3 tbsp oil end up eaten in the vinaigrette"
+          "3/4 lb cod for two (6 oz each), half the recipe",
+          "1/4 tsp Diamond Crystal kosher in the flour (the measured salt, halved); about 60% of the flour and salt stays on the fish",
+          "about 85% of the lemon-oil-butter sauce eaten",
+          "cross-check: The Mediterranean Dish publishes 319 kcal and 466 mg sodium per serving (1 1/2 lb cod over 5, full salt); calories are higher here for a bigger 6-oz portion with more sauce, sodium lower for half the salt"
         ],
         "estimatedAt": "2026-11-21"
       }
