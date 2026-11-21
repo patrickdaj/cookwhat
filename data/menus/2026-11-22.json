@@ -896,42 +896,50 @@
       "day": "Sat",
       "slot": "dinner",
       "role": "main",
-      "title": "Takeout (Jami out, back from Joshua Tree)",
-      "source": "",
-      "sourceUrl": "",
-      "cuisine": "",
-      "protein": "",
+      "title": "Snow White Roll (Wazabi Sushi takeout)",
+      "source": "Wazabi Sushi (Orange)",
+      "sourceUrl": "https://wazabisushi.com/menu",
+      "cuisine": "japanese",
+      "protein": "fish",
       "tags": [
         "out",
-        "no-cook"
+        "takeout",
+        "no-cook",
+        "sauces-on-side"
       ],
       "activeTimeMin": 0,
       "totalTimeMin": 0,
       "servings": 1,
       "ingredients": [],
-      "notes": "No freezer dinners and he doesn't cook just for himself. Lunch can be a freezer portion (daube or Spanish chicken). Lower-sodium ordering: a grilled Mediterranean plate (kebab, chicken, fish) with salad and rice over pizza, burgers, ramen or soup; dressings and sauces on the side; eat half and keep the rest for lunch.",
+      "notes": "Jami's out and he doesn't cook just for himself, so it's his go-to: the Snow White roll on its own (no rice; tuna, salmon, yellowtail, crab salad, spring mix, mango and avocado in soy paper, topped with sesame dressing, chili oil and ponzu). Lower-sodium order: sauces on the side, use a little of the sesame dressing or the ponzu (not both), and skip the dipping soy sauce. Keep breakfast and lunch low-sodium that day. Lunch can be a freezer portion (daube or Spanish chicken).",
       "nutrition": {
         "perServing": {
-          "calories": 1000,
-          "proteinG": 40,
-          "carbsG": 100,
-          "fatG": 45,
-          "saturatedFatG": 15,
-          "fiberG": 6,
-          "sodiumMg": 2000,
-          "potassiumMg": 800
+          "calories": 560,
+          "proteinG": 32,
+          "carbsG": 22,
+          "fatG": 37,
+          "saturatedFatG": 6,
+          "fiberG": 5,
+          "sodiumMg": 1140,
+          "potassiumMg": 900
         },
         "servings": 1,
-        "servingDescription": "1 typical takeout entrée with its side",
+        "servingDescription": "the whole Snow White roll (8 pieces), as served with its three sauces",
         "method": "estimated",
         "confidence": "low",
         "sodiumConfidence": "low",
         "sodiumDrivers": [
-          "restaurant salt and sauces"
+          "ponzu",
+          "crab salad",
+          "sesame dressing"
         ],
         "assumptions": [
-          "placeholder: the dish isn't chosen yet; numbers are a generic restaurant entrée",
-          "update or replace this block once you know what you ordered"
+          "restaurant portions: about 1 1/2 oz each of tuna, salmon and yellowtail",
+          "crab salad is imitation crab with about 1 tbsp mayo",
+          "as served: about 1 tbsp sesame dressing, 1 tsp chili oil and 1 tbsp ponzu on top",
+          "no dipping soy sauce (each tbsp adds about 900-1,000 mg)",
+          "with sauces on the side and about half used, sodium drops to roughly 700-800 mg",
+          "the restaurant publishes no nutrition"
         ],
         "estimatedAt": "2026-11-21"
       }
