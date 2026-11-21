@@ -19,8 +19,7 @@
         "book",
         "redo",
         "batch",
-        "morning-cook",
-        "covers-mon"
+        "morning-cook"
       ],
       "activeTimeMin": 45,
       "totalTimeMin": 90,
@@ -136,7 +135,7 @@
           "note": "total, for the chicken and the broth (half the usual)"
         }
       ],
-      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health). Monday dinner is the leftovers: reheat covered at 350°F, broil to re-crisp; fresh garlic toasts. Lower-sodium build (2026-11-21): 3/4 tsp Diamond Crystal kosher in total, no-salt-added tomatoes; lean on the saffron, orange zest, pastis and a squeeze of lemon at the table. Salted light: Jami, salt at the table.",
+      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sunday dinner for two, his Mon + Tue lunches, and 2 to freeze for later lunches (frozen is lunch-only). Seafood-free despite the name. Skim the fat (heart-health). Lower-sodium build (2026-11-21): 3/4 tsp Diamond Crystal kosher in total, no-salt-added tomatoes; lean on the saffron, orange zest, pastis and a squeeze of lemon at the table. Salted light: Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 440,
@@ -182,8 +181,7 @@
       "tags": [
         "book",
         "redo",
-        "sauce",
-        "covers-mon"
+        "sauce"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 20,
@@ -249,7 +247,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week, so it covers Monday too. Spoon onto each bowl.",
+      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week; spoon it on the lunch portions too. Spoon onto each bowl.",
       "nutrition": {
         "perServing": {
           "calories": 350,
@@ -294,7 +292,6 @@
         "book",
         "redo",
         "carb",
-        "covers-mon",
         "optional"
       ],
       "activeTimeMin": 10,
@@ -314,7 +311,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper. Make fresh Sunday and Monday. For Jami: he skips them (high BP; about 430 mg sodium for 2 slices). Make fresh for her Sunday and Monday.",
+      "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper.  For Jami: he skips them (high BP; about 430 mg sodium for 2 slices). Sunday only; toast as many slices as she wants.",
       "nutrition": {
         "perServing": {
           "calories": 260,
@@ -341,6 +338,336 @@
           "3 tbsp olive oil all absorbed",
           "salt to taste assumed 1/4 tsp Diamond Crystal kosher across 8 slices",
           "tagged optional: for Jami, left out of his per-day totals"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
+    },
+    {
+      "id": "whole-roasted-snapper-mon",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Whole Roasted Snapper with Citrus Vinaigrette",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.260",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "snapper",
+      "tags": [
+        "book",
+        "new",
+        "weeknight",
+        "fresh-fish"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 35,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "whole red snapper",
+          "qty": 1,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "1 1/2 to 2 lb, scaled and gutted (half the book recipe). Alt: whole branzino or sea bass (book), or skin-on snapper fillets roasted about 10 min"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "lime",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest + 1 tbsp juice"
+        },
+        {
+          "item": "orange",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "1 tsp zest + 1 tbsp juice"
+        },
+        {
+          "item": "shallot",
+          "qty": 0.5,
+          "unit": "small",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "a tiny pinch, or skip (book: 1/8 tsp for 4)"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "in the citrus-zest rub (book: 3/4 tsp table salt per fish); none extra in the vinaigrette"
+        }
+      ],
+      "notes": "Fresh fish for two, cooked and eaten (buy it Sunday). Oven 500°F, parchment-lined sheet. Whisk the vinaigrette (oil, cilantro, lime and orange juice, shallot, pepper flakes). Mix the lime and orange zest with the salt and pepper; slash the skin, rub the zest-salt inside and out, let sit 10 min. Roast 15-20 min to 140°F; rest 5 min, fillet with two cuts and lift off the bones; spoon the vinaigrette over. Avoid fish over 2 lb. Salted light: Jami, salt at the table.",
+      "nutrition": {
+        "perServing": {
+          "calories": 340,
+          "proteinG": 37,
+          "carbsG": 2,
+          "fatG": 19,
+          "saturatedFatG": 3,
+          "fiberG": 0,
+          "sodiumMg": 380,
+          "potassiumMg": 770
+        },
+        "servings": 2,
+        "servingDescription": "half a whole snapper, about 6 oz of fish, with 1 1/2 tbsp citrus vinaigrette",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "snapper"
+        ],
+        "assumptions": [
+          "a 1 3/4 lb whole snapper gives about 12 oz of raw fillet",
+          "1/2 tsp Diamond Crystal kosher in the zest rub; about 70% eaten (some stays on skin and bones)",
+          "about 2 1/2 of the 3 tbsp oil end up eaten in the vinaigrette"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
+    },
+    {
+      "id": "herbed-barley-pilaf-mon",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Herbed Barley Pilaf",
+      "source": "The Complete Mediterranean Cookbook (ATK) — p.120",
+      "sourceUrl": "",
+      "cuisine": "mediterranean",
+      "protein": "vegetable",
+      "tags": [
+        "book",
+        "redo",
+        "carb",
+        "whole-grain"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 45,
+      "servings": 3,
+      "ingredients": [
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "unit": "small",
+          "category": "produce",
+          "note": "chopped fine"
+        },
+        {
+          "item": "pearl barley",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "rinsed (half batch)"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 0.75,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "water",
+          "qty": 1.25,
+          "unit": "cup",
+          "category": "other"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "about 3/4 tsp juice"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "total (half the usual)"
+        }
+      ],
+      "notes": "Half batch: Monday dinner for two plus one lunch. Soften the onion in the oil with the salt, add barley, garlic and thyme, toast 3 min; add the water, simmer covered on low until tender and absorbed, 20-40 min. Off heat, towel under the lid 10 min; fold in parsley, chives and lemon. Whole grain for the LDL. Salted light: Jami, salt at the table.",
+      "nutrition": {
+        "perServing": {
+          "calories": 240,
+          "proteinG": 5,
+          "carbsG": 41,
+          "fatG": 7,
+          "saturatedFatG": 1,
+          "fiberG": 8,
+          "sodiumMg": 110,
+          "potassiumMg": 190
+        },
+        "servings": 3,
+        "servingDescription": "about 1 cup of barley pilaf",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "pearl barley"
+        ],
+        "assumptions": [
+          "3/4 cup dry pearl barley makes about 3 cups cooked",
+          "1/4 tsp Diamond Crystal kosher in total (halved)"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
+    },
+    {
+      "id": "sauteed-green-beans-mon",
+      "day": "Mon",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Sautéed Green Beans",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/sauteed-green-beans/",
+      "cuisine": "greek",
+      "protein": "vegetable",
+      "tags": [
+        "web",
+        "new",
+        "veg"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 40,
+      "servings": 3,
+      "ingredients": [
+        {
+          "item": "green beans",
+          "qty": 1,
+          "unit": "lb",
+          "category": "produce",
+          "note": "half batch"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce"
+        },
+        {
+          "item": "tomatoes",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "large"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "total (half the usual)"
+        }
+      ],
+      "notes": "Half batch: Monday dinner plus a lunch. Braised with tomato, coriander and paprika, finished with lemon and parsley; it holds well in the fridge. Salted light: Jami, salt at the table.",
+      "nutrition": {
+        "perServing": {
+          "calories": 110,
+          "proteinG": 3,
+          "carbsG": 16,
+          "fatG": 5,
+          "saturatedFatG": 1,
+          "fiberG": 5,
+          "sodiumMg": 110,
+          "potassiumMg": 520
+        },
+        "servings": 3,
+        "servingDescription": "about 1 cup of green beans with tomato",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "green beans"
+        ],
+        "assumptions": [
+          "1/4 tsp Diamond Crystal kosher in total (halved)",
+          "fresh tomato, not canned"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -887,6 +1214,151 @@
           "8 Bosc pears, peeled and cored (about 85% edible)",
           "all the caramel is poured back over the tart",
           "1 pint regular vanilla ice cream split over 8 servings"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
+    },
+    {
+      "id": "skillet-chicken-zaatar-fri",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/",
+      "cuisine": "levantine",
+      "protein": "chicken",
+      "tags": [
+        "web",
+        "new",
+        "backup",
+        "rental",
+        "stovetop"
+      ],
+      "activeTimeMin": 20,
+      "totalTimeMin": 25,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 3,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "about 12 oz; pick unenhanced (no added broth or salt solution). Half the recipe"
+        },
+        {
+          "item": "za'atar",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "bring a pinch from home; alt: dried thyme + oregano + a few sesame seeds. Store blends often contain salt"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "bring from home"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "bring from home"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "skip, or a pinch on your plate (book: 1/2 tsp for 4)"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "bring from home"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "unit": "medium",
+          "category": "produce",
+          "note": "thinly sliced"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "bring from home"
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1.5,
+          "unit": "cup",
+          "category": "produce",
+          "note": "a 1-pint basket"
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "unit": "large",
+          "category": "produce",
+          "note": "zest and juice"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "or leftover herbs from Thursday"
+        },
+        {
+          "item": "whole-wheat couscous",
+          "qty": 0.67,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb; cook per the box in water, no salt"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.375,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "total, chicken and sauce (half the usual)"
+        }
+      ],
+      "notes": "Rainy-night backup in Joshua Tree, if you don't eat out: everything from the Vons there plus a small kit from home, all stovetop in your cast iron (no grill or oven needed). Mix half the za'atar with the paprika and garlic powder; season the thighs with it and the salt. Soften the sliced onion in oil, push aside, sear the thighs 4-5 min a side; add the cherry tomatoes, lemon juice and the rest of the za'atar, cover 5-10 min until the tomatoes burst and the chicken hits 165°F. Finish with oil, lemon zest and parsley. Serve over whole-wheat couscous. Salted light: Jami, salt at the table.",
+      "nutrition": {
+        "perServing": {
+          "calories": 520,
+          "proteinG": 42,
+          "carbsG": 50,
+          "fatG": 18,
+          "saturatedFatG": 3,
+          "fiberG": 8,
+          "sodiumMg": 380,
+          "potassiumMg": 830
+        },
+        "servings": 2,
+        "servingDescription": "1 1/2 chicken thighs with about 3/4 cup tomato sauce over 1 cup couscous",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "chicken thighs",
+          "za'atar blend"
+        ],
+        "assumptions": [
+          "3 boneless skinless thighs, about 4 oz each raw, unenhanced",
+          "3/8 tsp Diamond Crystal kosher in total (halved)",
+          "za'atar without added salt (a salted store blend adds about 100-200 mg)",
+          "2/3 cup dry whole-wheat couscous cooked without salt",
+          "about 1 1/3 tbsp oil eaten"
         ],
         "estimatedAt": "2026-11-21"
       }

@@ -110,13 +110,23 @@ The user does **not** want to cook every night. Design every week around a few
 big cooking sessions whose leftovers and freezer portions cover the rest,
 including all of his lunches.
 
-- **Cook ~3–4 times a week, not 6–7.** Each session should make 4–8 servings.
+- **Cook ~4–5 times a week, not 6–7.** Batch sessions make 4–8 servings; quick
+  fresh dinners for two fill the rest (see the leftover-dinner limit below).
   Map every serving before locking the week: which dinner (his or both), which
   lunch, and what goes into the freezer. Present the week as a grid of who's
   eating, what's cooked and what each leftover covers.
 - **He doesn't cook just for himself.** Nights when his wife is out (happy
   hours, dinners out) are leftover nights (or takeout). Ask about her schedule
   when planning.
+- **Leftover dinners: at most one a week with Jami (2026-11-21).** "I don't like
+  all the leftovers." A dinner they eat together is cooked fresh, except one
+  leftover night a week at most. Nights he eats alone can be leftovers, as many
+  as fall that way. Batches still make extra for his lunches and the freezer;
+  that's where the "cook 3-4 times" savings come from now.
+- **Away weeks get a backup dinner.** When they travel and plan to eat out, add
+  a rainy-night backup they can buy at the local grocery and cook stovetop in his
+  cast iron, with a small spice kit packed from home (11/27 Joshua Tree: TMD
+  za'atar chicken thighs from the Vons there).
 - **Pick mains that reheat and freeze well:** braises and stews (daube,
   tagines, cacciatore), soups, meatballs in sauce, ragus, sheet-pan chicken
   with its roasted veg and juices, grain pilafs, couscous, rice. Braises are

@@ -26,6 +26,14 @@
       "source": "data/menus/2026-11-22.json",
       "status": "planned",
       "note": "The 6th pepper. Lunch only. Cool fully, freeze 1-2 months; thaw overnight, reheat in a medium oven with a splash of liquid."
+    },
+    {
+      "dish": "Chicken Bouillabaisse (ATK p.301)",
+      "portions": 2,
+      "cooked": "2026-11-22",
+      "source": "data/menus/2026-11-22.json",
+      "status": "planned",
+      "note": "Lunch only. Freeze by Monday; the potatoes soften a little. Reheat covered; rouille keeps a week in the fridge."
     }
   ],
   "pulls": [

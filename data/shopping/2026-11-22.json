@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-21T04:51:33.035Z",
+  "generatedAt": "2026-11-21T05:30:33.003Z",
   "targetServings": null,
   "sections": [
     {
@@ -29,6 +29,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "cherry tomatoes",
+          "qty": 1.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "delicata squash",
@@ -67,6 +79,30 @@
           "unit": ""
         },
         {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
@@ -74,6 +110,9 @@
           "category": "produce",
           "fromMeals": [
             "Chicken Bouillabaisse",
+            "Herbed Barley Pilaf",
+            "Sautéed Green Beans",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
             "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
@@ -98,6 +137,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Herbed Barley Pilaf",
             "Grilled Duck Breasts in Cherry-Port Sauce"
           ],
           "hasUnquantified": false,
@@ -105,7 +145,7 @@
         },
         {
           "item": "garlic",
-          "qty": 9,
+          "qty": 13,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -113,10 +153,25 @@
             "Chicken Bouillabaisse",
             "Rouille",
             "Garlic Toasts",
-            "Greek Style Stuffed Peppers"
+            "Herbed Barley Pilaf",
+            "Sautéed Green Beans",
+            "Greek Style Stuffed Peppers",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
           "unit": "clove"
+        },
+        {
+          "item": "green beans",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "leek",
@@ -132,24 +187,51 @@
         },
         {
           "item": "lemon",
+          "qty": 2.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Rouille",
+            "Herbed Barley Pilaf",
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "dim": "large",
+          "unitLabel": "large",
+          "category": "produce",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "large"
+        },
+        {
+          "item": "lime",
           "qty": 1,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Rouille"
+            "Whole Roasted Snapper with Citrus Vinaigrette"
           ],
           "hasUnquantified": false,
           "unit": ""
         },
         {
           "item": "orange",
-          "qty": 1,
+          "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Chicken Bouillabaisse"
+            "Chicken Bouillabaisse",
+            "Whole Roasted Snapper with Citrus Vinaigrette"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -165,6 +247,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "shallot",
+          "qty": 0.5,
+          "dim": "small",
+          "unitLabel": "small",
+          "category": "produce",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": "small"
         },
         {
           "item": "shallots",
@@ -191,16 +285,53 @@
           "unit": ""
         },
         {
-          "item": "yellow onion",
+          "item": "tomatoes",
           "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 1.5,
           "dim": "small",
           "unitLabel": "small",
           "category": "produce",
           "fromMeals": [
+            "Herbed Barley Pilaf",
             "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "small"
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "dim": "medium",
+          "unitLabel": "medium",
+          "category": "produce",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "medium"
         },
         {
           "item": "Yukon Gold potatoes",
@@ -232,6 +363,18 @@
           "unit": "lb"
         },
         {
+          "item": "boneless skinless chicken thighs",
+          "qty": 3,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
           "item": "duck breast lobes",
           "qty": 2,
           "dim": "",
@@ -254,6 +397,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "whole red snapper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -367,6 +522,18 @@
           "unit": ""
         },
         {
+          "item": "pearl barley",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Herbed Barley Pilaf"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
           "item": "red wine vinegar",
           "qty": 0.25,
           "dim": "vol",
@@ -435,6 +602,18 @@
           "category": "pantry",
           "fromMeals": [
             "Greek Style Stuffed Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "whole-wheat couscous",
+          "qty": 0.67,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -512,6 +691,18 @@
           "unit": "tsp"
         },
         {
+          "item": "garlic powder",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "ground allspice",
           "qty": 0.33,
           "dim": "vol",
@@ -522,6 +713,43 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Sautéed Green Beans"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Whole Roasted Snapper with Citrus Vinaigrette",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
@@ -537,12 +765,25 @@
         },
         {
           "item": "sweet paprika",
-          "qty": 0.25,
+          "qty": 1.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Greek Style Stuffed Peppers"
+            "Greek Style Stuffed Peppers",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "za'atar",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -633,11 +874,11 @@
   ],
   "pendingScans": [
     {
-      "title": "Takeout (Jami out, back from Joshua Tree)",
+      "title": "Snow White Roll (Wazabi Sushi takeout)",
       "day": "Sat",
-      "source": "",
-      "cookbook": true
+      "source": "Wazabi Sushi (Orange)",
+      "cookbook": false
     }
   ],
-  "totalItems": 47
+  "totalItems": 66
 }
