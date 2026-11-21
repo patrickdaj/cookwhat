@@ -76,9 +76,12 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
   paleo sites stay at the end of `preferredSites`, but treat both as paused until
   he asks for them. The curl + JSON-LD fetch method (see Recipe tips) still works.
 - **Red meat back to 0–1 nights/week** (`redMeatMaxPerWeek: 1`), lean cuts.
-- **Blood pressure:** watch sodium (low-sodium broth, measure fish sauce, soy and
-  salt, and flavor with acid, herbs and spice) and lean on potassium-rich produce.
-  This is not medical advice; the user follows his doctor.
+- **Blood pressure is his alone (2026-11-21).** Jami doesn't have high BP. Watch
+  sodium in the shared cooking (low-sodium broth, measure fish sauce, soy and
+  salt, and flavor with acid, herbs and spice) and lean on potassium-rich
+  produce. Salty extras like bread, garlic toasts and salted nuts can still be on
+  the table for her; tag them `optional` so his totals skip them, and she can
+  salt her own plate. This is not medical advice; the user follows his doctor.
 - **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
   breakfast, so plan one person. No recipes, no night-before prep, nothing
   multi-step (no shakshuka or frittatas). Rotate a handful of 1–5 minute options:
@@ -212,8 +215,11 @@ enough is the standard. A separate photo tracker reads them through
 - `plan check` warns (never blocks) on missing or invalid blocks. Once
   `nutrition.targets` is set, it also warns on dinners over `dinnerShare` of a
   ceiling target (calories, carbs, fat, saturated fat, sodium).
-- **Sodium target: 1,500 mg/day (set 2026-11-21, the AHA ideal for blood
-  pressure),** so a dinner should land near **600 mg per person**. Calories and
+- **Sodium target: 1,500 mg/day, his (set 2026-11-21, the AHA ideal for blood
+  pressure),** so his dinner should land near **600 mg**. He's the only one with
+  high BP: cook the shared dishes lower-sodium, and put salty extras meant for
+  Jami (bread, toasts) on the table as `optional` side dishes that his totals
+  skip, like the 11/22 garlic toasts. Calories and
   protein targets aren't set yet; ask before adding them. Build every week
   lower-sodium by default:
   - Halve a recipe's added salt and state the amount and type in the notes.

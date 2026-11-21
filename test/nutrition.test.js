@@ -186,6 +186,20 @@ test("holiday or celebration dinners get totals but no target warnings", () => {
   assert.match(w[0], /^Fri dinner/);
 });
 
+test("optional dishes keep their estimate but stay out of the totals", () => {
+  const menu = menuWith([
+    { day: "Sun", title: "Main", servings: 4, tags: ["covers-mon"], nutrition: block() },
+    { day: "Sun", title: "Her toasts", role: "side", servings: 4, tags: ["optional", "covers-mon"], nutrition: block() },
+  ]);
+  const days = nutritionByDay(menu);
+  for (const d of days) {
+    assert.equal(d.totals.sodiumMg, 620, `${d.day} counts only the main`);
+    assert.deepEqual(d.optional.map((x) => x.title), ["Her toasts"]);
+  }
+  const res = checkPlan(menu, cfg);
+  assert.deepEqual(res.nutrition.warnings, [], "a valid optional dish gets no nutrition warning");
+});
+
 // ---- CLI -------------------------------------------------------------------
 
 const BIN = fileURLToPath(new URL("../bin/cookwhat.js", import.meta.url));

@@ -118,6 +118,11 @@ over. These are warnings and never block `plan set`. A day whose dinner has a
 dish tagged `holiday` or `celebration` still gets totals but no target
 warnings.
 
+A dish tagged `optional` is one the person tracking skips, such as garlic toasts
+served only for his wife (she doesn't have high blood pressure). It keeps its
+own estimate for anyone who eats it, but it's left out of the per-day totals
+and target checks, and `plan check` lists it as skipped.
+
 ## Commands
 
 - `cookwhat plan check <week>` prints per-day totals and warns about meals with

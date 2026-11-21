@@ -132,19 +132,31 @@ export function daysEaten(meal) {
 
 const zero = () => Object.fromEntries(PER_SERVING_KEYS.map((k) => [k, 0]));
 
+// A dish on the table that the person tracking (the one watching blood
+// pressure) skips, such as garlic toasts that are just for his wife. It keeps
+// its estimate but is left out of the per-day totals and target checks.
+export function isOptional(meal) {
+  return (meal.tags || []).some((t) => String(t).toLowerCase() === "optional");
+}
+
 // Per-day totals: one serving of every dish a person eats that day. Only valid
-// blocks are added; `missing` counts the dishes left out.
+// blocks are added; `missing` counts the dishes left out and `optional` lists
+// dishes tagged optional (not added).
 export function nutritionByDay(menu) {
   const byDay = new Map();
   const get = (d) => {
     if (!byDay.has(d))
-      byDay.set(d, { day: d, dishes: [], missing: [], totals: zero(), dinner: zero(), exempt: false });
+      byDay.set(d, { day: d, dishes: [], missing: [], optional: [], totals: zero(), dinner: zero(), exempt: false });
     return byDay.get(d);
   };
   for (const m of menu.meals || []) {
     for (const d of daysEaten(m)) {
       const row = get(d);
       const ref = { id: m.id, title: m.title, slot: m.slot || "dinner", leftover: d !== m.day };
+      if (isOptional(m)) {
+        row.optional.push(ref);
+        continue;
+      }
       if (ref.slot === "dinner" && isTargetExempt(m)) row.exempt = true;
       if (!hasValidNutrition(m)) {
         row.missing.push(ref);

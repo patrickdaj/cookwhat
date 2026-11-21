@@ -342,6 +342,7 @@ function cmdNutrition() {
         dinner: d.dinner,
         dishes: d.dishes,
         missing: d.missing,
+        optional: d.optional,
       })),
       warnings: n.warnings,
     };
@@ -395,6 +396,7 @@ function printDayTotals(n) {
     const vals = keys.map((k) => String(Math.round(d.totals[k])).padStart(7)).join("");
     const extra = [];
     if (d.dishes.some((x) => x.leftover)) extra.push("incl. leftovers");
+    if (d.optional.length) extra.push(`skips ${d.optional.map((x) => x.title).join(", ")}`);
     if (d.missing.length) extra.push(`${d.missing.length} dish(es) without an estimate`);
     console.log(`${d.day.padEnd(6)}${vals}${extra.length ? c.dim("  " + extra.join("; ")) : ""}`);
   }
