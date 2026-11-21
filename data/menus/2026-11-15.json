@@ -621,13 +621,6 @@
           "note": "alt: more parsley"
         },
         {
-          "item": "feta cheese",
-          "qty": 0.5,
-          "unit": "oz",
-          "category": "dairy",
-          "note": "HIS plate only, crumbled fine; none in the pot (2 oz is about 640 mg sodium)"
-        },
-        {
           "item": "extra-virgin olive oil",
           "qty": 3,
           "unit": "tbsp",
@@ -642,20 +635,20 @@
           "note": "the book's measured salt halved: 1/8 tsp on the shrimp + 1/8 tsp with the onion and pepper; skip both to save about 290 mg a serving. No to-taste salt in the sauce (Jami salts at the table)"
         }
       ],
-      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night).",
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, measured salt halved, none to taste.",
       "nutrition": {
         "perServing": {
-          "calories": 600,
-          "proteinG": 52,
+          "calories": 560,
+          "proteinG": 50,
           "carbsG": 28,
-          "fatG": 25,
-          "saturatedFatG": 5,
+          "fatG": 22,
+          "saturatedFatG": 3,
           "fiberG": 5,
-          "sodiumMg": 970,
-          "potassiumMg": 2820
+          "sodiumMg": 810,
+          "potassiumMg": 2810
         },
         "servings": 2,
-        "servingDescription": "half the pan: about 8 oz shrimp in about 1 cup tomato sauce, with 1/2 oz feta on his plate",
+        "servingDescription": "half the pan: about 8 oz shrimp in about 1 cup tomato sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
@@ -665,11 +658,11 @@
           "canned tomatoes"
         ],
         "assumptions": [
-          "1 lb untreated shrimp (no salt or sodium tripolyphosphate on the bag); treated shrimp adds roughly 400-900 mg per serving",
           "two 14-oz Mutti low-sodium cans, drained with 1/2 cup juice kept, about 80% of their sodium retained",
           "measured salt halved to 1/4 tsp table salt in total; none to taste",
-          "1/2 oz feta on his plate counted in his serving; Jami has none",
-          "without the measured salt: about 680 mg; also without feta: about 520 mg"
+          "1 lb untreated raw shrimp (confirmed: shrimp only)",
+          "no feta (skipped 11/21)",
+          "without the measured salt: about 520 mg"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -731,7 +724,7 @@
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Sauteed Swiss Chard with Garlic",
+      "title": "Sauteed Spinach with Garlic",
       "source": "The Complete Mediterranean Cookbook (ATK) — p.226",
       "sourceUrl": "",
       "cuisine": "mediterranean",
@@ -742,62 +735,61 @@
       ],
       "activeTimeMin": 10,
       "totalTimeMin": 15,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
-          "item": "Swiss chard",
-          "qty": 1.5,
-          "unit": "lb",
+          "item": "spinach",
+          "qty": 10,
+          "unit": "oz",
           "category": "produce",
-          "note": "stems sliced thin, leaves in 1/2-in strips; alt: spinach or escarole"
+          "note": "on hand, instead of chard (the book lists spinach as an alt)"
         },
         {
           "item": "garlic",
-          "qty": 3,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": "sliced thin"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry"
         },
         {
           "item": "lemon",
           "qty": null,
           "unit": "",
           "category": "produce",
-          "note": "2 tsp juice"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
+          "note": "1 tsp juice"
         }
       ],
-      "notes": "Stems first ~6 min, then the leaves in two batches; lemon off the heat. Reheats fine for Saturday.",
+      "notes": "The ATK p.226 chard method with the spinach on hand: garlic in oil until golden, spinach in batches, tossing until just wilted, lemon off the heat. No salt (Jami salts at the table).",
       "nutrition": {
         "perServing": {
-          "calories": 95,
-          "proteinG": 3,
-          "carbsG": 7,
+          "calories": 100,
+          "proteinG": 4,
+          "carbsG": 6,
           "fatG": 7,
           "saturatedFatG": 1,
           "fiberG": 3,
-          "sodiumMg": 360,
-          "potassiumMg": 650
+          "sodiumMg": 110,
+          "potassiumMg": 790
         },
-        "servings": 4,
-        "servingDescription": "about 3/4 cup cooked chard",
+        "servings": 2,
+        "servingDescription": "about 1/2 cup wilted spinach (half a 10 oz bag)",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "high",
         "sodiumDrivers": [
-          "Swiss chard (natural sodium)",
+          "spinach (natural sodium)",
           "garlic",
           "lemon"
         ],
         "assumptions": [
-          "no added salt (to taste = Jami's table salt)",
-          "chard is naturally salty: about 210 mg per 100 g raw, so 1.5 lb carries about 1,450 mg before any salt"
+          "no added salt",
+          "10 oz spinach for two; spinach has about 80 mg sodium per 100 g raw, much less than chard"
         ],
         "estimatedAt": "2026-11-21"
       }
