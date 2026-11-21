@@ -237,7 +237,10 @@ enough is the standard. A separate photo tracker reads them through
   lower-sodium by default:
   - Halve a recipe's added salt and state the amount and type in the notes.
   - Buy no-salt-added canned tomatoes, tomato sauce and beans, and low-sodium
-    broth. Use water where broth is optional.
+    broth. Use water where broth is optional. Already in his pantry: **Mutti
+    baby Roma tomatoes, labeled "low sodium"** (85 mg sodium and 810 mg
+    potassium per 1/2 cup, about 3 servings per can). Fine to use with the
+    juice.
   - Don't salt toasts or bread, and go light on miso, Dijon, cheese and cured
     meats.
   - Dry-brine at half strength.
