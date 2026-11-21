@@ -73,6 +73,8 @@ cookwhat config set ingredients.dislikes '["liver","cilantro"]'
 | --- | --- |
 | `goals` | Tags Claude leans toward ("vegetable-forward", "whole-grains-over-refined", …). |
 | `notes` | Free text ("lower sodium", "high protein for training"). |
+| `targets` | Optional daily numbers: `calories`, `proteinG`, `carbsG`, `fatG`, `saturatedFatG`, `fiberG`, `sodiumMg`. `plan check` warns when a dinner goes over its share of a ceiling target. Empty means off. See [Nutrition](NUTRITION.md). |
+| `dinnerShare` | Fraction of a day's targets a dinner should fit within (default `0.4`). |
 
 ## `shopping`
 | Field | Meaning |

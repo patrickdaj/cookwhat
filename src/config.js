@@ -89,6 +89,12 @@ export const DEFAULT_CONFIG = {
   nutrition: {
     goals: ["vegetable-forward", "whole-grains-over-refined", "limit-deep-fried", "balanced-macros"],
     notes: "",
+    // Optional daily targets, compared by `plan check` against each day's
+    // dinner. Leave a key out (or the whole object empty) to skip it. Keys:
+    // calories, proteinG, carbsG, fatG, saturatedFatG, fiberG, sodiumMg.
+    targets: {},
+    // Fraction of a day's targets a dinner should fit within.
+    dinnerShare: 0.4,
   },
 
   shopping: {

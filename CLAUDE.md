@@ -25,16 +25,20 @@ generate a shopping list.
    `nutrition.goals`. Pull ingredient lists from the actual recipes. **Build
    full dinners** (see "Full meals" below): most days should land a protein, a
    vegetable, and a carb.
-5. **Save the plan.** Write a plan JSON and import it (preferred for a full
+5. **Estimate nutrition.** Give every meal a per-serving `nutrition` block,
+   estimated from its own ingredient list. See "Nutrition estimates" below and
+   `docs/NUTRITION.md`.
+6. **Save the plan.** Write a plan JSON and import it (preferred for a full
    week), or add meals one at a time. See "Saving a plan" below.
-6. **Validate & self-correct.** `cookwhat plan check <week>`. Fix any ✗ errors
-   (these block `plan set`) and reduce ⚠ warnings. Re-check.
-7. **Confirm, then finalize.** Show the user the plan, adjust, then
+7. **Validate & self-correct.** `cookwhat plan check <week>`. Fix any ✗ errors
+   (these block `plan set`) and reduce ⚠ warnings, including missing or invalid
+   nutrition blocks. Re-check.
+8. **Confirm, then finalize.** Show the user the plan, adjust, then
    `cookwhat plan set <week>`.
-8. **Generate the shopping list.** `cookwhat shopping <week>` (add
+9. **Generate the shopping list.** `cookwhat shopping <week>` (add
    `--servings N` to scale). It consolidates ingredients by aisle and drops
    pantry staples.
-9. **Later, capture ratings.** When the user reports back, log with
+10. **Later, capture ratings.** When the user reports back, log with
    `cookwhat rate ...` so future weeks get smarter.
 
 ## North star (2026-11-15): healthy, preppable Mediterranean
@@ -171,6 +175,44 @@ Field notes:
   omitted, the CLI guesses. Set it when you can for a cleaner list.
 - Quantities should be for the recipe's own `servings`; the CLI scales on
   request. Omit `qty` for "to taste" items.
+
+## Nutrition estimates (as of 2026-11-21)
+
+Every meal on a menu carries an estimated **per-serving `nutrition` block**
+(schema and full rules: `docs/NUTRITION.md`), and the menu carries
+`"nutritionSchemaVersion": 1`. You write the blocks while building the plan,
+from each meal's own ingredient list. No nutrition database is used; close
+enough is the standard. A separate photo tracker reads them through
+`cookwhat nutrition <week> --json`, so keep the tracker fields
+(`servingDescription`, `confidence`, `sodiumConfidence`) honest.
+
+- **All eight `perServing` keys:** calories, proteinG, carbsG, fatG,
+  saturatedFatG, fiberG, sodiumMg, potassiumMg. Round calories and mg to 10 and
+  grams to 1.
+- **Estimate what's eaten, not what's bought.** Account for bone-in weight,
+  drained cans, skimmed fat, oil left in the pan and discarded marinade. Use
+  the ingredient notes (halved, swapped, omitted).
+- **Divide by the meal's `servings`,** and write a `servingDescription` a person
+  can recognize on a plate ("1 stuffed pepper", "1/8 of the tart with a scoop
+  of ice cream").
+- **Each entry gets its own block,** with mains and sides kept separate. A batch
+  gets its block once, on the cooking day, with `covers-<day>` tags for its
+  leftover days. The per-day totals count it there too.
+- **Cross-check** against published nutrition in `data/recipes/`, or on the
+  recipe page. When calories differ by more than 20%, say why in
+  `assumptions`.
+- **Sodium rules:**
+  - Count all added salt, and turn "to taste" into a stated amount and salt type
+    (Diamond Crystal kosher ≈ 1,120 mg/tsp, Morton kosher ≈ 1,920, table ≈ 2,330).
+  - Use low-sodium values only when the ingredient line says so.
+  - State the absorbed fraction for brines, marinades and salted water.
+  - Set `sodiumConfidence: "low"` for salt to taste, brines, or an unspecified
+    broth, soy sauce, fish sauce or cheese.
+  - List the top three `sodiumDrivers`.
+- `plan check` warns (never blocks) on missing or invalid blocks. Once
+  `nutrition.targets` is set, it also warns on dinners over `dinnerShare` of a
+  ceiling target (calories, carbs, fat, saturated fat, sodium). Targets aren't
+  set yet; ask the user for daily calories, protein and sodium.
 
 ## Full meals (protein + veggie + carb)
 

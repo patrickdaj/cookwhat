@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { PATHS, readJson, writeJson, weekOf } from "./util.js";
+import { NUTRITION_SCHEMA_VERSION } from "./nutrition.js";
 
 // ---- Menus -----------------------------------------------------------------
 
@@ -32,6 +33,7 @@ export function newMenu(week, cfg) {
     createdAt: new Date().toISOString(),
     status: "draft", // draft | set
     servingsDefault: cfg.household.defaultServings,
+    nutritionSchemaVersion: NUTRITION_SCHEMA_VERSION,
     meals: [],
   };
 }

@@ -1,5 +1,6 @@
 import { uid, slug, normalizeItem } from "./util.js";
 import { classifyProtein } from "./config.js";
+import { normalizeNutrition, checkNutrition } from "./nutrition.js";
 
 // Build a normalized meal object from loose input (CLI flags or JSON).
 export function makeMeal(input, cfg) {
@@ -23,6 +24,9 @@ export function makeMeal(input, cfg) {
   };
   // Quick non-paleo add-ons for the wife (see CLAUDE.md, Paleo section).
   if (Array.isArray(input.depaleo) && input.depaleo.length) m.depaleo = input.depaleo;
+  // Per-serving nutrition estimate (docs/NUTRITION.md). Validated by the CLI on
+  // import/add and by checkPlan.
+  if (input.nutrition != null) m.nutrition = normalizeNutrition(input.nutrition, m.servings);
   return m;
 }
 
@@ -223,7 +227,12 @@ export function checkPlan(menu, cfg) {
   const missing = wanted.filter((w) => !have.has(w));
   if (missing.length) info.push(`Unplanned slots: ${missing.join(", ")}.`);
 
-  return { errors, warnings, info, counts };
+  // Nutrition: missing/invalid blocks and dinners over their share of a target.
+  // Warnings only; they never block `plan set`.
+  const nutrition = checkNutrition(menu, cfg);
+  warnings.push(...nutrition.warnings);
+
+  return { errors, warnings, info, counts, nutrition };
 }
 
 export function hostOf(url) {

@@ -36,6 +36,12 @@ import {
   formatQty,
 } from "../src/shopping.js";
 import { queryHistory, suggestRedos } from "../src/history.js";
+import {
+  NUTRITION_SCHEMA_VERSION,
+  PER_SERVING_KEYS,
+  validateNutrition,
+  checkNutrition,
+} from "../src/nutrition.js";
 
 const argv = process.argv.slice(2);
 const [cmd, sub, ...rest] = argv;
@@ -82,6 +88,8 @@ async function main() {
       return cmdShopping();
     case "recipe":
       return cmdRecipe();
+    case "nutrition":
+      return cmdNutrition();
     default:
       die(`Unknown command "${cmd}". Run \`cookwhat help\`.`);
   }
@@ -187,6 +195,8 @@ function cmdPlan() {
     }
     if (!input.title) die("A meal needs at least --title (or json with title).");
     const meal = makeMeal(input, cfg);
+    assertValidNutrition([meal]);
+    if (meal.nutrition != null) menu.nutritionSchemaVersion = NUTRITION_SCHEMA_VERSION;
     addMeal(menu, meal);
     saveMenu(menu);
     console.log(c.green("Added ") + `${meal.day ? meal.day + " " : ""}${meal.title}`);
@@ -202,7 +212,10 @@ function cmdPlan() {
     const menu = loadMenu(week) || newMenu(week, cfg);
     const meals = Array.isArray(data) ? data : data.meals || [];
     if (data.servingsDefault) menu.servingsDefault = data.servingsDefault;
-    for (const m of meals) addMeal(menu, makeMeal(m, cfg));
+    const built = meals.map((m) => makeMeal(m, cfg));
+    assertValidNutrition(built); // all or nothing: a bad block saves nothing
+    if (built.some((m) => m.nutrition != null)) menu.nutritionSchemaVersion = NUTRITION_SCHEMA_VERSION;
+    for (const m of built) addMeal(menu, m);
     saveMenu(menu);
     console.log(c.green(`Imported ${meals.length} meal(s) `) + `into week of ${week}`);
     return;
@@ -278,6 +291,123 @@ function cmdPlan() {
   }
 
   die(`Unknown plan action "${action}". Use new|add|import|remove|list|show|check|set.`);
+}
+
+// Reject a plan whose nutrition blocks are malformed. A meal with no block is
+// allowed here; `plan check` warns about it instead.
+function assertValidNutrition(meals) {
+  const problems = [];
+  for (const m of meals) {
+    if (m.nutrition == null) continue;
+    const errs = validateNutrition(m.nutrition, { servings: m.servings });
+    if (errs.length) problems.push(`"${m.title}"${m.day ? ` (${m.day})` : ""}: ${errs.join("; ")}`);
+  }
+  if (problems.length) {
+    console.log(c.red("Invalid nutrition block(s) — nothing was saved:"));
+    problems.forEach((p) => console.log("  " + c.red("✗ ") + p));
+    die("Fix the nutrition blocks and try again (see docs/NUTRITION.md).");
+  }
+}
+
+// ---- nutrition -------------------------------------------------------------
+
+function cmdNutrition() {
+  const cfg = loadConfig();
+  const { values, positionals } = flags({ json: { type: "boolean" }, week: { type: "string" } });
+  const week = weekOf(values.week || positionals[0]);
+  const menu = loadMenu(week);
+  if (!menu) die(`No menu for week ${week}.`);
+  const n = checkNutrition(menu, cfg);
+
+  if (values.json) {
+    const out = {
+      nutritionSchemaVersion: menu.nutritionSchemaVersion ?? null,
+      weekOf: menu.weekOf,
+      status: menu.status,
+      targets: n.targets,
+      dinnerShare: n.dinnerShare,
+      meals: menu.meals.map((m) => ({
+        id: m.id,
+        day: m.day,
+        slot: m.slot || "dinner",
+        role: m.role || "main",
+        title: m.title,
+        servings: m.servings,
+        tags: m.tags || [],
+        nutrition: m.nutrition ?? null,
+      })),
+      dayTotals: n.days.map((d) => ({
+        day: d.day,
+        totals: d.totals,
+        dinner: d.dinner,
+        dishes: d.dishes,
+        missing: d.missing,
+      })),
+      warnings: n.warnings,
+    };
+    console.log(JSON.stringify(out, null, 2));
+    return;
+  }
+
+  const cols = [
+    ["calories", "kcal"],
+    ["proteinG", "prot"],
+    ["carbsG", "carb"],
+    ["fatG", "fat"],
+    ["saturatedFatG", "sat"],
+    ["fiberG", "fib"],
+    ["sodiumMg", "Na mg"],
+    ["potassiumMg", "K mg"],
+  ];
+  const num = (v) => String(Math.round(v)).padStart(6);
+  const header = "      " + "".padEnd(44) + cols.map(([, h]) => h.padStart(6)).join("") + "  conf/Na";
+  console.log(c.bold(`Nutrition per serving — week of ${menu.weekOf}`) + c.dim(`  (schema v${menu.nutritionSchemaVersion ?? "?"})`));
+  console.log(c.dim(header));
+  for (const m of menu.meals) {
+    const label = `${(m.day || "—").padEnd(4)}${(m.role || "main") === "side" ? "+ " : "  "}`;
+    const title = (m.title || "").slice(0, 42).padEnd(44);
+    const nb = m.nutrition;
+    if (!nb || !nb.perServing) {
+      console.log(label + title + c.yellow("  no estimate"));
+      continue;
+    }
+    const row = cols.map(([k]) => (typeof nb.perServing[k] === "number" ? num(nb.perServing[k]) : "     ?")).join("");
+    console.log(label + title + row + c.dim(`  ${nb.confidence || "?"}/${nb.sodiumConfidence || "?"}`));
+    if (nb.servingDescription) console.log(c.dim("          1 serving = " + nb.servingDescription));
+  }
+  printDayTotals(n);
+  if (n.warnings.length) {
+    console.log("");
+    n.warnings.forEach((w) => console.log(c.yellow("⚠ ") + w));
+  }
+}
+
+// Per-day totals: one serving of every dish eaten that day (leftover days via
+// covers-<day> tags), plus how they compare to the dinner share of the targets.
+function printDayTotals(n) {
+  if (!n.days.length) return;
+  const keys = PER_SERVING_KEYS;
+  const short = { calories: "kcal", proteinG: "prot", carbsG: "carb", fatG: "fat", saturatedFatG: "sat", fiberG: "fib", sodiumMg: "Na mg", potassiumMg: "K mg" };
+  console.log("");
+  console.log(c.bold("Per-day totals") + c.dim("  (one serving of each dish, per person)"));
+  console.log(c.dim("      " + keys.map((k) => short[k].padStart(7)).join("")));
+  for (const d of n.days) {
+    const vals = keys.map((k) => String(Math.round(d.totals[k])).padStart(7)).join("");
+    const extra = [];
+    if (d.dishes.some((x) => x.leftover)) extra.push("incl. leftovers");
+    if (d.missing.length) extra.push(`${d.missing.length} dish(es) without an estimate`);
+    console.log(`${d.day.padEnd(6)}${vals}${extra.length ? c.dim("  " + extra.join("; ")) : ""}`);
+  }
+  const t = n.targets;
+  if (Object.keys(t).length) {
+    const share = n.dinnerShare;
+    const line = Object.entries(t)
+      .map(([k, v]) => `${short[k]} ${Math.round(v * share)}`)
+      .join(" · ");
+    console.log(c.dim(`Dinner share (${Math.round(share * 100)}% of daily targets): ${line}`));
+  } else {
+    console.log(c.dim("No nutrition.targets set — target comparison is off."));
+  }
 }
 
 // ---- rate ------------------------------------------------------------------
@@ -501,6 +631,7 @@ function printCheck(menu, cfg) {
         .map(([k, n]) => `${k}:${n}`)
         .join("  ")
   );
+  printDayTotals(res.nutrition);
   console.log("");
   printCheckSummary(res, { verbose: true });
 }
@@ -693,6 +824,10 @@ ${c.bold("Recipes")}
     --force   Re-fetch even if already stored
     --ai      Force the paid Haiku annotation (needs ANTHROPIC_API_KEY)
     --no-ai   Skip AI annotation (wins over --ai/--all)
+
+${c.bold("Nutrition")}
+  cookwhat nutrition [week] [--json]  Per-serving estimates and per-day totals
+    --json    Machine-readable output (for the photo tracker)
 
 ${c.bold("Shopping")}
   cookwhat shopping [week] [--servings N] [--print] [--notes]

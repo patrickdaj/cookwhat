@@ -18,10 +18,13 @@ layer). Full guidance lives in this repo's `CLAUDE.md` — read it. Quick versio
 4. Design a balanced week: vary proteins/cuisines, respect time budgets and
    `proteinRules`, exclude every `dislikes`/`allergies` item, lean toward
    `nutrition.goals`.
-5. Save: write `/tmp/plan.json` (schema in CLAUDE.md) and
+5. Estimate nutrition: give every meal a per-serving `nutrition` block from its
+   own ingredients (rules, including sodium, in `docs/NUTRITION.md`).
+6. Save: write `/tmp/plan.json` (schema in CLAUDE.md) and
    `node bin/cookwhat.js plan import --week <date> --file /tmp/plan.json`.
-6. Validate and fix: `node bin/cookwhat.js plan check <date>` — resolve all ✗.
-7. Show the user a compact table; on approval `node bin/cookwhat.js plan set <date>`.
+7. Validate and fix: `node bin/cookwhat.js plan check <date>` — resolve all ✗,
+   and clear any missing-nutrition warnings.
+8. Show the user a compact table; on approval `node bin/cookwhat.js plan set <date>`.
 
 ## When the user wants a shopping list
 

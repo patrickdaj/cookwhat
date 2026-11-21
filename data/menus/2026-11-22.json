@@ -3,6 +3,7 @@
   "createdAt": "2026-11-19T00:23:44.688Z",
   "status": "set",
   "servingsDefault": 4,
+  "nutritionSchemaVersion": 1,
   "meals": [
     {
       "id": "chicken-bouillabaisse-batch",
@@ -128,7 +129,38 @@
           "category": "pantry"
         }
       ],
-      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health). Monday dinner is the leftovers: reheat covered at 350°F, broil to re-crisp; fresh garlic toasts."
+      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sun + Mon dinners for two, his Mon + Tue lunches. Seafood-free despite the name. Skim the fat (heart-health). Monday dinner is the leftovers: reheat covered at 350°F, broil to re-crisp; fresh garlic toasts.",
+      "nutrition": {
+        "perServing": {
+          "calories": 440,
+          "proteinG": 34,
+          "carbsG": 22,
+          "fatG": 22,
+          "saturatedFatG": 6,
+          "fiberG": 3,
+          "sodiumMg": 590,
+          "potassiumMg": 970
+        },
+        "servings": 6,
+        "servingDescription": "1 1/3 thighs (one large or two small) with about 1 1/2 cups broth, potatoes and fennel",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "canned diced tomatoes",
+          "low-sodium chicken broth"
+        ],
+        "assumptions": [
+          "3 lb bone-in thighs yield about 2.4 lb meat and skin; skin is eaten (it is crisped)",
+          "about a third of the chicken fat and half the oil renders out and is skimmed",
+          "salt to taste assumed 1 1/2 tsp Diamond Crystal kosher in total",
+          "low-sodium broth at 140 mg per cup; regular canned diced tomatoes, drained",
+          "about a third of the wine and ouzo alcohol calories remain after the oven braise",
+          "rouille and garlic toasts are separate entries"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "rouille-sun",
@@ -143,7 +175,8 @@
       "tags": [
         "book",
         "redo",
-        "sauce"
+        "sauce",
+        "covers-mon"
       ],
       "activeTimeMin": 15,
       "totalTimeMin": 20,
@@ -209,7 +242,36 @@
           "category": "pantry"
         }
       ],
-      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week, so it covers Monday too. Spoon onto each bowl."
+      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week, so it covers Monday too. Spoon onto each bowl.",
+      "nutrition": {
+        "perServing": {
+          "calories": 350,
+          "proteinG": 1,
+          "carbsG": 3,
+          "fatG": 37,
+          "saturatedFatG": 4,
+          "fiberG": 0,
+          "sodiumMg": 120,
+          "potassiumMg": 20
+        },
+        "servings": 6,
+        "servingDescription": "about 3 tbsp, one-sixth of the batch (1 tbsp is about 130 kcal)",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "Dijon mustard",
+          "baguette"
+        ],
+        "assumptions": [
+          "makes about 1 1/4 cups with the soaked bread; split over 6 servings",
+          "salt to taste assumed 1/4 tsp Diamond Crystal kosher",
+          "vegetable oil taken as canola",
+          "only the 1 cup of crustless baguette in the rouille is counted here; the rest of the loaf is on the garlic toasts"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "garlic-toasts-sun",
@@ -244,7 +306,35 @@
           "category": "pantry"
         }
       ],
-      "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper. Make fresh Sunday and Monday."
+      "notes": "From the rouille's baguette (counted there). Broil 6 inches from the element, about 4 min, flipping; rub with garlic while hot, oil, salt and pepper. Make fresh Sunday and Monday.",
+      "nutrition": {
+        "perServing": {
+          "calories": 260,
+          "proteinG": 7,
+          "carbsG": 33,
+          "fatG": 12,
+          "saturatedFatG": 2,
+          "fiberG": 2,
+          "sodiumMg": 430,
+          "potassiumMg": 80
+        },
+        "servings": 4,
+        "servingDescription": "2 toasted baguette slices, 1 inch thick",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "baguette",
+          "added kosher salt"
+        ],
+        "assumptions": [
+          "bread comes from the rouille's baguette; counted here although the shopping list puts the loaf on the rouille",
+          "8 slices of about 30 g each, 2 per serving",
+          "3 tbsp olive oil all absorbed",
+          "salt to taste assumed 1/4 tsp Diamond Crystal kosher across 8 slices"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "greek-stuffed-peppers-batch",
@@ -346,7 +436,37 @@
           "note": "or water, for the baking dish"
         }
       ],
-      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min."
+      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min.",
+      "nutrition": {
+        "perServing": {
+          "calories": 280,
+          "proteinG": 14,
+          "carbsG": 42,
+          "fatG": 7,
+          "saturatedFatG": 2,
+          "fiberG": 6,
+          "sodiumMg": 350,
+          "potassiumMg": 650
+        },
+        "servings": 6,
+        "servingDescription": "1 stuffed bell pepper (about 1 cup filling)",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "canned chickpeas",
+          "tomato sauce"
+        ],
+        "assumptions": [
+          "salt to taste assumed 1 tsp Diamond Crystal kosher in total",
+          "canned chickpeas drained and rinsed (about 40% less sodium than unrinsed)",
+          "regular canned tomato sauce, not low-sodium",
+          "about half the 3/4 cup low-sodium broth in the baking dish is absorbed",
+          "cross-check: The Mediterranean Dish publishes 270 kcal and 196 mg sodium per pepper; calories agree, and sodium is higher here because this counts the salt to taste"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "day": "Thu",
@@ -432,7 +552,37 @@
           "note": "a few sprigs in the sauce, per his menu (not in the book recipe)"
         }
       ],
-      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes."
+      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes.",
+      "nutrition": {
+        "perServing": {
+          "calories": 810,
+          "proteinG": 37,
+          "carbsG": 76,
+          "fatG": 36,
+          "saturatedFatG": 17,
+          "fiberG": 4,
+          "sodiumMg": 570,
+          "potassiumMg": 820
+        },
+        "servings": 2,
+        "servingDescription": "1 duck breast, sliced, with about 1/3 cup cherry-port sauce",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "dry-brine kosher salt",
+          "duck breast",
+          "low-sodium chicken broth"
+        ],
+        "assumptions": [
+          "Pekin breast lobes of about 8 oz raw each; a larger Moulard magret would add roughly 50%",
+          "scored skin renders out about 60% of its fat, poured off",
+          "dry brine assumed at Meathead's 1/2 tsp Morton kosher per pound, about 80% retained (the salt is not in the ingredient list)",
+          "8 oz sweetened dried tart cherries makes a lot of sauce; about three-quarters of it assumed eaten",
+          "about 40% of the port's alcohol calories remain after reducing"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "day": "Thu",
@@ -517,7 +667,36 @@
           "note": "a couple is plenty for 2. hard to find; alt: finely diced lime segments + zest"
         }
       ],
-      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. For 2."
+      "notes": "Starter. His recipe: whole-roasted Japanese sweet potatoes cut into fingers, miso butter, scallions, bonito flakes, finger lime pearls. Quantities to set once the headcount is known. Miso butter can be made at home Wednesday. For 2.",
+      "nutrition": {
+        "perServing": {
+          "calories": 330,
+          "proteinG": 4,
+          "carbsG": 52,
+          "fatG": 12,
+          "saturatedFatG": 7,
+          "fiberG": 5,
+          "sodiumMg": 350,
+          "potassiumMg": 530
+        },
+        "servings": 2,
+        "servingDescription": "2 small Japanese sweet potatoes cut into fingers, with about 1 tbsp miso butter",
+        "method": "estimated",
+        "confidence": "low",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "white miso",
+          "bonito flakes",
+          "sweet potatoes"
+        ],
+        "assumptions": [
+          "miso butter quantities are not set yet; assumed 2 tbsp unsalted butter, 1 tbsp white miso, 1 tsp honey, 1 tsp mirin and a splash of rice vinegar for both servings",
+          "small Japanese sweet potatoes about 140 g each, 130 kcal per 100 g",
+          "no added salt beyond the miso",
+          "about 1 tbsp bonito flakes per serving"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "day": "Thu",
@@ -574,7 +753,34 @@
           "note": "toasted, skinned, chopped (his addition)"
         }
       ],
-      "notes": "Recipe method: 425°F; oil, salt, pepper; roast 15 min, stir, 10-15 more until tender and browned (delicata half-moons may need slightly less). Meanwhile brown the butter over medium until the foam subsides, add sage ~30 sec until the butter is light hazelnut-brown and the sage crisp; pour over the squash immediately, toss, top with toasted hazelnuts. Toast/chop hazelnuts at home Wednesday."
+      "notes": "Recipe method: 425°F; oil, salt, pepper; roast 15 min, stir, 10-15 more until tender and browned (delicata half-moons may need slightly less). Meanwhile brown the butter over medium until the foam subsides, add sage ~30 sec until the butter is light hazelnut-brown and the sage crisp; pour over the squash immediately, toss, top with toasted hazelnuts. Toast/chop hazelnuts at home Wednesday.",
+      "nutrition": {
+        "perServing": {
+          "calories": 310,
+          "proteinG": 4,
+          "carbsG": 23,
+          "fatG": 24,
+          "saturatedFatG": 7,
+          "fiberG": 4,
+          "sodiumMg": 290,
+          "potassiumMg": 810
+        },
+        "servings": 2,
+        "servingDescription": "half a large delicata, about 1 cup roasted half-moons with the hazelnuts",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "delicata squash"
+        ],
+        "assumptions": [
+          "1 large delicata gives about 400 g after seeding",
+          "salt to taste assumed 1/2 tsp Diamond Crystal kosher in total",
+          "all of the oil and brown butter is eaten"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "day": "Thu",
@@ -633,7 +839,36 @@
           "note": "his menu adds butter to the caramel; stir in off the heat once it turns golden (not in the FN recipe)"
         }
       ],
-      "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy. Bake it in the cast-iron skillet he's bringing. It serves 8–10, so there's tart for Friday breakfast too."
+      "notes": "FN method: 400°F. CLEAN 10-in cast-iron skillet; 3/4 cup sugar + 3 tbsp water over medium-low, swirl, don't stir, until golden, 10-12 min. Off heat, pack in the pear halves (crowd them; they shrink). Back on low ~20 min until the fruit soaks up the caramel. Drape the puff pastry over, tuck the edges, cut three 2-in slits. Bake 40-45 min until browned and the pears are tender. Cool only 10-15 min, pour off and reserve excess caramel, flip onto a platter, pour the caramel back, push loose fruit into place. Serve with vanilla ice cream. (Skipping the recipe's optional cranberry caramel.) Tips: firm, slightly underripe pears; clean utensils or the caramel goes grainy. Bake it in the cast-iron skillet he's bringing. It serves 8–10, so there's tart for Friday breakfast too.",
+      "nutrition": {
+        "perServing": {
+          "calories": 460,
+          "proteinG": 4,
+          "carbsG": 66,
+          "fatG": 20,
+          "saturatedFatG": 12,
+          "fiberG": 5,
+          "sodiumMg": 140,
+          "potassiumMg": 260
+        },
+        "servings": 8,
+        "servingDescription": "1/8 of the tart with a 1/4-cup scoop of vanilla ice cream",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "puff pastry",
+          "vanilla ice cream",
+          "unsalted butter"
+        ],
+        "assumptions": [
+          "about 75% of a 14 oz all-butter puff pastry sheet is used after trimming",
+          "8 Bosc pears, peeled and cored (about 85% edible)",
+          "all the caramel is poured back over the tart",
+          "1 pint regular vanilla ice cream split over 8 servings"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "takeout-sat",
@@ -653,7 +888,32 @@
       "totalTimeMin": 0,
       "servings": 1,
       "ingredients": [],
-      "notes": "No freezer dinners and he doesn't cook just for himself. Lunch can be a freezer portion (daube or Spanish chicken)."
+      "notes": "No freezer dinners and he doesn't cook just for himself. Lunch can be a freezer portion (daube or Spanish chicken).",
+      "nutrition": {
+        "perServing": {
+          "calories": 1000,
+          "proteinG": 40,
+          "carbsG": 100,
+          "fatG": 45,
+          "saturatedFatG": 15,
+          "fiberG": 6,
+          "sodiumMg": 2000,
+          "potassiumMg": 800
+        },
+        "servings": 1,
+        "servingDescription": "1 typical takeout entrée with its side",
+        "method": "estimated",
+        "confidence": "low",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "restaurant salt and sauces"
+        ],
+        "assumptions": [
+          "placeholder: the dish isn't chosen yet; numbers are a generic restaurant entrée",
+          "update or replace this block once you know what you ordered"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     }
   ],
   "setAt": "2026-11-19T13:50:34.011Z"

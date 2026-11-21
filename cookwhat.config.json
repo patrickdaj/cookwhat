@@ -197,7 +197,9 @@
     "saturatedFat": "low",
     "cholesterolConscious": true,
     "redMeatProcessedFried": "infrequent",
-    "sodium": "low"
+    "sodium": "low",
+    "targets": {},
+    "dinnerShare": 0.4
   },
   "shopping": {
     "excludePantryStaples": true,

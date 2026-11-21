@@ -722,6 +722,7 @@ ${books.length ? '  - Cookbooks: cookbooks/index.md\n' : ''}  - Ratings: history
   - Help:
     - How to Use: HOW_TO_USE.md
     - Config: CONFIG.md
+    - Nutrition: NUTRITION.md
 `;
 }
 
