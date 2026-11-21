@@ -126,16 +126,9 @@
           "qty": 2,
           "unit": "tbsp",
           "category": "pantry"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.75,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "total, for the chicken and the broth (half the usual)"
         }
       ],
-      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sunday dinner for two, his Mon + Tue lunches, and 2 to freeze for later lunches (frozen is lunch-only). Seafood-free despite the name. Skim the fat (heart-health). Lower-sodium build (2026-11-21): 3/4 tsp Diamond Crystal kosher in total, no-salt-added tomatoes; lean on the saffron, orange zest, pastis and a squeeze of lemon at the table. Salted light: Jami, salt at the table.",
+      "notes": "Loved redo (5 stars, Oct). Pool day: brown the chicken, build the saffron-fennel broth, nestle the thighs on the potatoes skin-up, oven 375°F, then broil to crisp; cool and refrigerate. At dinner reheat covered at 350°F and broil a few minutes to re-crisp the skin. 6 servings: Sunday dinner for two, his Mon + Tue lunches, and 2 to freeze for later lunches (frozen is lunch-only). Seafood-free despite the name. Skim the fat (heart-health). Lower-sodium build (2026-11-21): no added salt (to taste = Jami's table salt), no-salt-added tomatoes; lean on the saffron, orange zest, pastis and a squeeze of lemon at the table. Salted light: Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 440,
@@ -144,7 +137,7 @@
           "fatG": 22,
           "saturatedFatG": 6,
           "fiberG": 3,
-          "sodiumMg": 370,
+          "sodiumMg": 230,
           "potassiumMg": 970
         },
         "servings": 6,
@@ -153,17 +146,17 @@
         "confidence": "medium",
         "sodiumConfidence": "low",
         "sodiumDrivers": [
-          "added kosher salt",
           "chicken",
-          "low-sodium chicken broth"
+          "low-sodium chicken broth",
+          "fennel"
         ],
         "assumptions": [
           "3 lb bone-in thighs yield about 2.4 lb meat and skin; skin is eaten (it is crisped)",
           "about a third of the chicken fat and half the oil renders out and is skimmed",
           "about a third of the wine and ouzo alcohol calories remain after the oven braise",
           "rouille and garlic toasts are separate entries",
-          "salt is 3/4 tsp Diamond Crystal kosher in total (halved 2026-11-21)",
-          "low-sodium broth at 140 mg per cup; no-salt-added diced tomatoes, drained"
+          "low-sodium broth at 140 mg per cup; no-salt-added diced tomatoes, drained",
+          "no added salt: the recipe salts to taste, and to taste means Jami salts at the table (rule from 2026-11-21)"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -247,7 +240,7 @@
           "category": "pantry"
         }
       ],
-      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week; spoon it on the lunch portions too. Spoon onto each bowl.",
+      "notes": "Make Sunday morning: steep saffron in 3 tbsp boiling water, soak the bread with lemon, mash to a paste, whisk in yolk, Dijon, garlic, cayenne, then the oils. Keeps a week; spoon it on the lunch portions too. Spoon onto each bowl. No salt; Jami salts hers at the table.",
       "nutrition": {
         "perServing": {
           "calories": 350,
@@ -256,7 +249,7 @@
           "fatG": 37,
           "saturatedFatG": 4,
           "fiberG": 0,
-          "sodiumMg": 120,
+          "sodiumMg": 70,
           "potassiumMg": 20
         },
         "servings": 6,
@@ -265,15 +258,15 @@
         "confidence": "medium",
         "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "added kosher salt",
           "Dijon mustard",
-          "baguette"
+          "baguette",
+          "egg yolk"
         ],
         "assumptions": [
           "makes about 1 1/4 cups with the soaked bread; split over 6 servings",
-          "salt to taste assumed 1/4 tsp Diamond Crystal kosher",
           "vegetable oil taken as canola",
-          "only the 1 cup of crustless baguette in the rouille is counted here; the rest of the loaf is on the garlic toasts"
+          "only the 1 cup of crustless baguette in the rouille is counted here; the rest of the loaf is on the garlic toasts",
+          "no added salt (to taste = table salt for Jami)"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -635,16 +628,9 @@
           "qty": 1,
           "unit": "tbsp",
           "category": "pantry"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "total (half the usual)"
         }
       ],
-      "notes": "Half batch: Monday dinner plus a lunch. Braised with tomato, coriander and paprika, finished with lemon and parsley; it holds well in the fridge. Salted light: Jami, salt at the table.",
+      "notes": "Half batch: Monday dinner plus a lunch. Braised with tomato, coriander and paprika, finished with lemon and parsley; it holds well in the fridge. No salt in the pot: the recipe salts to taste, so Jami salts at the table.",
       "nutrition": {
         "perServing": {
           "calories": 110,
@@ -653,20 +639,20 @@
           "fatG": 5,
           "saturatedFatG": 1,
           "fiberG": 5,
-          "sodiumMg": 110,
+          "sodiumMg": 10,
           "potassiumMg": 520
         },
         "servings": 3,
         "servingDescription": "about 1 cup of green beans with tomato",
         "method": "estimated",
         "confidence": "medium",
-        "sodiumConfidence": "medium",
+        "sodiumConfidence": "high",
         "sodiumDrivers": [
-          "added kosher salt",
-          "green beans"
+          "green beans",
+          "tomato"
         ],
         "assumptions": [
-          "1/4 tsp Diamond Crystal kosher in total (halved)",
+          "no added salt (to taste = table salt for Jami)",
           "fresh tomato, not canned"
         ],
         "estimatedAt": "2026-11-21"
@@ -770,16 +756,9 @@
           "unit": "cup",
           "category": "other",
           "note": "for the baking dish (instead of broth)"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "total (half the usual)"
         }
       ],
-      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min. Lower-sodium build (2026-11-21): 1/2 tsp Diamond Crystal kosher in total, no-salt-added tomato sauce and chickpeas, water in the baking dish; finish with lemon. Salted light: Jami, salt at the table.",
+      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min. Lower-sodium build (2026-11-21): no added salt (to taste = Jami's table salt), no-salt-added tomato sauce and chickpeas, water in the baking dish; finish with lemon. Salted light: Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 280,
@@ -788,23 +767,23 @@
           "fatG": 7,
           "saturatedFatG": 2,
           "fiberG": 6,
-          "sodiumMg": 150,
+          "sodiumMg": 60,
           "potassiumMg": 640
         },
         "servings": 6,
         "servingDescription": "1 stuffed bell pepper (about 1 cup filling)",
         "method": "estimated",
         "confidence": "medium",
-        "sodiumConfidence": "low",
+        "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "added kosher salt",
           "ground beef",
-          "bell peppers"
+          "bell peppers",
+          "parsley"
         ],
         "assumptions": [
-          "salt is 1/2 tsp Diamond Crystal kosher in total (halved 2026-11-21)",
           "no-salt-added tomato sauce and chickpeas; water, not broth, in the baking dish",
-          "cross-check: The Mediterranean Dish publishes 270 kcal and 196 mg sodium per pepper; calories agree and sodium is now a little lower"
+          "cross-check: The Mediterranean Dish publishes 270 kcal and 196 mg sodium per pepper; calories agree and sodium is now a little lower",
+          "no added salt: the recipe salts to taste, so Jami salts at the table"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -1325,13 +1304,13 @@
         },
         {
           "item": "Diamond Crystal kosher salt",
-          "qty": 0.375,
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
-          "note": "total, chicken and sauce (half the usual)"
+          "note": "on the chicken only (the recipe's measured seasoning, halved); the sauce's to-taste pinches are left to Jami at the table"
         }
       ],
-      "notes": "Rainy-night backup in Joshua Tree, if you don't eat out: everything from the Vons there plus a small kit from home, all stovetop in your cast iron (no grill or oven needed). Mix half the za'atar with the paprika and garlic powder; season the thighs with it and the salt. Soften the sliced onion in oil, push aside, sear the thighs 4-5 min a side; add the cherry tomatoes, lemon juice and the rest of the za'atar, cover 5-10 min until the tomatoes burst and the chicken hits 165°F. Finish with oil, lemon zest and parsley. Serve over whole-wheat couscous. Salted light: Jami, salt at the table.",
+      "notes": "Rainy-night backup in Joshua Tree, if you don't eat out: everything from the Vons there plus a small kit from home, all stovetop in your cast iron (no grill or oven needed). Mix half the za'atar with the paprika and garlic powder; season the thighs with it and the salt. Soften the sliced onion in oil, push aside, sear the thighs 4-5 min a side; add the cherry tomatoes, lemon juice and the rest of the za'atar, cover 5-10 min until the tomatoes burst and the chicken hits 165°F. Finish with oil, lemon zest and parsley. Serve over whole-wheat couscous. Salted light: 1/4 tsp on the chicken only; Jami salts at the table.",
       "nutrition": {
         "perServing": {
           "calories": 520,
@@ -1340,7 +1319,7 @@
           "fatG": 18,
           "saturatedFatG": 3,
           "fiberG": 8,
-          "sodiumMg": 380,
+          "sodiumMg": 310,
           "potassiumMg": 830
         },
         "servings": 2,
@@ -1355,7 +1334,7 @@
         ],
         "assumptions": [
           "3 boneless skinless thighs, about 4 oz each raw, unenhanced",
-          "3/8 tsp Diamond Crystal kosher in total (halved)",
+          "1/4 tsp Diamond Crystal kosher on the chicken only; no to-taste salt in the sauce",
           "za'atar without added salt (a salted store blend adds about 100-200 mg)",
           "2/3 cup dry whole-wheat couscous cooked without salt",
           "about 1 1/3 tbsp oil eaten"

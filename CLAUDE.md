@@ -84,7 +84,10 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
   he cuts the salt while cooking, Jami salts her own plate at the table, and he
   gives her a heads-up when a dish is salted light.** So in every recipe note
   where the salt was cut, say how much went in and add "salted light: Jami,
-  salt at the table." This is not medical advice; the user follows his doctor.
+  salt at the table." **"Salt to taste" means none in the pot (2026-11-21):**
+  whenever a recipe salts to taste (or "season with salt and pepper" with no
+  amount), he adds none and Jami salts at the table. Measured salt (a teaspoon
+  in a rub, salt with the onions) is halved, and he may skip that too. This is not medical advice; the user follows his doctor.
 - **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
   breakfast, so plan one person. No recipes, no night-before prep, nothing
   multi-step (no shakshuka or frittatas). Rotate a handful of 1–5 minute options:
@@ -218,8 +221,10 @@ enough is the standard. A separate photo tracker reads them through
   recipe page. When calories differ by more than 20%, say why in
   `assumptions`.
 - **Sodium rules:**
-  - Count all added salt, and turn "to taste" into a stated amount and salt type
-    (Diamond Crystal kosher ≈ 1,120 mg/tsp, Morton kosher ≈ 1,920, table ≈ 2,330).
+  - Count all added salt. In this household "to taste" is **zero** for his plate
+    (Jami salts at the table), so record "no added salt" in `assumptions`.
+    Measured salt is halved; state the amount and type (Diamond Crystal kosher
+    ≈ 1,120 mg/tsp, Morton kosher ≈ 1,920, table ≈ 2,330).
   - Use low-sodium values only when the ingredient line says so.
   - State the absorbed fraction for brines, marinades and salted water.
   - Set `sodiumConfidence: "low"` for salt to taste, brines, or an unspecified
@@ -235,7 +240,8 @@ enough is the standard. A separate photo tracker reads them through
   skip, like the 11/22 garlic toasts. Calories and
   protein targets aren't set yet; ask before adding them. Build every week
   lower-sodium by default:
-  - Halve a recipe's added salt and state the amount and type in the notes.
+  - Halve a recipe's measured salt and state the amount and type in the notes;
+    "to taste" salt is left out entirely (Jami's table salt).
   - Buy no-salt-added canned tomatoes, tomato sauce and beans, and low-sodium
     broth. Use water where broth is optional. Already in his pantry: **Mutti
     baby Roma tomatoes, labeled "low sodium"** (85 mg sodium and 810 mg
