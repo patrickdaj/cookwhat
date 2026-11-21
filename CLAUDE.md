@@ -80,8 +80,11 @@ replanned as all-Mediterranean, using what was already in the house for Monday.
   sodium in the shared cooking (low-sodium broth, measure fish sauce, soy and
   salt, and flavor with acid, herbs and spice) and lean on potassium-rich
   produce. Salty extras like bread, garlic toasts and salted nuts can still be on
-  the table for her; tag them `optional` so his totals skip them, and she can
-  salt her own plate. This is not medical advice; the user follows his doctor.
+  the table for her; tag them `optional` so his totals skip them. **His practice:
+  he cuts the salt while cooking, Jami salts her own plate at the table, and he
+  gives her a heads-up when a dish is salted light.** So in every recipe note
+  where the salt was cut, say how much went in and add "salted light: Jami,
+  salt at the table." This is not medical advice; the user follows his doctor.
 - **Breakfasts: just him, and easy for real (2026-11-02).** His wife does her own
   breakfast, so plan one person. No recipes, no night-before prep, nothing
   multi-step (no shakshuka or frittatas). Rotate a handful of 1–5 minute options:
