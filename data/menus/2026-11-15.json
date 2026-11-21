@@ -541,7 +541,7 @@
       ],
       "activeTimeMin": 25,
       "totalTimeMin": 40,
-      "servings": 3,
+      "servings": 2,
       "ingredients": [
         {
           "item": "extra-large shrimp (21–25/lb)",
@@ -594,17 +594,17 @@
         },
         {
           "item": "Mutti baby Roma tomatoes (low sodium)",
-          "qty": 2,
+          "qty": 1,
           "unit": "can",
           "category": "canned",
-          "note": "about 14 oz each = the book's one 28-oz can; drain, keep 1/2 cup juice. 85 mg sodium per 1/2 cup"
+          "note": "one 14-oz can, drained, 1/4 cup juice kept (half the book's sauce). 85 mg sodium per 1/2 cup"
         },
         {
           "item": "dry white wine",
-          "qty": 3,
+          "qty": 2,
           "unit": "tbsp",
           "category": "beverages",
-          "note": ""
+          "note": "half the sauce"
         },
         {
           "item": "fresh parsley",
@@ -628,20 +628,20 @@
           "note": ""
         }
       ],
-      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, no salt at all (measured salt skipped too). Really 3 servings: 1 lb shrimp with the full sauce. 11/21: one for dinner (just him), two frozen with orzo for lunches.",
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, no salt at all (measured salt skipped too). 11/21: 2 servings with one Mutti can (half the sauce): dinner for him, one portion frozen with orzo for a lunch. With less sauce, simmer it only 3-5 min before the shrimp go in.",
       "nutrition": {
         "perServing": {
-          "calories": 370,
-          "proteinG": 33,
+          "calories": 520,
+          "proteinG": 49,
           "carbsG": 19,
-          "fatG": 15,
-          "saturatedFatG": 2,
-          "fiberG": 3,
-          "sodiumMg": 350,
-          "potassiumMg": 1870
+          "fatG": 22,
+          "saturatedFatG": 3,
+          "fiberG": 4,
+          "sodiumMg": 420,
+          "potassiumMg": 1840
         },
-        "servings": 3,
-        "servingDescription": "a third of the pan: about 5 oz shrimp with about 2/3 cup tomato sauce",
+        "servings": 2,
+        "servingDescription": "half the pan: about 8 oz shrimp with about 1/2 cup tomato sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
@@ -651,11 +651,10 @@
           "onion and pepper"
         ],
         "assumptions": [
-          "two 14-oz Mutti low-sodium cans, drained with 1/2 cup juice kept, about 80% of their sodium retained",
           "1 lb untreated raw shrimp (confirmed: shrimp only)",
           "no feta (skipped 11/21)",
           "no added salt at all: the measured salt was skipped too (11/21)",
-          "1 lb shrimp with the full 28-oz-can sauce makes about 3 servings (the book: 1 1/2 lb serves 4 to 6)"
+          "one 14-oz Mutti low-sodium can, drained with 1/4 cup juice kept, about 80% of its sodium retained"
         ],
         "estimatedAt": "2026-11-21"
       }
