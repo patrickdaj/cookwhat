@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-21T16:48:42.980Z",
+  "generatedAt": "2026-11-21T17:04:57.012Z",
   "targetServings": null,
   "sections": [
     {
@@ -145,14 +145,12 @@
         },
         {
           "item": "garlic",
-          "qty": 13,
+          "qty": 10,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
             "Chicken Bouillabaisse",
-            "Rouille",
-            "Garlic Toasts",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
             "Greek Style Stuffed Peppers",
@@ -187,12 +185,11 @@
         },
         {
           "item": "lemon",
-          "qty": 2.5,
+          "qty": 1.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Rouille",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans"
           ],
@@ -413,40 +410,6 @@
       ]
     },
     {
-      "category": "dairy",
-      "items": [
-        {
-          "item": "egg",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "dairy",
-          "fromMeals": [
-            "Rouille"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        }
-      ]
-    },
-    {
-      "category": "bakery",
-      "items": [
-        {
-          "item": "baguette",
-          "qty": 1,
-          "dim": "",
-          "unitLabel": "",
-          "category": "bakery",
-          "fromMeals": [
-            "Rouille"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        }
-      ]
-    },
-    {
       "category": "pantry",
       "items": [
         {
@@ -460,18 +423,6 @@
           ],
           "hasUnquantified": true,
           "unit": ""
-        },
-        {
-          "item": "Dijon mustard",
-          "qty": 0.67,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Rouille"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "dried tart (sour) cherries",
@@ -559,13 +510,12 @@
         },
         {
           "item": "saffron threads",
-          "qty": 0.5,
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Rouille"
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -679,13 +629,12 @@
       "items": [
         {
           "item": "cayenne pepper",
-          "qty": 0.25,
+          "qty": 0.13,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Rouille"
+            "Chicken Bouillabaisse"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -864,7 +813,6 @@
   "excludedStaples": [
     "all-purpose flour",
     "extra-virgin olive oil",
-    "vegetable oil",
     "Diamond Crystal kosher salt",
     "water",
     "unsalted butter",
@@ -880,5 +828,5 @@
       "cookbook": false
     }
   ],
-  "totalItems": 66
+  "totalItems": 63
 }
