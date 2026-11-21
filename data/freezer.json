@@ -3,12 +3,12 @@
   "items": [
     {
       "dish": "Greek-Style Shrimp with Tomatoes (ATK p.269) + orzo",
-      "portions": 1,
+      "portions": 2,
       "cooked": "2026-11-21",
       "source": "data/menus/2026-11-15.json",
       "status": "in",
       "confirmed": "2026-11-21",
-      "note": "Lunch only. No salt and no feta: about 520 mg sodium for the portion. Use within about a month; thaw in the fridge overnight, reheat gently covered with a splash of water (stop as soon as it's hot so the shrimp don't toughen)."
+      "note": "Lunch only. No salt and no feta: about 350 mg sodium per portion (a third of the pan) plus the orzo. Use within about a month; thaw in the fridge overnight, reheat gently covered with a splash of water (stop as soon as it's hot so the shrimp don't toughen)."
     },
     {
       "dish": "Chicken Tagine with Chickpeas and Apricots (ATK p.303)",

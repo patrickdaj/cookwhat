@@ -541,7 +541,7 @@
       ],
       "activeTimeMin": 25,
       "totalTimeMin": 40,
-      "servings": 2,
+      "servings": 3,
       "ingredients": [
         {
           "item": "extra-large shrimp (21–25/lb)",
@@ -628,20 +628,20 @@
           "note": ""
         }
       ],
-      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, no salt at all (measured salt skipped too).",
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, no salt at all (measured salt skipped too). Really 3 servings: 1 lb shrimp with the full sauce. 11/21: one for dinner (just him), two frozen with orzo for lunches.",
       "nutrition": {
         "perServing": {
-          "calories": 560,
-          "proteinG": 50,
-          "carbsG": 28,
-          "fatG": 22,
-          "saturatedFatG": 3,
-          "fiberG": 5,
-          "sodiumMg": 520,
-          "potassiumMg": 2810
+          "calories": 370,
+          "proteinG": 33,
+          "carbsG": 19,
+          "fatG": 15,
+          "saturatedFatG": 2,
+          "fiberG": 3,
+          "sodiumMg": 350,
+          "potassiumMg": 1870
         },
-        "servings": 2,
-        "servingDescription": "half the pan: about 8 oz shrimp in about 1 cup tomato sauce",
+        "servings": 3,
+        "servingDescription": "a third of the pan: about 5 oz shrimp with about 2/3 cup tomato sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
@@ -654,7 +654,8 @@
           "two 14-oz Mutti low-sodium cans, drained with 1/2 cup juice kept, about 80% of their sodium retained",
           "1 lb untreated raw shrimp (confirmed: shrimp only)",
           "no feta (skipped 11/21)",
-          "no added salt at all: the measured salt was skipped too (11/21)"
+          "no added salt at all: the measured salt was skipped too (11/21)",
+          "1 lb shrimp with the full 28-oz-can sauce makes about 3 servings (the book: 1 1/2 lb serves 4 to 6)"
         ],
         "estimatedAt": "2026-11-21"
       }
