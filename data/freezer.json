@@ -2,22 +2,32 @@
   "note": "Freezer stash of cooked portions. Add when frozen, set used when eaten; check at the start of each week's planning. Status 'planned' means it should be in the freezer per the plan but hasn't been confirmed. Frozen portions are for his lunches, not dinners (Patrick, 2026-11-19).",
   "items": [
     {
+      "dish": "Chicken Tagine with Chickpeas and Apricots (ATK p.303)",
+      "portions": 2,
+      "cooked": "2026-11-17",
+      "source": "data/menus/2026-11-15.json",
+      "status": "in",
+      "confirmed": "2026-11-21",
+      "note": "Lunch only. Reheat covered with a splash of water."
+    },
+    {
       "dish": "Daube Provençale + garlic smashed baby reds",
-      "portions": 3,
+      "portions": 1,
       "cooked": "2026-11-15",
       "source": "data/menus/2026-11-15.json",
-      "status": "planned",
-      "earmarked": "2 for his Sat 11/21 lunch + dinner",
-      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh."
+      "status": "in",
+      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh.",
+      "confirmed": "2026-11-21"
     },
     {
       "dish": "Spanish Paprika Chicken (with its roasted tomatoes, onions, peppers + juices)",
-      "portions": 2,
+      "portions": 1,
       "cooked": "2026-11-14",
       "source": "data/menus/2026-11-08.json",
-      "status": "planned",
+      "status": "in",
       "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon.",
-      "earmarked": "lunches only (no freezer dinners, per Patrick 11/19)"
+      "earmarked": "lunches only",
+      "confirmed": "2026-11-21"
     },
     {
       "dish": "Greek Style Stuffed Peppers (TMD)",
@@ -38,7 +48,7 @@
   ],
   "pulls": [
     {
-      "what": "Daube or Spanish chicken, 1 portion",
+      "what": "Tagine, Spanish chicken or daube, 1 portion",
       "when": "Sat 11/28 on return",
       "for": "his Sat 11/28 lunch"
     }
