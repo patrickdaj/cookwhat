@@ -626,16 +626,9 @@
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
-        },
-        {
-          "item": "table salt",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "the book's measured salt halved: 1/8 tsp on the shrimp + 1/8 tsp with the onion and pepper; skip both to save about 290 mg a serving. No to-taste salt in the sauce (Jami salts at the table)"
         }
       ],
-      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, measured salt halved, none to taste.",
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night). As cooked 11/21: no feta, untreated raw shrimp, no salt at all (measured salt skipped too).",
       "nutrition": {
         "perServing": {
           "calories": 560,
@@ -644,7 +637,7 @@
           "fatG": 22,
           "saturatedFatG": 3,
           "fiberG": 5,
-          "sodiumMg": 810,
+          "sodiumMg": 520,
           "potassiumMg": 2810
         },
         "servings": 2,
@@ -654,15 +647,14 @@
         "sodiumConfidence": "medium",
         "sodiumDrivers": [
           "shrimp (natural sodium)",
-          "measured salt",
-          "canned tomatoes"
+          "canned tomatoes",
+          "onion and pepper"
         ],
         "assumptions": [
           "two 14-oz Mutti low-sodium cans, drained with 1/2 cup juice kept, about 80% of their sodium retained",
-          "measured salt halved to 1/4 tsp table salt in total; none to taste",
           "1 lb untreated raw shrimp (confirmed: shrimp only)",
           "no feta (skipped 11/21)",
-          "without the measured salt: about 520 mg"
+          "no added salt at all: the measured salt was skipped too (11/21)"
         ],
         "estimatedAt": "2026-11-21"
       }

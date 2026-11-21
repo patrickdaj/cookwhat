@@ -541,6 +541,11 @@ ribs, a birthday steak) still flex — just don't stack the rich ones.
   seeds. Zero trans fats (partially hydrogenated anything).
 - **Omega-3 fish ~2×/week** (salmon, trout, sardines, mackerel) — dovetails with
   `seafoodMin` and the Mediterranean pattern.
+- **Shellfish once or twice a month, not weekly (2026-11-21).** Shrimp, scallops,
+  crab and lobster are naturally salty (8 oz shrimp ≈ 300 mg before any salt),
+  so fish nights lean on salmon, trout and white fish (cod, snapper, sea bass,
+  halibut; about 100–150 mg per 6 oz). When shrimp is on, plan 5–6 oz per person,
+  skip the measured salt and let garlic, lemon, herbs and wine carry it.
 - **Fiber from oats / whole grains / veg / fruit — NOT beans.** Normally you'd
   push legumes for LDL, but this user keeps bean use low, so get soluble fiber
   from oats, barley, farro, brown rice, quinoa, and lots of vegetables/fruit
