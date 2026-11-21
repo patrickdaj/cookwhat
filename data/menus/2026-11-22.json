@@ -564,13 +564,13 @@
         },
         {
           "item": "Morton kosher salt",
-          "qty": 0.25,
+          "qty": 0.5,
           "unit": "tsp",
           "category": "spices",
-          "note": "dry brine for both breasts (about 1 lb): half of Meathead's 1/2 tsp per pound"
+          "note": "dry brine for both breasts (about 1 lb): Meathead's 1/2 tsp per pound"
         }
       ],
-      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes. Lower-sodium build (2026-11-21): half-strength dry brine, 1/4 tsp Morton kosher for both breasts; the cherry-port sauce carries plenty of flavor.",
+      "notes": "Scaled for 2 (book makes 2). Score the skin in a 3/4-1 in crosshatch through the fat, salt + rub both sides, dry brine ~3 hr. Book method: two-zone grill, cast-iron pan preheated on the hot side 10 min; skin side down until dark brown, flip and sear 3 min, move breasts to the indirect side to 135°F (~30 min). Sauce in the wiped pan: 2 tbsp butter, shallots till limp, then broth, port, vinegar and cherries reduced by half; mount with 2 tbsp butter. Slice thin on an angle, fan over sauce. No grill at the rental: render skin-side down over medium in cast iron (pour off fat as it builds), flip and sear 3 min, finish in a 300–325°F oven to 135°F; vent the kitchen, it smokes. Save the clean duck fat for potatoes.",
       "nutrition": {
         "perServing": {
           "calories": 810,
@@ -579,7 +579,7 @@
           "fatG": 36,
           "saturatedFatG": 17,
           "fiberG": 4,
-          "sodiumMg": 380,
+          "sodiumMg": 570,
           "potassiumMg": 820
         },
         "servings": 2,
@@ -597,7 +597,7 @@
           "scored skin renders out about 60% of its fat, poured off",
           "8 oz sweetened dried tart cherries makes a lot of sauce; about three-quarters of it assumed eaten",
           "about 40% of the port's alcohol calories remain after reducing",
-          "dry brine is 1/4 tsp Morton kosher for about 1 lb of duck (half of Meathead's rate, 2026-11-21), about 80% retained"
+          "dry brine is Meathead's 1/2 tsp Morton kosher per pound, about 1 lb of duck, about 80% retained"
         ],
         "estimatedAt": "2026-11-21"
       }
@@ -637,10 +637,10 @@
         },
         {
           "item": "white miso",
-          "qty": 2,
-          "unit": "tsp",
+          "qty": 1,
+          "unit": "tbsp",
           "category": "pantry",
-          "note": "for both servings (lower-sodium: 2 tsp instead of 1 tbsp)"
+          "note": "for both servings"
         },
         {
           "item": "honey",
@@ -694,7 +694,7 @@
           "fatG": 12,
           "saturatedFatG": 7,
           "fiberG": 5,
-          "sodiumMg": 240,
+          "sodiumMg": 350,
           "potassiumMg": 530
         },
         "servings": 2,
@@ -708,7 +708,7 @@
           "sweet potatoes"
         ],
         "assumptions": [
-          "miso butter quantities are not set yet; assumed 2 tbsp unsalted butter, 2 tsp white miso, 1 tsp honey, 1 tsp mirin and a splash of rice vinegar for both servings",
+          "miso butter quantities are not set yet; assumed 2 tbsp unsalted butter, 1 tbsp white miso, 1 tsp honey, 1 tsp mirin and a splash of rice vinegar for both servings",
           "small Japanese sweet potatoes about 140 g each, 130 kcal per 100 g",
           "no added salt beyond the miso",
           "about 1 tbsp bonito flakes per serving"
@@ -769,16 +769,9 @@
           "unit": "cup",
           "category": "pantry",
           "note": "toasted, skinned, chopped (his addition)"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "total (half the usual)"
         }
       ],
-      "notes": "Recipe method: 425°F; oil, salt, pepper; roast 15 min, stir, 10-15 more until tender and browned (delicata half-moons may need slightly less). Meanwhile brown the butter over medium until the foam subsides, add sage ~30 sec until the butter is light hazelnut-brown and the sage crisp; pour over the squash immediately, toss, top with toasted hazelnuts. Toast/chop hazelnuts at home Wednesday. Lower-sodium build (2026-11-21): 1/4 tsp Diamond Crystal kosher; the brown butter, sage and hazelnuts do the work.",
+      "notes": "Recipe method: 425°F; oil, salt, pepper; roast 15 min, stir, 10-15 more until tender and browned (delicata half-moons may need slightly less). Meanwhile brown the butter over medium until the foam subsides, add sage ~30 sec until the butter is light hazelnut-brown and the sage crisp; pour over the squash immediately, toss, top with toasted hazelnuts. Toast/chop hazelnuts at home Wednesday.",
       "nutrition": {
         "perServing": {
           "calories": 310,
@@ -787,7 +780,7 @@
           "fatG": 24,
           "saturatedFatG": 7,
           "fiberG": 4,
-          "sodiumMg": 150,
+          "sodiumMg": 290,
           "potassiumMg": 810
         },
         "servings": 2,
@@ -802,7 +795,7 @@
         "assumptions": [
           "1 large delicata gives about 400 g after seeding",
           "all of the oil and brown butter is eaten",
-          "salt is 1/4 tsp Diamond Crystal kosher in total (halved 2026-11-21)"
+          "salt to taste assumed 1/2 tsp Diamond Crystal kosher in total"
         ],
         "estimatedAt": "2026-11-21"
       }

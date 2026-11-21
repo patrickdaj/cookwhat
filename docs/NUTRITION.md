@@ -114,7 +114,9 @@ In `cookwhat.config.json`:
 `plan check` warns when a day's dinner goes over its share of a **ceiling**
 target: calories, carbs, fat, saturated fat or sodium. Protein and fiber are
 amounts to reach, so they're shown in the totals but never flagged for going
-over. These are warnings and never block `plan set`.
+over. These are warnings and never block `plan set`. A day whose dinner has a
+dish tagged `holiday` or `celebration` still gets totals but no target
+warnings.
 
 ## Commands
 

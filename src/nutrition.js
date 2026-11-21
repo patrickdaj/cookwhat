@@ -138,13 +138,14 @@ export function nutritionByDay(menu) {
   const byDay = new Map();
   const get = (d) => {
     if (!byDay.has(d))
-      byDay.set(d, { day: d, dishes: [], missing: [], totals: zero(), dinner: zero() });
+      byDay.set(d, { day: d, dishes: [], missing: [], totals: zero(), dinner: zero(), exempt: false });
     return byDay.get(d);
   };
   for (const m of menu.meals || []) {
     for (const d of daysEaten(m)) {
       const row = get(d);
       const ref = { id: m.id, title: m.title, slot: m.slot || "dinner", leftover: d !== m.day };
+      if (ref.slot === "dinner" && isTargetExempt(m)) row.exempt = true;
       if (!hasValidNutrition(m)) {
         row.missing.push(ref);
         continue;
@@ -172,6 +173,12 @@ export function dinnerShare(cfg) {
   return isNum(s) && s > 0 && s <= 1 ? s : DEFAULT_DINNER_SHARE;
 }
 
+// Holiday and celebration dinners still get totals but no target warnings.
+const EXEMPT_TAGS = ["holiday", "celebration"];
+export function isTargetExempt(meal) {
+  return (meal.tags || []).some((t) => EXEMPT_TAGS.includes(String(t).toLowerCase()));
+}
+
 // Warnings for days whose dinner goes over its share of a ceiling target.
 export function targetWarnings(days, cfg) {
   const targets = activeTargets(cfg);
@@ -180,6 +187,7 @@ export function targetWarnings(days, cfg) {
   for (const row of days) {
     for (const k of CEILING_KEYS) {
       if (targets[k] == null || !row.dishes.some((d) => d.slot === "dinner")) continue;
+      if (row.exempt) continue;
       const limit = targets[k] * share;
       if (row.dinner[k] > limit)
         out.push(

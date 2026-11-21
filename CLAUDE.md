@@ -225,6 +225,12 @@ enough is the standard. A separate photo tracker reads them through
   - Finish with lemon, vinegar, herbs and spice instead of salt.
   - Point takeout toward grilled plates with sauces on the side.
   - When a dinner is over 600 mg, name the biggest driver and offer a swap.
+  - **Holidays and celebrations are exempt ("thanksgiving is a holiday, live a
+    little," 2026-11-21).** Cook those recipes as written and tag the dishes
+    `holiday` (or `celebration`). They still get estimates and totals, but no
+    swaps and no target warnings.
+  - **What's already in the freezer is what it is.** Don't re-plan around it;
+    the lower-sodium build applies to new cooking.
 
 ## Full meals (protein + veggie + carb)
 

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-21T04:44:32.054Z",
+  "generatedAt": "2026-11-21T04:47:53.898Z",
   "targetServings": null,
   "sections": [
     {
@@ -417,9 +417,9 @@
         },
         {
           "item": "white miso",
-          "qty": 0.67,
+          "qty": 1,
           "dim": "vol",
-          "unitLabel": "tsp",
+          "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Japanese Sweet Potato Fingers with Miso Butter"

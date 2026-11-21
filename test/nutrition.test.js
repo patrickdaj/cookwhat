@@ -172,6 +172,20 @@ test("target comparison is off without targets and warns over the dinner share",
   assert.deepEqual(targetWarnings(days, withTargets), []);
 });
 
+test("holiday or celebration dinners get totals but no target warnings", () => {
+  const withTargets = structuredClone(cfg);
+  withTargets.nutrition.targets = { sodiumMg: 1500 };
+  const menu = menuWith([
+    { day: "Thu", title: "Feast", servings: 4, tags: ["holiday"], nutrition: block() },
+    { day: "Fri", title: "Weeknight", servings: 4, nutrition: block() },
+  ]);
+  const days = nutritionByDay(menu);
+  assert.equal(days[0].totals.sodiumMg, 620, "totals still count the holiday");
+  const w = targetWarnings(days, withTargets);
+  assert.equal(w.length, 1);
+  assert.match(w[0], /^Fri dinner/);
+});
+
 // ---- CLI -------------------------------------------------------------------
 
 const BIN = fileURLToPath(new URL("../bin/cookwhat.js", import.meta.url));
