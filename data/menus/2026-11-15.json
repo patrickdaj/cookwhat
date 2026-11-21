@@ -593,11 +593,11 @@
           "note": "book says 1/2 tsp; cut for low heat"
         },
         {
-          "item": "diced tomatoes",
-          "qty": 1,
+          "item": "Mutti baby Roma tomatoes (low sodium)",
+          "qty": 2,
           "unit": "can",
           "category": "canned",
-          "note": "28 oz, drained, 1/2 cup juice saved; no-salt-added if possible"
+          "note": "about 14 oz each = the book's one 28-oz can; drain, keep 1/2 cup juice. 85 mg sodium per 1/2 cup"
         },
         {
           "item": "dry white wine",
@@ -622,10 +622,10 @@
         },
         {
           "item": "feta cheese",
-          "qty": 2,
+          "qty": 0.5,
           "unit": "oz",
           "category": "dairy",
-          "note": "HIS plate only, at the table; none in the pot"
+          "note": "HIS plate only, crumbled fine; none in the pot (2 oz is about 640 mg sodium)"
         },
         {
           "item": "extra-virgin olive oil",
@@ -633,9 +633,46 @@
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
+        },
+        {
+          "item": "table salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "the book's measured salt halved: 1/8 tsp on the shrimp + 1/8 tsp with the onion and pepper; skip both to save about 290 mg a serving. No to-taste salt in the sauce (Jami salts at the table)"
         }
       ],
-      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night)."
+      "notes": "Your loved redo. With 1 lb shrimp it's Friday dinner for two (no leftovers). Feta stays out of the pot — crumble it on your own plate. His Saturday lunch and dinner come from the frozen daube portions (move 2 to the fridge Friday night).",
+      "nutrition": {
+        "perServing": {
+          "calories": 600,
+          "proteinG": 52,
+          "carbsG": 28,
+          "fatG": 25,
+          "saturatedFatG": 5,
+          "fiberG": 5,
+          "sodiumMg": 970,
+          "potassiumMg": 2820
+        },
+        "servings": 2,
+        "servingDescription": "half the pan: about 8 oz shrimp in about 1 cup tomato sauce, with 1/2 oz feta on his plate",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "shrimp (natural sodium)",
+          "measured salt",
+          "canned tomatoes"
+        ],
+        "assumptions": [
+          "1 lb untreated shrimp (no salt or sodium tripolyphosphate on the bag); treated shrimp adds roughly 400-900 mg per serving",
+          "two 14-oz Mutti low-sodium cans, drained with 1/2 cup juice kept, about 80% of their sodium retained",
+          "measured salt halved to 1/4 tsp table salt in total; none to taste",
+          "1/2 oz feta on his plate counted in his serving; Jami has none",
+          "without the measured salt: about 680 mg; also without feta: about 520 mg"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "orzo-fri",
@@ -662,7 +699,32 @@
           "note": "boiled like pasta; whole-wheat if you see it"
         }
       ],
-      "notes": "Boil, drain, toss with a little olive oil; the shrimp sauce goes over it."
+      "notes": "Boil, drain, toss with a little olive oil; the shrimp sauce goes over it.",
+      "nutrition": {
+        "perServing": {
+          "calories": 180,
+          "proteinG": 5,
+          "carbsG": 31,
+          "fatG": 4,
+          "saturatedFatG": 1,
+          "fiberG": 2,
+          "sodiumMg": 0,
+          "potassiumMg": 50
+        },
+        "servings": 4,
+        "servingDescription": "about 3/4 cup cooked orzo",
+        "method": "estimated",
+        "confidence": "high",
+        "sodiumConfidence": "high",
+        "sodiumDrivers": [
+          "orzo"
+        ],
+        "assumptions": [
+          "boiled in unsalted water",
+          "1 tbsp olive oil tossed through the batch"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     },
     {
       "id": "sauteed-chard-garlic",
@@ -711,8 +773,36 @@
           "note": ""
         }
       ],
-      "notes": "Stems first ~6 min, then the leaves in two batches; lemon off the heat. Reheats fine for Saturday."
+      "notes": "Stems first ~6 min, then the leaves in two batches; lemon off the heat. Reheats fine for Saturday.",
+      "nutrition": {
+        "perServing": {
+          "calories": 95,
+          "proteinG": 3,
+          "carbsG": 7,
+          "fatG": 7,
+          "saturatedFatG": 1,
+          "fiberG": 3,
+          "sodiumMg": 360,
+          "potassiumMg": 650
+        },
+        "servings": 4,
+        "servingDescription": "about 3/4 cup cooked chard",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "high",
+        "sodiumDrivers": [
+          "Swiss chard (natural sodium)",
+          "garlic",
+          "lemon"
+        ],
+        "assumptions": [
+          "no added salt (to taste = Jami's table salt)",
+          "chard is naturally salty: about 210 mg per 100 g raw, so 1.5 lb carries about 1,450 mg before any salt"
+        ],
+        "estimatedAt": "2026-11-21"
+      }
     }
   ],
-  "setAt": "2026-11-14T18:23:29.455Z"
+  "setAt": "2026-11-14T18:23:29.455Z",
+  "nutritionSchemaVersion": 1
 }
