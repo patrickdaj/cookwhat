@@ -211,8 +211,20 @@ enough is the standard. A separate photo tracker reads them through
   - List the top three `sodiumDrivers`.
 - `plan check` warns (never blocks) on missing or invalid blocks. Once
   `nutrition.targets` is set, it also warns on dinners over `dinnerShare` of a
-  ceiling target (calories, carbs, fat, saturated fat, sodium). Targets aren't
-  set yet; ask the user for daily calories, protein and sodium.
+  ceiling target (calories, carbs, fat, saturated fat, sodium).
+- **Sodium target: 1,500 mg/day (set 2026-11-21, the AHA ideal for blood
+  pressure),** so a dinner should land near **600 mg per person**. Calories and
+  protein targets aren't set yet; ask before adding them. Build every week
+  lower-sodium by default:
+  - Halve a recipe's added salt and state the amount and type in the notes.
+  - Buy no-salt-added canned tomatoes, tomato sauce and beans, and low-sodium
+    broth. Use water where broth is optional.
+  - Don't salt toasts or bread, and go light on miso, Dijon, cheese and cured
+    meats.
+  - Dry-brine at half strength.
+  - Finish with lemon, vinegar, herbs and spice instead of salt.
+  - Point takeout toward grilled plates with sauces on the side.
+  - When a dinner is over 600 mg, name the biggest driver and offer a swap.
 
 ## Full meals (protein + veggie + carb)
 

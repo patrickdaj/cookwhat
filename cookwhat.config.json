@@ -198,7 +198,9 @@
     "cholesterolConscious": true,
     "redMeatProcessedFried": "infrequent",
     "sodium": "low",
-    "targets": {},
+    "targets": {
+      "sodiumMg": 1500
+    },
     "dinnerShare": 0.4
   },
   "shopping": {

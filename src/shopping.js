@@ -21,16 +21,16 @@ function guessCategory(item) {
 }
 
 function isPantryStaple(name, cfg) {
-  const n = normalizeItem(name);
-  const tokens = new Set(n.split(" "));
+  const words = normalizeItem(name).split(" ");
   return cfg.ingredients.pantryStaples.some((s) => {
-    const ns = normalizeItem(s);
-    if (n === ns) return true;
-    // Match when every word of the staple appears as a whole word in the
-    // ingredient (so "salt" matches "kosher salt"). Variants you actually
-    // buy (e.g. "jasmine rice") stay on the list by keeping bare "rice"/
-    // "pasta" out of the default staples — add them if you want them hidden.
-    return ns.split(" ").every((t) => tokens.has(t));
+    // Match when the ingredient ENDS with the staple (the head noun), so
+    // "kosher salt" and "extra virgin olive oil" are staples, but
+    // "no-salt-added tomato sauce", "all-butter puff pastry" and "water
+    // chestnuts" are not. Variants you actually buy (e.g. "jasmine rice") stay
+    // on the list by keeping bare "rice"/"pasta" out of the default staples.
+    const sw = normalizeItem(s).split(" ");
+    if (sw.length > words.length) return false;
+    return sw.every((t, i) => words[words.length - sw.length + i] === t);
   });
 }
 

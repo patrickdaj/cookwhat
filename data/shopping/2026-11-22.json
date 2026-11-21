@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-19T13:50:34.088Z",
+  "generatedAt": "2026-11-21T04:44:32.054Z",
   "targetServings": null,
   "sections": [
     {
@@ -417,15 +417,15 @@
         },
         {
           "item": "white miso",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
+          "qty": 0.67,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "pantry",
           "fromMeals": [
             "Japanese Sweet Potato Fingers with Miso Butter"
           ],
-          "hasUnquantified": true,
-          "unit": ""
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "white rice",
@@ -445,7 +445,20 @@
       "category": "canned",
       "items": [
         {
-          "item": "chickpeas",
+          "item": "low-sodium chicken broth",
+          "qty": 3.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Chicken Bouillabaisse",
+            "Grilled Duck Breasts in Cherry-Port Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "no-salt-added chickpeas",
           "qty": 1,
           "dim": "vol",
           "unitLabel": "cup",
@@ -457,7 +470,7 @@
           "unit": "cup"
         },
         {
-          "item": "diced tomatoes",
+          "item": "no-salt-added diced tomatoes",
           "qty": 1,
           "dim": "14.5-oz can",
           "unitLabel": "14.5-oz can",
@@ -469,21 +482,7 @@
           "unit": "14.5-oz can"
         },
         {
-          "item": "low-sodium chicken broth",
-          "qty": 4.25,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "canned",
-          "fromMeals": [
-            "Chicken Bouillabaisse",
-            "Greek Style Stuffed Peppers",
-            "Grilled Duck Breasts in Cherry-Port Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
-        },
-        {
-          "item": "tomato sauce",
+          "item": "no-salt-added tomato sauce",
           "qty": 0.25,
           "dim": "vol",
           "unitLabel": "cup",
@@ -554,6 +553,18 @@
       "category": "frozen",
       "items": [
         {
+          "item": "all-butter puff pastry",
+          "qty": 1,
+          "dim": "sheet",
+          "unitLabel": "sheet",
+          "category": "frozen",
+          "fromMeals": [
+            "Pear Tarte Tatin"
+          ],
+          "hasUnquantified": false,
+          "unit": "sheet"
+        },
+        {
           "item": "vanilla ice cream",
           "qty": 1,
           "dim": "pint",
@@ -612,11 +623,13 @@
   "excludedStaples": [
     "all-purpose flour",
     "extra-virgin olive oil",
+    "Diamond Crystal kosher salt",
     "vegetable oil",
+    "water",
     "unsalted butter",
+    "Morton kosher salt",
     "olive oil",
-    "sugar",
-    "all-butter puff pastry"
+    "sugar"
   ],
   "pendingScans": [
     {
@@ -626,5 +639,5 @@
       "cookbook": true
     }
   ],
-  "totalItems": 46
+  "totalItems": 47
 }

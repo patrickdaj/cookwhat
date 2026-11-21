@@ -168,6 +168,33 @@ test("buildShoppingList excludes pantry staples but keeps named variants", () =>
   assert.ok(items.includes("jasmine rice"), "jasmine rice should NOT be excluded");
 });
 
+test("pantry staples match the ingredient's head noun, not any word in it", () => {
+  const menu = {
+    weekOf: "2026-06-15",
+    meals: [
+      makeMeal(
+        {
+          day: "Mon",
+          title: "A",
+          servings: 4,
+          ingredients: [
+            { item: "Diamond Crystal kosher salt", qty: 1, unit: "tsp" },
+            { item: "extra-virgin olive oil", qty: 2, unit: "tbsp" },
+            { item: "no-salt-added diced tomatoes", qty: 1, unit: "can" },
+            { item: "all-butter puff pastry", qty: 1, unit: "sheet" },
+            { item: "water chestnuts", qty: 1, unit: "can" },
+          ],
+        },
+        cfg
+      ),
+    ],
+  };
+  const items = buildShoppingList(menu, cfg).sections.flatMap((s) => s.items).map((i) => i.item);
+  assert.ok(!items.some((i) => /kosher salt|olive oil/.test(i)), "salt and oil are staples");
+  for (const keep of ["no-salt-added diced tomatoes", "all-butter puff pastry", "water chestnuts"])
+    assert.ok(items.includes(keep), `${keep} must stay on the list`);
+});
+
 test("suggestRedos ranks loved meals and drops low ratings", () => {
   saveHistory([
     { date: "2026-05-01", title: "Tacos", rating: 5, redo: true, cuisine: "mexican" },
