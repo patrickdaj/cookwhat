@@ -674,7 +674,7 @@
       ],
       "activeTimeMin": 2,
       "totalTimeMin": 12,
-      "servings": 4,
+      "servings": 2,
       "ingredients": [
         {
           "item": "orzo",
@@ -687,17 +687,17 @@
       "notes": "Boil, drain, toss with a little olive oil; the shrimp sauce goes over it.",
       "nutrition": {
         "perServing": {
-          "calories": 180,
-          "proteinG": 5,
-          "carbsG": 31,
-          "fatG": 4,
+          "calories": 370,
+          "proteinG": 11,
+          "carbsG": 63,
+          "fatG": 8,
           "saturatedFatG": 1,
-          "fiberG": 2,
+          "fiberG": 3,
           "sodiumMg": 0,
-          "potassiumMg": 50
+          "potassiumMg": 170
         },
-        "servings": 4,
-        "servingDescription": "about 3/4 cup cooked orzo",
+        "servings": 2,
+        "servingDescription": "half of the 1 cup dry orzo, about 1 1/2 cups cooked",
         "method": "estimated",
         "confidence": "high",
         "sodiumConfidence": "high",
@@ -705,8 +705,10 @@
           "orzo"
         ],
         "assumptions": [
+          "1 cup dry orzo is about 170 g (Barilla lists 2 oz = about 1/3 cup = 200 kcal), so about 610 kcal per cup dry",
           "boiled in unsalted water",
-          "1 tbsp olive oil tossed through the batch"
+          "1 tbsp olive oil tossed through",
+          "11/21: split two ways, his dinner plus the frozen lunch portion with the shrimp"
         ],
         "estimatedAt": "2026-11-21"
       }
