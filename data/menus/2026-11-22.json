@@ -517,8 +517,7 @@
         "web",
         "new",
         "batch",
-        "freezes",
-        "covers-wed"
+        "freezes"
       ],
       "activeTimeMin": 35,
       "totalTimeMin": 65,
@@ -603,7 +602,7 @@
           "note": "for the baking dish (instead of broth)"
         }
       ],
-      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: Tue dinner for two, his Wed lunch, Wed dinner for two, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Wednesday dinner is the leftovers: reheat covered at 350°F with a splash of water, ~20 min. Lower-sodium build (2026-11-21): no added salt (to taste = Jami's table salt), no-salt-added tomato sauce and chickpeas, water in the baking dish; finish with lemon. Salted light: Jami, salt at the table.",
+      "notes": "One-dish full meal (beef, rice, peppers), dairy-free. Soak the rice 20-30 min while you chop. Brown onion then beef deeply; add parsley, rice, paprika, tomato sauce + 2 1/4 cups water, simmer to half, then low and covered 20 min. Meanwhile char the peppers on a grill pan or skillet 10-15 min, covered, turning. Stuff, set in a dish with 3/4 cup broth/water, foil-tent, 350°F for 20-30 min. 6 peppers: 2 each for Tuesday dinner (one is a light dinner), his Wed lunch, 1 to freeze for a lunch. Freezes 1-2 months; reheat in a medium oven with a splash of liquid. Red meat night of the week (1/2 lb across 6 = lean). Lower-sodium build (2026-11-21): no added salt (to taste = Jami's table salt), no-salt-added tomato sauce and chickpeas, water in the baking dish; finish with lemon. Salted light: Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 280,
@@ -631,6 +630,142 @@
           "no added salt: the recipe salts to taste, so Jami salts at the table"
         ],
         "estimatedAt": "2026-11-21"
+      }
+    },
+    {
+      "id": "sheet-pan-salmon-wed",
+      "day": "Wed",
+      "slot": "dinner",
+      "role": "main",
+      "title": "Sheet Pan Salmon and Vegetables (with zucchini)",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/sheet-pan-salmon-and-vegetables/",
+      "cuisine": "levantine",
+      "protein": "salmon",
+      "tags": [
+        "web",
+        "new",
+        "weeknight",
+        "fresh-fish",
+        "one-pan"
+      ],
+      "activeTimeMin": 15,
+      "totalTimeMin": 35,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "salmon fillets, skinless",
+          "qty": 2,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "4-5 oz each (half the recipe)"
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "unit": "medium",
+          "category": "produce",
+          "note": "1-inch half-moons, in place of the recipe's cauliflower (no cauliflower, per Patrick)"
+        },
+        {
+          "item": "carrots",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "halved lengthwise if thick, 1/2-in diagonal pieces"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "item": "paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices"
+        },
+        {
+          "item": "baharat",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "or mix from your shelf: 1/4 tsp cumin, a pinch each of coriander, allspice and cinnamon"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "in the spice mix (the recipe's 1 1/4 tsp for 4, halved and scaled)"
+        },
+        {
+          "item": "Castelvetrano olives",
+          "qty": 4,
+          "unit": "",
+          "category": "pantry",
+          "note": "pitted, slivered; optional (about 60 mg sodium each); any green olive works"
+        },
+        {
+          "item": "lemon",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce"
+        },
+        {
+          "item": "fresh cilantro or parsley",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "parsley from the weekend works"
+        },
+        {
+          "item": "whole-wheat couscous",
+          "qty": 0.67,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the carb, already at home; cook per the box in water, no salt"
+        }
+      ],
+      "notes": "Easy Wednesday (prep-and-packing night): one pan, mostly hands-off. Oven 450°F. Mix the paprika, baharat, salt and pepper. Toss the zucchini, carrots and garlic with 1 tbsp oil and most of the spice mix; roast 15 min. Brush the salmon with the rest of the oil and spices; push the veg aside, add the olives and salmon, roast 5-8 min more until just opaque. Lemon over everything, herbs on top; couscous on the side (5 min). Fresh fish for two, eaten tonight. Salted light: 1/4 tsp in the spice mix; Jami salts at the table.",
+      "nutrition": {
+        "perServing": {
+          "calories": 630,
+          "proteinG": 36,
+          "carbsG": 54,
+          "fatG": 29,
+          "saturatedFatG": 6,
+          "fiberG": 9,
+          "sodiumMg": 390,
+          "potassiumMg": 1260
+        },
+        "servings": 2,
+        "servingDescription": "one 4-5 oz salmon fillet with about 1 1/2 cups roasted zucchini and carrots and 1 cup couscous",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
+        "sodiumDrivers": [
+          "added kosher salt",
+          "olives",
+          "salmon"
+        ],
+        "assumptions": [
+          "half the recipe: two 4 1/2 oz farmed salmon fillets",
+          "1/4 tsp Diamond Crystal kosher in the spice mix (halved); none to taste",
+          "4 Castelvetrano olives across both plates (skip them to save about 120 mg each)",
+          "1/3 cup dry whole-wheat couscous each, cooked without salt",
+          "cross-check: The Mediterranean Dish publishes 408 kcal and 276 mg sodium per serving for the salmon and vegetables alone; this is about 430 kcal before the couscous",
+          "zucchini in place of the recipe's cauliflower (2 medium for two)"
+        ],
+        "estimatedAt": "2026-11-24"
       }
     },
     {

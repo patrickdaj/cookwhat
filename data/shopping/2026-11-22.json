@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-21T17:18:08.513Z",
+  "generatedAt": "2026-11-24T16:51:38.912Z",
   "targetServings": null,
   "sections": [
     {
@@ -26,6 +26,18 @@
           "category": "produce",
           "fromMeals": [
             "Pear Tarte Tatin"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "carrots",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -91,6 +103,18 @@
           "unit": "bunch"
         },
         {
+          "item": "fresh cilantro or parsley",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "produce",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "fresh parsley",
           "qty": 1,
           "dim": "bunch",
@@ -134,7 +158,7 @@
         },
         {
           "item": "garlic",
-          "qty": 13,
+          "qty": 15,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -144,6 +168,7 @@
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
             "Greek Style Stuffed Peppers",
+            "Sheet Pan Salmon and Vegetables (with zucchini)",
             "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
@@ -175,14 +200,15 @@
         },
         {
           "item": "lemon",
-          "qty": 2.5,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
             "Baked Cod with Lemon and Garlic",
             "Herbed Barley Pilaf",
-            "Sautéed Green Beans"
+            "Sautéed Green Beans",
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -307,6 +333,18 @@
           ],
           "hasUnquantified": false,
           "unit": "oz"
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "dim": "medium",
+          "unitLabel": "medium",
+          "category": "produce",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
+          "unit": "medium"
         }
       ]
     },
@@ -372,6 +410,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "salmon fillets, skinless",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         }
       ]
     },
@@ -388,6 +438,18 @@
             "Japanese Sweet Potato Fingers with Miso Butter"
           ],
           "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "Castelvetrano olives",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "pantry",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
           "unit": ""
         },
         {
@@ -524,11 +586,12 @@
         },
         {
           "item": "whole-wheat couscous",
-          "qty": 0.67,
+          "qty": 1.34,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)",
             "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
@@ -593,6 +656,18 @@
     {
       "category": "spices",
       "items": [
+        {
+          "item": "baharat",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
         {
           "item": "cayenne pepper",
           "qty": 0.13,
@@ -661,10 +736,11 @@
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Sautéed Green Beans"
+            "Sautéed Green Beans",
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
           ],
           "hasUnquantified": false,
-          "unit": "tsp"
+          "unit": "tbsp"
         },
         {
           "item": "red pepper flakes",
@@ -807,5 +883,5 @@
       "cookbook": false
     }
   ],
-  "totalItems": 61
+  "totalItems": 67
 }
