@@ -1,11 +1,35 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-24T16:51:38.912Z",
+  "generatedAt": "2026-11-25T03:55:56.212Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "arugula",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
         {
           "item": "bell peppers",
           "qty": 6,
@@ -41,18 +65,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 1.5,
-          "dim": "vol",
-          "unitLabel": "cup",
-          "category": "produce",
-          "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
-          ],
-          "hasUnquantified": false,
-          "unit": "cup"
         },
         {
           "item": "delicata squash",
@@ -103,6 +115,18 @@
           "unit": "bunch"
         },
         {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
           "item": "fresh cilantro or parsley",
           "qty": 3,
           "dim": "vol",
@@ -125,7 +149,6 @@
             "Baked Cod with Lemon and Garlic",
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
             "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
@@ -158,7 +181,7 @@
         },
         {
           "item": "garlic",
-          "qty": 15,
+          "qty": 14,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -168,8 +191,7 @@
             "Herbed Barley Pilaf",
             "Sautéed Green Beans",
             "Greek Style Stuffed Peppers",
-            "Sheet Pan Salmon and Vegetables (with zucchini)",
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
           ],
           "hasUnquantified": false,
           "unit": "clove"
@@ -185,6 +207,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "jalapeño",
+          "qty": 0.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "leek",
@@ -214,16 +248,16 @@
           "unit": ""
         },
         {
-          "item": "lemon",
-          "qty": 0.5,
-          "dim": "large",
-          "unitLabel": "large",
+          "item": "limes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+            "Steak Sandwich with Jalapeño Mayo"
           ],
           "hasUnquantified": false,
-          "unit": "large"
+          "unit": ""
         },
         {
           "item": "orange",
@@ -236,6 +270,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "dim": "medium",
+          "unitLabel": "medium",
+          "category": "produce",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "medium"
         },
         {
           "item": "scallions",
@@ -311,18 +357,6 @@
           "unit": ""
         },
         {
-          "item": "yellow onion",
-          "qty": 0.5,
-          "dim": "medium",
-          "unitLabel": "medium",
-          "category": "produce",
-          "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
-          ],
-          "hasUnquantified": false,
-          "unit": "medium"
-        },
-        {
           "item": "Yukon Gold potatoes",
           "qty": 12,
           "dim": "oz",
@@ -364,18 +398,6 @@
           "unit": "lb"
         },
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 3,
-          "dim": "",
-          "unitLabel": "",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
           "item": "cod fillets",
           "qty": 0.75,
           "dim": "lb",
@@ -412,6 +434,18 @@
           "unit": "lb"
         },
         {
+          "item": "New York strip steak",
+          "qty": 12,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
           "item": "salmon fillets, skinless",
           "qty": 2,
           "dim": "",
@@ -419,6 +453,23 @@
           "category": "meat-seafood",
           "fromMeals": [
             "Sheet Pan Salmon and Vegetables (with zucchini)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "ciabatta rolls",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "bakery",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -487,6 +538,18 @@
           ],
           "hasUnquantified": true,
           "unit": ""
+        },
+        {
+          "item": "mayonnaise",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         },
         {
           "item": "mirin",
@@ -586,13 +649,12 @@
         },
         {
           "item": "whole-wheat couscous",
-          "qty": 1.34,
+          "qty": 0.67,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Sheet Pan Salmon and Vegetables (with zucchini)",
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+            "Sheet Pan Salmon and Vegetables (with zucchini)"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -682,12 +744,12 @@
         },
         {
           "item": "garlic powder",
-          "qty": 0.5,
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+            "Steak Sandwich with Jalapeño Mayo"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -730,6 +792,30 @@
           "unit": "tsp"
         },
         {
+          "item": "Hey Grill Hey Beef Rub",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion powder",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "paprika",
           "qty": 0.25,
           "dim": "vol",
@@ -741,18 +827,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
-          "category": "spices",
-          "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
-          ],
-          "hasUnquantified": true,
-          "unit": ""
         },
         {
           "item": "Simon & Garfunkel Rub (Meathead p.168)",
@@ -768,29 +842,16 @@
         },
         {
           "item": "sweet paprika",
-          "qty": 1.63,
+          "qty": 1.13,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
             "Baked Cod with Lemon and Garlic",
-            "Greek Style Stuffed Peppers",
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+            "Greek Style Stuffed Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "za'atar",
-          "qty": 0.33,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         }
       ]
     },
@@ -883,5 +944,5 @@
       "cookbook": false
     }
   ],
-  "totalItems": 67
+  "totalItems": 72
 }

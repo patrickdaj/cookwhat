@@ -1178,148 +1178,151 @@
       }
     },
     {
-      "id": "skillet-chicken-zaatar-fri",
+      "id": "steak-sandwich-fri",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/",
-      "cuisine": "levantine",
-      "protein": "chicken",
+      "title": "Steak Sandwich with Jalapeño Mayo",
+      "source": "Hey Grill Hey",
+      "sourceUrl": "https://heygrillhey.com/steak-sandwich/",
+      "cuisine": "american",
+      "protein": "beef",
       "tags": [
-        "web",
-        "new",
-        "backup",
+        "redo",
+        "vacation",
         "rental",
-        "stovetop"
+        "grill"
       ],
-      "activeTimeMin": 20,
-      "totalTimeMin": 25,
+      "activeTimeMin": 25,
+      "totalTimeMin": 35,
       "servings": 2,
       "ingredients": [
         {
-          "item": "boneless skinless chicken thighs",
-          "qty": 3,
-          "unit": "",
+          "item": "New York strip steak",
+          "qty": 12,
+          "unit": "oz",
           "category": "meat-seafood",
-          "note": "about 12 oz; pick unenhanced (no added broth or salt solution). Half the recipe"
+          "note": "one steak for two"
         },
         {
-          "item": "za'atar",
+          "item": "Hey Grill Hey Beef Rub",
           "qty": 1,
-          "unit": "tsp",
+          "unit": "tbsp",
           "category": "spices",
-          "note": "bring a pinch from home; alt: dried thyme + oregano + a few sesame seeds. Store blends often contain salt"
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "bring from home"
-        },
-        {
-          "item": "garlic powder",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "bring from home"
-        },
-        {
-          "item": "red pepper flakes",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": "skip, or a pinch on your plate (book: 1/2 tsp for 4)"
+          "note": "half the recipe's 2 tbsp (it's mostly salt); pack from home"
         },
         {
           "item": "extra-virgin olive oil",
-          "qty": 1.5,
+          "qty": 1,
           "unit": "tbsp",
           "category": "pantry",
-          "note": "bring from home"
+          "note": "for the steak"
         },
         {
-          "item": "yellow onion",
+          "item": "mayonnaise",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "the jalapeño mayo: pack your jar or buy small"
+        },
+        {
+          "item": "jalapeño",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": "seeds out so it stays mild for Jami"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 0.5,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "item": "limes",
+          "qty": 2,
+          "unit": "",
+          "category": "produce",
+          "note": "juice"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "in the mayo: the recipe's 1/4 tsp, halved"
+        },
+        {
+          "item": "garlic powder",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "pack from home"
+        },
+        {
+          "item": "onion powder",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "pack from home"
+        },
+        {
+          "item": "ciabatta rolls",
+          "qty": 2,
+          "unit": "",
+          "category": "bakery"
+        },
+        {
+          "item": "avocado",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "sliced"
+        },
+        {
+          "item": "red onion",
           "qty": 0.5,
           "unit": "medium",
           "category": "produce",
           "note": "thinly sliced"
         },
         {
-          "item": "garlic",
+          "item": "arugula",
           "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": "bring from home"
-        },
-        {
-          "item": "cherry tomatoes",
-          "qty": 1.5,
           "unit": "cup",
-          "category": "produce",
-          "note": "a 1-pint basket"
-        },
-        {
-          "item": "lemon",
-          "qty": 0.5,
-          "unit": "large",
-          "category": "produce",
-          "note": "zest and juice"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": "or leftover herbs from Thursday"
-        },
-        {
-          "item": "whole-wheat couscous",
-          "qty": 0.67,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "the carb; cook per the box in water, no salt"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "on the chicken only (the recipe's measured seasoning, halved); the sauce's to-taste pinches are left to Jami at the table"
+          "category": "produce"
         }
       ],
-      "notes": "Rainy-night backup in Joshua Tree, if you don't eat out: everything from the Vons there plus a small kit from home, all stovetop in your cast iron (no grill or oven needed). Mix half the za'atar with the paprika and garlic powder; season the thighs with it and the salt. Soften the sliced onion in oil, push aside, sear the thighs 4-5 min a side; add the cherry tomatoes, lemon juice and the rest of the za'atar, cover 5-10 min until the tomatoes burst and the chicken hits 165°F. Finish with oil, lemon zest and parsley. Serve over whole-wheat couscous. Salted light: 1/4 tsp on the chicken only; Jami salts at the table.",
+      "notes": "His 5-star redo, made at the rental. No cheese, no pickled jalapeños. Half the salt: 1 tbsp beef rub instead of 2, and 1/8 tsp salt in the mayo. Jalapeño mayo by hand (no blender needed): mince the jalapeño and cilantro very fine and stir into the mayo with the lime juice, garlic and onion powder, pepper and salt; chill. Rub the steak, grill at about 450°F 6-7 min a side to 130°F (or sear in the cast iron if the grill is out), rest 5-10 min, slice thin. Toast the rolls; mayo on the bottom, steak, avocado, red onion, arugula. Second red-meat night of the week (Tuesday's peppers): a vacation exception. Salted light: half the rub; Jami salts at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 520,
-          "proteinG": 42,
-          "carbsG": 50,
-          "fatG": 18,
-          "saturatedFatG": 3,
+          "calories": 1020,
+          "proteinG": 51,
+          "carbsG": 61,
+          "fatG": 64,
+          "saturatedFatG": 14,
           "fiberG": 8,
-          "sodiumMg": 310,
-          "potassiumMg": 830
+          "sodiumMg": 1330,
+          "potassiumMg": 1150
         },
         "servings": 2,
-        "servingDescription": "1 1/2 chicken thighs with about 3/4 cup tomato sauce over 1 cup couscous",
+        "servingDescription": "1 ciabatta sandwich with 6 oz sliced strip steak, about 3 tbsp jalapeño mayo, half an avocado, red onion and arugula",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "low",
         "sodiumDrivers": [
-          "added kosher salt",
-          "chicken thighs",
-          "za'atar blend"
+          "ciabatta roll",
+          "beef rub",
+          "mayonnaise"
         ],
         "assumptions": [
-          "3 boneless skinless thighs, about 4 oz each raw, unenhanced",
-          "1/4 tsp Diamond Crystal kosher on the chicken only; no to-taste salt in the sauce",
-          "za'atar without added salt (a salted store blend adds about 100-200 mg)",
-          "2/3 cup dry whole-wheat couscous cooked without salt",
-          "about 1 1/3 tbsp oil eaten"
+          "half the salt: 1 tbsp Hey Grill Hey Beef Rub for the steak (assumed about 40% salt by weight; about 70% stays on the meat) and 1/8 tsp Diamond Crystal in the mayo",
+          "about 3 tbsp jalapeño mayo per sandwich, from a batch of about 11 tbsp",
+          "one 100 g ciabatta roll each, about 550 mg sodium; open-face on one half saves about 275 mg",
+          "no cheese and no pickled jalapeños",
+          "cross-check: Hey Grill Hey lists 924 kcal and 8,054 mg sodium per serving; that counts all 2 tbsp of rub plus cheese and pickled jalapeños, and its 16 g protein looks like an error for 6 oz of steak"
         ],
-        "estimatedAt": "2026-11-21"
+        "estimatedAt": "2026-11-25"
       }
     },
     {
@@ -1375,5 +1378,5 @@
       }
     }
   ],
-  "setAt": "2026-11-19T13:50:34.011Z"
+  "setAt": "2026-11-25T03:55:13.732Z"
 }
