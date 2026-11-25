@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-22",
-  "generatedAt": "2026-11-25T03:55:56.212Z",
+  "generatedAt": "2026-11-25T03:56:52.413Z",
   "targetServings": null,
   "sections": [
     {
@@ -386,6 +386,18 @@
       "category": "meat-seafood",
       "items": [
         {
+          "item": "bone-in New York strip steak",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Steak Sandwich with Jalapeño Mayo"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
           "item": "bone-in, skin-on chicken thighs",
           "qty": 3,
           "dim": "lb",
@@ -432,18 +444,6 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
-        },
-        {
-          "item": "New York strip steak",
-          "qty": 12,
-          "dim": "oz",
-          "unitLabel": "oz",
-          "category": "meat-seafood",
-          "fromMeals": [
-            "Steak Sandwich with Jalapeño Mayo"
-          ],
-          "hasUnquantified": false,
-          "unit": "oz"
         },
         {
           "item": "salmon fillets, skinless",
