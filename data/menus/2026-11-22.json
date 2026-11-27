@@ -1205,11 +1205,18 @@
           "note": "his usual: one 1-lb bone-in steak makes two sandwiches"
         },
         {
-          "item": "Hey Grill Hey Beef Rub",
-          "qty": 1,
-          "unit": "tbsp",
+          "item": "Morton kosher salt",
+          "qty": 0.5,
+          "unit": "tsp",
           "category": "spices",
-          "note": "half the recipe's 2 tbsp (it's mostly salt); pack from home"
+          "note": "homemade rub (no Hey Grill Hey rub on the trip): about half what the full rub would put on"
+        },
+        {
+          "item": "coarse black pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "homemade rub"
         },
         {
           "item": "extra-virgin olive oil",
@@ -1254,17 +1261,17 @@
         },
         {
           "item": "garlic powder",
-          "qty": 0.25,
+          "qty": 0.75,
           "unit": "tsp",
           "category": "spices",
-          "note": "pack from home"
+          "note": "1/2 tsp in the rub + 1/4 tsp in the mayo"
         },
         {
           "item": "onion powder",
-          "qty": 0.25,
+          "qty": 0.75,
           "unit": "tsp",
           "category": "spices",
-          "note": "pack from home"
+          "note": "1/2 tsp in the rub + 1/4 tsp in the mayo"
         },
         {
           "item": "ciabatta rolls",
@@ -1293,7 +1300,7 @@
           "category": "produce"
         }
       ],
-      "notes": "His 5-star redo, made at the rental. No cheese, no pickled jalapeños. Half the salt: 1 tbsp beef rub instead of 2, and 1/8 tsp salt in the mayo. Jalapeño mayo in his small food processor (packed from home), as the recipe does it: pulse the mayo, jalapeño, cilantro, lime juice, garlic and onion powder, pepper and salt until creamy; chill. Rub the steak, grill at about 450°F, 6-8 min a side to 130°F (bone-in runs a little longer) (or sear in the cast iron if the grill is out), rest 5-10 min, cut the meat off the bone, slice thin. Toast the rolls; mayo on the bottom, steak, avocado, red onion, arugula. Second red-meat night of the week (Tuesday's peppers): a vacation exception. Salted light: half the rub; Jami salts at the table.",
+      "notes": "His 5-star redo, made at the rental. No cheese, no pickled jalapeños. Half the salt: a homemade rub (1/2 tsp Morton kosher, 1 tsp coarse pepper, 1/2 tsp each garlic and onion powder) in place of the Hey Grill Hey rub, and 1/8 tsp salt in the mayo. Jalapeño mayo in his small food processor (packed from home), as the recipe does it: pulse the mayo, jalapeño, cilantro, lime juice, garlic and onion powder, pepper and salt until creamy; chill. Rub the steak, grill at about 450°F, 6-8 min a side to 130°F (bone-in runs a little longer) (or sear in the cast iron if the grill is out), rest 5-10 min, cut the meat off the bone, slice thin. Toast the rolls; mayo on the bottom, steak, avocado, red onion, arugula. Second red-meat night of the week (Tuesday's peppers): a vacation exception. Salted light: half the rub; Jami salts at the table.",
       "nutrition": {
         "perServing": {
           "calories": 1050,
@@ -1302,7 +1309,7 @@
           "fatG": 66,
           "saturatedFatG": 15,
           "fiberG": 8,
-          "sodiumMg": 1340,
+          "sodiumMg": 1300,
           "potassiumMg": 1200
         },
         "servings": 2,
@@ -1312,16 +1319,16 @@
         "sodiumConfidence": "low",
         "sodiumDrivers": [
           "ciabatta roll",
-          "beef rub",
+          "kosher salt rub",
           "mayonnaise"
         ],
         "assumptions": [
-          "half the salt: 1 tbsp Hey Grill Hey Beef Rub for the steak (assumed about 40% salt by weight; about 70% stays on the meat) and 1/8 tsp Diamond Crystal in the mayo",
           "about 3 tbsp jalapeño mayo per sandwich, from a batch of about 11 tbsp",
           "one 100 g ciabatta roll each, about 550 mg sodium; open-face on one half saves about 275 mg",
           "no cheese and no pickled jalapeños",
           "cross-check: Hey Grill Hey lists 924 kcal and 8,054 mg sodium per serving; that counts all 2 tbsp of rub plus cheese and pickled jalapeños, and its 16 g protein looks like an error for 6 oz of steak",
-          "1 lb bone-in strip gives about 13 oz of meat off the bone (about 6 1/2 oz each)"
+          "1 lb bone-in strip gives about 13 oz of meat off the bone (about 6 1/2 oz each)",
+          "homemade rub: 1/2 tsp Morton kosher (about 960 mg) on the 1-lb steak, about 80% eaten; 1/8 tsp Diamond Crystal in the mayo"
         ],
         "estimatedAt": "2026-11-25"
       }
