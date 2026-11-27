@@ -1182,7 +1182,7 @@
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Steak Sandwich with Jalapeño Mayo",
+      "title": "Steak Sandwich with Jalapeño Mayo (ribeye)",
       "source": "Hey Grill Hey",
       "sourceUrl": "https://heygrillhey.com/steak-sandwich/",
       "cuisine": "american",
@@ -1198,11 +1198,11 @@
       "servings": 2,
       "ingredients": [
         {
-          "item": "bone-in New York strip steak",
-          "qty": 1,
+          "item": "bone-in ribeye steak",
+          "qty": 1.18,
           "unit": "lb",
           "category": "meat-seafood",
-          "note": "his usual: one 1-lb bone-in steak makes two sandwiches"
+          "note": "what the store had (1.18 lb); makes two sandwiches"
         },
         {
           "item": "Morton kosher salt",
@@ -1300,35 +1300,36 @@
           "category": "produce"
         }
       ],
-      "notes": "His 5-star redo, made at the rental. No cheese, no pickled jalapeños. Half the salt: a homemade rub (1/2 tsp Morton kosher, 1 tsp coarse pepper, 1/2 tsp each garlic and onion powder) in place of the Hey Grill Hey rub, and 1/8 tsp salt in the mayo. Jalapeño mayo in his small food processor (packed from home), as the recipe does it: pulse the mayo, jalapeño, cilantro, lime juice, garlic and onion powder, pepper and salt until creamy; chill. Rub the steak, grill at about 450°F, 6-8 min a side to 130°F (bone-in runs a little longer) (or sear in the cast iron if the grill is out), rest 5-10 min, cut the meat off the bone, slice thin. Toast the rolls; mayo on the bottom, steak, avocado, red onion, arugula. Second red-meat night of the week (Tuesday's peppers): a vacation exception. Salted light: half the rub; Jami salts at the table.",
+      "notes": "His 5-star redo, made at the rental. No cheese, no pickled jalapeños. Half the salt: a homemade rub (1/2 tsp Morton kosher, 1 tsp coarse pepper, 1/2 tsp each garlic and onion powder) in place of the Hey Grill Hey rub, and 1/8 tsp salt in the mayo. Jalapeño mayo in his small food processor (packed from home), as the recipe does it: pulse the mayo, jalapeño, cilantro, lime juice, garlic and onion powder, pepper and salt until creamy; chill. Rub the steak, grill at about 450°F, 6-8 min a side to 130°F (bone-in runs a little longer) (or sear in the cast iron if the grill is out), rest 5-10 min, cut the meat off the bone, slice thin. Toast the rolls; mayo on the bottom, steak, avocado, red onion, arugula. Second red-meat night of the week (Tuesday's peppers): a vacation exception. Salted light: half the rub; Jami salts at the table. As made 11/27: a 1.18-lb bone-in ribeye instead of the strip; his sandwich open-face on half the roll, Jami's on a whole roll.",
       "nutrition": {
         "perServing": {
-          "calories": 1050,
-          "proteinG": 55,
-          "carbsG": 61,
-          "fatG": 66,
-          "saturatedFatG": 15,
-          "fiberG": 8,
-          "sodiumMg": 1300,
-          "potassiumMg": 1200
+          "calories": 1080,
+          "proteinG": 46,
+          "carbsG": 36,
+          "fatG": 81,
+          "saturatedFatG": 21,
+          "fiberG": 7,
+          "sodiumMg": 1050,
+          "potassiumMg": 1170
         },
         "servings": 2,
-        "servingDescription": "1 ciabatta sandwich with about 6 1/2 oz sliced strip steak, about 3 tbsp jalapeño mayo, half an avocado, red onion and arugula",
+        "servingDescription": "his open-face sandwich: half a ciabatta roll with about 7 1/2 oz sliced ribeye, about 3 tbsp jalapeño mayo, half an avocado, red onion and arugula (a whole roll adds about 135 kcal and 275 mg sodium)",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "low",
         "sodiumDrivers": [
-          "ciabatta roll",
           "kosher salt rub",
+          "half ciabatta roll",
           "mayonnaise"
         ],
         "assumptions": [
           "about 3 tbsp jalapeño mayo per sandwich, from a batch of about 11 tbsp",
-          "one 100 g ciabatta roll each, about 550 mg sodium; open-face on one half saves about 275 mg",
           "no cheese and no pickled jalapeños",
           "cross-check: Hey Grill Hey lists 924 kcal and 8,054 mg sodium per serving; that counts all 2 tbsp of rub plus cheese and pickled jalapeños, and its 16 g protein looks like an error for 6 oz of steak",
-          "1 lb bone-in strip gives about 13 oz of meat off the bone (about 6 1/2 oz each)",
-          "homemade rub: 1/2 tsp Morton kosher (about 960 mg) on the 1-lb steak, about 80% eaten; 1/8 tsp Diamond Crystal in the mayo"
+          "homemade rub: 1/2 tsp Morton kosher (about 960 mg) on the 1-lb steak, about 80% eaten; 1/8 tsp Diamond Crystal in the mayo",
+          "1.18-lb bone-in ribeye gives about 15 1/2 oz of meat (about 7 1/2 oz each); about 15% of its fat renders out",
+          "open-face on half a 100 g ciabatta roll (about 275 mg sodium)",
+          "trimming the fat cap and the fattiest pieces when slicing saves roughly 5 g saturated fat"
         ],
         "estimatedAt": "2026-11-25"
       }
