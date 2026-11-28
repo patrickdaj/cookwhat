@@ -3,38 +3,39 @@
   "items": [
     {
       "dish": "Greek-Style Shrimp with Tomatoes (ATK p.269) + orzo",
-      "portions": 1,
+      "portions": 0,
       "cooked": "2026-11-21",
       "source": "data/menus/2026-11-15.json",
-      "status": "in",
+      "status": "gone",
       "confirmed": "2026-11-21",
-      "note": "Lunch only. No salt and no feta: about 420 mg sodium (half the pan) plus the orzo. Use within about a month; thaw in the fridge overnight, reheat gently covered with a splash of water (stop as soon as it's hot so the shrimp don't toughen)."
+      "note": "Lunch only. No salt and no feta: about 420 mg sodium (half the pan) plus the orzo. Use within about a month; thaw in the fridge overnight, reheat gently covered with a splash of water (stop as soon as it's hot so the shrimp don't toughen). Not in the freezer as of 2026-11-28 (Patrick's count)."
     },
     {
       "dish": "Chicken Tagine with Chickpeas and Apricots (ATK p.303)",
       "portions": 2,
       "cooked": "2026-11-17",
       "source": "data/menus/2026-11-15.json",
-      "status": "in",
-      "confirmed": "2026-11-21",
-      "note": "Lunch only. Reheat covered with a splash of water."
+      "status": "thawing",
+      "confirmed": "2026-11-28",
+      "note": "Both out to thaw Sat 11/28: his Tue 12/1 and Wed 12/2 lunches (eat by Wednesday)."
     },
     {
       "dish": "Daube Provençale + garlic smashed baby reds",
       "portions": 1,
       "cooked": "2026-11-15",
       "source": "data/menus/2026-11-15.json",
-      "status": "in",
-      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh.",
-      "confirmed": "2026-11-21"
+      "status": "used",
+      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh. Eaten Sat 11/28 for his solo dinner.",
+      "confirmed": "2026-11-21",
+      "used": "2026-11-28"
     },
     {
       "dish": "Spanish Paprika Chicken (with its roasted tomatoes, onions, peppers + juices)",
       "portions": 1,
       "cooked": "2026-11-14",
       "source": "data/menus/2026-11-08.json",
-      "status": "in",
-      "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon. Cooked with no added salt and plain store-bought smoked paprika on unenhanced thighs: about 220 mg sodium per portion (Patrick, 2026-11-21).",
+      "status": "thawing",
+      "note": "The extras from Sat 11/14 (all 3 lb boneless thighs). Freeze by Mon/Tue if not eaten; reheat covered, brighten with sherry vinegar or lemon. Cooked with no added salt and plain store-bought smoked paprika on unenhanced thighs: about 220 mg sodium per portion (Patrick, 2026-11-21). Out to thaw Sat 11/28: his Mon 11/30 lunch.",
       "earmarked": "lunches only",
       "confirmed": "2026-11-21"
     },
@@ -48,11 +49,11 @@
     },
     {
       "dish": "Chicken Bouillabaisse (ATK p.301)",
-      "portions": 2,
+      "portions": 0,
       "cooked": "2026-11-22",
       "source": "data/menus/2026-11-22.json",
-      "status": "planned",
-      "note": "Lunch only. Freeze by Monday; the potatoes soften a little. Reheat covered."
+      "status": "not-frozen",
+      "note": "Never frozen (not in his 2026-11-28 count)."
     },
     {
       "dish": "Braised Chicken with Mushrooms and Tomatoes (ATK p.296) + one-pan farro",
