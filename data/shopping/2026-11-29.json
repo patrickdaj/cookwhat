@@ -1,11 +1,23 @@
 {
   "weekOf": "2026-11-29",
-  "generatedAt": "2026-11-28T14:29:05.442Z",
+  "generatedAt": "2026-11-28T14:35:06.577Z",
   "targetServings": null,
   "sections": [
     {
       "category": "produce",
       "items": [
+        {
+          "item": "baby bella mushrooms",
+          "qty": 16,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
         {
           "item": "baby spinach",
           "qty": 2,
@@ -86,6 +98,7 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas",
             "Sautéed Zucchini Ribbons with Mint and Pistachios"
           ],
           "hasUnquantified": false,
@@ -139,14 +152,15 @@
           "category": "produce",
           "fromMeals": [
             "Braised Chicken with Mushrooms and Tomatoes",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "One-Pan Farro with Mushrooms and Peas"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 21.5,
+          "qty": 23.5,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -166,6 +180,18 @@
           "unit": "clove"
         },
         {
+          "item": "garlic",
+          "qty": 0.67,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "produce",
+          "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "green beans",
           "qty": 1,
           "dim": "lb",
@@ -176,6 +202,18 @@
           ],
           "hasUnquantified": false,
           "unit": "lb"
+        },
+        {
+          "item": "green onions",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "lemon",
@@ -208,7 +246,7 @@
         },
         {
           "item": "portobello mushroom caps",
-          "qty": 6,
+          "qty": 12,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "produce",
@@ -292,7 +330,7 @@
         },
         {
           "item": "yellow onion",
-          "qty": 2.5,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -324,7 +362,7 @@
       "items": [
         {
           "item": "bone-in chicken thighs",
-          "qty": 4,
+          "qty": 8,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
@@ -471,13 +509,13 @@
           "unit": "cup"
         },
         {
-          "item": "polenta (coarse cornmeal)",
-          "qty": 1,
+          "item": "pearled farro",
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Creamy Polenta"
+            "One-Pan Farro with Mushrooms and Peas"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -573,12 +611,13 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 1.5,
+          "qty": 6.25,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Braised Chicken with Mushrooms and Tomatoes",
+            "One-Pan Farro with Mushrooms and Peas",
             "Greek Lemon Rice",
             "Salmon Piccata"
           ],
@@ -587,7 +626,7 @@
         },
         {
           "item": "Mutti low-sodium baby Roma tomatoes",
-          "qty": 1,
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
@@ -751,11 +790,12 @@
         },
         {
           "item": "sweet paprika",
-          "qty": 0.5,
+          "qty": 2.5,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas",
             "Salmon Piccata"
           ],
           "hasUnquantified": false,
@@ -764,11 +804,28 @@
       ]
     },
     {
+      "category": "frozen",
+      "items": [
+        {
+          "item": "frozen peas",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "frozen",
+          "fromMeals": [
+            "One-Pan Farro with Mushrooms and Peas"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
       "category": "beverages",
       "items": [
         {
           "item": "dry red wine",
-          "qty": 0.75,
+          "qty": 1.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",
@@ -802,5 +859,5 @@
     "table salt"
   ],
   "pendingScans": [],
-  "totalItems": 60
+  "totalItems": 64
 }
