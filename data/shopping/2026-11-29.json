@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-29",
-  "generatedAt": "2026-11-28T14:36:07.387Z",
+  "generatedAt": "2026-11-28T18:23:53.312Z",
   "targetServings": null,
   "sections": [
     {
@@ -8,7 +8,7 @@
       "items": [
         {
           "item": "baby bella mushrooms",
-          "qty": 16,
+          "qty": 8,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "produce",
@@ -31,16 +31,16 @@
           "unit": "cup"
         },
         {
-          "item": "cucumbers",
-          "qty": 1.5,
-          "dim": "",
-          "unitLabel": "",
+          "item": "cherry tomatoes",
+          "qty": 3,
+          "dim": "vol",
+          "unitLabel": "cup",
           "category": "produce",
           "fromMeals": [
-            "Sesame-Lemon Cucumber Salad"
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
-          "unit": ""
+          "unit": "cup"
         },
         {
           "item": "fennel bulb",
@@ -98,8 +98,8 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "One-Pan Farro with Mushrooms and Peas",
-            "Sautéed Zucchini Ribbons with Mint and Pistachios"
+            "Sautéed Zucchini Ribbons with Mint and Pistachios",
+            "One-Pan Farro with Mushrooms and Peas"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -111,11 +111,11 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
             "Italian Green Beans (Fagiolini alla Genovese)",
             "Turkey Meatballs with Spinach and Mint",
             "Greek Lemon Rice",
-            "Salmon Piccata",
-            "Oven-Roasted Chicken Shawarma"
+            "Salmon Piccata"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -151,8 +151,8 @@
           "unitLabel": "bunch",
           "category": "produce",
           "fromMeals": [
-            "Braised Chicken with Mushrooms and Tomatoes",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Braised Chicken with Mushrooms and Tomatoes",
             "One-Pan Farro with Mushrooms and Peas"
           ],
           "hasUnquantified": false,
@@ -160,12 +160,13 @@
         },
         {
           "item": "garlic",
-          "qty": 23.5,
+          "qty": 20.5,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
           "fromMeals": [
-            "Braised Chicken with Mushrooms and Tomatoes",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds",
             "Italian Green Beans (Fagiolini alla Genovese)",
             "Moroccan Fish with Chickpeas and Peppers",
             "Turkey Meatballs with Spinach and Mint",
@@ -173,15 +174,14 @@
             "Sautéed Zucchini Ribbons with Mint and Pistachios",
             "Salmon Piccata",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Oven-Roasted Chicken Shawarma",
-            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+            "Braised Chicken with Mushrooms and Tomatoes"
           ],
           "hasUnquantified": false,
           "unit": "clove"
         },
         {
           "item": "garlic",
-          "qty": 0.67,
+          "qty": 0.33,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "produce",
@@ -205,7 +205,7 @@
         },
         {
           "item": "green onions",
-          "qty": 6,
+          "qty": 3,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
@@ -217,17 +217,16 @@
         },
         {
           "item": "lemon",
-          "qty": 5.5,
+          "qty": 5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
             "Italian Green Beans (Fagiolini alla Genovese)",
             "Moroccan Fish with Chickpeas and Peppers",
             "Greek Lemon Rice",
-            "Salmon Piccata",
-            "Oven-Roasted Chicken Shawarma",
-            "Sesame-Lemon Cucumber Salad"
+            "Salmon Piccata"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -246,7 +245,7 @@
         },
         {
           "item": "portobello mushroom caps",
-          "qty": 12,
+          "qty": 6,
           "dim": "oz",
           "unitLabel": "oz",
           "category": "produce",
@@ -276,18 +275,6 @@
           "category": "produce",
           "fromMeals": [
             "Moroccan Fish with Chickpeas and Peppers"
-          ],
-          "hasUnquantified": false,
-          "unit": ""
-        },
-        {
-          "item": "red onion",
-          "qty": 0.5,
-          "dim": "",
-          "unitLabel": "",
-          "category": "produce",
-          "fromMeals": [
-            "Oven-Roasted Chicken Shawarma"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -330,15 +317,16 @@
         },
         {
           "item": "yellow onion",
-          "qty": 3,
+          "qty": 3.5,
           "dim": "",
           "unitLabel": "",
           "category": "produce",
           "fromMeals": [
-            "Braised Chicken with Mushrooms and Tomatoes",
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds",
             "Turkey Meatballs with Spinach and Mint",
             "Greek Lemon Rice",
-            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+            "Braised Chicken with Mushrooms and Tomatoes"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -362,7 +350,7 @@
       "items": [
         {
           "item": "bone-in chicken thighs",
-          "qty": 8,
+          "qty": 4,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
@@ -374,15 +362,15 @@
         },
         {
           "item": "boneless skinless chicken thighs",
-          "qty": 1,
-          "dim": "lb",
-          "unitLabel": "lb",
+          "qty": 6,
+          "dim": "",
+          "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Oven-Roasted Chicken Shawarma"
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
-          "unit": "lb"
+          "unit": ""
         },
         {
           "item": "cod fillet",
@@ -461,13 +449,13 @@
       "items": [
         {
           "item": "basmati rice",
-          "qty": 1.75,
+          "qty": 2,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
           "fromMeals": [
-            "Greek Lemon Rice",
-            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+            "Basmati Rice Pilaf with Currants and Toasted Almonds",
+            "Greek Lemon Rice"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -486,7 +474,7 @@
         },
         {
           "item": "dried currants",
-          "qty": 2,
+          "qty": 3,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
@@ -510,7 +498,7 @@
         },
         {
           "item": "pearled farro",
-          "qty": 2,
+          "qty": 1,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "pantry",
@@ -519,18 +507,6 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
-        },
-        {
-          "item": "sesame seeds",
-          "qty": 0.5,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Sesame-Lemon Cucumber Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "shelled pistachios",
@@ -546,36 +522,12 @@
         },
         {
           "item": "sliced almonds",
-          "qty": 2,
+          "qty": 3,
           "dim": "vol",
           "unitLabel": "tbsp",
           "category": "pantry",
           "fromMeals": [
             "Basmati Rice Pilaf with Currants and Toasted Almonds"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Sesame-Lemon Cucumber Salad"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
-        },
-        {
-          "item": "unseasoned rice vinegar",
-          "qty": 2,
-          "dim": "vol",
-          "unitLabel": "tbsp",
-          "category": "pantry",
-          "fromMeals": [
-            "Sesame-Lemon Cucumber Salad"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
@@ -611,22 +563,22 @@
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 6.25,
+          "qty": 3.75,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
-            "Braised Chicken with Mushrooms and Tomatoes",
-            "One-Pan Farro with Mushrooms and Peas",
             "Greek Lemon Rice",
-            "Salmon Piccata"
+            "Salmon Piccata",
+            "Braised Chicken with Mushrooms and Tomatoes",
+            "One-Pan Farro with Mushrooms and Peas"
           ],
           "hasUnquantified": false,
           "unit": "cup"
         },
         {
           "item": "Mutti low-sodium baby Roma tomatoes",
-          "qty": 2,
+          "qty": 1,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
@@ -714,16 +666,16 @@
           "unit": "tbsp"
         },
         {
-          "item": "ground cinnamon",
-          "qty": null,
-          "dim": "",
-          "unitLabel": "",
+          "item": "garlic powder",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Oven-Roasted Chicken Shawarma"
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
-          "hasUnquantified": true,
-          "unit": ""
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "ground cinnamon",
@@ -739,25 +691,23 @@
         },
         {
           "item": "ground cumin",
-          "qty": 1.25,
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Moroccan Fish with Chickpeas and Peppers",
-            "Oven-Roasted Chicken Shawarma"
+            "Moroccan Fish with Chickpeas and Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
         },
         {
           "item": "ground turmeric",
-          "qty": 0.5,
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Oven-Roasted Chicken Shawarma",
             "Basmati Rice Pilaf with Currants and Toasted Almonds"
           ],
           "hasUnquantified": false,
@@ -765,13 +715,12 @@
         },
         {
           "item": "paprika",
-          "qty": 1.38,
+          "qty": 0.38,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Moroccan Fish with Chickpeas and Peppers",
-            "Oven-Roasted Chicken Shawarma"
+            "Moroccan Fish with Chickpeas and Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
@@ -789,17 +738,53 @@
           "unit": "tbsp"
         },
         {
-          "item": "sweet paprika",
-          "qty": 2.5,
+          "item": "red pepper flakes",
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "One-Pan Farro with Mushrooms and Peas",
-            "Salmon Piccata"
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Salmon Piccata",
+            "One-Pan Farro with Mushrooms and Peas"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sweet Spanish paprika",
+          "qty": 0.33,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "za'atar",
+          "qty": 0.67,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         }
       ]
     },
@@ -808,7 +793,7 @@
       "items": [
         {
           "item": "frozen peas",
-          "qty": 2,
+          "qty": 1,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "frozen",
@@ -825,7 +810,7 @@
       "items": [
         {
           "item": "dry red wine",
-          "qty": 1.5,
+          "qty": 0.75,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "beverages",
@@ -851,13 +836,12 @@
     }
   ],
   "excludedStaples": [
-    "extra-virgin olive oil",
-    "all-purpose flour",
     "Diamond Crystal kosher salt",
+    "extra-virgin olive oil",
     "unsalted butter",
-    "sugar",
-    "table salt"
+    "all-purpose flour",
+    "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 64
+  "totalItems": 63
 }

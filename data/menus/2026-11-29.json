@@ -6,269 +6,243 @@
   "nutritionSchemaVersion": 1,
   "meals": [
     {
-      "id": "braised-chicken-mushrooms-sun",
+      "id": "zaatar-chicken-cherry-tomatoes-sun",
       "day": "Sun",
       "slot": "dinner",
       "role": "main",
-      "title": "Braised Chicken with Mushrooms and Tomatoes",
-      "source": "The Complete Mediterranean Cookbook (America's Test Kitchen) — p.296",
-      "sourceUrl": "",
-      "cuisine": "italian",
+      "title": "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/",
+      "cuisine": "levantine",
       "protein": "chicken",
       "tags": [
-        "book",
-        "uncooked",
-        "batch",
+        "web",
+        "new",
         "make-ahead",
-        "cook-in-the-morning",
         "covers-mon",
-        "freezer-friendly",
-        "freeze-4"
+        "uses-what-you-have"
       ],
-      "activeTimeMin": 40,
-      "totalTimeMin": 85,
-      "servings": 8,
+      "activeTimeMin": 20,
+      "totalTimeMin": 30,
+      "servings": 4,
       "ingredients": [
         {
-          "item": "bone-in chicken thighs",
-          "qty": 8,
+          "item": "boneless skinless chicken thighs",
+          "qty": 6,
           "unit": "",
           "category": "meat-seafood",
-          "note": "5-7 oz each, trimmed (the book's full batch); skin comes off after browning"
+          "note": "about 1 1/2 lb, unenhanced: the 3 (about 12 oz) left from Joshua Tree + 3 more. Check the date on the J-Tree pack; raw chicken keeps 1-2 days past purchase in the fridge"
+        },
+        {
+          "item": "za'atar",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "from your packed spice kit; divided"
+        },
+        {
+          "item": "sweet Spanish paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "garlic powder",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "half the recipe's 1/2 tsp (Jami); or leave out and put it on the table"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "on the chicken; half the recipe's low end (1/2 tsp)"
         },
         {
           "item": "extra-virgin olive oil",
-          "qty": 1,
+          "qty": 2.5,
           "unit": "tbsp",
           "category": "pantry",
-          "note": ""
+          "note": "2 tbsp to cook + a drizzle to finish"
         },
         {
           "item": "yellow onion",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "chopped"
-        },
-        {
-          "item": "portobello mushroom caps",
-          "qty": 12,
-          "unit": "oz",
-          "category": "produce",
-          "note": "3/4-inch pieces; double the book's 6 oz, for more vegetable"
+          "note": "medium, halved and thinly sliced (the J-Tree onion)"
         },
         {
           "item": "garlic",
-          "qty": 4,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
-          "note": "minced"
+          "note": "thinly sliced"
         },
         {
-          "item": "fresh thyme",
-          "qty": 2,
-          "unit": "tsp",
+          "item": "cherry tomatoes",
+          "qty": 3,
+          "unit": "cup",
           "category": "produce",
-          "note": "minced"
+          "note": "about 1 1/2 pints: the J-Tree pint + 1 more"
         },
         {
-          "item": "fresh sage",
-          "qty": 2,
-          "unit": "tsp",
+          "item": "lemon",
+          "qty": 1,
+          "unit": "",
           "category": "produce",
-          "note": "minced, stirred in at the end"
+          "note": "large, zested and juiced (the J-Tree lemon)"
         },
         {
-          "item": "all-purpose flour",
-          "qty": 1.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "dry red wine",
-          "qty": 1.5,
+          "item": "fresh parsley",
+          "qty": 0.25,
           "unit": "cup",
-          "category": "beverages",
-          "note": ""
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": ""
-        },
-        {
-          "item": "Mutti low-sodium baby Roma tomatoes",
-          "qty": 2,
-          "unit": "cup",
-          "category": "canned",
-          "note": "in the pantry; about 1 1/3 cans, lightly drained, in place of the book's drained diced tomatoes"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.5,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "with the onions and mushrooms; about half the sodium of the book's 1/2 tsp table salt"
+          "category": "produce",
+          "note": "chopped"
         }
       ],
-      "notes": "Full batch (8): Sunday dinner for two, Monday dinner for two, and 4 lunch portions for the freezer with the farro. Cooked Sunday morning before breakfast with your mom. No Parmesan rind (Jami). Timeline, about 85 min with ~50 hands-on: 0:00 oven to 300°F; pat thighs dry, pepper only (no salt: 'salt and pepper' to season means none). Brown in two batches, skin-side down, in 1 tbsp oil in the Dutch oven, 5-6 min a side; plate them and DISCARD THE SKIN; pour off all but about 1 tbsp fat. 0:22 onion, mushrooms and 1/2 tsp kosher salt 6-8 min until browning; garlic and thyme 30 sec; flour 1 min; slowly whisk in the wine, scraping the fond; add broth and tomatoes, simmer, nestle the thighs, cover, oven 35-40 min to 195°F. 0:35 start the farro (20 min covered), then blanch the green beans. 1:20 thighs out, stir in sage. Freeze: cool, then pack 4 portions of 1 thigh + sauce with about 1 cup farro each, label and date, into the freezer within a day (keeps 2-3 months; lunch only). Thaw overnight in the fridge; microwave covered with a splash of water. Tonight: covered on the stove over medium-low 15-20 min (or 300°F oven 25 min) until 165°F. Salted light (1/2 tsp kosher in the whole pot): Jami, salt at the table.",
+      "notes": "Your Joshua Tree backup dinner, finally: the 3 thighs, cherry tomatoes, onion and lemon you didn't use, plus 3 more thighs and a pint so it covers Monday too. About 25 min, so cook it Sunday morning with the pilaf and green beans (or right after the pool). Mix 1 tsp za'atar with the paprika, garlic powder and pepper flakes. Pat the chicken dry; season with the spice mix, 1/4 tsp kosher salt and pepper. 2 tbsp oil in a large lidded skillet over medium-high; onion 4 min. Push it aside, sear the chicken 4-5 min undisturbed, flip, add garlic. Add the tomatoes, lemon juice and the other 1 tsp za'atar; cover 5-10 min until the tomatoes collapse into a sauce and the chicken is done (165°F). Off heat: a drizzle of oil, lemon zest, parsley. Reheat covered over medium-low with a splash of water. No salt with the onion or tomatoes (pinches are unmeasured, so none). Salted light (1/4 tsp kosher on the chicken): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 240,
-          "proteinG": 23,
-          "carbsG": 10,
-          "fatG": 11,
+          "calories": 300,
+          "proteinG": 36,
+          "carbsG": 8,
+          "fatG": 14,
           "saturatedFatG": 3,
           "fiberG": 2,
-          "sodiumMg": 220,
-          "potassiumMg": 900
+          "sodiumMg": 250,
+          "potassiumMg": 730
         },
-        "servings": 8,
-        "servingDescription": "1 skinless thigh with about 1/2 cup mushroom-tomato sauce",
+        "servings": 4,
+        "servingDescription": "1 1/2 thighs (about 6 oz raw) with about 3/4 cup tomato-onion sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "Diamond Crystal kosher salt (1/2 tsp)",
           "chicken thighs",
-          "Mutti low-sodium tomatoes"
+          "Diamond Crystal kosher salt (1/4 tsp)",
+          "za'atar (some blends contain salt)"
         ],
         "assumptions": [
-          "Skin discarded after browning; about 1/2 tbsp of fat left in the pot",
-          "Mutti low-sodium tomatoes at 85 mg per 1/2 cup",
-          "Low-sodium broth, 1/4 cup",
-          "No salt on the chicken (to taste means none)",
-          "Wine reduced in the braise; most of the alcohol cooks off",
-          "No published nutrition for the book recipe",
-          "Full book batch with double mushrooms; per-serving numbers unchanged from the half batch"
+          "Unenhanced thighs, about 4 oz each raw",
+          "About 80% of the oil eaten",
+          "1/4 tsp Diamond Crystal kosher on the chicken; no other salt",
+          "Published 250 kcal for smaller thighs; about 20% higher here"
         ],
         "estimatedAt": "2026-11-28"
       }
     },
     {
-      "id": "one-pan-farro-sun",
+      "id": "basmati-pilaf-currants-sun",
       "day": "Sun",
       "slot": "dinner",
       "role": "side",
-      "title": "One-Pan Farro with Mushrooms and Peas",
-      "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/one-pan-farro-recipe-with-mushrooms-and-peas/",
-      "cuisine": "italian",
+      "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
+      "source": "The Complete Mediterranean Cookbook (America's Test Kitchen) — p.102",
+      "sourceUrl": "",
+      "cuisine": "levantine",
       "protein": "vegetarian",
       "tags": [
-        "web",
-        "new",
+        "book",
         "carb",
-        "whole-grain",
+        "rice",
         "make-ahead",
-        "cook-in-the-morning",
-        "covers-mon",
-        "freezer-friendly",
-        "freeze-4"
+        "covers-mon"
       ],
       "activeTimeMin": 10,
       "totalTimeMin": 35,
-      "servings": 8,
+      "servings": 4,
       "ingredients": [
         {
-          "item": "pearled farro",
-          "qty": 2,
+          "item": "basmati rice",
+          "qty": 1,
           "unit": "cup",
           "category": "pantry",
-          "note": "Italian pearled (double the recipe). Trader Joe's 10-Minute Farro works (simmer about 10-12 min; drain any extra broth). No farro: pearled barley (Quaker, soup/rice aisle), same amounts, simmer about 30 min"
+          "note": "rinsed (two-thirds of the book's 1 1/2 cups)"
         },
         {
           "item": "extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 0.5,
+          "unit": "",
+          "category": "produce",
+          "note": "small, chopped fine"
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "clove",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "a generous 1/8 tsp"
+        },
+        {
+          "item": "dried currants",
           "qty": 3,
           "unit": "tbsp",
           "category": "pantry",
           "note": ""
         },
         {
-          "item": "green onions",
-          "qty": 6,
-          "unit": "",
-          "category": "produce",
-          "note": "chopped"
-        },
-        {
-          "item": "baby bella mushrooms",
-          "qty": 16,
-          "unit": "oz",
-          "category": "produce",
-          "note": "sliced"
-        },
-        {
-          "item": "frozen peas",
-          "qty": 2,
-          "unit": "cup",
-          "category": "frozen",
-          "note": ""
-        },
-        {
-          "item": "garlic",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "produce",
-          "note": "chopped (about 2 cloves)"
-        },
-        {
-          "item": "sweet paprika",
-          "qty": 2,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 4,
-          "unit": "sprig",
-          "category": "produce",
-          "note": "leaves only (same bunch as the braise)"
-        },
-        {
-          "item": "low-sodium chicken broth",
-          "qty": 4.5,
-          "unit": "cup",
-          "category": "canned",
-          "note": "boiling"
-        },
-        {
-          "item": "fresh mint",
-          "qty": 0.5,
-          "unit": "cup",
-          "category": "produce",
-          "note": "chopped (same bunch as Wednesday's zucchini)"
+          "item": "sliced almonds",
+          "qty": 3,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toasted"
         }
       ],
-      "notes": "Swapped in for the polenta because it freezes much better (farro keeps its chew), and it's a whole grain. Double batch in a large deep lidded skillet or wide pot: 3 tbsp oil over medium-high; green onions, mushrooms and peas 3-4 min; garlic until fragrant; farro, paprika and thyme 4-5 min, stirring. Pour in the boiling broth, bring to a boil, cover on medium-low 20 min until absorbed. Off heat, mint. No Parmesan (Jami). Half goes with dinners Sunday and Monday, half into the 4 freezer lunches with the braise. Reheat with a splash of water. No salt (the recipe's 'a little salt' is unmeasured, so none): Jami, salt at the table. Substitutes: Trader Joe's 10-Minute Farro (about 10-12 min covered, drain any leftover liquid) or pearled barley (same amounts, about 30 min; also freezes well).",
+      "notes": "Two-thirds batch: Sunday and Monday dinners for two. Onion in the oil 5 min; rice, garlic, turmeric and cinnamon 3 min until the edges turn translucent; 1 1/2 cups water, simmer covered on low 16-18 min; off heat scatter currants, cover with a towel under the lid 10 min; fold in almonds. Reheat Monday with a splash of water. No salt: Jami, salt at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 280,
-          "proteinG": 10,
-          "carbsG": 42,
-          "fatG": 8,
+          "calories": 240,
+          "proteinG": 5,
+          "carbsG": 44,
+          "fatG": 5,
           "saturatedFatG": 1,
-          "fiberG": 6,
-          "sodiumMg": 130,
-          "potassiumMg": 460
+          "fiberG": 2,
+          "sodiumMg": 10,
+          "potassiumMg": 140
         },
-        "servings": 8,
-        "servingDescription": "About 1 cup farro with mushrooms and peas",
+        "servings": 4,
+        "servingDescription": "About 3/4 cup pilaf",
         "method": "estimated",
-        "confidence": "medium",
-        "sodiumConfidence": "medium",
+        "confidence": "high",
+        "sodiumConfidence": "high",
         "sodiumDrivers": [
-          "low-sodium chicken broth",
-          "frozen peas"
+          "basmati rice"
         ],
         "assumptions": [
-          "Double batch: 2 cups pearled farro over 8 servings",
-          "Low-sodium chicken broth (about 140 mg a cup); no salt, no Parmesan",
-          "Recipe publishes no nutrition"
+          "No added salt",
+          "1 cup dry rice split 4 ways"
         ],
         "estimatedAt": "2026-11-28"
       }
@@ -288,7 +262,6 @@
         "new",
         "veg",
         "make-ahead",
-        "cook-in-the-morning",
         "covers-mon"
       ],
       "activeTimeMin": 15,
@@ -1175,157 +1148,32 @@
       }
     },
     {
-      "id": "chicken-shawarma-fri",
+      "id": "braised-chicken-mushrooms-fri",
       "day": "Fri",
       "slot": "dinner",
       "role": "main",
-      "title": "Oven-Roasted Chicken Shawarma",
-      "source": "NYT Cooking",
-      "sourceUrl": "https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma",
-      "cuisine": "levantine",
+      "title": "Braised Chicken with Mushrooms and Tomatoes",
+      "source": "The Complete Mediterranean Cookbook (America's Test Kitchen) — p.296",
+      "sourceUrl": "",
+      "cuisine": "italian",
       "protein": "chicken",
       "tags": [
-        "redo",
-        "weeknight",
-        "sheet-pan",
-        "marinate-ahead"
-      ],
-      "activeTimeMin": 15,
-      "totalTimeMin": 50,
-      "servings": 2,
-      "ingredients": [
-        {
-          "item": "boneless skinless chicken thighs",
-          "qty": 1,
-          "unit": "lb",
-          "category": "meat-seafood",
-          "note": "half the recipe"
-        },
-        {
-          "item": "lemon",
-          "qty": 1,
-          "unit": "",
-          "category": "produce",
-          "note": "juiced"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 0.25,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "plus 1/2 tbsp for the pan"
-        },
-        {
-          "item": "garlic",
-          "qty": 3,
-          "unit": "clove",
-          "category": "produce",
-          "note": "smashed and minced"
-        },
-        {
-          "item": "Diamond Crystal kosher salt",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "in the marinade; half the half-batch's 1/2 tsp"
-        },
-        {
-          "item": "ground cumin",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "paprika",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground turmeric",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cinnamon",
-          "qty": null,
-          "unit": "",
-          "category": "spices",
-          "note": "a pinch"
-        },
-        {
-          "item": "red onion",
-          "qty": 0.5,
-          "unit": "",
-          "category": "produce",
-          "note": "large, quartered"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": "chopped"
-        }
-      ],
-      "notes": "Loved redo (4★). Marinate Friday morning or at lunch (at least 1 hour, up to 12): lemon juice, 1/4 cup oil, garlic, 1/4 tsp kosher salt, 1 tsp black pepper, cumin, paprika, turmeric and cinnamon; skip the crushed red pepper (Jami; put it on the table). Oven 425°F; oil the sheet pan; lift chicken and onion out of the marinade (discard the rest) and roast 30-40 min until browned and crisp at the edges. Rest 2 min, slice, parsley over. Optional: crisp the slices in a hot skillet with a little oil. Salted light (1/4 tsp kosher in the marinade): Jami, salt at the table.",
-      "nutrition": {
-        "perServing": {
-          "calories": 430,
-          "proteinG": 46,
-          "carbsG": 8,
-          "fatG": 24,
-          "saturatedFatG": 5,
-          "fiberG": 2,
-          "sodiumMg": 280,
-          "potassiumMg": 700
-        },
-        "servings": 2,
-        "servingDescription": "Half the pan: about 1 1/2 cups sliced chicken (8 oz raw) with roasted onion",
-        "method": "estimated",
-        "confidence": "medium",
-        "sodiumConfidence": "medium",
-        "sodiumDrivers": [
-          "chicken thighs",
-          "Diamond Crystal kosher salt (1/4 tsp, ~60% absorbed)"
-        ],
-        "assumptions": [
-          "About 2 tbsp of the oil clings to the chicken; the rest of the marinade is discarded",
-          "About 60% of the marinade salt absorbed",
-          "Published 390 kcal and 462 mg for 4-6 servings at full salt; within 20%"
-        ],
-        "estimatedAt": "2026-11-28"
-      }
-    },
-    {
-      "id": "basmati-pilaf-currants-fri",
-      "day": "Fri",
-      "slot": "dinner",
-      "role": "side",
-      "title": "Basmati Rice Pilaf with Currants and Toasted Almonds",
-      "source": "The Complete Mediterranean Cookbook (America's Test Kitchen) — p.102",
-      "sourceUrl": "",
-      "cuisine": "levantine",
-      "protein": "vegetarian",
-      "tags": [
         "book",
-        "carb",
-        "rice"
+        "uncooked",
+        "batch",
+        "freezer-friendly",
+        "freeze-2"
       ],
-      "activeTimeMin": 10,
-      "totalTimeMin": 35,
-      "servings": 3,
+      "activeTimeMin": 30,
+      "totalTimeMin": 75,
+      "servings": 4,
       "ingredients": [
         {
-          "item": "basmati rice",
-          "qty": 0.75,
-          "unit": "cup",
-          "category": "pantry",
-          "note": "rinsed (half the book's amount)"
+          "item": "bone-in chicken thighs",
+          "qty": 4,
+          "unit": "",
+          "category": "meat-seafood",
+          "note": "5-7 oz each, trimmed (half the book's 8); skin comes off after browning. Buy Sunday and freeze; move to the fridge Wednesday night"
         },
         {
           "item": "extra-virgin olive oil",
@@ -1339,165 +1187,223 @@
           "qty": 0.5,
           "unit": "",
           "category": "produce",
-          "note": "small, chopped fine"
+          "note": "chopped"
+        },
+        {
+          "item": "portobello mushroom caps",
+          "qty": 6,
+          "unit": "oz",
+          "category": "produce",
+          "note": "3/4-inch pieces; the book's full amount in a half batch, for more vegetable"
         },
         {
           "item": "garlic",
-          "qty": 1,
+          "qty": 2,
           "unit": "clove",
           "category": "produce",
           "note": "minced"
         },
         {
-          "item": "ground turmeric",
+          "item": "fresh thyme",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "minced"
+        },
+        {
+          "item": "fresh sage",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "minced, stirred in at the end"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 0.75,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "dry red wine",
+          "qty": 0.75,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "Mutti low-sodium baby Roma tomatoes",
+          "qty": 1,
+          "unit": "cup",
+          "category": "canned",
+          "note": "in the pantry; about 2/3 of a can, lightly drained, in place of the book's drained diced tomatoes"
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
           "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "ground cinnamon",
-          "qty": 0.125,
-          "unit": "tsp",
-          "category": "spices",
-          "note": ""
-        },
-        {
-          "item": "dried currants",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "sliced almonds",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "toasted"
+          "note": "with the onions and mushrooms; about half the sodium of the half batch's 1/4 tsp table salt"
         }
       ],
-      "notes": "Half batch: 2 tonight + 1 for his Saturday lunch. Onion in the oil 5 min; rice, garlic, turmeric and cinnamon 3 min until the edges turn translucent; 1 1/8 cups water, simmer covered on low 16-18 min; off heat scatter currants, cover with a towel under the lid 10 min; fold in almonds. No salt (the half batch's 1/8 tsp, halved, is a pinch; skip it): Jami, salt at the table.",
+      "notes": "Half batch (4): Friday dinner for two, plus 2 lunch portions for the freezer with the farro. No Parmesan rind (Jami). About 75 min, 30 hands-on: oven to 300°F; pat thighs dry, pepper only (no salt: 'salt and pepper' to season means none). Brown skin-side down in 1/2 tbsp oil in the Dutch oven 5-6 min a side; plate them and DISCARD THE SKIN; pour off all but about 1/2 tbsp fat. Onion, mushrooms and 1/4 tsp kosher salt 6-8 min until browning; garlic and thyme 30 sec; flour 1 min; slowly whisk in the wine, scraping the fond; add broth and tomatoes, simmer, nestle the thighs, cover, oven 35-40 min to 195°F. Start the farro once the pot is in the oven. Thighs out, stir in sage. Freeze the 2 extra portions (1 thigh + sauce + about 1 cup farro) within a day; lunch only. Salted light (1/4 tsp kosher in the whole pot): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 240,
-          "proteinG": 5,
-          "carbsG": 44,
-          "fatG": 5,
-          "saturatedFatG": 1,
+          "proteinG": 23,
+          "carbsG": 10,
+          "fatG": 11,
+          "saturatedFatG": 3,
           "fiberG": 2,
-          "sodiumMg": 10,
-          "potassiumMg": 140
+          "sodiumMg": 220,
+          "potassiumMg": 900
         },
-        "servings": 3,
-        "servingDescription": "About 3/4 cup pilaf",
+        "servings": 4,
+        "servingDescription": "1 skinless thigh with about 1/2 cup mushroom-tomato sauce",
         "method": "estimated",
-        "confidence": "high",
-        "sodiumConfidence": "high",
+        "confidence": "medium",
+        "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "basmati rice"
+          "Diamond Crystal kosher salt (1/4 tsp)",
+          "chicken thighs",
+          "Mutti low-sodium tomatoes"
         ],
         "assumptions": [
-          "No added salt",
-          "Half batch split 3 ways"
+          "Skin discarded after browning; about 1/2 tbsp of fat left in the pot",
+          "Mutti low-sodium tomatoes at 85 mg per 1/2 cup",
+          "Low-sodium broth, 1/4 cup",
+          "No salt on the chicken (to taste means none)",
+          "Wine reduced in the braise; most of the alcohol cooks off",
+          "No published nutrition for the book recipe"
         ],
         "estimatedAt": "2026-11-28"
       }
     },
     {
-      "id": "sesame-lemon-cucumber-salad-fri",
+      "id": "one-pan-farro-fri",
       "day": "Fri",
       "slot": "dinner",
       "role": "side",
-      "title": "Sesame-Lemon Cucumber Salad",
-      "source": "The Complete Mediterranean Cookbook (America's Test Kitchen) — p.88",
-      "sourceUrl": "",
-      "cuisine": "levantine",
+      "title": "One-Pan Farro with Mushrooms and Peas",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/one-pan-farro-recipe-with-mushrooms-and-peas/",
+      "cuisine": "italian",
       "protein": "vegetarian",
       "tags": [
-        "book",
-        "uncooked",
-        "veg",
-        "make-ahead"
+        "web",
+        "new",
+        "carb",
+        "whole-grain",
+        "freezer-friendly",
+        "freeze-2"
       ],
       "activeTimeMin": 10,
-      "totalTimeMin": 70,
-      "servings": 2,
+      "totalTimeMin": 35,
+      "servings": 4,
       "ingredients": [
         {
-          "item": "cucumbers",
-          "qty": 1.5,
-          "unit": "",
-          "category": "produce",
-          "note": "peeled, halved, seeded, 1/4-inch slices (half batch)"
+          "item": "pearled farro",
+          "qty": 1,
+          "unit": "cup",
+          "category": "pantry",
+          "note": "Italian pearled. Trader Joe's 10-Minute Farro works (simmer about 10-12 min; drain any extra broth). No farro: pearled barley, same amounts, about 30 min"
         },
         {
-          "item": "table salt",
-          "qty": 0.75,
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "green onions",
+          "qty": 3,
+          "unit": "",
+          "category": "produce",
+          "note": "chopped"
+        },
+        {
+          "item": "baby bella mushrooms",
+          "qty": 8,
+          "unit": "oz",
+          "category": "produce",
+          "note": "sliced"
+        },
+        {
+          "item": "frozen peas",
+          "qty": 1,
+          "unit": "cup",
+          "category": "frozen",
+          "note": ""
+        },
+        {
+          "item": "garlic",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "produce",
+          "note": "chopped (about 1 clove)"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 1,
           "unit": "tsp",
           "category": "spices",
-          "note": "for draining only, rinsed off (half the half-batch's 1/2 tbsp)"
+          "note": ""
         },
         {
-          "item": "unseasoned rice vinegar",
+          "item": "fresh thyme",
           "qty": 2,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "unseasoned (seasoned has salt and sugar)"
-        },
-        {
-          "item": "toasted sesame oil",
-          "qty": 1,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": ""
-        },
-        {
-          "item": "lemon",
-          "qty": 0.5,
-          "unit": "",
+          "unit": "sprig",
           "category": "produce",
-          "note": "1/2 tbsp juice (from the shawarma lemon if there's extra)"
+          "note": "leaves only (same bunch as the braise)"
         },
         {
-          "item": "sesame seeds",
-          "qty": 0.5,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "toasted"
+          "item": "low-sodium chicken broth",
+          "qty": 2.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": "boiling"
         },
         {
-          "item": "sugar",
-          "qty": 1,
-          "unit": "tsp",
-          "category": "pantry",
-          "note": ""
+          "item": "fresh mint",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "produce",
+          "note": "chopped (same bunch as Wednesday's zucchini)"
         }
       ],
-      "notes": "Start an hour or more before dinner (or when you marinate the chicken). Toss cucumbers with the 3/4 tsp salt in a colander over a bowl, weight with a water-filled zip bag, drain 1-3 hours; rinse and pat dry. Whisk vinegar, sesame oil, lemon juice, sesame seeds and sugar; toss. Leave out the pepper flakes (Jami). No more salt (it says season to taste, so none): Jami, salt at the table.",
+      "notes": "Freezes well (farro keeps its chew) and it's a whole grain. 1 1/2 tbsp oil over medium-high; green onions, mushrooms and peas 3-4 min; garlic until fragrant; farro, paprika and thyme 4-5 min, stirring. Pour in the boiling broth, bring to a boil, cover on medium-low 20 min until absorbed. Off heat, mint. No Parmesan (Jami). Two servings tonight, two into the freezer lunches with the braise. No salt (the recipe's 'a little salt' is unmeasured, so none): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 110,
-          "proteinG": 1,
-          "carbsG": 7,
+          "calories": 280,
+          "proteinG": 10,
+          "carbsG": 42,
           "fatG": 8,
           "saturatedFatG": 1,
-          "fiberG": 1,
-          "sodiumMg": 90,
-          "potassiumMg": 290
+          "fiberG": 6,
+          "sodiumMg": 130,
+          "potassiumMg": 460
         },
-        "servings": 2,
-        "servingDescription": "About 3/4 cup cucumber salad",
+        "servings": 4,
+        "servingDescription": "About 1 cup farro with mushrooms and peas",
         "method": "estimated",
         "confidence": "medium",
-        "sodiumConfidence": "low",
+        "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "draining salt (about 10% kept after rinsing)",
-          "cucumbers"
+          "low-sodium chicken broth",
+          "frozen peas"
         ],
         "assumptions": [
-          "About 10% of the 3/4 tsp draining salt stays after rinsing",
-          "Unseasoned rice vinegar"
+          "1 cup pearled farro over 4 servings",
+          "Low-sodium chicken broth (about 140 mg a cup); no salt, no Parmesan",
+          "Recipe publishes no nutrition"
         ],
         "estimatedAt": "2026-11-28"
       }
