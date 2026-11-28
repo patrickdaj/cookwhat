@@ -62,6 +62,14 @@
       "source": "data/menus/2026-11-29.json",
       "status": "planned",
       "note": "Lunch only. 1 skinless thigh with sauce + about 1 cup farro per container; about 350 mg sodium a portion. Freeze within a day; keeps 2-3 months. Thaw overnight, microwave covered with a splash of water."
+    },
+    {
+      "dish": "Grilled ribeye, sliced (from the 11/27 steak sandwiches)",
+      "portions": 1,
+      "cooked": "2026-11-27",
+      "source": "data/menus/2026-11-22.json",
+      "status": "planned",
+      "note": "About 6 oz cooked. Freeze by Sunday; keeps 2-3 months. Lunch only, and it's red meat: trim the fat and split it over two lunches (sliced over a salad or a grain bowl)."
     }
   ],
   "pulls": [

@@ -1520,6 +1520,56 @@
         ],
         "estimatedAt": "2026-11-28"
       }
+    },
+    {
+      "id": "thanksgiving-leftovers-lunch-sun",
+      "day": "Sun",
+      "slot": "lunch",
+      "role": "side",
+      "title": "Thanksgiving leftovers: duck breast, sweet potato fingers and delicata",
+      "source": "Leftovers from Thanksgiving 11/26 (Meathead p.315 duck, miso-butter sweet potatoes, brown-butter delicata)",
+      "sourceUrl": "",
+      "cuisine": "american",
+      "protein": "duck",
+      "tags": [
+        "leftover",
+        "holiday",
+        "just-him"
+      ],
+      "activeTimeMin": 5,
+      "totalTimeMin": 10,
+      "servings": 1,
+      "ingredients": [],
+      "notes": "Cooked Thursday, so eat it by Monday. Pull the skin off the duck (that's where nearly all the fat is) and warm the slices gently so they don't overcook; reheat the sweet potato and squash in the microwave or a hot skillet. Go easy on any extra miso butter: it's the salty, saturated part.",
+      "nutrition": {
+        "perServing": {
+          "calories": 520,
+          "proteinG": 25,
+          "carbsG": 55,
+          "fatG": 20,
+          "saturatedFatG": 9,
+          "fiberG": 7,
+          "sodiumMg": 550,
+          "potassiumMg": 1100
+        },
+        "servings": 1,
+        "servingDescription": "About 3 oz skinless duck breast, 1 Japanese sweet potato's worth of fingers and about 1 cup delicata",
+        "method": "estimated",
+        "confidence": "low",
+        "sodiumConfidence": "low",
+        "sodiumDrivers": [
+          "duck dry brine",
+          "miso butter",
+          "salt on the delicata"
+        ],
+        "assumptions": [
+          "4 oz duck with skin, about 3 oz once the skin is off",
+          "About 1 tbsp miso butter left on the sweet potato",
+          "About 1 cup brown-butter delicata",
+          "Holiday cooking, salted as written"
+        ],
+        "estimatedAt": "2026-11-28"
+      }
     }
   ],
   "setAt": "2026-11-28T14:29:05.353Z"
