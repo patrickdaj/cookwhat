@@ -425,11 +425,39 @@
           "note": ""
         },
         {
-          "item": "ras el hanout",
-          "qty": 0.75,
+          "item": "ground coriander",
+          "qty": 0.25,
           "unit": "tsp",
           "category": "spices",
-          "note": "mild warm spice blend"
+          "note": "in place of ras el hanout (homemade mix)"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 0.25,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "for the ras el hanout mix, on top of the 1/4 tsp for the fish"
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "ras el hanout mix"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "ras el hanout mix"
+        },
+        {
+          "item": "ground turmeric",
+          "qty": null,
+          "unit": "",
+          "category": "spices",
+          "note": "a pinch, ras el hanout mix"
         },
         {
           "item": "paprika",
@@ -453,7 +481,7 @@
           "note": "juice of half; the other half in thin rounds"
         }
       ],
-      "notes": "Fresh fish for two, cooked and eaten. Half the fish with the full vegetables. 1 tbsp oil in a lidded skillet; minced garlic briefly, then tomato paste, tomatoes and pepper 3-4 min; add chickpeas, 3/4 cup water, cilantro, sliced garlic and 1/4 tsp ras el hanout; simmer partly covered about 20 min. Rub the fish with the rest of the ras el hanout, the cumin, paprika and 1 tbsp oil; nestle into the sauce, add the lemon juice and rounds, cover and cook 10-15 min on medium-low until it flakes. No salt (the recipe salts to taste twice, so none): Jami, salt at the table.",
+      "notes": "Fresh fish for two, cooked and eaten. Half the fish with the full vegetables. No ras el hanout? Stir together 1/4 tsp each coriander and cumin, 1/8 tsp each cinnamon and ginger and a pinch of turmeric (about 3/4 tsp) and use it where the recipe says ras el hanout: a quarter in the sauce, the rest on the fish. 1 tbsp oil in a lidded skillet; minced garlic briefly, then tomato paste, tomatoes and pepper 3-4 min; add chickpeas, 3/4 cup water, cilantro, sliced garlic and 1/4 tsp ras el hanout; simmer partly covered about 20 min. Rub the fish with the rest of the ras el hanout, the cumin, paprika and 1 tbsp oil; nestle into the sauce, add the lemon juice and rounds, cover and cook 10-15 min on medium-low until it flakes. No salt (the recipe salts to taste twice, so none): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 410,

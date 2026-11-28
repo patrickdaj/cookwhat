@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-29",
-  "generatedAt": "2026-11-28T18:42:10.142Z",
+  "generatedAt": "2026-11-28T19:11:12.525Z",
   "targetServings": null,
   "sections": [
     {
@@ -716,19 +716,44 @@
         },
         {
           "item": "ground cinnamon",
-          "qty": 0.13,
+          "qty": 0.25,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
           "fromMeals": [
-            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+            "Basmati Rice Pilaf with Currants and Toasted Almonds",
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground coriander",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
           ],
           "hasUnquantified": false,
           "unit": "tsp"
         },
         {
           "item": "ground cumin",
-          "qty": 0.25,
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground ginger",
+          "qty": 0.13,
           "dim": "vol",
           "unitLabel": "tsp",
           "category": "spices",
@@ -751,6 +776,18 @@
           "unit": "tsp"
         },
         {
+          "item": "ground turmeric",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
           "item": "paprika",
           "qty": 0.38,
           "dim": "vol",
@@ -761,18 +798,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tsp"
-        },
-        {
-          "item": "ras el hanout",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Moroccan Fish with Chickpeas and Peppers"
-          ],
-          "hasUnquantified": false,
-          "unit": "tbsp"
         },
         {
           "item": "red pepper flakes",
@@ -880,5 +905,5 @@
     "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 66
+  "totalItems": 68
 }
