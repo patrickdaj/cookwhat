@@ -31,7 +31,7 @@
           "qty": 6,
           "unit": "",
           "category": "meat-seafood",
-          "note": "about 1 1/2 lb, unenhanced: the 3 (about 12 oz) left from Joshua Tree + 3 more. Check the date on the J-Tree pack; raw chicken keeps 1-2 days past purchase in the fridge"
+          "note": "about 1 1/2 lb, unenhanced: the thighs thawing from your freezer (move them to the fridge Saturday); buy the difference if they come to less"
         },
         {
           "item": "za'atar",
@@ -80,7 +80,7 @@
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "medium, halved and thinly sliced (the J-Tree onion)"
+          "note": "medium, halved and thinly sliced"
         },
         {
           "item": "garlic",
@@ -94,14 +94,14 @@
           "qty": 3,
           "unit": "cup",
           "category": "produce",
-          "note": "about 1 1/2 pints: the J-Tree pint + 1 more"
+          "note": "about 1 1/2 pints: the pint you have + 1 more"
         },
         {
           "item": "lemon",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "large, zested and juiced (the J-Tree lemon)"
+          "note": "large, zested and juiced"
         },
         {
           "item": "fresh parsley",
@@ -111,7 +111,7 @@
           "note": "chopped"
         }
       ],
-      "notes": "Your Joshua Tree backup dinner, finally: the 3 thighs, cherry tomatoes, onion and lemon you didn't use, plus 3 more thighs and a pint so it covers Monday too. About 25 min, so cook it Sunday morning with the pilaf and green beans (or right after the pool). Mix 1 tsp za'atar with the paprika, garlic powder and pepper flakes. Pat the chicken dry; season with the spice mix, 1/4 tsp kosher salt and pepper. 2 tbsp oil in a large lidded skillet over medium-high; onion 4 min. Push it aside, sear the chicken 4-5 min undisturbed, flip, add garlic. Add the tomatoes, lemon juice and the other 1 tsp za'atar; cover 5-10 min until the tomatoes collapse into a sauce and the chicken is done (165°F). Off heat: a drizzle of oil, lemon zest, parsley. Reheat covered over medium-low with a splash of water. No salt with the onion or tomatoes (pinches are unmeasured, so none). Salted light (1/4 tsp kosher on the chicken): Jami, salt at the table.",
+      "notes": "Your Joshua Tree backup recipe, finally, using the chicken thawing from your freezer and the pint of cherry tomatoes you have (plus 1 more pint), sized to cover Monday too. If your thighs are bone-in, sear 6-7 min a side and simmer covered 15-20 min to 175°F. About 25 min, so cook it Sunday morning with the pilaf and green beans (or right after the pool). Mix 1 tsp za'atar with the paprika, garlic powder and pepper flakes. Pat the chicken dry; season with the spice mix, 1/4 tsp kosher salt and pepper. 2 tbsp oil in a large lidded skillet over medium-high; onion 4 min. Push it aside, sear the chicken 4-5 min undisturbed, flip, add garlic. Add the tomatoes, lemon juice and the other 1 tsp za'atar; cover 5-10 min until the tomatoes collapse into a sauce and the chicken is done (165°F). Off heat: a drizzle of oil, lemon zest, parsley. Reheat covered over medium-low with a splash of water. No salt with the onion or tomatoes (pinches are unmeasured, so none). Salted light (1/4 tsp kosher on the chicken): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 300,
@@ -134,7 +134,7 @@
           "za'atar (some blends contain salt)"
         ],
         "assumptions": [
-          "Unenhanced thighs, about 4 oz each raw",
+          "Boneless, unenhanced thighs, about 1 1/2 lb raw in all",
           "About 80% of the oil eaten",
           "1/4 tsp Diamond Crystal kosher on the chicken; no other salt",
           "Published 250 kcal for smaller thighs; about 20% higher here"
