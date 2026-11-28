@@ -1,0 +1,781 @@
+{
+  "weekOf": "2026-11-29",
+  "generatedAt": "2026-11-28T00:09:56.979Z",
+  "targetServings": null,
+  "sections": [
+    {
+      "category": "produce",
+      "items": [
+        {
+          "item": "baby spinach",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "produce",
+          "fromMeals": [
+            "Turkey Meatballs with Spinach and Mint"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "cucumbers",
+          "qty": 1.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fennel bulb",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "fresh basil",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh chives",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Green Beans (Fagiolini alla Genovese)",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh cilantro",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh mint",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Green Beans (Fagiolini alla Genovese)",
+            "Turkey Meatballs with Spinach and Mint",
+            "Greek Lemon Rice",
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh rosemary",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh sage",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "fresh thyme",
+          "qty": 1,
+          "dim": "bunch",
+          "unitLabel": "bunch",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "bunch"
+        },
+        {
+          "item": "garlic",
+          "qty": 20.5,
+          "dim": "clove",
+          "unitLabel": "clove",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes",
+            "Italian Green Beans (Fagiolini alla Genovese)",
+            "Moroccan Fish with Chickpeas and Peppers",
+            "Turkey Meatballs with Spinach and Mint",
+            "Greek Lemon Rice",
+            "Sautéed Zucchini Ribbons with Mint and Pistachios",
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
+            "Oven-Roasted Chicken Shawarma",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "clove"
+        },
+        {
+          "item": "green beans",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Green Beans (Fagiolini alla Genovese)"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "lemon",
+          "qty": 5.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Italian Green Beans (Fagiolini alla Genovese)",
+            "Moroccan Fish with Chickpeas and Peppers",
+            "Greek Lemon Rice",
+            "Grilled Trout with Parsley-Caper Sauce",
+            "Oven-Roasted Chicken Shawarma",
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "parsnips",
+          "qty": 4,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "portobello mushroom caps",
+          "qty": 6,
+          "dim": "oz",
+          "unitLabel": "oz",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "oz"
+        },
+        {
+          "item": "radicchio",
+          "qty": 0.5,
+          "dim": "head",
+          "unitLabel": "head",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "head"
+        },
+        {
+          "item": "red bell pepper",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red onion",
+          "qty": 0.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "red potatoes",
+          "qty": 0.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "shallots",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "tomatoes",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "yellow onion",
+          "qty": 2.5,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes",
+            "Turkey Meatballs with Spinach and Mint",
+            "Greek Lemon Rice",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "zucchini",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Sautéed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "meat-seafood",
+      "items": [
+        {
+          "item": "bone-in chicken thighs",
+          "qty": 4,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "boneless skinless chicken thighs",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "cod fillet",
+          "qty": 0.75,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "ground turkey (93% lean)",
+          "qty": 1,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Turkey Meatballs with Spinach and Mint"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
+        },
+        {
+          "item": "whole rainbow trout",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "meat-seafood",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "dairy",
+      "items": [
+        {
+          "item": "egg",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "dairy",
+          "fromMeals": [
+            "Turkey Meatballs with Spinach and Mint"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "category": "bakery",
+      "items": [
+        {
+          "item": "whole-wheat bread",
+          "qty": 1,
+          "dim": "slice",
+          "unitLabel": "slice",
+          "category": "bakery",
+          "fromMeals": [
+            "Turkey Meatballs with Spinach and Mint"
+          ],
+          "hasUnquantified": false,
+          "unit": "slice"
+        }
+      ]
+    },
+    {
+      "category": "pantry",
+      "items": [
+        {
+          "item": "basmati rice",
+          "qty": 1.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek Lemon Rice",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "cider vinegar",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sautéed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried currants",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "orzo",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "polenta (coarse cornmeal)",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Creamy Polenta"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "sesame seeds",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "shelled pistachios",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sautéed Zucchini Ribbons with Mint and Pistachios"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "sliced almonds",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted sesame oil",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "unseasoned rice vinegar",
+          "qty": 2,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Sesame-Lemon Cucumber Salad"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "whole-wheat couscous",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "pantry",
+          "fromMeals": [
+            "Simple Couscous (whole-wheat)"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "category": "canned",
+      "items": [
+        {
+          "item": "capers",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 1.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes",
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "Mutti low-sodium baby Roma tomatoes",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "canned",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        },
+        {
+          "item": "no-salt-added chickpeas",
+          "qty": 0.5,
+          "dim": "can",
+          "unitLabel": "can",
+          "category": "canned",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "can"
+        },
+        {
+          "item": "oil-packed anchovy fillets",
+          "qty": 2,
+          "dim": "",
+          "unitLabel": "",
+          "category": "canned",
+          "fromMeals": [
+            "Italian Green Beans (Fagiolini alla Genovese)"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
+        },
+        {
+          "item": "tomato paste",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "canned",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "spices",
+      "items": [
+        {
+          "item": "dried dill",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Greek Lemon Rice"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "dried mint",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "spices",
+          "fromMeals": [
+            "Turkey Meatballs with Spinach and Mint"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
+          "item": "fennel seed",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Grilled Trout with Parsley-Caper Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": null,
+          "dim": "",
+          "unitLabel": "",
+          "category": "spices",
+          "fromMeals": [
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": true,
+          "unit": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "qty": 0.13,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cumin",
+          "qty": 1.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers",
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ground turmeric",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Oven-Roasted Chicken Shawarma",
+            "Basmati Rice Pilaf with Currants and Toasted Almonds"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "qty": 1.38,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers",
+            "Oven-Roasted Chicken Shawarma"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
+          "item": "ras el hanout",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Moroccan Fish with Chickpeas and Peppers"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "category": "beverages",
+      "items": [
+        {
+          "item": "dry red wine",
+          "qty": 0.75,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Braised Chicken with Mushrooms and Tomatoes"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "excludedStaples": [
+    "extra-virgin olive oil",
+    "all-purpose flour",
+    "Diamond Crystal kosher salt",
+    "sugar",
+    "table salt"
+  ],
+  "pendingScans": [],
+  "totalItems": 58
+}
