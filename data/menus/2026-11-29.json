@@ -1049,11 +1049,11 @@
           "note": "cored, 2-inch wedges"
         },
         {
-          "item": "red potatoes",
+          "item": "Japanese sweet potato",
           "qty": 0.5,
           "unit": "lb",
           "category": "produce",
-          "note": "unpeeled, 1-inch pieces"
+          "note": "1 medium from the bag at home, unpeeled, 1-inch pieces (in place of the book's red potatoes)"
         },
         {
           "item": "shallots",
@@ -1119,20 +1119,20 @@
           "note": "minced (same bunch as Sunday's beans)"
         }
       ],
-      "notes": "Covers both the veg and the starch. Oven 450°F. Toss everything but the radicchio, basil, chives and lemon with 1/2 tbsp oil, thyme, rosemary, sugar, the salt and pepper; radicchio in the center of the sheet, potatoes and parsnips around the hot edges. Roast 30-35 min, rotating halfway. Whisk basil, chives, 1 tbsp lemon juice (from the piccata lemon) and 1 tbsp oil; toss with the roasted veg. Start this first; sear the salmon during the last 15 min. Salted light (1/4 tsp kosher for the pan): Jami, salt at the table.",
+      "notes": "Covers both the veg and the starch; the Japanese sweet potato from the bag at home stands in for the red potatoes. Oven 450°F. Toss everything but the radicchio, basil, chives and lemon with 1/2 tbsp oil, thyme, rosemary, sugar, the salt and pepper; radicchio in the center of the sheet, potatoes and parsnips around the hot edges. Roast 30-35 min, rotating halfway. Whisk basil, chives, 1 tbsp lemon juice (from the piccata lemon) and 1 tbsp oil; toss with the roasted veg. Start this first; sear the salmon during the last 15 min. Salted light (1/4 tsp kosher for the pan): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 310,
+          "calories": 330,
           "proteinG": 6,
-          "carbsG": 50,
+          "carbsG": 56,
           "fatG": 10,
           "saturatedFatG": 2,
           "fiberG": 10,
-          "sodiumMg": 230,
-          "potassiumMg": 1610
+          "sodiumMg": 260,
+          "potassiumMg": 1490
         },
         "servings": 2,
-        "servingDescription": "Half the sheet pan: about 1 1/2 cups roasted vegetables with potatoes",
+        "servingDescription": "Half the sheet pan: about 1 1/2 cups roasted vegetables with sweet potato",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "high",
@@ -1142,7 +1142,8 @@
         ],
         "assumptions": [
           "Half the book's batch shared by two",
-          "1/4 tsp Diamond Crystal kosher (about 280 mg) for the pan"
+          "1/4 tsp Diamond Crystal kosher (about 280 mg) for the pan",
+          "Japanese sweet potato instead of red potatoes"
         ],
         "estimatedAt": "2026-11-28"
       }
@@ -1253,7 +1254,7 @@
           "note": "with the onions and mushrooms; about half the sodium of the half batch's 1/4 tsp table salt"
         }
       ],
-      "notes": "Half batch (4): Friday dinner for two, plus 2 lunch portions for the freezer with the farro. No Parmesan rind (Jami). About 75 min, 30 hands-on: oven to 300°F; pat thighs dry, pepper only (no salt: 'salt and pepper' to season means none). Brown skin-side down in 1/2 tbsp oil in the Dutch oven 5-6 min a side; plate them and DISCARD THE SKIN; pour off all but about 1/2 tbsp fat. Onion, mushrooms and 1/4 tsp kosher salt 6-8 min until browning; garlic and thyme 30 sec; flour 1 min; slowly whisk in the wine, scraping the fond; add broth and tomatoes, simmer, nestle the thighs, cover, oven 35-40 min to 195°F. Start the farro once the pot is in the oven. Thighs out, stir in sage. Freeze the 2 extra portions (1 thigh + sauce + about 1 cup farro) within a day; lunch only. Salted light (1/4 tsp kosher in the whole pot): Jami, salt at the table.",
+      "notes": "Half batch (4): Friday dinner for two, plus 2 lunch portions for the freezer with the farro. No Parmesan rind (Jami). About 75 min, 30 hands-on: oven to 300°F; pat thighs dry, pepper only (no salt: 'salt and pepper' to season means none). Brown skin-side down in 1/2 tbsp oil in the Dutch oven 5-6 min a side; plate them and DISCARD THE SKIN; pour off all but about 1/2 tbsp fat. Onion, mushrooms and 1/4 tsp kosher salt 6-8 min until browning; garlic and thyme 30 sec; flour 1 min; slowly whisk in the wine, scraping the fond; add broth and tomatoes, simmer, nestle the thighs, cover, oven 35-40 min to 195°F (or keep it on the stovetop at the lowest simmer, covered, so the oven is free at 400°F for the delicata). Start the farro once the pot is in the oven. Thighs out, stir in sage. Freeze the 2 extra portions (1 thigh + sauce + about 1 cup farro) within a day; lunch only. Salted light (1/4 tsp kosher in the whole pot): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 240,
@@ -1403,6 +1404,90 @@
         "assumptions": [
           "1 cup pearled farro over 4 servings",
           "Low-sodium chicken broth (about 140 mg a cup); no salt, no Parmesan",
+          "Recipe publishes no nutrition"
+        ],
+        "estimatedAt": "2026-11-28"
+      }
+    },
+    {
+      "id": "roasted-delicata-fri",
+      "day": "Fri",
+      "slot": "dinner",
+      "role": "side",
+      "title": "Roasted Delicata Squash with Honey and Pine Nuts",
+      "source": "The Mediterranean Dish",
+      "sourceUrl": "https://www.themediterraneandish.com/roasted-delicata-squash/",
+      "cuisine": "italian",
+      "protein": "vegetarian",
+      "tags": [
+        "web",
+        "new",
+        "veg",
+        "uses-what-you-have"
+      ],
+      "activeTimeMin": 10,
+      "totalTimeMin": 40,
+      "servings": 2,
+      "ingredients": [
+        {
+          "item": "delicata squash",
+          "qty": 1,
+          "unit": "",
+          "category": "produce",
+          "note": "the one in your basket (half the recipe)"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "pine nuts",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "toasted"
+        },
+        {
+          "item": "honey",
+          "qty": 1,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "fresh thyme",
+          "qty": null,
+          "unit": "",
+          "category": "produce",
+          "note": "a few leaves to finish (same bunch as the braise)"
+        }
+      ],
+      "notes": "Uses up the Thanksgiving delicata. Oven 400°F. Halve lengthwise, scoop the seeds, slice into 1/2-inch half-moons (no peeling). Toss with the oil and pepper; roast cut-side down 20 min, flip, 10-15 min more until golden. Drizzle with honey and roast 5 min more. Pine nuts and thyme on top. No Parmesan (Jami) and no salt (the recipe's sprinkle is unmeasured, so none): Jami, salt at the table. Fridge only; it gets mushy frozen. To share the oven with the braise, simmer the braise on the stovetop instead.",
+      "nutrition": {
+        "perServing": {
+          "calories": 220,
+          "proteinG": 3,
+          "carbsG": 34,
+          "fatG": 10,
+          "saturatedFatG": 1,
+          "fiberG": 4,
+          "sodiumMg": 10,
+          "potassiumMg": 880
+        },
+        "servings": 2,
+        "servingDescription": "Half a roasted delicata squash, about 1 1/4 cups",
+        "method": "estimated",
+        "confidence": "medium",
+        "sodiumConfidence": "high",
+        "sodiumDrivers": [
+          "delicata squash"
+        ],
+        "assumptions": [
+          "One delicata, about 1 1/4 lb, split two ways",
+          "No Parmesan, no salt",
           "Recipe publishes no nutrition"
         ],
         "estimatedAt": "2026-11-28"

@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-29",
-  "generatedAt": "2026-11-28T18:38:25.254Z",
+  "generatedAt": "2026-11-28T18:41:40.304Z",
   "targetServings": null,
   "sections": [
     {
@@ -41,6 +41,18 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "delicata squash",
+          "qty": 1,
+          "dim": "",
+          "unitLabel": "",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Delicata Squash with Honey and Pine Nuts"
+          ],
+          "hasUnquantified": false,
+          "unit": ""
         },
         {
           "item": "fennel bulb",
@@ -153,7 +165,8 @@
           "fromMeals": [
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Braised Chicken with Mushrooms and Tomatoes",
-            "One-Pan Farro with Mushrooms and Peas"
+            "One-Pan Farro with Mushrooms and Peas",
+            "Roasted Delicata Squash with Honey and Pine Nuts"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
@@ -214,6 +227,18 @@
           ],
           "hasUnquantified": false,
           "unit": ""
+        },
+        {
+          "item": "Japanese sweet potato",
+          "qty": 0.5,
+          "dim": "lb",
+          "unitLabel": "lb",
+          "category": "produce",
+          "fromMeals": [
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
+          ],
+          "hasUnquantified": false,
+          "unit": "lb"
         },
         {
           "item": "lemon",
@@ -278,18 +303,6 @@
           ],
           "hasUnquantified": false,
           "unit": ""
-        },
-        {
-          "item": "red potatoes",
-          "qty": 0.5,
-          "dim": "lb",
-          "unitLabel": "lb",
-          "category": "produce",
-          "fromMeals": [
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "lb"
         },
         {
           "item": "shallots",
@@ -485,6 +498,18 @@
           "unit": "tbsp"
         },
         {
+          "item": "honey",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Delicata Squash with Honey and Pine Nuts"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
+        },
+        {
           "item": "orzo",
           "qty": 0.25,
           "dim": "vol",
@@ -507,6 +532,18 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "pine nuts",
+          "qty": 1,
+          "dim": "vol",
+          "unitLabel": "tbsp",
+          "category": "pantry",
+          "fromMeals": [
+            "Roasted Delicata Squash with Honey and Pine Nuts"
+          ],
+          "hasUnquantified": false,
+          "unit": "tbsp"
         },
         {
           "item": "shelled pistachios",
@@ -843,5 +880,5 @@
     "sugar"
   ],
   "pendingScans": [],
-  "totalItems": 63
+  "totalItems": 66
 }
