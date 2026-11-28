@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-11-29",
   "createdAt": "2026-11-28T00:09:51.593Z",
-  "status": "draft",
+  "status": "set",
   "servingsDefault": 2,
   "nutritionSchemaVersion": 1,
   "meals": [
@@ -834,15 +834,15 @@
       }
     },
     {
-      "id": "grilled-trout-thu",
+      "id": "salmon-piccata-thu",
       "day": "Thu",
       "slot": "dinner",
       "role": "main",
-      "title": "Grilled Trout with Parsley-Caper Sauce",
+      "title": "Salmon Piccata",
       "source": "The Mediterranean Dish",
-      "sourceUrl": "https://www.themediterraneandish.com/grilled-trout/",
-      "cuisine": "mediterranean",
-      "protein": "trout",
+      "sourceUrl": "https://www.themediterraneandish.com/salmon-piccata/",
+      "cuisine": "italian",
+      "protein": "salmon",
       "tags": [
         "web",
         "new",
@@ -851,92 +851,128 @@
         "omega-3"
       ],
       "activeTimeMin": 20,
-      "totalTimeMin": 35,
+      "totalTimeMin": 20,
       "servings": 2,
       "ingredients": [
         {
-          "item": "whole rainbow trout",
+          "item": "skin-on salmon fillets",
           "qty": 2,
           "unit": "",
           "category": "meat-seafood",
-          "note": "10-12 oz each, cleaned; one per person"
+          "note": "about 6 oz each (half the recipe); arctic char works too. Swapped in for the trout, which he can't find"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "dried Greek oregano",
+          "qty": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "note": ""
+        },
+        {
+          "item": "Diamond Crystal kosher salt",
+          "qty": 0.125,
+          "unit": "tsp",
+          "category": "spices",
+          "note": "on the fish; the half batch's 1/4 tsp, halved"
+        },
+        {
+          "item": "extra-virgin olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "pantry",
+          "note": "1 tbsp to sear + 1/2 tbsp in the sauce"
+        },
+        {
+          "item": "unsalted butter",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "category": "dairy",
+          "note": "in the sauce (the half batch's 1 1/2 tbsp, mostly swapped for olive oil)"
+        },
+        {
+          "item": "garlic",
+          "qty": 2,
+          "unit": "clove",
+          "category": "produce",
+          "note": "thinly sliced"
+        },
+        {
+          "item": "all-purpose flour",
+          "qty": 1,
+          "unit": "tsp",
+          "category": "pantry",
+          "note": ""
+        },
+        {
+          "item": "low-sodium chicken broth",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "canned",
+          "note": ""
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "unit": "cup",
+          "category": "beverages",
+          "note": ""
         },
         {
           "item": "lemon",
           "qty": 1,
           "unit": "",
           "category": "produce",
-          "note": "half in rings for the cavities, half zested and juiced for the sauce"
-        },
-        {
-          "item": "fresh thyme",
-          "qty": 1,
-          "unit": "bunch",
-          "category": "produce",
-          "note": "10 sprigs for the cavities + 1 tsp chopped"
-        },
-        {
-          "item": "extra-virgin olive oil",
-          "qty": 3,
-          "unit": "tbsp",
-          "category": "pantry",
-          "note": "1 tbsp on the fish + 2 tbsp in the sauce"
-        },
-        {
-          "item": "garlic",
-          "qty": 1,
-          "unit": "clove",
-          "category": "produce",
-          "note": "finely chopped"
-        },
-        {
-          "item": "fresh parsley",
-          "qty": 2,
-          "unit": "tbsp",
-          "category": "produce",
-          "note": "chopped"
-        },
-        {
-          "item": "fennel seed",
-          "qty": 0.25,
-          "unit": "tsp",
-          "category": "spices",
-          "note": "crushed (optional)"
+          "note": "zest + about 1 tbsp juice; the rest goes in the vegetables' sauce"
         },
         {
           "item": "capers",
           "qty": 1,
           "unit": "tbsp",
           "category": "canned",
-          "note": "rinsed, chopped"
+          "note": "rinsed (half the half batch's 2 tbsp)"
+        },
+        {
+          "item": "fresh parsley",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "category": "produce",
+          "note": "chopped"
         }
       ],
-      "notes": "Omega-3 fish night for two, cooked and eaten. Grill very hot (about 500°F). Rinse and dry the trout; pepper the cavities and stuff with lemon rings and thyme sprigs; brush with oil. Grill lid down about 4 min until the skin releases, flip with two spatulas, 4 min more. No grill handy: cast iron over medium-high, about 4-5 min a side. Sauce: lemon zest and juice, chopped thyme, garlic, parsley, capers, fennel seed; whisk in 2 tbsp oil. Leave out the red pepper flakes (Jami). Fillet at the table and spoon the sauce over. No salt (the recipe salts to taste, so none; the capers season the sauce): Jami, salt at the table.",
+      "notes": "Fresh fish for two, cooked and eaten; stovetop while the vegetables roast. Pat the salmon dry; season with paprika, oregano, 1/8 tsp kosher salt and pepper. Sear flesh-side down in 1 tbsp oil over medium-high (press 10 sec so it doesn't curl) until golden, flip to the skin side and cook until just done (about 125°F for medium); plate it. Same pan, medium: 1/2 tbsp oil + 1/2 tbsp butter, garlic 30 sec, flour, then the broth, wine, lemon juice and zest and capers; simmer until it thickens a little. Return the salmon skin-side down and spoon the sauce over; parsley on top. Salted light (1/8 tsp kosher, rinsed capers): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
-          "calories": 400,
+          "calories": 450,
           "proteinG": 35,
-          "carbsG": 2,
-          "fatG": 27,
-          "saturatedFatG": 5,
-          "fiberG": 1,
-          "sodiumMg": 210,
-          "potassiumMg": 800
+          "carbsG": 3,
+          "fatG": 32,
+          "saturatedFatG": 8,
+          "fiberG": 0,
+          "sodiumMg": 250,
+          "potassiumMg": 680
         },
         "servings": 2,
-        "servingDescription": "1 whole trout (about 6 oz of fillet) with half the caper sauce",
+        "servingDescription": "1 salmon fillet (about 6 oz raw) with half the caper sauce",
         "method": "estimated",
         "confidence": "medium",
         "sodiumConfidence": "medium",
         "sodiumDrivers": [
-          "capers (1 tbsp, rinsed)",
-          "trout"
+          "salmon",
+          "Diamond Crystal kosher salt (1/8 tsp)",
+          "capers (1 tbsp, rinsed)"
         ],
         "assumptions": [
-          "One 10-12 oz trout per person, about 55% edible",
-          "About 80% of the sauce eaten",
-          "Recipe divides 2 trout among 4 (published 107 kcal); this is a full trout each",
-          "No added salt"
+          "Farmed Atlantic salmon, 6 oz raw each",
+          "About 1 tbsp of the oil eaten between two; 1/2 tbsp butter",
+          "Half the recipe with half its capers, rinsed, and low-sodium broth",
+          "Published 367 kcal for 4-6 oz fillets; within 20% for 6 oz"
         ],
         "estimatedAt": "2026-11-28"
       }
@@ -1016,7 +1052,7 @@
           "qty": 1,
           "unit": "tsp",
           "category": "produce",
-          "note": "minced (same bunch as the trout)"
+          "note": "minced (same bunch as Sunday)"
         },
         {
           "item": "fresh rosemary",
@@ -1054,7 +1090,7 @@
           "note": "minced (same bunch as Sunday's beans)"
         }
       ],
-      "notes": "Covers both the veg and the starch. Oven 450°F. Toss everything but the radicchio, basil, chives and lemon with 1/2 tbsp oil, thyme, rosemary, sugar, the salt and pepper; radicchio in the center of the sheet, potatoes and parsnips around the hot edges. Roast 30-35 min, rotating halfway. Whisk basil, chives, 1 tbsp lemon juice (from the trout lemon) and 1 tbsp oil; toss with the roasted veg. Start this first; grill the trout during the last 10 min. Salted light (1/4 tsp kosher for the pan): Jami, salt at the table.",
+      "notes": "Covers both the veg and the starch. Oven 450°F. Toss everything but the radicchio, basil, chives and lemon with 1/2 tbsp oil, thyme, rosemary, sugar, the salt and pepper; radicchio in the center of the sheet, potatoes and parsnips around the hot edges. Roast 30-35 min, rotating halfway. Whisk basil, chives, 1 tbsp lemon juice (from the piccata lemon) and 1 tbsp oil; toss with the roasted veg. Start this first; sear the salmon during the last 15 min. Salted light (1/4 tsp kosher for the pan): Jami, salt at the table.",
       "nutrition": {
         "perServing": {
           "calories": 310,
@@ -1410,5 +1446,6 @@
         "estimatedAt": "2026-11-28"
       }
     }
-  ]
+  ],
+  "setAt": "2026-11-28T14:29:05.353Z"
 }

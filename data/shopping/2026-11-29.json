@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-11-29",
-  "generatedAt": "2026-11-28T00:09:56.979Z",
+  "generatedAt": "2026-11-28T14:29:05.442Z",
   "targetServings": null,
   "sections": [
     {
@@ -101,7 +101,7 @@
             "Italian Green Beans (Fagiolini alla Genovese)",
             "Turkey Meatballs with Spinach and Mint",
             "Greek Lemon Rice",
-            "Grilled Trout with Parsley-Caper Sauce",
+            "Salmon Piccata",
             "Oven-Roasted Chicken Shawarma"
           ],
           "hasUnquantified": false,
@@ -139,15 +139,14 @@
           "category": "produce",
           "fromMeals": [
             "Braised Chicken with Mushrooms and Tomatoes",
-            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
-            "Grilled Trout with Parsley-Caper Sauce"
+            "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce"
           ],
           "hasUnquantified": false,
           "unit": "bunch"
         },
         {
           "item": "garlic",
-          "qty": 20.5,
+          "qty": 21.5,
           "dim": "clove",
           "unitLabel": "clove",
           "category": "produce",
@@ -158,7 +157,7 @@
             "Turkey Meatballs with Spinach and Mint",
             "Greek Lemon Rice",
             "Sautéed Zucchini Ribbons with Mint and Pistachios",
-            "Grilled Trout with Parsley-Caper Sauce",
+            "Salmon Piccata",
             "Roasted Radicchio, Fennel, and Parsnips with Lemon-Basil Sauce",
             "Oven-Roasted Chicken Shawarma",
             "Basmati Rice Pilaf with Currants and Toasted Almonds"
@@ -188,7 +187,7 @@
             "Italian Green Beans (Fagiolini alla Genovese)",
             "Moroccan Fish with Chickpeas and Peppers",
             "Greek Lemon Rice",
-            "Grilled Trout with Parsley-Caper Sauce",
+            "Salmon Piccata",
             "Oven-Roasted Chicken Shawarma",
             "Sesame-Lemon Cucumber Salad"
           ],
@@ -372,13 +371,13 @@
           "unit": "lb"
         },
         {
-          "item": "whole rainbow trout",
+          "item": "skin-on salmon fillets",
           "qty": 2,
           "dim": "",
           "unitLabel": "",
           "category": "meat-seafood",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
+            "Salmon Piccata"
           ],
           "hasUnquantified": false,
           "unit": ""
@@ -567,20 +566,21 @@
           "unitLabel": "tbsp",
           "category": "canned",
           "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
+            "Salmon Piccata"
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
         },
         {
           "item": "low-sodium chicken broth",
-          "qty": 1.25,
+          "qty": 1.5,
           "dim": "vol",
           "unitLabel": "cup",
           "category": "canned",
           "fromMeals": [
             "Braised Chicken with Mushrooms and Tomatoes",
-            "Greek Lemon Rice"
+            "Greek Lemon Rice",
+            "Salmon Piccata"
           ],
           "hasUnquantified": false,
           "unit": "cup"
@@ -651,6 +651,18 @@
           "unit": "tsp"
         },
         {
+          "item": "dried Greek oregano",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Salmon Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
+        },
+        {
           "item": "dried mint",
           "qty": 1,
           "dim": "vol",
@@ -661,18 +673,6 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
-        },
-        {
-          "item": "fennel seed",
-          "qty": 0.25,
-          "dim": "vol",
-          "unitLabel": "tsp",
-          "category": "spices",
-          "fromMeals": [
-            "Grilled Trout with Parsley-Caper Sauce"
-          ],
-          "hasUnquantified": false,
-          "unit": "tsp"
         },
         {
           "item": "ground cinnamon",
@@ -748,6 +748,18 @@
           ],
           "hasUnquantified": false,
           "unit": "tbsp"
+        },
+        {
+          "item": "sweet paprika",
+          "qty": 0.5,
+          "dim": "vol",
+          "unitLabel": "tsp",
+          "category": "spices",
+          "fromMeals": [
+            "Salmon Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "tsp"
         }
       ]
     },
@@ -765,6 +777,18 @@
           ],
           "hasUnquantified": false,
           "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "qty": 0.25,
+          "dim": "vol",
+          "unitLabel": "cup",
+          "category": "beverages",
+          "fromMeals": [
+            "Salmon Piccata"
+          ],
+          "hasUnquantified": false,
+          "unit": "cup"
         }
       ]
     }
@@ -773,9 +797,10 @@
     "extra-virgin olive oil",
     "all-purpose flour",
     "Diamond Crystal kosher salt",
+    "unsalted butter",
     "sugar",
     "table salt"
   ],
   "pendingScans": [],
-  "totalItems": 58
+  "totalItems": 60
 }
