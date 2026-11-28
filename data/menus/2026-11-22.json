@@ -1333,58 +1333,6 @@
         ],
         "estimatedAt": "2026-11-27"
       }
-    },
-    {
-      "id": "takeout-sat",
-      "day": "Sat",
-      "slot": "dinner",
-      "role": "main",
-      "title": "Snow White Roll (Wazabi Sushi takeout)",
-      "source": "Wazabi Sushi (Orange)",
-      "sourceUrl": "https://wazabisushi.com/menu",
-      "cuisine": "japanese",
-      "protein": "fish",
-      "tags": [
-        "out",
-        "takeout",
-        "no-cook",
-        "sauces-on-side"
-      ],
-      "activeTimeMin": 0,
-      "totalTimeMin": 0,
-      "servings": 1,
-      "ingredients": [],
-      "notes": "Jami's out and he doesn't cook just for himself, so it's his go-to: the Snow White roll on its own (no rice; tuna, salmon, yellowtail, crab salad, spring mix, mango and avocado in soy paper, topped with sesame dressing, chili oil and ponzu). His order: no ponzu, no sesame dressing and none of the brown sauce at the bottom; keep the chili oil (it's mostly oil and chile, little sodium). No dipping soy sauce. Keep breakfast and lunch low-sodium that day. Lunch can be a freezer portion (daube or Spanish chicken).",
-      "nutrition": {
-        "perServing": {
-          "calories": 480,
-          "proteinG": 32,
-          "carbsG": 18,
-          "fatG": 30,
-          "saturatedFatG": 5,
-          "fiberG": 5,
-          "sodiumMg": 440,
-          "potassiumMg": 900
-        },
-        "servings": 1,
-        "servingDescription": "the whole Snow White roll (8 pieces) with chili oil only",
-        "method": "estimated",
-        "confidence": "low",
-        "sodiumConfidence": "low",
-        "sodiumDrivers": [
-          "crab salad",
-          "fish",
-          "soy paper"
-        ],
-        "assumptions": [
-          "restaurant portions: about 1 1/2 oz each of tuna, salmon and yellowtail",
-          "crab salad is imitation crab with about 1 tbsp mayo",
-          "ordered with chili oil only: no ponzu, sesame dressing or brown sauce (those add about 700 mg); about 1 tsp chili oil, unsalted",
-          "no dipping soy sauce",
-          "the restaurant publishes no nutrition"
-        ],
-        "estimatedAt": "2026-11-21"
-      }
     }
   ],
   "setAt": "2026-11-25T03:55:13.732Z"
