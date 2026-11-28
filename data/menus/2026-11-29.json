@@ -1520,55 +1520,6 @@
         ],
         "estimatedAt": "2026-11-28"
       }
-    },
-    {
-      "id": "daube-freezer-lunch-sun",
-      "day": "Sun",
-      "slot": "lunch",
-      "role": "side",
-      "title": "Daube Provençale with garlic smashed baby reds (from the freezer)",
-      "source": "The Complete Mediterranean Cookbook (ATK) — Daube Provençale, cooked 2026-11-15",
-      "sourceUrl": "",
-      "cuisine": "provencal",
-      "protein": "beef",
-      "tags": [
-        "freezer",
-        "leftover",
-        "just-him"
-      ],
-      "activeTimeMin": 5,
-      "totalTimeMin": 15,
-      "servings": 1,
-      "ingredients": [],
-      "notes": "His Sunday lunch: the last daube portion, thawed Saturday (swapped with the Thanksgiving leftovers). Reheat covered with a splash of water until hot. Cooked before the lower-sodium rules, so the sodium is a guess.",
-      "nutrition": {
-        "perServing": {
-          "calories": 550,
-          "proteinG": 30,
-          "carbsG": 35,
-          "fatG": 26,
-          "saturatedFatG": 7,
-          "fiberG": 5,
-          "sodiumMg": 500,
-          "potassiumMg": 1200
-        },
-        "servings": 1,
-        "servingDescription": "1 freezer container: about 1 1/2 cups beef, carrots and sauce with about 3/4 cup smashed potatoes",
-        "method": "estimated",
-        "confidence": "low",
-        "sodiumConfidence": "low",
-        "sodiumDrivers": [
-          "salt used in the 11/15 daube (unknown)",
-          "green olives",
-          "smashed potatoes"
-        ],
-        "assumptions": [
-          "1/8 of the 11/15 batch: about 4 oz trimmed chuck with carrots, tomatoes and olives",
-          "Salt in the original cook not recorded",
-          "About 3/4 cup garlic smashed baby reds with olive oil"
-        ],
-        "estimatedAt": "2026-11-28"
-      }
     }
   ],
   "setAt": "2026-11-28T14:29:05.353Z"
