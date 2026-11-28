@@ -1522,51 +1522,50 @@
       }
     },
     {
-      "id": "thanksgiving-leftovers-lunch-sun",
+      "id": "daube-freezer-lunch-sun",
       "day": "Sun",
       "slot": "lunch",
       "role": "side",
-      "title": "Thanksgiving leftovers: duck breast, sweet potato fingers and delicata",
-      "source": "Leftovers from Thanksgiving 11/26 (Meathead p.315 duck, miso-butter sweet potatoes, brown-butter delicata)",
+      "title": "Daube Provençale with garlic smashed baby reds (from the freezer)",
+      "source": "The Complete Mediterranean Cookbook (ATK) — Daube Provençale, cooked 2026-11-15",
       "sourceUrl": "",
-      "cuisine": "american",
-      "protein": "duck",
+      "cuisine": "provencal",
+      "protein": "beef",
       "tags": [
+        "freezer",
         "leftover",
-        "holiday",
         "just-him"
       ],
       "activeTimeMin": 5,
-      "totalTimeMin": 10,
+      "totalTimeMin": 15,
       "servings": 1,
       "ingredients": [],
-      "notes": "Cooked Thursday, so eat it by Monday. Pull the skin off the duck (that's where nearly all the fat is) and warm the slices gently so they don't overcook; reheat the sweet potato and squash in the microwave or a hot skillet. Go easy on any extra miso butter: it's the salty, saturated part.",
+      "notes": "His Sunday lunch: the last daube portion, thawed Saturday (swapped with the Thanksgiving leftovers). Reheat covered with a splash of water until hot. Cooked before the lower-sodium rules, so the sodium is a guess.",
       "nutrition": {
         "perServing": {
-          "calories": 520,
-          "proteinG": 25,
-          "carbsG": 55,
-          "fatG": 20,
-          "saturatedFatG": 9,
-          "fiberG": 7,
-          "sodiumMg": 550,
-          "potassiumMg": 1100
+          "calories": 550,
+          "proteinG": 30,
+          "carbsG": 35,
+          "fatG": 26,
+          "saturatedFatG": 7,
+          "fiberG": 5,
+          "sodiumMg": 500,
+          "potassiumMg": 1200
         },
         "servings": 1,
-        "servingDescription": "About 3 oz skinless duck breast, 1 Japanese sweet potato's worth of fingers and about 1 cup delicata",
+        "servingDescription": "1 freezer container: about 1 1/2 cups beef, carrots and sauce with about 3/4 cup smashed potatoes",
         "method": "estimated",
         "confidence": "low",
         "sodiumConfidence": "low",
         "sodiumDrivers": [
-          "duck dry brine",
-          "miso butter",
-          "salt on the delicata"
+          "salt used in the 11/15 daube (unknown)",
+          "green olives",
+          "smashed potatoes"
         ],
         "assumptions": [
-          "4 oz duck with skin, about 3 oz once the skin is off",
-          "About 1 tbsp miso butter left on the sweet potato",
-          "About 1 cup brown-butter delicata",
-          "Holiday cooking, salted as written"
+          "1/8 of the 11/15 batch: about 4 oz trimmed chuck with carrots, tomatoes and olives",
+          "Salt in the original cook not recorded",
+          "About 3/4 cup garlic smashed baby reds with olive oil"
         ],
         "estimatedAt": "2026-11-28"
       }

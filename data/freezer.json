@@ -24,10 +24,9 @@
       "portions": 1,
       "cooked": "2026-11-15",
       "source": "data/menus/2026-11-15.json",
-      "status": "used",
-      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh. Eaten Sat 11/28 for his solo dinner.",
-      "confirmed": "2026-11-21",
-      "used": "2026-11-28"
+      "status": "thawing",
+      "note": "Packed with garlic smashed baby reds (they freeze fine with the fat in them). Pair with something fresh. Out to thaw Sat 11/28: his Sun 11/29 lunch.",
+      "confirmed": "2026-11-21"
     },
     {
       "dish": "Spanish Paprika Chicken (with its roasted tomatoes, onions, peppers + juices)",
